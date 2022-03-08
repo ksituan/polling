@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+* {
+    max-width: max(80%, 1200px);
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Karla;
+}
+
+h2 {
+    font-family: Karla;
+}
+
+table {
+    width: max(80%, 1200px);
+}
+
+tr {  
+    border: 1px solid;
+}

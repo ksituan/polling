@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+.poll text {
+    font-family: Karla;
+}
+
+@keyframes svgload {
+    0%   {margin-bottom: -200px; margin-top: 0px;}
+    100% {margin-bottom: 30px; margin-top: 60px;}
+  }
+
+.poll {
+    padding-left: 0;
+    z-index: -1;
+    position: relative;
+    filter: none;
+    animation: svgload 1s 1;
+    margin-top: 60px;
+}
+
+.pollRow {
+    position: relative;
+    z-index: 2;
+}
+
+@keyframes barload {
+    0%   {transform: translate(0px, 630px) scale(1, 0);}
+    100% {transform: translate(0px, 0px) scale(1, 1);}
+  }
+
+.poll rect {
+    animation: barload 1s 1;
+}
+
+@keyframes lineload {
+    0%   {transform: translate(0px, 900px);}
+    100% {transform: translate(0px, 0px);}
+  }
+
+.poll .benchmark {
+    animation: lineload 1s 1;
+}
+
+.poll text {
+    animation: lineload 1s 1;
+}
+
+.scatter {
+    padding-left: 0;
+    filter: none;
+}
+
+.scatterPoll:hover {
+    stroke: black;
+    stroke-width: 4px;
+}

@@ -1,0 +1,188 @@
+{
+    "title": "Polling Canada elections database",
+    "content": {
+        "Canada": [
+            {
+                "date": [2021, 9, 20],
+                "results": [
+                    {"party": "CPC","score": 33.7},
+                    {"party": "LPC","score": 32.6},
+                    {"party": "NDP","score": 17.8},
+                    {"party": "BQ","score": 7.6},
+                    {"party": "GPC","score": 2.3},
+                    {"party": "PPC","score": 4.9},
+                    {"party": "Others","score": 1.1}
+                ]
+            },
+            {
+                "date": [2019, 10, 21],
+                "results": [
+                    {"party": "CPC","score": 34.3},
+                    {"party": "LPC","score": 33.1},
+                    {"party": "NDP","score": 16.0},
+                    {"party": "BQ","score": 7.6},
+                    {"party": "GPC","score": 6.6},
+                    {"party": "PPC","score": 1.6}
+                ]
+            },
+            {
+                "date": [2015, 10, 19],
+                "results": [
+                    {"party": "CPC","score": 31.9},
+                    {"party": "LPC","score": 39.5},
+                    {"party": "NDP","score": 19.7},
+                    {"party": "BQ","score": 4.7},
+                    {"party": "GPC","score": 3.4}
+                ]
+            }
+        ],
+        "BC": [
+            {
+                "date": [2020, 10, 24],
+                "results": [
+                    {"party":"NDP", "score":47.7},
+                    {"party":"BCLP", "score":33.8},
+                    {"party":"GPBC", "score":15.1},
+                    {"party":"CPBC", "score":1.9},
+                    {"party":"Others", "score":1.5}
+                ]
+            }
+        ],
+        "AB": [
+            {
+                "date": [2019, 4, 16],
+                "results": [
+                    {"party":"NDP" ,"score": 32.7},
+                    {"party":"UCP" ,"score": 54.9},
+                    {"party":"ABP" ,"score": 9.1},
+                    {"party":"ALP" ,"score": 1.0},
+                    {"party":"AIP" ,"score": 0.7},
+                    {"party":"FCP" ,"score": 0.5},
+                    {"party":"GPA" ,"score": 0.4},
+                    {"party":"Others","score": 0.7}
+                ]
+            }
+        ],
+        "SK": [
+            {
+                "date": [2020, 10, 26],
+                "results": [
+                    {"party":"NDP" ,"score": 31.8},
+                    {"party":"SKP" ,"score": 61.1},
+                    {"party":"GPS" ,"score": 2.3},
+                    {"party":"SLP" ,"score": 0.1},
+                    {"party":"BPS" ,"score": 2.6},
+                    {"party":"PCS" ,"score": 1.9},
+                    {"party":"Others","score": 0.2}
+                ]
+            }
+        ],
+        "MB": [
+            {
+                "date": [2019, 9, 10],
+                "results": [
+                    {"party":"NDP" ,"score": 31.6},
+                    {"party":"PCPM" ,"score": 46.8},
+                    {"party":"GPM" ,"score": 6.4},
+                    {"party":"MLP" ,"score": 14.6},
+                    {"party":"Others","score": 0.6}
+                ]
+            }
+        ],
+        "ON": [
+            {
+                "date": [2018, 6, 7],
+                "results": [
+                    {"party":"NDP" ,"score": 33.3},
+                    {"party":"PCPO" ,"score": 40.2},
+                    {"party":"GPO" ,"score": 4.6},
+                    {"party":"OLP" ,"score": 19.4},
+                    {"party":"Others","score": 2.5}
+                ]
+            }
+        ],
+        "QC": [
+            {
+                "date": [2018, 10, 1],
+                "results": [
+                    {"party":"QS" ,"score": 16.1},
+                    {"party":"CAQ" ,"score": 37.4},
+                    {"party":"PLQ" ,"score": 24.8},
+                    {"party":"PCQ" ,"score": 1.5},
+                    {"party":"PQ" ,"score": 17.1},
+                    {"party":"PVQ" ,"score": 1.7},
+                    {"party":"Others" ,"score": 1.4}
+                ]
+            }
+        ],
+        "NB": [
+            {
+                "date": [2020, 9, 14],
+                "results": [
+                    {"party":"NDP","score" : 1.7},
+                    {"party":"PCNB","score" : 39.3},
+                    {"party":"GPNB","score" : 15.2},
+                    {"party":"NBLA","score" : 34.4},
+                    {"party":"PANB","score" : 9.2},
+                    {"party":"Others","score": 0.2}
+                ]
+            }
+        ],
+        "PE": [
+            {
+                "date": [2019, 4, 23],
+                "results": [
+                    {"party":"NDP","score" : 3.0},
+                    {"party":"PEIPC","score" : 36.7},
+                    {"party":"GPPEI","score" : 30.6},
+                    {"party":"LPPEI","score" : 29.4},
+                    {"party":"Others","score": 0.3}
+                ]
+            }
+        ],
+        "NS": [
+            {
+                "date": [2021, 8, 17],
+                "results": [
+                    {"party":"NDP" ,"score": 20.9},
+                    {"party":"PCNS" ,"score": 38.4},
+                    {"party":"GPNS" ,"score": 2.1},
+                    {"party":"NSL" ,"score": 36.7},
+                    {"party":"Others","score": 1.9}
+                ]
+            }
+        ],
+        "NL": [
+            {
+                "date": [2021, 3, 25],
+                "results": [
+                    {"party":"NDP","score" : 8.0},
+                    {"party":"PCNL","score" : 38.8},
+                    {"party":"LPNL","score" : 48.2},
+                    {"party":"Others","score": 5.0}
+                ]
+            }
+        ],
+        "YT": [
+            {
+                "date": [2021, 4, 12],
+                "results": [
+                    {"party":"NDP" ,"score": 28.2},
+                    {"party":"YP" ,"score": 39.3},
+                    {"party":"YLP" ,"score": 32.4},
+                    {"party":"Others","score": 0.1}
+                ]
+            },
+            {
+                "date": [2016, 11, 7],
+                "results": [
+                    {"party":"NDP" ,"score": 26.2},
+                    {"party":"YP" ,"score": 33.4},
+                    {"party":"YLP" ,"score": 39.4},
+                    {"party":"YGP" ,"score": 0.8},
+                    {"party":"Others","score": 0.2}
+                ]
+            }
+        ]
+    }
+}

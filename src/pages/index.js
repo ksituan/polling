@@ -5,20 +5,19 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import PollingContent from "../components/PollingContent"
+
+import polls from "../../content/polls.json"
+import elections from "../../content/elections.json"
+import parties from "../../content/parties.json"
+
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <StaticImage
-      src="../images/gatsby-astronaut.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
-      style={{ marginBottom: `1.45rem` }}
-    />
+    <Seo title="Polling Canada" />
+    <h1>Polling Canada</h1>
+    <h2>Welcome to Polling Canada!</h2>
+    <p>I'm Curtis, and these are my posts.</p>
+    <PollingContent jurisdiction="Canada" election={elections.content.Canada[0]} />
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
