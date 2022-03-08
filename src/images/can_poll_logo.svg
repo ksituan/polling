@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg viewBox="0 0 40 40">
-  <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+  <g>
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:#c94141;fill-opacity:1;stroke:#000000;stroke-width:0.720094;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m 33.103037,5.4319151 -6.551512,3.78251 v 7.5650439 l 6.551512,3.78251 6.536954,-3.774109 -6.536954,-3.790911 z"
