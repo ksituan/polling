@@ -8,40 +8,57 @@
 
 h1 {
     font-family: Karla;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 h2 {
     font-family: Karla;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 h3 {
     font-family: Karla;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 p {
     font-family: Roboto;
     margin: 1rem 0;
+    font-size: larger;
 }
 
-table div svg {
-    width: max(80%, 1200px);
+.pollLink div {
+    font-family: Karla;
+    margin: 1rem 0;
+    font-size: 18pt;
 }
 
-table {
-    width: max(80%, 1200px);
-}
 
 tr {  
-    border: 1px solid;
+    border: 12px solid black;
 }
 
 .pollLink {
-    color: black;
+    width: max(800px, 60%);
+    display: flex;
+}
+
+.pollInfo {
+    display: inline-block;
+    padding: 0 2rem;
+}
+
+.pollEntry {
+    display: inline-block;
+    padding: 0.5rem;
+    margin: 1rem;
+    justify-content: space-between;
 }
 
 td {
-    width: 100px;
+    font-family: Karla;
+    width: 4rem;
+    height: 4rem;
+    text-align: center;
+    vertical-align: middle;
 }

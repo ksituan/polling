@@ -205,22 +205,18 @@ let brandColours = {
     let field = new Date(poll.field);
   
     poll.poll = poll.poll.sort((a, b) => b.score - a.score);
-  
-    console.log(poll);
-  
+    
     return (
-      <div>
+      <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} />}
-      <a className="pollLink" href={"#" + PollID(poll)}>
-      <tr className="pollRow" onClick={onClickRow}>
-        <td bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()}</td>
-        <td bgcolor="white">{poll.company}</td>
+      <a className="pollLink" href={"#" + PollID(poll)} onClick={onClickRow}>
+        <div className="pollInfo" bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()}</div>
+        <div className="pollInfo" bgcolor="white">{poll.company}</div>
       {poll.poll.map((party, i) => (
-        <td bgcolor={brandColours[pinfo[party.party]?.colour || "gray"]}>
+        <div className="pollEntry" style={{backgroundColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
           {Math.round(party.score)}
-        </td>
+        </div>
       ))}
-      </tr>
       </a>
       </div>
     );
@@ -319,7 +315,7 @@ let brandColours = {
       return(y);
     }
   
-    // Generate horizontal marker lines
+    // Generate the date arrays needed for horizontal marker lines + statistical calculations
   
     let tickMonth = new Date(startDate).setDate(0);
   
@@ -332,7 +328,18 @@ let brandColours = {
   
     monthArray.shift(1);
     monthArray.splice(-1);
-  
+
+    let tickDay = new Date(startDate);
+
+    let dayArray = [new Date(tickDay)];
+
+    while (tickDay < endDate) {
+        tickDay = new Date(tickDay).setDate(new Date(tickDay).getDate() + 1);
+        dayArray.push(new Date(tickDay));
+    }
+
+    dayArray.splice(-1); 
+      
     // Generate vertical marker lines
   
     let scoreTicks = Math.round((highScore - 5)/10);
@@ -342,6 +349,70 @@ let brandColours = {
       scoreArray.push(n*10);
     }
   
+    // Weight polls
+
+    function weightPolls(day, polls) {
+        let weightedPolls = polls.map(poll => {let d = Math.abs((new Date(poll.field) - day)/(24*60*60*1000)); poll.weight = (d+1)**-3; return(poll)}) // Weight function
+        return(weightedPolls);
+    }
+
+    // Generate trendlines
+
+    function rollingAverage(days, party) {
+      
+        let output = [];
+
+        // We only care about polls with the relevant party
+
+        let partyPolls = pollList.filter(x => x.poll.map(x => x.party).includes(party));
+
+        // If the party didn't contest the last election, we have to cut its line short somewhere
+
+        if (!election.results.map(x => x.party).includes(party)) {
+
+            let appearances = partyPolls.map(x => new Date(x.field));
+            let firstAppearance = Math.min.apply(null, appearances);
+            let lastAppearance = Math.max.apply(null, appearances);
+
+            days = days.filter(day => new Date(day) >= new Date(firstAppearance) && new Date(day) <= new Date(lastAppearance));
+        }
+
+        for (let day of days) {
+
+            let weightedPolls = weightPolls(day, partyPolls);
+
+            // Collect values for the relevant party
+
+            weightedPolls = weightedPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
+            let weightSum = weightedPolls.reduce((a, b) => a + b.weight, 0);
+    
+            let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
+    
+            output.push({date: day, score: avg});
+
+        }
+    
+        return(output);
+    }
+
+    // Get a list of every party that appears more than twice...
+
+    let partyArray = [];
+    pollList.map(x => x.poll.map(y => y.party !== "Others" && partyArray.push(y.party)));
+
+    const partyCount = {};
+
+    for (const party of partyArray) {
+        if (partyCount[party]) {
+            partyCount[party] += 1;
+        } else {
+            partyCount[party] = 1;
+        }
+    }
+
+    let validParties = Object.entries(partyCount);
+    validParties = validParties.filter(x => x[1] > 2).map(y => y[0]);
+
     // Plot polls
   
     return (
@@ -360,6 +431,14 @@ let brandColours = {
             {scoreArray.map(score =>
               <text fontSize="20pt" x={padding - 5} y={yMap(score)} textAnchor="end">{score}</text>
               )}</g>
+
+            {validParties.map(party => { let line = rollingAverage(dayArray, party);
+                return <path
+                stroke={brandColours[parties.content[jurisdiction][party]?.colour || "gray"]}
+                fill="none"
+                strokeWidth="2"
+                d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
+            })}
   
           <g className="scatterElection">
             {election.results.map(line => 
@@ -394,143 +473,4 @@ let brandColours = {
   
   }
   
-  /* function Scatterplot({jurisdiction, date}) {
-  
-    let plotWidth = 1600;
-    let plotHeight = 900;
-    let padding = 50;
-  
-    let pollList = filterPolls(polls.content, jurisdiction);
-  
-    let startElection = getElection(jurisdiction, date);
-    let startDate = new Date(startElection.date);
-  
-    let today = new Date();
-  
-    let highScore = Math.max(...pollList.map(poll => Math.max(...poll.poll.map((party) => party.pp))));
-  
-    let firstTick = new Date(startDate.setDate(0));
-  
-    let tickMonth = firstTick;
-    let monthArray = [firstTick];
-  
-    while (tickMonth < today) {
-      tickMonth = new Date(tickMonth.setMonth(tickMonth.getMonth() + 1));
-      monthArray.push(tickMonth);
-    }
-  
-    let tickDay = startDate;
-    let dayArray = [tickDay];
-  
-    console.log(tickDay);
-  
-    while (tickDay < today) {
-      tickDay = new Date(tickDay.setDate(tickDay.getDate() + 1));
-      dayArray.push(tickDay);
-    }
-  
-    //console.log(dayArray);
-  
-    monthArray.splice(-2);
-  
-    function weightPolls(day, window) {
-  
-      let earlierPollDate = Math.min.apply(null, pollList.filter(poll => new Date(poll.field) - day < 0).map(poll => new Date(poll.field)));
-      let laterPollDate = Math.max.apply(null, pollList.filter(poll => new Date(poll.field) - day > 0).map(poll => new Date(poll.field)));
-  
-      //console.log(earlierPollDate);
-      //console.log(day);
-      //console.log(laterPollDate);
-  
-      let timelyPolls = pollList.filter(poll => // Look ahead by 1, behind by 1, and also collect everything within the window.
-        (new Date(poll.field)).getTime() === earlierPollDate || new Date(poll.field).getTime() === laterPollDate || (Math.abs(new Date(poll.field)-day)/(24*60*60*1000)) <= window);
-  
-      let weightedPolls = timelyPolls.map(poll => {let d = (new Date(poll.field)-day)/(24*60*60*1000*window); poll.weight = Math.max(0.001,(1-Math.abs(d)**3)); return(poll)}) // Weight function
-  
-      //console.log(day);
-      //console.log(weightedPolls);
-  
-      return(weightedPolls);
-  
-    }
-  
-    function rollingAverage(days) {
-      
-      let output = [];
-  
-      // Parties ought to be an array of any party that appears more than twice
-  
-      let rollingParties = Object.keys(startElection.results);
-      rollingParties = rollingParties.filter(party => party !== "Others")
-      //console.log(rollingParties);
-      //console.log("Weight:");
-      //console.log((eday-today)/(24*60*60*1000*6));
-  
-      for (let day of days) {
-  
-        let timelyPolls = weightPolls(day, (today-startDate)/(24*60*60*1000*6)); // Weight: graph width divided by 6
-        //console.log(timelyPolls);
-        //output.push(timelyPolls);
-  
-        for (let party of rollingParties) {
-  
-          timelyPolls = timelyPolls.filter(poll => Object.keys(poll.poll).includes(party)); // Remove polls without the relevant party
-          //console.log(timelyPolls);
-          timelyPolls = timelyPolls.map(poll => {poll.value = poll.poll.filter(x => x.ac === party)[0].pp; return(poll)}); // Collect values for the relevant party
-          let weightSum = timelyPolls.reduce((previousValue, currentValue) => previousValue + currentValue.weight, 0);
-  
-          let avg = timelyPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
-  
-          output.push({party: party, date: day, pp: avg});
-        }
-  
-      }
-      return([rollingParties, output]);
-    }
-  
-    let trends = rollingAverage(dayArray);
-    let trendParties = trends[0];
-    let trendlines = trends[1];
-  
-    function xMap(date) {
-      let x = (plotWidth-padding*2)*(date-startDate)/(today-startDate) + padding;
-      return(x);
-    }
-  
-    function yMap(party) {
-      let y = (plotHeight-padding*2)*(1-party.pp/highScore) + padding;
-      return(y);
-    }
-  
-      return (
-        <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
-          <g className="timeTicks" stroke="#b0b0b0" strokeLinecap="round">
-            {monthArray.map(day =>
-              <g>
-                <path
-                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
-                strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
-                {day.getMonth() === 0 && <text fontSize="20pt" textAnchor="middle" x={xMap(day)} y="890">{day.getYear() + 1900}</text>}
-              </g>
-                )} 
-          </g>
-          {trendParties.map(trendParty =>
-            <path
-              stroke={brandColours[partyInfo.[jurisdiction].[trendParty].colour]}
-              fill="none"
-              strokeWidth="2"
-              d={"M " + trendlines.filter(event => event.party === trendParty).map(event => String(xMap(event.date)) + " " + String(yMap(event))).join(" L ")}/>
-          )}
-            {pollList.map(poll => <g className="scatterPoll">{poll.poll.map(party => 
-                <circle r="8"
-                  cx={xMap(new Date(poll.field)) + Math.floor(Math.random()*6) - 3}
-                  cy={yMap(party) + Math.floor(Math.random()*6) - 3}
-                  fill={brandColours[partyInfo.[poll.jurisdiction].[party.ac].colour]} />
-            )}</g>
-            )}
-        </svg>
-      );
-  
-  } */
-
   export default PollingContent

@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()} // <a href="https://awmcphee.ca">Prairie Heart Workshop</a>
+          <p>© {new Date().getFullYear()} // <a href="https://awmcphee.ca">Prairie Heart Workshop</a></p>
         </footer>
       </div>
     </>
