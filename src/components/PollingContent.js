@@ -211,7 +211,7 @@ let brandColours = {
     return (
       <div>
       {active && <Chart poll={poll} id={PollID(poll)} />}
-      <a href={"#" + PollID(poll)}>
+      <a className="pollLink" href={"#" + PollID(poll)}>
       <tr className="pollRow" onClick={onClickRow}>
         <td bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()}</td>
         <td bgcolor="white">{poll.company}</td>

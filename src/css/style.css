@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 * {
     max-width: max(80%, 1200px);
@@ -7,10 +8,26 @@
 
 h1 {
     font-family: Karla;
+    margin: 1rem 0;
 }
 
 h2 {
     font-family: Karla;
+    margin: 1rem 0;
+}
+
+h3 {
+    font-family: Karla;
+    margin: 1rem 0;
+}
+
+p {
+    font-family: Roboto;
+    margin: 1rem 0;
+}
+
+table div svg {
+    width: max(80%, 1200px);
 }
 
 table {
@@ -19,4 +36,12 @@ table {
 
 tr {  
     border: 1px solid;
+}
+
+.pollLink {
+    color: black;
+}
+
+td {
+    width: 100px;
 }
