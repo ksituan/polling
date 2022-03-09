@@ -27,6 +27,10 @@ const IndexPage = () => (
     <PollingContent jurisdiction="SK" election={elections.content.SK[0]} />
     <h2>Manitoba</h2>
     <PollingContent jurisdiction="MB" election={elections.content.MB[0]} />
+    <h2>Ontario</h2>
+    <PollingContent jurisdiction="ON" election={elections.content.ON[0]} />
+    <h2>Quebec</h2>
+    <PollingContent jurisdiction="QC" election={elections.content.QC[0]} />
     <p>
       <Link to="/faqs/">Frequently Asked Questions</Link>
     </p>
