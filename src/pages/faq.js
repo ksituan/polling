@@ -4,12 +4,12 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const faqs = () => (
+const faq = () => (
   <Layout>
     <Seo title="Polling FAQs" />
     <h1>Frequently Asked Questions</h1>
     <h2>Does Polling Canada conduct polls?</h2>
-    <p>No. Polling Canada aggregates publically available content.</p>
+    <p>No. Polling Canada aggregates publicly available content.</p>
     <h2>How can a sample size of 1,000 represent millions?</h2>
     <p>Statistics! Nothing can exactly replace the precision of surveying everyone in the country (hence why we still hold elections). But a few hundred respondents is mathematically good enough for 95% confidence, 19 times out of 20.</p>
     <h2>What about this Twitter poll with 50,000 responses?</h2>
@@ -34,4 +34,4 @@ const faqs = () => (
   </Layout>
 )
 
-export default faqs
+export default faq

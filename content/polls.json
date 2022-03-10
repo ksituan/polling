@@ -3653,6 +3653,288 @@
                 {"party":"QS","score":19.0},
                 {"party":"Others","score":4.7}
             ]
-        }
+        },
+        {
+            "n": 400,
+            "moe": 4.9,
+            "company": "MQO",
+            "date": "December 14, 2021",
+            "field": [2021, 12, 14],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":29},
+                {"party":"NBLA","score":36},
+                {"party":"GPNB","score":16},
+                {"party":"PANB","score":5},
+                {"party":"NDP","score":11}
+            ]
+        },
+        {
+            "n": 800,
+            "moe": 3.5,
+            "company": "Narrative",
+            "date": "November 24, 2021",
+            "field": [2021, 11, 24],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":28},
+                {"party":"NBLA","score":38},
+                {"party":"GPNB","score":14},
+                {"party":"PANB","score":5},
+                {"party":"NDP","score":13}
+            ]
+        },
+        {
+            "n": 1184,
+            "moe": 2.8,
+            "company": "Stratcom",
+            "date": "November 6, 2021",
+            "field": [2021, 11, 6],
+            "method": "IVR",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":20.5},
+                {"party":"NBLA","score":39.8},
+                {"party":"GPNB","score":17.9},
+                {"party":"PANB","score":12.0}
+            ]
+        },
+        {
+            "n": 265,
+            "moe": 2.0,
+            "company": "Angus Reid",
+            "date": "October 3, 2021",
+            "field": [2021, 10, 3],
+            "method": "Online",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":31},
+                {"party":"NBLA","score":31},
+                {"party":"GPNB","score":12},
+                {"party":"PANB","score":12},
+                {"party":"NDP","score":13},
+                {"party":"Others","score":2}
+            ]
+        },
+        {
+            "n": 604,
+            "moe": 2.0,
+            "company": "Narrative",
+            "date": "August 17, 2021",
+            "field": [2021, 8, 17],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":33},
+                {"party":"NBLA","score":29},
+                {"party":"GPNB","score":22},
+                {"party":"PANB","score":5},
+                {"party":"NDP","score":11}
+            ]
+        },
+        {
+            "n": 248,
+            "moe": 2.0,
+            "company": "Angus Reid",
+            "date": "June 7, 2021",
+            "field": [2021, 6, 7],
+            "method": "Online",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":36},
+                {"party":"NBLA","score":31},
+                {"party":"GPNB","score":17},
+                {"party":"PANB","score":12},
+                {"party":"NDP","score":4}
+            ]
+        },
+        {
+            "n": 800,
+            "moe": 3.5,
+            "company": "Narrative",
+            "date": "May 31, 2021",
+            "field": [2021, 5, 31],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":39},
+                {"party":"NBLA","score":28},
+                {"party":"GPNB","score":18},
+                {"party":"PANB","score":6},
+                {"party":"NDP","score":8}
+            ]
+        },
+        {
+            "n": 400,
+            "moe": 4.9,
+            "company": "MQO",
+            "date": "March 18, 2021",
+            "field": [2021, 3, 18],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":38},
+                {"party":"NBLA","score":31},
+                {"party":"GPNB","score":17},
+                {"party":"PANB","score":5},
+                {"party":"NDP","score":6}
+            ]
+        },
+        {
+            "n": 800,
+            "moe": 3.5,
+            "company": "Narrative",
+            "date": "February 17, 2021",
+            "field": [2021, 2, 17],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":35},
+                {"party":"NBLA","score":32},
+                {"party":"GPNB","score":20},
+                {"party":"PANB","score":6},
+                {"party":"NDP","score":6}
+            ]
+        },
+        {
+            "n": 800,
+            "moe": 3.5,
+            "company": "Narrative",
+            "date": "November 22, 2020",
+            "field": [2020, 11, 22],
+            "method": "Telephone",
+            "jurisdiction": "NB",
+            "poll": [
+                {"party":"PCNB","score":41},
+                {"party":"NBLA","score":28},
+                {"party":"GPNB","score":20},
+                {"party":"PANB","score":4},
+                {"party":"NDP","score":6}
+            ]
+        },
+        {
+            "n": 320,
+            "moe": 6.0,
+            "company": "Angus Reid",
+            "date": "January 7-12, 2022",
+            "field": [2022, 1, 12],
+            "method": "Online",
+            "jurisdiction": "NS",
+            "poll": [
+                {"party":"PCNS","score":38},
+                {"party":"NSL","score":28},
+                {"party":"NDP","score":26},
+                {"party":"GPNS","score":1},
+                {"party":"Others","score":6}
+            ]
+        },
+        {
+            "n": 400,
+            "moe": 4.9,
+            "company": "MQO",
+            "date": "November 14-24, 2021",
+            "field": [2021, 11, 24],
+            "method": "Telephone",
+            "jurisdiction": "NS",
+            "poll": [
+                {"party":"PCNS","score":41},
+                {"party":"NSL","score":23},
+                {"party":"NDP","score":27},
+                {"party":"GPNS","score":5},
+                {"party":"Others","score":3}
+            ]
+        },
+        {
+            "n": 557,
+            "moe": 4.2,
+            "company": "Narrative",
+            "date": "November 4-21, 2021",
+            "field": [2021, 11, 21],
+            "method": "Telephone",
+            "jurisdiction": "NS",
+            "poll": [
+                {"party":"PCNS","score":42},
+                {"party":"NSL","score":26},
+                {"party":"NDP","score":24},
+                {"party":"GPNS","score":5},
+                {"party":"Others","score":3}
+            ]
+        },
+        {
+            "n": 264,
+            "company": "Angus Reid",
+            "date": "Sep. 29-Oct. 3, 2021",
+            "field": [2021, 10, 3],
+            "method": "Telephone",
+            "jurisdiction": "NS",
+            "poll": [
+                {"party":"PCNS","score":39},
+                {"party":"NSL","score":21},
+                {"party":"NDP","score":32},
+                {"party":"GPNS","score":4},
+                {"party":"Others","score":5}
+            ]
+        },
+        {
+            "n": 400,
+            "moe": 5.5,
+            "company": "MQO",
+            "date": "Nov. 19-Dec. 5, 2021",
+            "field": [2021, 12, 5],
+            "method": "Telephone",
+            "jurisdiction": "NL",
+            "poll": [
+                {"party":"LPNL","score":47},
+                {"party":"PCNL","score":31},
+                {"party":"NDP","score":18},
+                {"party":"Others","score":4}
+            ]
+        },
+        {
+            "n": 800,
+            "moe": 3.5,
+            "company": "Narrative",
+            "date": "November 2-23, 2021",
+            "field": [2022, 11, 23],
+            "method": "Telephone",
+            "jurisdiction": "NL",
+            "poll": [
+                {"party":"LPNL","score":48},
+                {"party":"PCNL","score":27},
+                {"party":"NDP","score":23},
+                {"party":"Others","score":2}
+            ]
+        },
+        {
+            "n": 203,
+            "company": "Angus Reid",
+            "date": "Sep. 29-Oct. 3, 2021",
+            "field": [2021, 10, 3],
+            "method": "Online",
+            "jurisdiction": "NL",
+            "poll": [
+                {"party":"LPNL","score":39},
+                {"party":"PCNL","score":39},
+                {"party":"NDP","score":17},
+                {"party":"Others","score":5}
+            ]
+        },
+        {
+            "n": 400,
+            "moe": 4.9,
+            "company": "Narrative",
+            "date": "August 9-29, 2021",
+            "field": [2021, 8, 29],
+            "method": "Telephone",
+            "jurisdiction": "NL",
+            "poll": [
+                {"party":"LPNL","score":53},
+                {"party":"PCNL","score":28},
+                {"party":"NDP","score":18},
+                {"party":"Others","score":1}
+            ]
+          }
     ]
 }
