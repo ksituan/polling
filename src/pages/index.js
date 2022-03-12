@@ -19,7 +19,7 @@ const IndexPage = () => (
     <p>I'm Curtis, and these are my posts.</p>
     <h2>Canada</h2>
     <PollingContent jurisdiction="Canada" election={elections.content.Canada[0]} />
-{/*     <h2>British Columbia</h2>
+    <h2>British Columbia</h2>
     <PollingContent jurisdiction="BC" election={elections.content.BC[0]} />
     <h2>Alberta</h2>
     <PollingContent jurisdiction="AB" election={elections.content.AB[0]} />
@@ -31,7 +31,7 @@ const IndexPage = () => (
     <PollingContent jurisdiction="ON" election={elections.content.ON[0]} />
     <h2>Quebec</h2>
     <PollingContent jurisdiction="QC" election={elections.content.QC[0]} /> 
-    <h2>New Brunswick</h2>
+    {/*<h2>New Brunswick</h2>
     <PollingContent jurisdiction="NB" election={elections.content.NB[0]} />
     <h2>Prince Edward Island</h2>
     <PollingContent jurisdiction="PE" election={elections.content.PE[0]} />

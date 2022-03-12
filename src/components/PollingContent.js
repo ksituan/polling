@@ -352,7 +352,11 @@ let brandColours = {
     // Weight polls
 
     function weightPolls(day, polls) {
-        let weightedPolls = polls.map(poll => {let d = Math.abs((new Date(poll.field) - day)/(24*60*60*1000)); poll.weight = (d+1)**-3; return(poll)}) // Weight function
+
+        let period = (endDate - startDate)/(24*60*60*1000);
+
+        let weightedPolls = polls.map(poll => {let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); poll.weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
+        
         return(weightedPolls);
     }
 
@@ -435,6 +439,7 @@ let brandColours = {
             {validParties.map(party => { let line = rollingAverage(dayArray, party);
                 return <path
                 stroke={brandColours[parties.content[jurisdiction][party]?.colour || "gray"]}
+                className={"trendline " + party}
                 fill="none"
                 strokeWidth="2"
                 d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
@@ -462,8 +467,9 @@ let brandColours = {
   
           {pollList.map((poll, index) => poll.company && <g className="scatterPoll"><a href={"#"+PollID(poll)} onClick={onClickPoll(index)}>{poll.poll.map(line => 
                 poll.field !== election.date && <circle r="8"
-                  cx={xMap(new Date(poll.field)) + Math.floor(Math.random()*6) - 3}
-                  cy={yMap(line.score) + Math.floor(Math.random()*6) - 3}
+                  className={line.party}
+                  cx={xMap(new Date(poll.field))}
+                  cy={yMap(line.score)}
                   fill={brandColours[parties.content[jurisdiction][line.party]?.colour || "gray"]}
                   />
             )}</a></g>)}

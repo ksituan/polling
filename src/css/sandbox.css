@@ -54,3 +54,7 @@
     stroke: black;
     stroke-width: 4px;
 }
+
+.trendline:hover {
+    stroke-width: 6px;
+}
