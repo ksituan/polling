@@ -58,3 +58,7 @@
 .trendline:hover {
     stroke-width: 6px;
 }
+
+svg text {
+    font-family: Karla;
+}

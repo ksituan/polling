@@ -23,6 +23,12 @@ let brandColours = {
   
   let title = {
     Canada: "Federal polling",
+    Canada_BC: "British Columbia federal polling",
+    Canada_AB: "Alberta federal polling",
+    Canada_SKMB: "Sask./Man. federal polling",
+    Canada_ON: "Ontario federal polling",
+    Canada_QC: "Quebec federal polling",
+    Canada_ATL: "Atlantic federal polling",
     BC: "British Columbia provincial polling",
     AB: "Alberta provincial polling",
     SK: "Saskatchewan provincial polling",
@@ -96,7 +102,8 @@ let brandColours = {
   
       // Find the most recent party
   
-      let pinfo = parties.content[poll.jurisdiction];
+      let bj = poll.jurisdiction.split("_")[0];
+      let pinfo = parties.content[bj];
   
       // Find the last election before this poll
   
@@ -200,8 +207,10 @@ let brandColours = {
   }
   
   function Row({poll, active, onClickRow}) {
-  
-    let pinfo = parties.content[poll.jurisdiction];
+
+    let bj = poll.jurisdiction.split("_")[0];
+    let pinfo = parties.content[bj];
+
     let field = new Date(poll.field);
   
     poll.poll = poll.poll.sort((a, b) => b.score - a.score);
@@ -275,11 +284,17 @@ let brandColours = {
   }
   
   function PollID(poll) {
-    let id = poll.company.toLowerCase().replace(" ","-") + "-" + poll.field.join('-');
+    let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field.join('-');
     return(id);
   }
   
   function Scatterplot({jurisdiction, election, onClickPoll}) {
+
+    function highlightParty(party) {
+      let dots = document.getElementsByClassName(party);
+      //dots.style.strokeWidth = "8px";
+      console.log(party);
+    }
   
     let plotWidth = 1600;
     let plotHeight = 900;
@@ -418,16 +433,20 @@ let brandColours = {
     validParties = validParties.filter(x => x[1] > 2).map(y => y[0]);
 
     // Plot polls
+
+    let bj = jurisdiction.split("_")[0];
   
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
-          <g className="timeTicks" stroke="#b0b0b0" strokeLinecap="round">
+          <g className="timeTicks">
             {monthArray.map(day =>
               <g>
                 <path
                 d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
+                stroke="#b0b0b0"
+                strokeLinecap="round"
                 strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
-                {day.getMonth() === 0 && <text fontSize="20pt" textAnchor="middle" x={xMap(day)} y={940-padding}>{day.getYear() + 1900}</text>}
+                {day.getMonth() === 0 && <text fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.getYear() + 1900}</text>}
               </g>
             )}</g>
   
@@ -438,10 +457,11 @@ let brandColours = {
 
             {validParties.map(party => { let line = rollingAverage(dayArray, party);
                 return <path
-                stroke={brandColours[parties.content[jurisdiction][party]?.colour || "gray"]}
-                className={"trendline " + party}
+                stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
+                className={"trendline"}
                 fill="none"
                 strokeWidth="2"
+                onMouseEnter={highlightParty(party)}
                 d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
   
@@ -456,12 +476,12 @@ let brandColours = {
                   cx={xMap(new Date(election.date))}
                   cy={yMap(line.score)}
                   fill="none"
-                  stroke={brandColours[parties.content[jurisdiction][line.party]?.colour || "gray"]}
+                  stroke={brandColours[parties.content[bj][line.party]?.colour || "gray"]}
                   strokeWidth="4"/>
                 <circle r="8"
                   cx={xMap(new Date(election.date))}
                   cy={yMap(line.score)}
-                  fill={brandColours[parties.content[jurisdiction][line.party]?.colour || "gray"]}/>
+                  fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}/>
                 </g>)}
               </g>
   
@@ -470,7 +490,7 @@ let brandColours = {
                   className={line.party}
                   cx={xMap(new Date(poll.field))}
                   cy={yMap(line.score)}
-                  fill={brandColours[parties.content[jurisdiction][line.party]?.colour || "gray"]}
+                  fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}
                   />
             )}</a></g>)}
   

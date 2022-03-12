@@ -3966,6 +3966,182 @@
                 {"party":"PQ","score":10},
                 {"party":"Others","score":3}
             ]
+        },
+        {
+            "n": 158,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_BC",
+            "poll": [{"party":"LPC","score":37},
+                {"party":"CPC","score":24},
+                {"party":"NDP","score":29},
+                {"party":"GPC","score":4},
+                {"party":"PPC","score":5},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "n": 123,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_AB",
+            "poll": [{"party":"LPC","score":24},
+                {"party":"CPC","score":42},
+                {"party":"NDP","score":27},
+                {"party":"GPC","score":1},
+                {"party":"PPC","score":3},
+                {"party":"Others","score":3}
+            ]
+        },
+        {
+            "n": 105,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_SKMB",
+            "poll": [{"party":"LPC","score":35},
+                {"party":"CPC","score":33},
+                {"party":"NDP","score":24},
+                {"party":"GPC","score":3},
+                {"party":"PPC","score":4},
+                {"party":"Others","score":2}
+            ]
+        },
+        {
+            "n": 500,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_ON",
+            "poll": [{"party":"LPC","score":32},
+                {"party":"CPC","score":33},
+                {"party":"NDP","score":24},
+                {"party":"GPC","score":6},
+                {"party":"PPC","score":5},
+                {"party":"Others","score":0}
+            ]
+        },
+        {
+            "n": 369,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_QC",
+            "poll": [{"party":"LPC","score":30},
+                {"party":"CPC","score":17},
+                {"party":"NDP","score":12},
+                {"party":"BQ","score":33},
+                {"party":"GPC","score":2},
+                {"party":"PPC","score":5},
+                {"party":"Others","score":2}
+            ]
+        },
+        {
+            "n": 83,
+            "company": "Leger",
+            "date": "March 4-6, 2022",
+            "field": [2022, 3, 6],
+            "method": "Online",
+            "jurisdiction": "Canada_ATL",
+            "poll": [{"party":"LPC","score":52},
+                {"party":"CPC","score":17},
+                {"party":"NDP","score":26},
+                {"party":"GPC","score":0},
+                {"party":"PPC","score":5},
+                {"party":"Others","score":0}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_BC",
+            "poll": [{"party":"LPC","score":33},
+                {"party":"CPC","score":30},
+                {"party":"NDP","score":28},
+                {"party":"GPC","score":5},
+                {"party":"PPC","score":3},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_AB",
+            "poll": [{"party":"LPC","score":21},
+                {"party":"CPC","score":49},
+                {"party":"NDP","score":21},
+                {"party":"GPC","score":1},
+                {"party":"PPC","score":7},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_SKMB",
+            "poll": [{"party":"LPC","score":22},
+                {"party":"CPC","score":39},
+                {"party":"NDP","score":26},
+                {"party":"GPC","score":5},
+                {"party":"PPC","score":7},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_ON",
+            "poll": [{"party":"LPC","score":35},
+                {"party":"CPC","score":32},
+                {"party":"NDP","score":22},
+                {"party":"GPC","score":3},
+                {"party":"PPC","score":7},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_QC",
+            "poll": [{"party":"LPC","score":30},
+                {"party":"CPC","score":20},
+                {"party":"NDP","score":8},
+                {"party":"BQ","score":38},
+                {"party":"GPC","score":0},
+                {"party":"PPC","score":4},
+                {"party":"Others","score":1}
+            ]
+        },
+        {
+            "company": "Abacus",
+            "date": "February 22, 2022",
+            "field": [2022, 2, 22],
+            "method": "Online",
+            "jurisdiction": "Canada_ATL",
+            "poll": [{"party":"LPC","score":31},
+                {"party":"CPC","score":32},
+                {"party":"NDP","score":24},
+                {"party":"GPC","score":3},
+                {"party":"PPC","score":10},
+                {"party":"Others","score":0}
+            ]
         }
     ]
 }
