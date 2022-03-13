@@ -290,12 +290,6 @@ let brandColours = {
   
   function Scatterplot({jurisdiction, election, onClickPoll}) {
 
-    function highlightParty(party) {
-      let dots = document.getElementsByClassName(party);
-      //dots.style.strokeWidth = "8px";
-      console.log(party);
-    }
-  
     let plotWidth = 1600;
     let plotHeight = 900;
     let padding = 50;
@@ -371,7 +365,7 @@ let brandColours = {
         let period = (endDate - startDate)/(24*60*60*1000);
 
         let weightedPolls = polls.map(poll => {let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); poll.weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
-        
+
         return(weightedPolls);
     }
 
@@ -430,7 +424,7 @@ let brandColours = {
     }
 
     let validParties = Object.entries(partyCount);
-    validParties = validParties.filter(x => x[1] > 2).map(y => y[0]);
+    validParties = validParties.filter(x => x[1] > 2 && x[0] !== "AIP").map(y => y[0]);
 
     // Plot polls
 
@@ -461,7 +455,6 @@ let brandColours = {
                 className={"trendline"}
                 fill="none"
                 strokeWidth="2"
-                onMouseEnter={highlightParty(party)}
                 d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
   

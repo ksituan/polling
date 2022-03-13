@@ -62,3 +62,66 @@
 svg text {
     font-family: Karla;
 }
+
+.dashProvs {
+    margin: 0;
+    display: grid;
+    grid-template-rows: repeat(2, 20%);
+    grid-template-columns: repeat(5, 20%);
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+
+.dashFed {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-rows: repeat(1, 20%);
+    grid-template-columns: repeat(6, 17%);
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+
+@media (max-width: 600px) {
+
+    .dashProvs {
+        grid-template-rows: repeat(5, 25%);
+        grid-template-columns: repeat(2, 50%);
+    }
+    
+    .dashFed {
+        grid-template-rows: repeat(2, 20%);
+        grid-template-columns: repeat(3, 33%);
+    }
+
+}
+
+.dashProvince {
+    border: 2px solid pink;
+    background-color: white;
+    filter: drop-shadow(0.25rem 0.25rem 0 pink);
+}
+
+.dashProvTitle {
+    font-family: Karla;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    margin-top: -1rem;
+}
+
+.dashCanada {
+    grid-column-start: span 6;
+    width: 800px;
+    border: 2px solid pink;
+    background-color: white;
+    filter: drop-shadow(0.25rem 0.25rem 0 pink);
+}
+
+.dashCanadaTitle {
+    font-family: Karla;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 0.5rem;
+    margin-top: -2rem;
+}

@@ -6,6 +6,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 import PollingContent from "../components/PollingContent"
+import DashProvince from "../components/DashProvince"
+import DashCanada from "../components/DashCanada"
 
 import polls from "../../content/polls.json"
 import elections from "../../content/elections.json"
@@ -14,35 +16,37 @@ import parties from "../../content/parties.json"
 const IndexPage = () => (
   <Layout>
     <Seo title="Polling Canada" />
-    <h1>Polling Canada</h1>
-    <h2>Welcome to Polling Canada!</h2>
-    <p>I'm Curtis, and these are my posts.</p>
-    <h2>Canada</h2>
-    <PollingContent jurisdiction="Canada" election={elections.content.Canada[0]} />
-    <PollingContent jurisdiction="Canada_BC" election={elections.content.Canada_BC[0]} />
-    <PollingContent jurisdiction="Canada_AB" election={elections.content.Canada_AB[0]} />
-    <PollingContent jurisdiction="Canada_ON" election={elections.content.Canada_ON[0]} />
-    <PollingContent jurisdiction="Canada_QC" election={elections.content.Canada_QC[0]} />
-    {/*<h2>British Columbia</h2>
-    <PollingContent jurisdiction="BC" election={elections.content.BC[0]} />
-    <h2>Alberta</h2>
-    <PollingContent jurisdiction="AB" election={elections.content.AB[0]} />
-    <h2>Saskatchewan</h2>
-    <PollingContent jurisdiction="SK" election={elections.content.SK[0]} />
-    <h2>Manitoba</h2>
-    <PollingContent jurisdiction="MB" election={elections.content.MB[0]} />
-    <h2>Ontario</h2>
-    <PollingContent jurisdiction="ON" election={elections.content.ON[0]} />
-    <h2>Quebec</h2>
-    <PollingContent jurisdiction="QC" election={elections.content.QC[0]} /> 
-    <h2>New Brunswick</h2>
-    <PollingContent jurisdiction="NB" election={elections.content.NB[0]} />
-    <h2>Prince Edward Island</h2>
-    <PollingContent jurisdiction="PE" election={elections.content.PE[0]} />
-    <h2>Nova Scotia</h2>
-    <PollingContent jurisdiction="NS" election={elections.content.NS[0]} />
-    <h2>Newfoundland & Labrador</h2>
-    <PollingContent jurisdiction="NL" election={elections.content.NL[0]} /> */}
+    <h1>Welcome to Polling Canada!</h1>
+    <h2>Provincial Polls</h2>
+    <div className="dashProvs">
+    <DashProvince jurisdiction="BC"/>
+    <DashProvince jurisdiction="AB"/>
+    <DashProvince jurisdiction="SK"/>
+    <DashProvince jurisdiction="MB"/>
+    <DashProvince jurisdiction="ON"/>
+    <DashProvince jurisdiction="QC"/>
+    <DashProvince jurisdiction="NB"/>
+    <DashProvince jurisdiction="PE"/>
+    <DashProvince jurisdiction="NS"/>
+    <DashProvince jurisdiction="NL"/>
+    </div>
+    <h2>Federal Polls</h2>
+    <DashCanada />
+    <div className="dashFed">
+    <DashProvince jurisdiction="Canada_BC"/>
+    <DashProvince jurisdiction="Canada_AB"/>
+    <DashProvince jurisdiction="Canada_SKMB"/>
+    <DashProvince jurisdiction="Canada_ON"/>
+    <DashProvince jurisdiction="Canada_QC"/>
+    <DashProvince jurisdiction="Canada_ATL"/>
+    </div>
+
+    <h2>About Polling Canada</h2>
+
+    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to collect various bits of polling from around the country.</p>
+    <p>I ensure that reputable polling data is provided to the public in a way that's clear, concise, and free of political commentary.</p>
+    <p>Find my accounts on Twitter here:</p>
+    
     <p>
       <Link to="/faq/">Frequently Asked Questions</Link>
     </p>

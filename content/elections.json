@@ -64,6 +64,20 @@
                 ]
             }
         ],
+        "Canada_SKMB":
+        [
+            {
+                "date": [2021, 9, 20],
+                "results": [
+                    {"party": "CPC","score": 49.1},
+                    {"party": "LPC","score": 19.3},
+                    {"party": "NDP","score": 22.1},
+                    {"party": "GPC","score": 1.4},
+                    {"party": "PPC","score": 7.1},
+                    {"party": "Others","score": 1.0}
+                ]
+            }
+        ],
         "Canada_ON":
         [
             {
@@ -90,6 +104,20 @@
                     {"party": "GPC","score": 1.5},
                     {"party": "PPC","score": 2.7},
                     {"party": "Others","score": 1.7}
+                ]
+            }
+        ],
+        "Canada_ATL":
+        [
+            {
+                "date": [2021, 9, 20],
+                "results": [
+                    {"party": "CPC","score": 31.8},
+                    {"party": "LPC","score": 44.7},
+                    {"party": "NDP","score": 15.2},
+                    {"party": "GPC","score": 4.2},
+                    {"party": "PPC","score": 3.9},
+                    {"party": "Others","score": 0.2}
                 ]
             }
         ],
