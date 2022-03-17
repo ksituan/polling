@@ -4,7 +4,7 @@
         "moe": 3.5,
         "company": "Research Co.",
         "date": "February 12-14, 2022",
-        "field": "2022-03-14",
+        "field": "2022-02-14",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -34,7 +34,7 @@
         "n": 548,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -68,7 +68,7 @@
         "n": 801,
         "company": "Nanos",
         "date": "Oct. 13-Nov. 1, 2021",
-        "field": "2021-12-01",
+        "field": "2021-11-01",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -107,7 +107,7 @@
         "moe": 3.5,
         "company": "Research Co.",
         "date": "February 19-23, 2022",
-        "field": "2022-03-23",
+        "field": "2022-02-23",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -142,7 +142,7 @@
         "moe": 5,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -173,7 +173,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "Sep. 29-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -204,7 +204,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "June 2-7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -234,7 +234,7 @@
         "n": 802,
         "company": "Leger",
         "date": "March 1-8, 2021",
-        "field": "2021-04-08",
+        "field": "2021-03-08",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -269,7 +269,7 @@
         "moe": 1.4,
         "company": "Angus Reid",
         "date": "November 24-30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "SK",
         "poll": [
@@ -292,7 +292,7 @@
         "moe": 5,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -323,7 +323,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "Nov. 23-Dec. 5, 2021",
-        "field": "2022-01-05",
+        "field": "2021-12-05",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -353,7 +353,7 @@
         "n": 678,
         "company": "Innovative",
         "date": "Sep. 24-Oct. 5, 2021",
-        "field": "2021-11-05",
+        "field": "2021-10-05",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -383,7 +383,7 @@
         "n": 435,
         "company": "Angus Reid",
         "date": "Sep. 29-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -414,7 +414,7 @@
         "moe": 3,
         "company": "Mainstreet",
         "date": "January 25, 2022",
-        "field": "2022-02-25",
+        "field": "2022-01-25",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -445,7 +445,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "February 13, 2022",
-        "field": "2022-03-13",
+        "field": "2022-02-13",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -479,7 +479,7 @@
         "n": 216,
         "company": "Angus Reid",
         "date": "January 10, 2022",
-        "field": "2022-02-10",
+        "field": "2022-01-10",
         "method": "Online",
         "jurisdiction": "NB",
         "poll": [
@@ -510,7 +510,7 @@
         "moe": 5.3,
         "company": "Narrative",
         "date": "February 27, 2022",
-        "field": "2022-03-27",
+        "field": "2022-02-27",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -544,7 +544,7 @@
         "n": 600,
         "company": "Narrative",
         "date": "November 3-28, 2021",
-        "field": "2021-12-28",
+        "field": "2021-11-28",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -571,7 +571,7 @@
         "moe": 6.8,
         "company": "Narrative",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Telephone",
         "jurisdiction": "PE",
         "poll": [
@@ -601,7 +601,7 @@
         "n": 320,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "NS",
         "poll": [
@@ -632,7 +632,7 @@
         "moe": 4.9,
         "company": "Narrative",
         "date": "February 23, 2022",
-        "field": "2022-03-23",
+        "field": "2022-02-23",
         "method": "Telephone",
         "jurisdiction": "NS",
         "poll": [
@@ -662,7 +662,7 @@
         "n": 155,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "NL",
         "poll": [
@@ -689,7 +689,7 @@
         "moe": 6.3,
         "company": "Narrative",
         "date": "February 21, 2022",
-        "field": "2022-03-21",
+        "field": "2022-02-21",
         "method": "Telephone",
         "jurisdiction": "NL",
         "poll": [
@@ -715,7 +715,7 @@
         "n": 5200,
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -753,7 +753,7 @@
         "n": 1001,
         "company": "Ipsos",
         "date": "February 21, 2022",
-        "field": "2022-03-21",
+        "field": "2022-02-21",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -792,7 +792,7 @@
         "moe": 2.7,
         "company": "Mainstreet",
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
@@ -832,7 +832,7 @@
         "method": "IVR",
         "company": "EKOS",
         "date": "January 17, 2022",
-        "field": "2022-02-17",
+        "field": "2022-01-17",
         "jurisdiction": "Canada",
         "poll": [
             {
@@ -871,7 +871,7 @@
         "method": "IVR",
         "company": "EKOS",
         "date": "December 21, 2022",
-        "field": "2022-01-21",
+        "field": "2021-12-21",
         "jurisdiction": "Canada",
         "poll": [
             {
@@ -910,7 +910,7 @@
         "method": "IVR",
         "company": "EKOS",
         "date": "November 21, 2022",
-        "field": "2021-12-21",
+        "field": "2021-11-21",
         "jurisdiction": "Canada",
         "poll": [
             {
@@ -949,7 +949,7 @@
         "method": "Online",
         "company": "Abacus",
         "date": "October 20, 2021",
-        "field": "2021-11-20",
+        "field": "2021-10-20",
         "jurisdiction": "Canada",
         "poll": [
             {
@@ -987,7 +987,7 @@
         "moe": 2.2,
         "company": "Stratcom",
         "date": "November 21, 2019",
-        "field": "2019-12-21",
+        "field": "2019-11-21",
         "method": "IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1010,7 +1010,7 @@
         "moe": 4,
         "company": "Mainstreet",
         "date": "February 22, 2020",
-        "field": "2020-03-22",
+        "field": "2020-02-22",
         "method": "IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1040,7 +1040,7 @@
         "n": 555,
         "company": "Angus Reid",
         "date": "February 24-28, 2020",
-        "field": "2020-03-28",
+        "field": "2020-02-28",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1070,7 +1070,7 @@
         "n": 314,
         "company": "Innovative",
         "date": "May 1-5, 2020",
-        "field": "2020-06-05",
+        "field": "2020-05-05",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1104,7 +1104,7 @@
         "n": 1205,
         "company": "Environics",
         "date": "November 10-23, 2020",
-        "field": "2020-12-23",
+        "field": "2020-11-23",
         "jurisdiction": "AB",
         "poll": [
             {
@@ -1129,7 +1129,7 @@
         "n": 553,
         "company": "Angus Reid",
         "date": "November 24-30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1156,7 +1156,7 @@
         "moe": 4,
         "company": "Research Co.",
         "date": "December 2-4, 2020",
-        "field": "2021-01-04",
+        "field": "2020-12-04",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1191,7 +1191,7 @@
         "moe": 3.1,
         "company": "Mainstreet",
         "date": "January 6-7, 2021",
-        "field": "2021-02-07",
+        "field": "2021-01-07",
         "method": "Smart IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1230,7 +1230,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "Feb. 26-Mar. 3, 2021",
-        "field": "2021-04-03",
+        "field": "2021-03-03",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1256,7 +1256,7 @@
         "n": 802,
         "company": "Commonground",
         "date": "March 1-8, 2021",
-        "field": "2021-04-08",
+        "field": "2021-03-08",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1291,7 +1291,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "March 5-8, 2021",
-        "field": "2021-04-08",
+        "field": "2021-03-08",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1322,7 +1322,7 @@
         "moe": 2.1,
         "company": "Janet Brown",
         "date": "March 15-April 10, 2021",
-        "field": "2021-05-10",
+        "field": "2021-04-10",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1353,7 +1353,7 @@
         "moe": 3,
         "company": "Mainstreet",
         "date": "May 19-20, 2021",
-        "field": "2021-06-20",
+        "field": "2021-05-20",
         "method": "IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1388,7 +1388,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "June 2-7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1423,7 +1423,7 @@
         "moe": 3,
         "company": "Leger",
         "date": "July 22-26, 2021",
-        "field": "2021-07-26",
+        "field": "2021-06-26",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1457,7 +1457,7 @@
         "n": 209,
         "company": "Innovative",
         "date": "September 10-12, 2021",
-        "field": "2021-10-12",
+        "field": "2021-09-12",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1496,7 +1496,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "Sep. 9-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1534,7 +1534,7 @@
         "n": 672,
         "company": "Innovative",
         "date": "Sep. 24-Oct. 5, 2021",
-        "field": "2021-11-05",
+        "field": "2021-10-05",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1573,7 +1573,7 @@
         "moe": 3.2,
         "company": "Mainstreet",
         "date": "October 12-13, 2021",
-        "field": "2021-11-13",
+        "field": "2021-10-13",
         "method": "IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1608,7 +1608,7 @@
         "moe": 2.8,
         "company": "Leger",
         "date": "December 2-5, 2021",
-        "field": "2022-01-05",
+        "field": "2021-12-05",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1631,7 +1631,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "Aug. 26-Sep. 1, 2020",
-        "field": "2020-10-01",
+        "field": "2020-09-01",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1661,7 +1661,7 @@
         "n": 824,
         "company": "Commonground",
         "date": "August 17-30, 2020",
-        "field": "2020-09-30",
+        "field": "2020-08-30",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1687,7 +1687,7 @@
         "n": 300,
         "company": "Innovative",
         "date": "July 14-20, 2020",
-        "field": "2020-08-20",
+        "field": "2020-07-20",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1721,7 +1721,7 @@
         "n": 267,
         "company": "Innovative",
         "date": "June 19-23, 2020",
-        "field": "2020-07-23",
+        "field": "2020-06-23",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1755,7 +1755,7 @@
         "n": 276,
         "company": "Innovative",
         "date": "May 29-June 1, 2020",
-        "field": "2020-07-01",
+        "field": "2020-06-01",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1790,7 +1790,7 @@
         "moe": 3.3,
         "company": "Janet Brown",
         "date": "May 25-June 1, 2020",
-        "field": "2020-07-01",
+        "field": "2020-06-01",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1821,7 +1821,7 @@
         "moe": 1.4,
         "company": "Angus Reid",
         "date": "May 19-24, 2020",
-        "field": "2020-06-24",
+        "field": "2020-05-24",
         "method": "Online",
         "jurisdiction": "AB",
         "poll": [
@@ -1852,7 +1852,7 @@
         "moe": 3,
         "company": "Northwest",
         "date": "May 14-19, 2020",
-        "field": "2020-06-19",
+        "field": "2020-05-19",
         "method": "IVR",
         "jurisdiction": "AB",
         "poll": [
@@ -1887,7 +1887,7 @@
         "moe": 3.2,
         "company": "Lethbridge College",
         "date": "October 5-10, 2019",
-        "field": "2019-11-10",
+        "field": "2019-10-10",
         "method": "Telephone",
         "jurisdiction": "AB",
         "poll": [
@@ -1918,7 +1918,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "January 24, 2022",
-        "field": "2022-02-24",
+        "field": "2022-01-24",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -1949,7 +1949,7 @@
         "moe": 2.1,
         "company": "Counsel",
         "date": "January 23, 2022",
-        "field": "2022-02-23",
+        "field": "2022-01-23",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -1980,7 +1980,7 @@
         "moe": 4,
         "company": "Innovative",
         "date": "June 21, 2018",
-        "field": "2018-07-21",
+        "field": "2018-06-21",
         "method": "Telephone",
         "jurisdiction": "ON",
         "poll": [
@@ -2011,7 +2011,7 @@
         "moe": 2.3,
         "company": "Mainstreet",
         "date": "July 17, 2018",
-        "field": "2018-08-17",
+        "field": "2018-07-17",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2041,7 +2041,7 @@
         "n": 1500,
         "company": "Abacus",
         "date": "October 1, 2018",
-        "field": "2018-11-01",
+        "field": "2018-10-01",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2071,7 +2071,7 @@
         "n": 1628,
         "company": "Innovative",
         "date": "October 28, 2018",
-        "field": "2018-11-28",
+        "field": "2018-10-28",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2102,7 +2102,7 @@
         "moe": 2.8,
         "company": "Mainstreet",
         "date": "November 7, 2018",
-        "field": "2018-12-07",
+        "field": "2018-11-07",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2133,7 +2133,7 @@
         "moe": 2.3,
         "company": "Campaign",
         "date": "November 9, 2018",
-        "field": "2018-12-09",
+        "field": "2018-11-09",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2164,7 +2164,7 @@
         "moe": 3.1,
         "company": "EKOS",
         "date": "December 3, 2018",
-        "field": "2019-01-03",
+        "field": "2018-12-03",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2195,7 +2195,7 @@
         "moe": 2.9,
         "company": "Mainstreet",
         "date": "January 17, 2019",
-        "field": "2019-02-17",
+        "field": "2019-01-17",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2225,7 +2225,7 @@
         "n": 751,
         "company": "Innovative",
         "date": "January 24, 2019",
-        "field": "2019-02-24",
+        "field": "2019-01-24",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2256,7 +2256,7 @@
         "moe": 2.7,
         "company": "Mainstreet",
         "date": "March 22, 2019",
-        "field": "2019-04-22",
+        "field": "2019-03-22",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2287,7 +2287,7 @@
         "moe": 2.5,
         "company": "Pollara",
         "date": "May 1, 2019",
-        "field": "2019-06-01",
+        "field": "2019-05-01",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2318,7 +2318,7 @@
         "moe": 2.4,
         "company": "Corbett",
         "date": "May 3, 2019",
-        "field": "2019-06-03",
+        "field": "2019-05-03",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2349,7 +2349,7 @@
         "moe": 3.5,
         "company": "Ipsos",
         "date": "May 21, 2019",
-        "field": "2019-06-21",
+        "field": "2019-05-21",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2376,7 +2376,7 @@
         "moe": 3.1,
         "company": "Mainstreet",
         "date": "May 22, 2019",
-        "field": "2019-06-22",
+        "field": "2019-05-22",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2407,7 +2407,7 @@
         "moe": 3,
         "company": "Corbett",
         "date": "June 6, 2019",
-        "field": "2019-07-06",
+        "field": "2019-06-06",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2438,7 +2438,7 @@
         "moe": 3,
         "company": "Corbett",
         "date": "July 10, 2019",
-        "field": "2019-08-10",
+        "field": "2019-07-10",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2469,7 +2469,7 @@
         "moe": 3,
         "company": "Corbett",
         "date": "August 16, 2019",
-        "field": "2019-09-16",
+        "field": "2019-08-16",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2500,7 +2500,7 @@
         "moe": 3.2,
         "company": "Campaign",
         "date": "September 9, 2019",
-        "field": "2019-10-09",
+        "field": "2019-09-09",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2531,7 +2531,7 @@
         "moe": 3.4,
         "company": "EKOS",
         "date": "December 10, 2019",
-        "field": "2020-01-10",
+        "field": "2019-12-10",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2562,7 +2562,7 @@
         "moe": 2.1,
         "company": "Pollara",
         "date": "January 11, 2020",
-        "field": "2020-02-11",
+        "field": "2020-01-11",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2593,7 +2593,7 @@
         "moe": 3.9,
         "company": "EKOS",
         "date": "January 19, 2020",
-        "field": "2020-02-19",
+        "field": "2020-01-19",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2624,7 +2624,7 @@
         "moe": 2.5,
         "company": "Campaign",
         "date": "February 9, 2020",
-        "field": "2020-03-09",
+        "field": "2020-02-09",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2655,7 +2655,7 @@
         "moe": 3.1,
         "company": "Campaign",
         "date": "February 26, 2020",
-        "field": "2020-03-26",
+        "field": "2020-02-26",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2686,7 +2686,7 @@
         "moe": 3,
         "company": "Angus Reid",
         "date": "February 28, 2020",
-        "field": "2020-03-28",
+        "field": "2020-02-28",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2717,7 +2717,7 @@
         "moe": 2.9,
         "company": "Campaign",
         "date": "March 5, 2020",
-        "field": "2020-04-05",
+        "field": "2020-03-05",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2748,7 +2748,7 @@
         "moe": 2.7,
         "company": "Mainstreet",
         "date": "March 20, 2020",
-        "field": "2020-04-20",
+        "field": "2020-03-20",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2779,7 +2779,7 @@
         "moe": 3.5,
         "company": "EKOS",
         "date": "March 26, 2020",
-        "field": "2020-04-26",
+        "field": "2020-03-26",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2809,7 +2809,7 @@
         "n": 791,
         "company": "Innovative",
         "date": "May 5, 2020",
-        "field": "2020-06-05",
+        "field": "2020-05-05",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2839,7 +2839,7 @@
         "n": 597,
         "company": "Abacus",
         "date": "May 22, 2020",
-        "field": "2020-06-22",
+        "field": "2020-05-22",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2869,7 +2869,7 @@
         "n": 1061,
         "company": "Angus Reid",
         "date": "May 24, 2020",
-        "field": "2020-06-24",
+        "field": "2020-05-24",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2899,7 +2899,7 @@
         "n": 698,
         "company": "Innovative",
         "date": "June 1, 2020",
-        "field": "2020-07-01",
+        "field": "2020-06-01",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2930,7 +2930,7 @@
         "moe": 2.5,
         "company": "Campaign",
         "date": "June 2, 2020",
-        "field": "2020-07-02",
+        "field": "2020-06-02",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -2961,7 +2961,7 @@
         "moe": 3,
         "company": "Mainstreet",
         "date": "June 7, 2020",
-        "field": "2020-07-07",
+        "field": "2020-06-07",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -2991,7 +2991,7 @@
         "n": 838,
         "company": "Innovative",
         "date": "June 23, 2020",
-        "field": "2020-07-23",
+        "field": "2020-06-23",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3022,7 +3022,7 @@
         "moe": 3,
         "company": "Campaign",
         "date": "July 10, 2020",
-        "field": "2020-08-10",
+        "field": "2020-07-10",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3052,7 +3052,7 @@
         "n": 974,
         "company": "Innovative",
         "date": "July 20, 2020",
-        "field": "2020-08-20",
+        "field": "2020-07-20",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3083,7 +3083,7 @@
         "moe": 2,
         "company": "Campaign",
         "date": "August 13, 2020",
-        "field": "2020-09-13",
+        "field": "2020-08-13",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3114,7 +3114,7 @@
         "moe": 3,
         "company": "Angus Reid",
         "date": "September 1, 2020",
-        "field": "2020-10-01",
+        "field": "2020-09-01",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3145,7 +3145,7 @@
         "moe": 3,
         "company": "Campaign",
         "date": "September 3, 2020",
-        "field": "2020-10-03",
+        "field": "2020-09-03",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3176,7 +3176,7 @@
         "moe": 3,
         "company": "Campaign",
         "date": "October 2, 2020",
-        "field": "2020-11-02",
+        "field": "2020-10-02",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3207,7 +3207,7 @@
         "moe": 3.1,
         "company": "Abacus",
         "date": "October 12, 2020",
-        "field": "2020-11-12",
+        "field": "2020-10-12",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3238,7 +3238,7 @@
         "moe": 3.1,
         "company": "Abacus",
         "date": "October 30, 2020",
-        "field": "2020-11-30",
+        "field": "2020-10-30",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3269,7 +3269,7 @@
         "moe": 3,
         "company": "Campaign",
         "date": "November 2, 2020",
-        "field": "2020-12-02",
+        "field": "2020-11-02",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3299,7 +3299,7 @@
         "n": 1049,
         "company": "Angus Reid",
         "date": "November 30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3330,7 +3330,7 @@
         "moe": 3,
         "company": "Campaign",
         "date": "December 3, 2020",
-        "field": "2021-01-03",
+        "field": "2020-12-03",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3361,7 +3361,7 @@
         "moe": 2.9,
         "company": "Mainstreet",
         "date": "December 5, 2020",
-        "field": "2021-01-05",
+        "field": "2020-12-05",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -3392,7 +3392,7 @@
         "moe": 3.5,
         "company": "Abacus",
         "date": "January 12, 2021",
-        "field": "2021-02-12",
+        "field": "2021-01-12",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3423,7 +3423,7 @@
         "moe": 2.6,
         "company": "Campaign",
         "date": "January 31, 2021",
-        "field": "2021-03-03",
+        "field": "2021-01-31",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3454,7 +3454,7 @@
         "moe": 3.1,
         "company": "Mainstreet",
         "date": "February 16, 2021",
-        "field": "2021-03-16",
+        "field": "2021-02-16",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -3485,7 +3485,7 @@
         "moe": 2.7,
         "company": "Campaign",
         "date": "March 11, 2021",
-        "field": "2021-04-11",
+        "field": "2021-03-11",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3516,7 +3516,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "March 22, 2021",
-        "field": "2021-04-22",
+        "field": "2021-03-22",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3547,7 +3547,7 @@
         "moe": 2.3,
         "company": "Campaign",
         "date": "April 6, 2021",
-        "field": "2021-05-06",
+        "field": "2021-04-06",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3578,7 +3578,7 @@
         "moe": 2.8,
         "company": "EKOS",
         "date": "April 12, 2021",
-        "field": "2021-05-12",
+        "field": "2021-04-12",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -3608,7 +3608,7 @@
         "n": 704,
         "company": "Innovative",
         "date": "April 13, 2021",
-        "field": "2021-05-13",
+        "field": "2021-04-13",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3639,7 +3639,7 @@
         "moe": 3.5,
         "company": "Abacus",
         "date": "April 14, 2021",
-        "field": "2021-05-14",
+        "field": "2021-04-14",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3669,7 +3669,7 @@
         "n": 800,
         "company": "Innovative",
         "date": "April 20, 2021",
-        "field": "2021-05-20",
+        "field": "2021-04-20",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3700,7 +3700,7 @@
         "moe": 3.1,
         "company": "Abacus",
         "date": "April 21, 2021",
-        "field": "2021-05-21",
+        "field": "2021-04-21",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3730,7 +3730,7 @@
         "n": 481,
         "company": "Innovative",
         "date": "May 4, 2021",
-        "field": "2021-06-04",
+        "field": "2021-05-04",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3761,7 +3761,7 @@
         "moe": 2,
         "company": "Campaign",
         "date": "May 8, 2021",
-        "field": "2021-06-08",
+        "field": "2021-05-08",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3792,7 +3792,7 @@
         "moe": 3,
         "company": "Mainstreet",
         "date": "May 16, 2021",
-        "field": "2021-06-16",
+        "field": "2021-05-16",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -3823,7 +3823,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "May 23, 2021",
-        "field": "2021-06-23",
+        "field": "2021-05-23",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3850,7 +3850,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "June 7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3880,7 +3880,7 @@
         "n": 910,
         "company": "Angus Reid",
         "date": "October 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3911,7 +3911,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "October 10, 2021",
-        "field": "2021-11-10",
+        "field": "2021-10-10",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3942,7 +3942,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "November 14, 2021",
-        "field": "2021-12-14",
+        "field": "2021-11-14",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -3972,7 +3972,7 @@
         "n": 1000,
         "company": "Innovative",
         "date": "November 17, 2021",
-        "field": "2021-12-17",
+        "field": "2021-11-17",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -4003,7 +4003,7 @@
         "moe": 4.1,
         "company": "EKOS",
         "date": "November 25, 2021",
-        "field": "2021-12-25",
+        "field": "2021-11-25",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -4034,7 +4034,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "December 13, 2021",
-        "field": "2022-01-13",
+        "field": "2021-12-13",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -4065,7 +4065,7 @@
         "moe": 2.7,
         "company": "Mainstreet",
         "date": "January 7, 2022",
-        "field": "2022-02-07",
+        "field": "2022-01-07",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -4095,7 +4095,7 @@
         "n": 1428,
         "company": "Innovative",
         "date": "January 11, 2022",
-        "field": "2022-02-11",
+        "field": "2022-01-11",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -4125,7 +4125,7 @@
         "n": 909,
         "company": "Angus Reid",
         "date": "January 12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -4156,7 +4156,7 @@
         "moe": 3.1,
         "company": "Abacus",
         "date": "January 12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -4187,7 +4187,7 @@
         "moe": 3.5,
         "company": "EKOS",
         "date": "January 17, 2022",
-        "field": "2022-02-17",
+        "field": "2022-01-17",
         "method": "IVR",
         "jurisdiction": "ON",
         "poll": [
@@ -4218,7 +4218,7 @@
         "moe": 3,
         "company": "Nanos",
         "date": "February 11, 2022",
-        "field": "2022-03-11",
+        "field": "2022-02-11",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4253,7 +4253,7 @@
         "moe": 2.6,
         "company": "Abacus",
         "date": "February 8, 2022",
-        "field": "2022-03-08",
+        "field": "2022-02-08",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4292,7 +4292,7 @@
         "moe": 2.5,
         "company": "Leger",
         "date": "February 6, 2022",
-        "field": "2022-03-06",
+        "field": "2022-02-06",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4331,7 +4331,7 @@
         "moe": 3.1,
         "company": "Nanos",
         "date": "January 28, 2022",
-        "field": "2022-02-28",
+        "field": "2022-01-28",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4362,7 +4362,7 @@
         "moe": 2.3,
         "company": "Mainstreet",
         "date": "January 23, 2022",
-        "field": "2022-02-23",
+        "field": "2022-01-23",
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
@@ -4401,7 +4401,7 @@
         "moe": 2.5,
         "company": "Leger",
         "date": "January 23, 2022",
-        "field": "2022-02-23",
+        "field": "2022-01-23",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4440,7 +4440,7 @@
         "moe": 3.1,
         "company": "Nanos",
         "date": "January 21, 2022",
-        "field": "2022-02-21",
+        "field": "2022-01-21",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4471,7 +4471,7 @@
         "moe": 3,
         "company": "Nanos",
         "date": "January 14, 2022",
-        "field": "2022-02-14",
+        "field": "2022-01-14",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4506,7 +4506,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "January 12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4545,7 +4545,7 @@
         "moe": 2.1,
         "company": "Abacus",
         "date": "January 12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4584,7 +4584,7 @@
         "moe": 3,
         "company": "Nanos",
         "date": "January 7, 2022",
-        "field": "2022-02-07",
+        "field": "2022-01-07",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4618,7 +4618,7 @@
         "n": 2513,
         "company": "Discover",
         "date": "January 5, 2022",
-        "field": "2022-02-05",
+        "field": "2022-01-05",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4653,7 +4653,7 @@
         "moe": 3,
         "company": "Nanos",
         "date": "December 10, 2021",
-        "field": "2022-01-10",
+        "field": "2021-12-10",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4688,7 +4688,7 @@
         "moe": 2.5,
         "company": "Leger",
         "date": "December 5, 2021",
-        "field": "2022-01-05",
+        "field": "2021-12-05",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4727,7 +4727,7 @@
         "moe": 2.4,
         "company": "Mainstreet",
         "date": "November 30, 2021",
-        "field": "2021-12-30",
+        "field": "2021-11-30",
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
@@ -4766,7 +4766,7 @@
         "moe": 2.2,
         "company": "Abacus",
         "date": "November 30, 2021",
-        "field": "2021-12-30",
+        "field": "2021-11-30",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4805,7 +4805,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "November 29, 2021",
-        "field": "2021-12-29",
+        "field": "2021-11-29",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4844,7 +4844,7 @@
         "moe": 2.5,
         "company": "Leger",
         "date": "November 7, 2021",
-        "field": "2021-12-07",
+        "field": "2021-11-07",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -4883,7 +4883,7 @@
         "moe": 3.1,
         "company": "Nanos",
         "date": "October 29, 2021",
-        "field": "2021-11-29",
+        "field": "2021-10-29",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4918,7 +4918,7 @@
         "moe": 2.4,
         "company": "Mainstreet",
         "date": "October 24, 2021",
-        "field": "2021-11-24",
+        "field": "2021-10-24",
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
@@ -4953,7 +4953,7 @@
         "moe": 3.1,
         "company": "Nanos",
         "date": "October 22, 2021",
-        "field": "2021-11-22",
+        "field": "2021-10-22",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -4988,7 +4988,7 @@
         "moe": 3.1,
         "company": "Leger",
         "date": "February 27, 2022",
-        "field": "2022-03-27",
+        "field": "2022-02-27",
         "method": "Online",
         "jurisdiction": "ON",
         "poll": [
@@ -5019,7 +5019,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -5049,7 +5049,7 @@
         "n": 803,
         "company": "Stratcom",
         "date": "November 2-8, 2021",
-        "field": "2021-12-08",
+        "field": "2021-11-08",
         "method": "IVR",
         "jurisdiction": "BC",
         "poll": [
@@ -5072,7 +5072,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "Sep. 29-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -5103,7 +5103,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "June 2-7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -5134,7 +5134,7 @@
         "moe": 3.4,
         "company": "Insights West",
         "date": "May 26-30, 2021",
-        "field": "2021-06-30",
+        "field": "2021-05-30",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -5165,7 +5165,7 @@
         "moe": 1.4,
         "company": "Angus Reid",
         "date": "November 24-30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -5192,7 +5192,7 @@
         "moe": 2.2,
         "company": "Mainstreet",
         "date": "October 20, 2019",
-        "field": "2019-11-20",
+        "field": "2019-10-20",
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
@@ -5227,7 +5227,7 @@
         "moe": 4.8,
         "company": "DataPath",
         "date": "December 20, 2017",
-        "field": "2018-01-20",
+        "field": "2017-12-20",
         "method": "Online",
         "jurisdiction": "YT",
         "poll": [
@@ -5257,7 +5257,7 @@
         "n": 600,
         "company": "Leger",
         "date": "February 7, 2021",
-        "field": "2021-03-07",
+        "field": "2021-02-07",
         "method": "Telephone",
         "jurisdiction": "YT",
         "poll": [
@@ -5283,7 +5283,7 @@
         "n": 600,
         "company": "Narrative",
         "date": "August 9-25, 2021",
-        "field": "2021-09-25",
+        "field": "2021-08-25",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5309,7 +5309,7 @@
         "n": 600,
         "company": "Narrative",
         "date": "May 18-28, 2021",
-        "field": "2021-06-28",
+        "field": "2021-05-28",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5335,7 +5335,7 @@
         "n": 300,
         "company": "Narrative",
         "date": "February 2-16, 2021",
-        "field": "2021-03-16",
+        "field": "2021-02-16",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5361,7 +5361,7 @@
         "n": 300,
         "company": "Narrative",
         "date": "November 11-29, 2020",
-        "field": "2020-12-29",
+        "field": "2020-11-29",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5387,7 +5387,7 @@
         "n": 301,
         "company": "Narrative",
         "date": "August 4-19, 2020",
-        "field": "2020-09-19",
+        "field": "2020-08-19",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5413,7 +5413,7 @@
         "n": 216,
         "company": "Narrative",
         "date": "April 29-May 17, 2020",
-        "field": "2020-06-17",
+        "field": "2020-05-17",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5439,7 +5439,7 @@
         "n": 283,
         "company": "MQO",
         "date": "March 3-10, 2020",
-        "field": "2020-04-10",
+        "field": "2020-03-10",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5465,7 +5465,7 @@
         "n": 207,
         "company": "Narrative",
         "date": "February 3-19, 2020",
-        "field": "2020-03-19",
+        "field": "2020-02-19",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5491,7 +5491,7 @@
         "n": 600,
         "company": "Narrative",
         "date": "November 1-22, 2019",
-        "field": "2019-12-22",
+        "field": "2019-11-22",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5517,7 +5517,7 @@
         "n": 300,
         "company": "Narrative",
         "date": "August 1-22, 2019",
-        "field": "2019-09-22",
+        "field": "2019-08-22",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5543,7 +5543,7 @@
         "n": 400,
         "company": "MQO",
         "date": "July 31-Aug. 6, 2019",
-        "field": "2019-09-06",
+        "field": "2019-08-06",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5569,7 +5569,7 @@
         "n": 300,
         "company": "Narrative",
         "date": "May 6-23, 2019",
-        "field": "2019-06-23",
+        "field": "2019-05-23",
         "method": "Online",
         "jurisdiction": "PE",
         "poll": [
@@ -5596,7 +5596,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "January 16, 2022",
-        "field": "2022-02-16",
+        "field": "2022-01-16",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -5631,7 +5631,7 @@
         "moe": 3,
         "company": "Angus Reid",
         "date": "January 12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5669,7 +5669,7 @@
         "n": 1024,
         "company": "Mainstreet",
         "date": "January 8, 2022",
-        "field": "2022-02-08",
+        "field": "2022-01-08",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -5700,7 +5700,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "November 28, 2021",
-        "field": "2021-12-28",
+        "field": "2021-11-28",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5735,7 +5735,7 @@
         "moe": 3.1,
         "company": "Nanos",
         "date": "February 25, 2022",
-        "field": "2022-03-25",
+        "field": "2022-02-25",
         "method": "Telephone",
         "jurisdiction": "Canada",
         "poll": [
@@ -5769,7 +5769,7 @@
         "n": 716,
         "company": "Angus Reid",
         "date": "October 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5808,7 +5808,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "September 29, 2021",
-        "field": "2021-10-29",
+        "field": "2021-09-29",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5842,7 +5842,7 @@
         "n": 1500,
         "company": "Synopsis",
         "date": "August 30, 2021",
-        "field": "2021-09-30",
+        "field": "2021-08-30",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5877,7 +5877,7 @@
         "moe": 3,
         "company": "Angus Reid",
         "date": "June 8, 2021",
-        "field": "2021-07-08",
+        "field": "2021-06-08",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5916,7 +5916,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "May 1, 2021",
-        "field": "2021-06-01",
+        "field": "2021-05-01",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -5951,7 +5951,7 @@
         "moe": 3.1,
         "company": "Mainstreet",
         "date": "February 9, 2021",
-        "field": "2021-03-09",
+        "field": "2021-02-09",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -5982,7 +5982,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "December 13, 2020",
-        "field": "2021-01-13",
+        "field": "2020-12-13",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6012,7 +6012,7 @@
         "n": 768,
         "company": "Angus Reid",
         "date": "November 30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6051,7 +6051,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "November 25, 2020",
-        "field": "2020-12-25",
+        "field": "2020-11-25",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6082,7 +6082,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "October 18, 2020",
-        "field": "2020-11-18",
+        "field": "2020-10-18",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6113,7 +6113,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "September 3, 2020",
-        "field": "2020-10-03",
+        "field": "2020-09-03",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6144,7 +6144,7 @@
         "moe": 1.5,
         "company": "EKOS",
         "date": "August 28, 2020",
-        "field": "2020-09-28",
+        "field": "2020-08-28",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6174,7 +6174,7 @@
         "n": 565,
         "company": "Innovative",
         "date": "July 14-20, 2020",
-        "field": "2020-08-20",
+        "field": "2020-07-20",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6205,7 +6205,7 @@
         "moe": 2.5,
         "company": "EKOS",
         "date": "July 3, 2020",
-        "field": "2020-08-03",
+        "field": "2020-07-03",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6235,7 +6235,7 @@
         "n": 263,
         "company": "Innovative",
         "date": "June 23, 2020",
-        "field": "2020-07-23",
+        "field": "2020-06-23",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6266,7 +6266,7 @@
         "moe": 3,
         "company": "Léger",
         "date": "June 21, 2020",
-        "field": "2020-07-21",
+        "field": "2020-06-21",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6296,7 +6296,7 @@
         "n": 257,
         "company": "Innovative",
         "date": "June 1, 2020",
-        "field": "2020-07-01",
+        "field": "2020-06-01",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6327,7 +6327,7 @@
         "moe": 3,
         "company": "Léger",
         "date": "May 25, 2020",
-        "field": "2020-06-25",
+        "field": "2020-05-25",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6358,7 +6358,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "September 7-20, 2021",
-        "field": "2021-10-20",
+        "field": "2021-09-20",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6389,7 +6389,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "June 2-11, 2021",
-        "field": "2021-07-11",
+        "field": "2021-06-11",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6420,7 +6420,7 @@
         "moe": 4,
         "company": "Angus Reid",
         "date": "June 2-7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -6451,7 +6451,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "March 10-26, 2021",
-        "field": "2021-04-26",
+        "field": "2021-03-26",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6482,7 +6482,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "Nov. 24-Dec. 4, 2020",
-        "field": "2021-01-04",
+        "field": "2020-12-04",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6513,7 +6513,7 @@
         "moe": 4.8,
         "company": "Angus Reid",
         "date": "November 24-30, 2020",
-        "field": "2020-12-30",
+        "field": "2020-11-30",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -6544,7 +6544,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "September 8-17, 2020",
-        "field": "2020-10-17",
+        "field": "2020-09-17",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6575,7 +6575,7 @@
         "moe": 2.9,
         "company": "EKOS",
         "date": "July 24-Aug. 26, 2020",
-        "field": "2020-09-26",
+        "field": "2020-08-26",
         "method": "IVR",
         "jurisdiction": "MB",
         "poll": [
@@ -6606,7 +6606,7 @@
         "moe": 2.4,
         "company": "EKOS",
         "date": "June 16-July 23, 2020",
-        "field": "2020-08-23",
+        "field": "2020-07-23",
         "method": "IVR",
         "jurisdiction": "MB",
         "poll": [
@@ -6637,7 +6637,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "June 2-11, 2020",
-        "field": "2020-07-11",
+        "field": "2020-06-11",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6668,7 +6668,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "March 10-24, 2020",
-        "field": "2020-04-24",
+        "field": "2020-03-24",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6698,7 +6698,7 @@
         "n": 200,
         "company": "Innovative",
         "date": "May 29-June 3, 2020",
-        "field": "2020-07-03",
+        "field": "2020-06-03",
         "method": "Online",
         "jurisdiction": "MB",
         "poll": [
@@ -6725,7 +6725,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "March 10-24, 2020",
-        "field": "2020-04-24",
+        "field": "2020-03-24",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6756,7 +6756,7 @@
         "moe": 3.1,
         "company": "Probe",
         "date": "Nov. 27-Dec. 10, 2019",
-        "field": "2020-01-10",
+        "field": "2019-12-10",
         "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
@@ -6786,7 +6786,7 @@
         "n": 739,
         "company": "Angus Reid",
         "date": "May 24, 2020",
-        "field": "2020-06-24",
+        "field": "2020-05-24",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6820,7 +6820,7 @@
         "n": 257,
         "company": "Innovative",
         "date": "May 5, 2020",
-        "field": "2020-06-05",
+        "field": "2020-05-05",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6851,7 +6851,7 @@
         "moe": 4.1,
         "company": "EKOS",
         "date": "March 26, 2020",
-        "field": "2020-04-26",
+        "field": "2020-03-26",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -6882,7 +6882,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "March 16, 2020",
-        "field": "2020-04-16",
+        "field": "2020-03-16",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6913,7 +6913,7 @@
         "moe": 3.7,
         "company": "Angus Reid",
         "date": "February 28, 2020",
-        "field": "2020-03-28",
+        "field": "2020-02-28",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6948,7 +6948,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "February 17, 2020",
-        "field": "2020-03-17",
+        "field": "2020-02-17",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -6975,7 +6975,7 @@
         "moe": 2.8,
         "company": "Léger",
         "date": "January 15, 2020",
-        "field": "2020-02-15",
+        "field": "2020-01-15",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7006,7 +7006,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "November 25, 2019",
-        "field": "2019-12-25",
+        "field": "2019-11-25",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7037,7 +7037,7 @@
         "moe": 3,
         "company": "Forum",
         "date": "July 24, 2019",
-        "field": "2020-08-24",
+        "field": "2020-07-24",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7068,7 +7068,7 @@
         "moe": 3.3,
         "company": "Mainstreet",
         "date": "July 2, 2019",
-        "field": "2019-08-02",
+        "field": "2019-07-02",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -7099,7 +7099,7 @@
         "moe": 2.5,
         "company": "Forum",
         "date": "June 12, 2019",
-        "field": "2019-07-12",
+        "field": "2019-06-12",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7130,7 +7130,7 @@
         "moe": 3,
         "company": "Léger",
         "date": "May 21, 2019",
-        "field": "2019-06-21",
+        "field": "2019-05-21",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7161,7 +7161,7 @@
         "moe": 3.2,
         "company": "Mainstreet",
         "date": "March 21, 2019",
-        "field": "2019-04-21",
+        "field": "2019-03-21",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7192,7 +7192,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "March 11, 2019",
-        "field": "2019-04-11",
+        "field": "2019-03-11",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7223,7 +7223,7 @@
         "moe": 3.1,
         "company": "Léger",
         "date": "January 28, 2019",
-        "field": "2019-02-28",
+        "field": "2019-01-28",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7254,7 +7254,7 @@
         "moe": 3.1,
         "company": "Mainstreet",
         "date": "January 18, 2019",
-        "field": "2019-02-18",
+        "field": "2019-01-18",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -7285,7 +7285,7 @@
         "moe": 3.3,
         "company": "Mainstreet",
         "date": "November 7, 2018",
-        "field": "2018-12-07",
+        "field": "2018-11-07",
         "method": "IVR",
         "jurisdiction": "QC",
         "poll": [
@@ -7316,7 +7316,7 @@
         "moe": 4.9,
         "company": "MQO",
         "date": "December 14, 2021",
-        "field": "2022-01-14",
+        "field": "2021-12-14",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7347,7 +7347,7 @@
         "moe": 3.5,
         "company": "Narrative",
         "date": "November 24, 2021",
-        "field": "2021-12-24",
+        "field": "2021-11-24",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7378,7 +7378,7 @@
         "moe": 2.8,
         "company": "Stratcom",
         "date": "November 6, 2021",
-        "field": "2021-12-06",
+        "field": "2021-11-06",
         "method": "IVR",
         "jurisdiction": "NB",
         "poll": [
@@ -7405,7 +7405,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "October 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "NB",
         "poll": [
@@ -7440,7 +7440,7 @@
         "moe": 2,
         "company": "Narrative",
         "date": "August 17, 2021",
-        "field": "2021-09-17",
+        "field": "2021-08-17",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7471,7 +7471,7 @@
         "moe": 2,
         "company": "Angus Reid",
         "date": "June 7, 2021",
-        "field": "2021-07-07",
+        "field": "2021-06-07",
         "method": "Online",
         "jurisdiction": "NB",
         "poll": [
@@ -7502,7 +7502,7 @@
         "moe": 3.5,
         "company": "Narrative",
         "date": "May 31, 2021",
-        "field": "2021-07-01",
+        "field": "2021-05-31",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7533,7 +7533,7 @@
         "moe": 4.9,
         "company": "MQO",
         "date": "March 18, 2021",
-        "field": "2021-04-18",
+        "field": "2021-03-18",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7564,7 +7564,7 @@
         "moe": 3.5,
         "company": "Narrative",
         "date": "February 17, 2021",
-        "field": "2021-03-17",
+        "field": "2021-02-17",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7595,7 +7595,7 @@
         "moe": 3.5,
         "company": "Narrative",
         "date": "November 22, 2020",
-        "field": "2020-12-22",
+        "field": "2020-11-22",
         "method": "Telephone",
         "jurisdiction": "NB",
         "poll": [
@@ -7626,7 +7626,7 @@
         "moe": 6,
         "company": "Angus Reid",
         "date": "January 7-12, 2022",
-        "field": "2022-02-12",
+        "field": "2022-01-12",
         "method": "Online",
         "jurisdiction": "NS",
         "poll": [
@@ -7657,7 +7657,7 @@
         "moe": 4.9,
         "company": "MQO",
         "date": "November 14-24, 2021",
-        "field": "2021-12-24",
+        "field": "2021-11-24",
         "method": "Telephone",
         "jurisdiction": "NS",
         "poll": [
@@ -7688,7 +7688,7 @@
         "moe": 4.2,
         "company": "Narrative",
         "date": "November 4-21, 2021",
-        "field": "2021-12-21",
+        "field": "2021-11-21",
         "method": "Telephone",
         "jurisdiction": "NS",
         "poll": [
@@ -7718,7 +7718,7 @@
         "n": 264,
         "company": "Angus Reid",
         "date": "Sep. 29-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Telephone",
         "jurisdiction": "NS",
         "poll": [
@@ -7749,7 +7749,7 @@
         "moe": 5.5,
         "company": "MQO",
         "date": "Nov. 19-Dec. 5, 2021",
-        "field": "2022-01-05",
+        "field": "2021-12-05",
         "method": "Telephone",
         "jurisdiction": "NL",
         "poll": [
@@ -7776,7 +7776,7 @@
         "moe": 3.5,
         "company": "Narrative",
         "date": "November 2-23, 2021",
-        "field": "2022-12-23",
+        "field": "2022-11-23",
         "method": "Telephone",
         "jurisdiction": "NL",
         "poll": [
@@ -7802,7 +7802,7 @@
         "n": 203,
         "company": "Angus Reid",
         "date": "Sep. 29-Oct. 3, 2021",
-        "field": "2021-11-03",
+        "field": "2021-10-03",
         "method": "Online",
         "jurisdiction": "NL",
         "poll": [
@@ -7829,7 +7829,7 @@
         "moe": 4.9,
         "company": "Narrative",
         "date": "August 9-29, 2021",
-        "field": "2021-09-29",
+        "field": "2021-08-29",
         "method": "Telephone",
         "jurisdiction": "NL",
         "poll": [
@@ -7855,7 +7855,7 @@
         "n": 1591,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
@@ -7889,7 +7889,7 @@
         "n": 1013,
         "company": "Léger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "QC",
         "poll": [
@@ -7923,7 +7923,7 @@
         "n": 158,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_BC",
         "poll": [
@@ -7957,7 +7957,7 @@
         "n": 123,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_AB",
         "poll": [
@@ -7991,7 +7991,7 @@
         "n": 105,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_SKMB",
         "poll": [
@@ -8025,7 +8025,7 @@
         "n": 500,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_ON",
         "poll": [
@@ -8059,7 +8059,7 @@
         "n": 369,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_QC",
         "poll": [
@@ -8097,7 +8097,7 @@
         "n": 83,
         "company": "Leger",
         "date": "March 4-6, 2022",
-        "field": "2022-04-06",
+        "field": "2022-03-06",
         "method": "Online",
         "jurisdiction": "Canada_ATL",
         "poll": [
@@ -8130,7 +8130,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_BC",
         "poll": [
@@ -8163,7 +8163,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_AB",
         "poll": [
@@ -8196,7 +8196,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_SKMB",
         "poll": [
@@ -8229,7 +8229,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_ON",
         "poll": [
@@ -8262,7 +8262,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_QC",
         "poll": [
@@ -8299,7 +8299,7 @@
     {
         "company": "Abacus",
         "date": "February 22, 2022",
-        "field": "2022-03-22",
+        "field": "2022-02-22",
         "method": "Online",
         "jurisdiction": "Canada_ATL",
         "poll": [
@@ -8333,7 +8333,7 @@
         "company": "Mainstreet",
         "n": 173,
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_BC",
         "poll": [
@@ -8367,7 +8367,7 @@
         "company": "Mainstreet",
         "n": 144,
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_AB",
         "poll": [
@@ -8400,7 +8400,7 @@
     {
         "company": "Mainstreet",
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_SKMB",
         "poll": [
@@ -8433,7 +8433,7 @@
     {
         "company": "Mainstreet",
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_ON",
         "poll": [
@@ -8466,7 +8466,7 @@
     {
         "company": "Mainstreet",
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_QC",
         "poll": [
@@ -8503,7 +8503,7 @@
     {
         "company": "Mainstreet",
         "date": "February 17, 2022",
-        "field": "2022-03-17",
+        "field": "2022-02-17",
         "method": "IVR",
         "jurisdiction": "Canada_ATL",
         "poll": [
