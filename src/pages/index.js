@@ -1,44 +1,56 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-import PollingContent from "../components/PollingContent"
 import DashProvince from "../components/DashProvince"
 import DashCanada from "../components/DashCanada"
 
-import polls from "../../content/polls.json"
-import elections from "../../content/elections.json"
-import parties from "../../content/parties.json"
+const provinces = [
+  "BC",
+  "AB",
+  "SK",
+  "MB",
+  "ON",
+  "QC",
+  "NB",
+  "PE",
+  "NS",
+  "NL",
+]
 
-const IndexPage = () => (
+const federalJurisdictions = [
+  "Canada_BC",
+  "Canada_AB",
+  "Canada_SKMB",
+  "Canada_ON",
+  "Canada_QC",
+  "Canada_ATL",
+]
+
+const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
     <h1>Welcome to Polling Canada!</h1>
     <h2>Provincial Polls</h2>
     <div className="dashProvs">
-    <DashProvince jurisdiction="BC"/>
-    <DashProvince jurisdiction="AB"/>
-    <DashProvince jurisdiction="SK"/>
-    <DashProvince jurisdiction="MB"/>
-    <DashProvince jurisdiction="ON"/>
-    <DashProvince jurisdiction="QC"/>
-    <DashProvince jurisdiction="NB"/>
-    <DashProvince jurisdiction="PE"/>
-    <DashProvince jurisdiction="NS"/>
-    <DashProvince jurisdiction="NL"/>
+      {provinces.map(jurisdiction => (
+        <Link to={`/${jurisdiction}-${data[`election${jurisdiction}`].nodes[0].year}`}>
+          <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
+        </Link>
+      ))} 
     </div>
     <h2>Federal Polls</h2>
-    <DashCanada />
+    <Link to={`Canada-${data.electionCanada.nodes[0].year}`}>
+      <DashCanada polls={data.pollsCanada} election={data.electionCanada.nodes[0]}/>
+    </Link>
     <div className="dashFed">
-    <DashProvince jurisdiction="Canada_BC"/>
-    <DashProvince jurisdiction="Canada_AB"/>
-    <DashProvince jurisdiction="Canada_SKMB"/>
-    <DashProvince jurisdiction="Canada_ON"/>
-    <DashProvince jurisdiction="Canada_QC"/>
-    <DashProvince jurisdiction="Canada_ATL"/>
+      {federalJurisdictions.map(jurisdiction => (
+        <Link to={`/${jurisdiction}-${data[`election${jurisdiction}`].nodes[0].year}`}>
+          <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
+        </Link>
+      ))}
     </div>
 
     <h2>About Polling Canada</h2>
@@ -54,3 +66,228 @@ const IndexPage = () => (
 )
 
 export default IndexPage
+export const query = graphql`
+  query {
+    pollsCanada: recentElectionPolls(jurisdiction: "Canada") {
+      ...PollInformation
+    }
+    electionCanada: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsBC: recentElectionPolls(jurisdiction: "BC") {
+      ...PollInformation
+    }
+    electionBC: allElectionsJson(
+      filter: {jurisdiction: {eq: "BC"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsAB: recentElectionPolls(jurisdiction: "AB") {
+      ...PollInformation
+    }
+    electionAB: allElectionsJson(
+      filter: {jurisdiction: {eq: "AB"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsSK: recentElectionPolls(jurisdiction: "SK") {
+      ...PollInformation
+    }
+    electionSK: allElectionsJson(
+      filter: {jurisdiction: {eq: "SK"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsMB: recentElectionPolls(jurisdiction: "MB") {
+      ...PollInformation
+    }
+    electionMB: allElectionsJson(
+      filter: {jurisdiction: {eq: "MB"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+            year: date(formatString: "YYYY")
+        }
+    }
+    pollsON: recentElectionPolls(jurisdiction: "ON") {
+      ...PollInformation
+    }
+    electionON: allElectionsJson(
+      filter: {jurisdiction: {eq: "ON"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsQC: recentElectionPolls(jurisdiction: "QC") {
+      ...PollInformation
+    }
+    electionQC: allElectionsJson(
+      filter: {jurisdiction: {eq: "QC"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsNB: recentElectionPolls(jurisdiction: "NB") {
+      ...PollInformation
+    }
+    electionNB: allElectionsJson(
+      filter: {jurisdiction: {eq: "NB"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsPE: recentElectionPolls(jurisdiction: "PE") {
+      ...PollInformation
+    }
+    electionPE: allElectionsJson(
+      filter: {jurisdiction: {eq: "PE"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsNS: recentElectionPolls(jurisdiction: "NS") {
+      ...PollInformation
+    }
+    electionNS: allElectionsJson(
+      filter: {jurisdiction: {eq: "NS"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsNL: recentElectionPolls(jurisdiction: "NL") {
+      ...PollInformation
+    }
+    electionNL: allElectionsJson(
+      filter: {jurisdiction: {eq: "NL"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_BC: recentElectionPolls(jurisdiction: "Canada_BC") {
+      ...PollInformation
+    }
+    electionCanada_BC: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_BC"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_AB: recentElectionPolls(jurisdiction: "Canada_AB") {
+      ...PollInformation
+    }
+    electionCanada_AB: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_AB"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_SKMB: recentElectionPolls(jurisdiction: "Canada_SKMB") {
+      ...PollInformation
+    }
+    electionCanada_SKMB: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_SKMB"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_ON: recentElectionPolls(jurisdiction: "Canada_ON") {
+      ...PollInformation
+    }
+    electionCanada_ON: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_ON"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_QC: recentElectionPolls(jurisdiction: "Canada_QC") {
+      ...PollInformation
+    }
+    electionCanada_QC: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_QC"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+    pollsCanada_ATL: recentElectionPolls(jurisdiction: "Canada_ATL") {
+      ...PollInformation
+    }
+    electionCanada_ATL: allElectionsJson(
+      filter: {jurisdiction: {eq: "Canada_ATL"}}
+      sort: {fields: date, order: DESC}
+      limit: 1
+    ) {
+        nodes {
+          ...ElectionInformation
+          year: date(formatString: "YYYY")
+        }
+    }
+  }
+`

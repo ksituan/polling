@@ -1,7 +1,5 @@
 import * as React from "react"
 
-import polls from "../../content/polls.json"
-import elections from "../../content/elections.json"
 import parties from "../../content/parties.json"
 
 import "../css/sandbox.css"
@@ -76,21 +74,7 @@ let brandColours = {
     return(text);
   }
   
-  function getElection(jurisdiction, date) {
-  
-    // Returns the last election before a particular date
-  
-    let relevantElections = elections.content[jurisdiction];
-    relevantElections.map(election => {election.delta = (date - new Date(election.date)); return(election)});
-    let relevantElection = relevantElections.filter(election => election.delta >= 0);
-    let latestDate = Math.min(...relevantElection.map(election => election.delta));
-    relevantElection = relevantElection.filter(election => election.delta === latestDate)[0];
-  
-    return(relevantElection);
-    
-  }
-  
-  function Chart({poll, id}) {
+  function Chart({poll, id, lastElection}) {
   
       let chartWidth = 1600;
       let chartHeight = 900;
@@ -105,12 +89,8 @@ let brandColours = {
       let bj = poll.jurisdiction.split("_")[0];
       let pinfo = parties.content[bj];
   
-      // Find the last election before this poll
-  
-      let relevantElection = getElection(poll.jurisdiction, new Date(poll.field));
-  
       let maxBar = Math.max(...poll.poll.map(party => party.score));
-      let maxHist = Math.max(...relevantElection.results.map(party => party.score));
+      let maxHist = Math.max(...lastElection.results.map(party => party.score));
       let barScale = (chartHeight - bottom - barPadding * 2) / Math.max(maxBar, maxHist);
   
       return (
@@ -119,7 +99,7 @@ let brandColours = {
           {poll.poll.map((party, i) => {
             let ac = party.party;
             let pp = Math.round(party.score);
-            let hist = Math.round(relevantElection.results.filter(party => party.party === ac)[0]?.score || -1);
+            let hist = Math.round(lastElection.results.filter(party => party.party === ac)[0]?.score || -1);
             return(
             <g>
               <rect
@@ -206,7 +186,7 @@ let brandColours = {
       );
   }
   
-  function Row({poll, active, onClickRow}) {
+  function Row({poll, lastElection, active, onClickRow}) {
 
     let bj = poll.jurisdiction.split("_")[0];
     let pinfo = parties.content[bj];
@@ -217,7 +197,7 @@ let brandColours = {
     
     return (
       <div className="pollRow">
-      {active && <Chart poll={poll} id={PollID(poll)} />}
+      {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <a className="pollLink" href={"#" + PollID(poll)} onClick={onClickRow}>
         <div className="pollInfo" bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()}</div>
         <div className="pollInfo" bgcolor="white">{poll.company}</div>
@@ -231,36 +211,16 @@ let brandColours = {
     );
   }
   
-  function filterPolls(polls, jurisdiction, election) {
-  
-    let filtered = polls.content.filter(poll => poll.jurisdiction === jurisdiction);
-    filtered = filtered.sort((a, b) => new Date(b.field) - new Date(a.field));
-  
-    let startDate = new Date(election.date);
-  
-    // List either ends today, or at the next election
-  
-    let elecs = elections.content[jurisdiction]
-    elecs = elecs.filter(election => new Date(election.date) > startDate);
-    let nextElec = Math.min.apply(null, elecs.map(election => new Date(election.date)));
-  
-    let endDate = new Date(nextElec !== Infinity ? nextElec : Date());
-  
-    filtered = filtered.filter(poll => new Date(poll.field) > startDate && new Date(poll.field) < endDate);
-  
-    return(filtered);
-  }
-  
-  function ResultsTable({pollList, activePoll, onClickRow}) {
+  function ResultsTable({pollList, lastElection, activePoll, onClickRow}) {
     return(
       <table>
-        {pollList.map((poll, index) => <Row poll={poll} active={activePoll===index} onClickRow={onClickRow(index)}/>)}
+        {pollList.map((poll, index) => <Row poll={poll} lastElection={lastElection} active={activePoll===index} onClickRow={onClickRow(index)}/>)}
       </table>
     );
   }
   
-  function PollingContent({jurisdiction, election}) {
-    let pollList = filterPolls(polls, jurisdiction, election);
+  function PollingContent({polls, jurisdiction, election, endDate}) {
+    let pollList = polls;
     let [pollsActive, setPollsActive] = useState(null);
   
     function handleClickRow(rowIndex) {
@@ -277,36 +237,28 @@ let brandColours = {
   
     return(
       <div>
-        <Scatterplot jurisdiction={jurisdiction} election={election} onClickPoll={handleClickPoll} />
-        <ResultsTable pollList={pollList} onClickRow={handleClickRow} activePoll={pollsActive} />
+        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
+        <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
       </div>
     )
   }
   
   function PollID(poll) {
-    let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field.join('-');
+    let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field;
     return(id);
   }
   
-  function Scatterplot({jurisdiction, election, onClickPoll}) {
+  function Scatterplot({polls, jurisdiction, election, endDate, onClickPoll}) {
 
     let plotWidth = 1600;
     let plotHeight = 900;
     let padding = 50;
   
     let electionObject = {field: election.date, poll: election.results.sort((a, b) => a.score - b.score)};
-    let pollList = filterPolls(polls, jurisdiction, election);
+    let pollList = [...polls];
     pollList.push(electionObject);
   
     let startDate = new Date(election.date);
-  
-    // Chart either ends today, or at the next election
-  
-    let elecs = elections.content[jurisdiction]
-    elecs = elecs.filter(election => new Date(election.date) > startDate);
-    let nextElec = Math.min.apply(null, elecs.map(election => new Date(election.date)));
-  
-    let endDate = new Date(nextElec !== Infinity ? nextElec : Date());
   
     // We can now scale objects based on the graph's span
   
