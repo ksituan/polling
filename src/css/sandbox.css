@@ -6,7 +6,7 @@
 
 @keyframes svgload {
     0%   {margin-bottom: -200px; margin-top: 0px;}
-    100% {margin-bottom: 30px; margin-top: 60px;}
+    100% {margin-bottom: 0px; margin-top: 60px;}
   }
 
 .poll {

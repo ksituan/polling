@@ -199,13 +199,22 @@ let brandColours = {
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <a className="pollLink" href={"#" + PollID(poll)} onClick={onClickRow}>
-        <div className="pollInfo" bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()}</div>
+        <div className="pollInfo" bgcolor="white">{field.getFullYear()}-{field.getMonth()+1}-{field.getDate()+1}</div>
         <div className="pollInfo" bgcolor="white">{poll.company}</div>
-      {poll.poll.map((party, i) => (
-        <div className="pollEntry" style={{backgroundColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
-          {Math.round(party.score)}
+        <div className="entryContainer">
+      {poll.poll.map((party, i) => {
+        let hist = Math.round(lastElection.results.filter(x => x.party === party.party)[0]?.score);
+        return (hist < party.score || Number.isNaN(hist)) ?
+        <div className="pollEntry" style={{backgroundColor: brandColours[pinfo[party.party]?.colour || "gray"], borderColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
+          <div className="pollScore">{Math.round(party.score)}</div>
+          <div className="pollParty">{party.party}</div>
+        </div> :
+        <div className="pollEntry" style={{borderColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
+          <div className="pollScore">{Math.round(party.score)}</div>
+          <div className="pollParty">{party.party}</div>
         </div>
-      ))}
+      })}
+      </div>
       </a>
       </div>
     );
