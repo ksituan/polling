@@ -222,9 +222,9 @@ let brandColours = {
   
   function ResultsTable({pollList, lastElection, activePoll, onClickRow}) {
     return(
-      <table>
+      <div className="pollTable">
         {pollList.map((poll, index) => <Row poll={poll} lastElection={lastElection} active={activePoll===index} onClickRow={onClickRow(index)}/>)}
-      </table>
+      </div>
     );
   }
   
@@ -247,6 +247,7 @@ let brandColours = {
     return(
       <div>
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
+        <p>Click polls for more details.</p>
         <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
       </div>
     )
