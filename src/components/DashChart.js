@@ -1,5 +1,5 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 import parties from "../../content/parties.json"
 
@@ -17,12 +17,12 @@ let title = {
     NS: "Nova Scotia",
     NL: "Newfoundland & Lab.",
     YT: "Yukon",
-    Canada_BC: "B.C. (federal)",
-    Canada_AB: "Alberta (federal)",
-    Canada_SKMB: "Sask./Man. (federal)",
-    Canada_ON: "Ontario (federal)",
-    Canada_QC: "Quebec (federal)",
-    Canada_ATL: "Atlantic (federal)",
+    Canada_BC: "British Columbia",
+    Canada_AB: "Alberta",
+    Canada_SKMB: "Sask./Man.",
+    Canada_ON: "Ontario",
+    Canada_QC: "Quebec",
+    Canada_ATL: "Atlantic",
     Canada: "Canada"
   }
 
@@ -155,6 +155,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     return(
         <div className={className}>
+        <Link to={`/${jurisdiction}-${election.year}`} style={{textDecoration: "none"}}>
         <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
             <rect width={plotWidth} height={plotHeight} fill="white" />
             {validParties.map(party => { let line = rollingAverage(dayArray, party);
@@ -174,6 +175,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
         </svg>
         <div className={`${className}Title`}>{title[jurisdiction]}</div>
+        </Link>
         </div>
     );
 }

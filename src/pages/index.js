@@ -36,9 +36,7 @@ const IndexPage = ({pageContext, data}) => (
     <h1>Provincial Polls</h1>
     <div className="dashProvs">
       {provinces.map(jurisdiction => (
-        <Link to={`/${jurisdiction}-${data[`election${jurisdiction}`].nodes[0].year}`}>
-          <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
-        </Link>
+        <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
       ))} 
     </div>
     <h1>Federal Polls</h1>
@@ -47,9 +45,7 @@ const IndexPage = ({pageContext, data}) => (
     </Link>
     <div className="dashFed">
       {federalJurisdictions.map(jurisdiction => (
-        <Link to={`/${jurisdiction}-${data[`election${jurisdiction}`].nodes[0].year}`}>
-          <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
-        </Link>
+        <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
       ))}
     </div>
 

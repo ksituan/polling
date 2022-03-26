@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
 
 .poll text {
     font-family: Karla;
@@ -66,61 +67,46 @@ svg text {
 .dashProvs {
     margin: 0;
     display: grid;
-    grid-template-rows: repeat(2, 20%);
-    grid-template-columns: repeat(5, 20%);
-    column-gap: 1rem;
-    row-gap: 1rem;
+    grid-template-columns: repeat(5, 1fr);
 }
 
 .dashFed {
     margin-top: 1rem;
     display: grid;
-    grid-template-rows: repeat(1, 20%);
-    grid-template-columns: repeat(6, 17%);
-    column-gap: 1rem;
-    row-gap: 1rem;
+    grid-template-columns: repeat(6, 1fr);
 }
 
 @media (max-width: 600px) {
 
     .dashProvs {
-        grid-template-rows: repeat(5, 25%);
-        grid-template-columns: repeat(2, 50%);
+        grid-template-columns: repeat(2, 1fr);
     }
     
     .dashFed {
-        grid-template-rows: repeat(2, 20%);
-        grid-template-columns: repeat(3, 33%);
+        grid-template-columns: repeat(3, 1fr);
     }
 
 }
 
 .dashProvince {
-    border: 2px solid pink;
     background-color: white;
-    filter: drop-shadow(0.25rem 0.25rem 0 pink);
+    justify-self: stretch;
 }
 
 .dashProvinceTitle {
-    font-family: Karla;
+    font-family: Inter;
     font-weight: bold;
+    color: black;
     text-align: center;
     padding-bottom: 0.5rem;
     margin-top: -1rem;
 }
 
-.dashCanada {
-    grid-column-start: span 6;
-    width: 800px;
-    border: 2px solid pink;
-    background-color: white;
-    filter: drop-shadow(0.25rem 0.25rem 0 pink);
-}
-
 .dashCanadaTitle {
-    font-family: Karla;
-    font-size: x-large;
+    font-family: Inter;
+    font-size: 18pt;
     font-weight: bold;
+    color: black;
     text-align: center;
     padding-bottom: 0.5rem;
     margin-top: -2rem;

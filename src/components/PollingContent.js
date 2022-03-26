@@ -221,9 +221,32 @@ let brandColours = {
   }
   
   function ResultsTable({pollList, lastElection, activePoll, onClickRow}) {
+
+    // Get poll years
+
+    let pollYears = pollList.map((a) => new Date(a.field).getFullYear())
+
+    // Get unique poll years
+
+    let boundaryIndex = pollYears.reduce(
+      function (a, b) {
+        if (a.indexOf(b) === -1) {
+          a.push(b)
+        }
+        return a
+      }, []);
+
+    // Find the index of the first appearance of each unique poll year
+
+    boundaryIndex = boundaryIndex.map(x => pollYears.indexOf(x));
+
     return(
       <div className="pollTable">
-        {pollList.map((poll, index) => <Row poll={poll} lastElection={lastElection} active={activePoll===index} onClickRow={onClickRow(index)}/>)}
+        {pollList.map((poll, index) => 
+        <div>
+          {boundaryIndex.includes(index) && <h2>{new Date(poll.field).getFullYear()}</h2> }
+          <Row poll={poll} lastElection={lastElection} active={activePoll===index} onClickRow={onClickRow(index)}/>
+        </div>)}
       </div>
     );
   }

@@ -43,7 +43,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          <p>© {new Date().getFullYear()} // site by <a href="https://awmcphee.ca" target="_blank" rel="noreferrer">Prairie Heart Workshop</a></p>
+          <p>© {new Date().getFullYear()} {"//"} site by <a href="https://awmcphee.ca" target="_blank" rel="noreferrer">Prairie Heart Workshop</a></p>
         </footer>
       </div>
     </>
