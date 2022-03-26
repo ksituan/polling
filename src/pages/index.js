@@ -32,8 +32,8 @@ const federalJurisdictions = [
 const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
-    <h1>Welcome to Polling Canada!</h1>
-    <h2>Provincial Polls</h2>
+    <p>Polling Canada is your trusted and impartial source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank">Ko-fi</a>.</p>
+    <h1>Provincial Polls</h1>
     <div className="dashProvs">
       {provinces.map(jurisdiction => (
         <Link to={`/${jurisdiction}-${data[`election${jurisdiction}`].nodes[0].year}`}>
@@ -41,7 +41,7 @@ const IndexPage = ({pageContext, data}) => (
         </Link>
       ))} 
     </div>
-    <h2>Federal Polls</h2>
+    <h1>Federal Polls</h1>
     <Link to={`Canada-${data.electionCanada.nodes[0].year}`}>
       <DashCanada polls={data.pollsCanada} election={data.electionCanada.nodes[0]}/>
     </Link>
@@ -53,7 +53,7 @@ const IndexPage = ({pageContext, data}) => (
       ))}
     </div>
 
-    <h2>About Polling Canada</h2>
+    <h1>About</h1>
 
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to collect various bits of polling from around the country.</p>
     <p>I ensure that reputable polling data is provided to the public in a way that's clear, concise, and free of political commentary.</p>

@@ -1,25 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
 
 * {
-    max-width: max(80%, 1200px);
     margin: 0 auto;
+    max-width: min(90vw, 1000px);
 }
 
 h1 {
     text-align: center;
-    font-family: Karla;
-    font-size: 32pt;
-    margin: 2rem 0;
-    text-decoration: underline pink solid 6px;
+    font-family: Inter;
+    font-size: 40pt;
+    font-weight: 900;
+    margin: 3rem 0;
+    background-image: url(spectrum.svg);
+    background-repeat: repeat-x;
+    background-size: 100% 1rem;
+    background-position: left bottom 0px; 
+    background-position-x: var(--scrollPos);
 }
 
 h2 {
     text-align: center;
-    font-family: Karla;
+    font-family: Inter;
     font-size: 24pt;
+    font-weight: 900;
     margin: 2rem 0;
-    text-decoration: underline solid pink  4px;
 }
 
 h3 {
@@ -29,9 +35,10 @@ h3 {
 }
 
 p {
-    font-family: Roboto;
-    margin: 1rem 0;
-    font-size: larger;
+    font-family: Inter;
+    margin: 2rem 0;
+    font-size: 16pt;
+    line-height: 175%;
 }
 
 .pollTable {

@@ -9,7 +9,7 @@ export default function SingleProvince({pageContext, data}) {
     const election = data.electionsJson;
     return(
         <Layout>
-            <h2>{jurisdictionName}</h2>
+            <h1>{jurisdictionName}</h1>
             <PollingContent polls={polls} jurisdiction={jurisdiction} election={election} endDate={new Date(beforeDate)}/>
         </Layout>
     )

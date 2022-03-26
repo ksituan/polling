@@ -23,23 +23,25 @@ const Layout = ({ children }) => {
     }
   `)
 
+  window.addEventListener("scroll", () => {
+    // Dealing with Safari difference.
+    // look into scrollingElement https://caniuse.com/#feat=document-scrollingelement
+    let scrollTop = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop; 
+    let newPos = scrollTop + "px";
+    document.documentElement.style.setProperty('--scrollPos', newPos);
+  });
+
   return (
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
+      <div>
         <main>{children}</main>
         <footer
           style={{
             marginTop: `2rem`,
           }}
         >
-          <p>© {new Date().getFullYear()} // <a href="https://awmcphee.ca">Prairie Heart Workshop</a></p>
+          <p>© {new Date().getFullYear()} // site by <a href="https://awmcphee.ca" target="_blank">Prairie Heart Workshop</a></p>
         </footer>
       </div>
     </>
