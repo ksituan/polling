@@ -402,11 +402,11 @@
         "results": [
             {
                 "party": "NDP",
-                "score": 33.3
+                "score": 33.6
             },
             {
                 "party": "PCPO",
-                "score": 40.2
+                "score": 40.5
             },
             {
                 "party": "GPO",
@@ -414,11 +414,11 @@
             },
             {
                 "party": "OLP",
-                "score": 19.4
+                "score": 19.6
             },
             {
                 "party": "Others",
-                "score": 2.5
+                "score": 1.7
             }
         ],
         "jurisdiction": "ON"
