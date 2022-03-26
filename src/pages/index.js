@@ -32,7 +32,7 @@ const federalJurisdictions = [
 const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
-    <p>Polling Canada is your trusted and impartial source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>.</p>
+    <p>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
     <h1>Provincial Polls</h1>
     <div className="dashProvs">
       {provinces.map(jurisdiction => (
@@ -51,8 +51,8 @@ const IndexPage = ({pageContext, data}) => (
 
     <h1>About</h1>
 
-    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to collect various bits of polling from around the country.</p>
-    <p>I ensure that reputable polling data is provided to the public in a way that's clear, concise, and free of political commentary.</p>
+    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country.</p>
+    <p>I ensure reputable data reaches the public in an impartial manner.</p>
     <p>Find my accounts on Twitter here:</p>
     
     <p>

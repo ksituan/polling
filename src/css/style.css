@@ -11,7 +11,7 @@ h1 {
     text-align: center;
     font-family: Inter;
     font-size: 40pt;
-    font-weight: 900;
+    font-weight: 800;
     margin: 3rem 0;
     background-image: url(spectrum.svg);
     background-repeat: repeat-x;
@@ -39,6 +39,57 @@ p {
     margin: 2rem 0;
     font-size: 16pt;
     line-height: 175%;
+}
+
+.navMenu {
+    position: relative;
+    text-align: right;
+    margin-top: -5rem;
+    padding-bottom: 2rem;
+    background-image: url(spectrum.svg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-repeat: repeat-x;
+    background-size: 100vw;
+    background-position: left bottom 0px; 
+    background-position-x: var(--scrollPos);
+    background-color: skyblue;
+}
+
+.headerLink {
+    display: inline;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 24pt;
+    padding: 1rem;
+    color: transparent;
+    text-decoration: none;
+}
+
+p a {
+    background-image: url(spectrum.svg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-repeat: repeat-x;
+    background-size: 100vw;
+    background-position: left bottom 0px; 
+    background-position-x: var(--scrollPos);
+    color: transparent;
+    background-color: skyblue;
+    font-weight: 700;
+}
+
+.colourfulText {
+    background-image: url(spectrum.svg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-repeat: repeat-x;
+    background-size: 100vw;
+    background-position: left bottom 0px; 
+    background-position-x: var(--scrollPos);
+    color: transparent;
+    background-color: skyblue;
+    font-weight: 700;
 }
 
 .pollTable {

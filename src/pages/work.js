@@ -10,11 +10,11 @@ const work = () => (
     <h1>Work</h1>
     <h2>Background</h2>
     <p>I'm a social media manager with data, community, and Canadian politics experience.</p>
-    <p>Looking for social media or digital marketing services? Contact me at curtis # canadianpolling.ca.</p>
+    <p>Looking for social media or digital marketing services? Contact me at <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
     <h2>Experience</h2>
-    <p>2017-2022: Polling Canada</p>
-    <p>2020-2022: Mainstreet Research</p>
-    <p>2022: Spadina Fort York</p>
+    <p><span className="colourfulText">2017-2022</span> Owner-operator, Polling Canada</p>
+    <p><span className="colourfulText">2020-2022</span> Social media, Mainstreet Research</p>
+    <p><span className="colourfulText">2022</span> Social media, Spadina—Fort York NDP</p>
   </Layout>
 )
 

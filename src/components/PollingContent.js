@@ -270,7 +270,6 @@ let brandColours = {
     return(
       <div>
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
-        <p>Click polls for more details.</p>
         <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
       </div>
     )
@@ -425,7 +424,7 @@ let brandColours = {
                 stroke="#b0b0b0"
                 strokeLinecap="round"
                 strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
-                {day.getMonth() === 0 && <text fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.getYear() + 1900}</text>}
+                {day.getMonth() === 0 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.getYear() + 1900}</text>}
               </g>
             )}</g>
   
@@ -439,7 +438,6 @@ let brandColours = {
                 stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                 className={"trendline"}
                 fill="none"
-                strokeWidth="2"
                 d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
   

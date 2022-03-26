@@ -5,6 +5,10 @@
     font-family: Karla;
 }
 
+.siteHeader {
+    position: fixed;
+}
+
 @keyframes svgload {
     0%   {margin-bottom: -200px; margin-top: 0px;}
     100% {margin-bottom: 0px; margin-top: 60px;}
@@ -56,8 +60,8 @@
     stroke-width: 4px;
 }
 
-.trendline:hover {
-    stroke-width: 6px;
+.trendline {
+    stroke-width: 4px;
 }
 
 svg text {
@@ -68,6 +72,8 @@ svg text {
     margin: 0;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
+    justify-items: stretch;
+    justify-content: stretch;
 }
 
 .dashFed {
@@ -76,7 +82,21 @@ svg text {
     grid-template-columns: repeat(6, 1fr);
 }
 
-@media (max-width: 600px) {
+@media (min-width: 800px) {
+    .trendline:hover {
+        stroke-width: 8px;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .siteTitle {
+        visibility: hidden;
+    }
+
+    .siteHeader {
+        position: absolute;
+    }
 
     .dashProvs {
         grid-template-columns: repeat(2, 1fr);
@@ -86,11 +106,27 @@ svg text {
         grid-template-columns: repeat(3, 1fr);
     }
 
+    .trendline {
+        stroke-width: 12px;
+    }
+
+    .timeLabel {
+        visibility: hidden;
+    }
+
+    .scoreTicks {
+        visibility: hidden;
+    }
+
 }
 
 .dashProvince {
     background-color: white;
-    justify-self: stretch;
+    width: 100%;
+}
+
+.dashProvince svg {
+    display: block;
 }
 
 .dashProvinceTitle {
@@ -99,7 +135,7 @@ svg text {
     color: black;
     text-align: center;
     padding-bottom: 0.5rem;
-    margin-top: -1rem;
+    margin-top: -0.5rem;
 }
 
 .dashCanadaTitle {
