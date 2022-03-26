@@ -21,10 +21,9 @@ h1 {
 }
 
 h2 {
-    text-align: center;
     font-family: Inter;
     font-size: 24pt;
-    font-weight: 900;
+    font-weight: 700;
     margin: 2rem 0;
 }
 
@@ -90,15 +89,18 @@ p a {
     color: transparent;
     background-color: skyblue;
     font-weight: 700;
+    margin-right: 0.1rem;
+}
+
+.dateText {
+    color: gray;
+    font-size: 12pt;
+    margin-bottom: -1.75rem;
+    margin-top: -1rem;
 }
 
 .pollTable {
     width: 100vw;
-}
-
-.pollRow {
-    display: flexbox;
-    width: max(800px, 60%);
 }
 
 .pollRow a {
@@ -157,4 +159,14 @@ td {
     height: 4rem;
     text-align: center;
     vertical-align: middle;
+}
+
+footer {
+    position: absolute;
+    left: 0.5rem;
+}
+
+footer p {
+    font-size: 12pt;
+    margin: 1rem;
 }

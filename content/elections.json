@@ -376,23 +376,23 @@
         "results": [
             {
                 "party": "NDP",
-                "score": 31.6
+                "score": 31.3
             },
             {
                 "party": "PCPM",
-                "score": 46.8
+                "score": 46.5
             },
             {
                 "party": "GPM",
-                "score": 6.4
+                "score": 6.3
             },
             {
                 "party": "MLP",
-                "score": 14.6
+                "score": 14.5
             },
             {
                 "party": "Others",
-                "score": 0.6
+                "score": 1.4
             }
         ],
         "jurisdiction": "MB"

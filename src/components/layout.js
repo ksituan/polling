@@ -38,11 +38,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div>
         <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
+        <footer>
           <p>© {new Date().getFullYear()} {"//"} site by <a href="https://awmcphee.ca" target="_blank" rel="noreferrer">Prairie Heart Workshop</a></p>
         </footer>
       </div>

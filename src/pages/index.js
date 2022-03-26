@@ -54,11 +54,7 @@ const IndexPage = ({pageContext, data}) => (
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country.</p>
     <p>I ensure reputable data reaches the public in an impartial manner.</p>
     <p>Find my accounts on Twitter here:</p>
-    
-    <p>
-      <Link to="/faq/">Frequently Asked Questions</Link>
-    </p>
-  </Layout>
+    </Layout>
 )
 
 export default IndexPage

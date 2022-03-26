@@ -1,5 +1,4 @@
 import * as React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -9,12 +8,28 @@ const work = () => (
     <Seo title="Work" />
     <h1>Work</h1>
     <h2>Background</h2>
-    <p>I'm a social media manager with data, community, and Canadian politics experience.</p>
-    <p>Looking for social media or digital marketing services? Contact me at <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
+    <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Are you looking for someone with my background?</p>
+
     <h2>Experience</h2>
-    <p><span className="colourfulText">2017-2022</span> Owner-operator, Polling Canada</p>
-    <p><span className="colourfulText">2020-2022</span> Social media, Mainstreet Research</p>
-    <p><span className="colourfulText">2022</span> Social media, Spadina—Fort York NDP</p>
+    <p className="dateText">2017-present</p>
+    <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
+    <p className="dateText">2020-present</p>
+    <p><span className="colourfulText">Mainstreet Research</span> Social Media Manager & Digital Analyst</p>
+    <p className="dateText">2022-present</p>
+    <p><span className="colourfulText">MPP Chris Glover</span> Social Media Co-ordinator</p>
+    <p className="dateText">2018</p>
+    <p><span className="colourfulText">Ontario NDP</span> Candidate (Niagara West)</p>
+
+    <h2>Education</h2>
+    <p className="dateText">2020</p>
+    <p><span className="colourfulText">Brock University</span> B.A. (Honours) Political Science</p>
+
+    <h2>My Secret</h2>
+    <p>I love tabletop gaming, and am especially interested in tabletop community management work!</p>
+
+    <h2>Contact</h2>
+    <p>You can reach me at <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
+
   </Layout>
 )
 
