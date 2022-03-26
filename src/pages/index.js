@@ -32,7 +32,7 @@ const federalJurisdictions = [
 const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
-    <p>Polling Canada is your trusted and impartial source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank">Ko-fi</a>.</p>
+    <p>Polling Canada is your trusted and impartial source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>.</p>
     <h1>Provincial Polls</h1>
     <div className="dashProvs">
       {provinces.map(jurisdiction => (

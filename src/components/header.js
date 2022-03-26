@@ -18,7 +18,7 @@ const Header = ({ siteTitle }) => (
         zIndex: 5
       }}
     >
-      <img src={logo} width="80px" style={{ padding: "1rem"}} />
+      <img src={logo} alt="" width="80px" style={{ padding: "1rem"}} />
       <h1 style={{ margin: 0, backgroundImage: `none`, textAlign: "left", display: "inline", position: "relative", top: "-2.25rem" }}>
         <Link
           to="/"

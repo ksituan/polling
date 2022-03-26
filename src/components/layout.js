@@ -23,13 +23,15 @@ const Layout = ({ children }) => {
     }
   `)
 
-  window.addEventListener("scroll", () => {
-    // Dealing with Safari difference.
-    // look into scrollingElement https://caniuse.com/#feat=document-scrollingelement
-    let scrollTop = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop; 
-    let newPos = scrollTop + "px";
-    document.documentElement.style.setProperty('--scrollPos', newPos);
-  });
+  React.useEffect(() => {
+    window.addEventListener("scroll", () => {
+      // Dealing with Safari difference.
+      // look into scrollingElement https://caniuse.com/#feat=document-scrollingelement
+      let scrollTop = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop; 
+      let newPos = scrollTop + "px";
+      document.documentElement.style.setProperty('--scrollPos', newPos);
+    });
+  }, []);
 
   return (
     <>
@@ -41,7 +43,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          <p>© {new Date().getFullYear()} // site by <a href="https://awmcphee.ca" target="_blank">Prairie Heart Workshop</a></p>
+          <p>© {new Date().getFullYear()} // site by <a href="https://awmcphee.ca" target="_blank" rel="noreferrer">Prairie Heart Workshop</a></p>
         </footer>
       </div>
     </>
