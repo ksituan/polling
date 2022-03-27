@@ -51,9 +51,8 @@ const IndexPage = ({pageContext, data}) => (
 
     <h1>About</h1>
 
-    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country.</p>
-    <p>I ensure reputable data reaches the public in an impartial manner.</p>
-    <p>Find my accounts on Twitter here:</p>
+    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. now enjoys 45,000 followers across multiple platforms, with millions of views every month.</p>
+    <p>Find me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a> and <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>.</p>
     </Layout>
 )
 
