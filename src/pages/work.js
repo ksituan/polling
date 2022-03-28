@@ -8,7 +8,7 @@ const work = () => (
     <Seo title="Work" />
     <h1>Work</h1>
     <h2>Background</h2>
-    <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Are you looking for someone with my background?</p>
+    <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Perhaps you're looking to hire me?</p>
 
     <h2>Experience</h2>
     <p className="dateText">2017-present</p>
