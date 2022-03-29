@@ -197,8 +197,8 @@ let brandColours = {
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <a className="pollLink" href={"#" + PollID(poll)} onClick={onClickRow}>
-        <div className="pollInfo" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</div>
-        <div className="pollInfo" bgcolor="white">{poll.company}</div>
+        <p className="pollInfo" bgcolor="white">{poll.company}</p>
+        <p className="pollInfo pollDate" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</p>
         <div className="entryContainer">
       {poll.poll.map((party, i) => {
         let hist = Math.round(lastElection.results.filter(x => x.party === party.party)[0]?.score);

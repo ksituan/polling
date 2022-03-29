@@ -6,17 +6,17 @@
 }
 
 @keyframes svgload {
-    0%   {margin-bottom: -200px; margin-top: 0px;}
-    100% {margin-bottom: 0px; margin-top: 60px;}
+    0%   {margin-bottom: -337.5px; margin-top: 60px;}
+    100% {margin-bottom: 30px; margin-top: 60px;}
   }
 
 .poll {
     padding-left: 0;
+    display: block;
     z-index: -1;
-    position: relative;
-    filter: none;
     animation: svgload 1s 1;
     margin-top: 60px;
+    margin-bottom: 30px;
 }
 
 .pollRow {
@@ -87,6 +87,14 @@ svg text {
     .wideChart svg path {
         stroke-width: 2.5px;
     }
+
+    .pollInfo {
+        width: 10rem;
+    }
+
+    .poll {
+        width: 600px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -107,6 +115,10 @@ svg text {
 }
 
 @media (max-width: 800px) {
+
+    .pollLink {
+        column-gap: 0.75rem;
+    }
 
     .dashProvs {
         grid-template-columns: repeat(2, 1fr);

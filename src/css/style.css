@@ -150,12 +150,12 @@ p a {
 .entryContainer {
     display: flex;
     align-content: space-between;
-    width: 60%;
+    margin: 0;
+    gap: 0.5rem;
 }
 
 .pollLink div {
     font-family: Inter;
-    margin: 1rem 0;
     font-size: 18pt;
 }
 
@@ -165,19 +165,27 @@ tr {
 
 .pollLink {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    column-gap: 2rem;
+    row-gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 2rem;
 }
 
 .pollInfo {
-    padding: 0 1rem;
-    width: 20%;
-    text-align: center;
-    padding-top: 1.75rem;
+    text-align: left;
+    margin: 0;
+    line-height: 100%;
+}
+
+.pollDate {
+    color: #b0b0b0;
 }
 
 .pollLink .pollEntry {
     width: 3rem;
     height: 3rem;
-    margin: 1rem 0.5rem;
     border: solid;
 }
 
@@ -189,7 +197,7 @@ tr {
 .pollLink .pollParty {
     font-size: 8pt;
     text-align: center;
-    margin-top: -1.3rem;
+    margin-top: -0.3rem;
 }
 
 footer {
