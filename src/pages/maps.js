@@ -13,7 +13,7 @@ const maps = () => (
     <p>Even in the world's largest democracy, land doesn't vote. Ever wonder why federal campaigns mostly revolve around suburban Toronto? These innovative "cartograms" provide a detailed and unbiased look into every riding.</p>
     <div>
       <StaticImage src="../images/canada_2021.png" alt="A map of the 2021 federal election." />
-      <p style={{"text-align": "center", "margin": "0.5rem 0 1rem 0", "font-size": "24pt"}}>2021</p>
+      <p style={{"text-align": "center", "margin": "0.5rem 0 1rem 0", "font-size": "24pt", "color": "#b0b0b0"}}>2021</p>
     </div>
     <div className="mapGallery">
       <div><StaticImage src="../images/canada_2019.png" alt="A map of the 2019 federal election." /><p>2019</p></div>

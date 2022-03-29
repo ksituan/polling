@@ -47,6 +47,7 @@ p {
 }
 
 header {
+    z-index: 5;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -214,5 +215,6 @@ footer p {
 
 .mapGallery p {
     text-align: center;
+    color: #b0b0b0;
     margin: 0.5rem 0 0.5rem 0;
 }
