@@ -155,7 +155,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     return(
         <div className={className}>
-        <Link to={`/${jurisdiction}-${election.year}`} style={{textDecoration: "none"}}>
+        <Link to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
         <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
             <rect width={plotWidth} height={plotHeight} fill="white" />
             {validParties.map(party => { let line = rollingAverage(dayArray, party);

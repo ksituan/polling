@@ -464,14 +464,20 @@ let brandColours = {
     function handleClickPoll(rowIndex) {
       return () => setPollsActive(rowIndex);
     }
+
+    console.log(polls);
   
+    
     return(
       <div>
-        <h2>{name + " trendlines"}</h2>
+        <div>
+          <h2>{name + " trendlines"}</h2>
+          <div className="credit">Polling Canada / Prairie Heart</div>
+        </div>
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
-        <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
+        {polls.length > 0 ? <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} /> : <p>There have been no polls conducted since the last election.</p>}
       </div>
     )
   }

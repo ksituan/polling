@@ -29,8 +29,12 @@ const faq = () => (
     <p>In Canada, polling companies actually do most of their business <em>outside</em> election season. Elections are like a marquee event where pollsters compete to show non-political clients how accurate their data is. If one pollster were massaging the numbers for the benefit of their favourite party, other pollsters would have a huge incentive to contradict them.</p>
     <h2>Do individual polls affect the outcome of an election?</h2>
     <p>This is a great question that hasn't been conclusively answered! Academics think they're similar to lawn signs - they don't do much to boost specific candidates, but they can raise turnout by increasing the political awareness of the public.</p>
+    <h2>Where's Yukon?</h2>
+    <p>Yukon gets polled approximately once every two years. <Link to="/YT">But since you asked...</Link></p>
+    <h2>Where are the Northwest Territories and Nunavut?</h2>
+    <p>Both territories practice non-partisan "consensus government", which makes polling impossible. The Premier and Cabinet are elected by independent legislators. To find out who might be Premier next, we recommend personally asking an MLA what they think.</p>
     <h2>Can you explain margin of error in 10 easy words?</h2>
-    <p>Numbers Usually About This Wrong, Compared To Entire Country's Opinion</p>
+    <p>Numbers Usually About This Wrong, Compared To Entire Country's Opinion.</p>
   </Layout>
 )
 

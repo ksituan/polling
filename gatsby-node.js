@@ -1,24 +1,3 @@
-const jurisdictions = [
-  ["BC", "British Columbia"],
-  ["AB", "Alberta"],
-  ["SK", "Saskatchewan"],
-  ["MB", "Manitoba"],
-  ["ON", "Ontario"],
-  ["QC", "Quebec"],
-  ["NB", "New Brunswick"],
-  ["PE", "Prince Edward Island"],
-  ["NS", "Nova Scotia"],
-  ["NL", "Newfoundland and Labrador"],
-  ["YT", "Yukon"],
-  ["Canada", "Canada"],
-  ["Canada_BC", "British Columbia federal"],
-  ["Canada_AB", "Alberta federal"],
-  ["Canada_SKMB", "Saskatchewan/Manitoba federal"],
-  ["Canada_ON", "Ontario federal"],
-  ["Canada_QC", "Quebec federal"],
-  ["Canada_ATL", "Atlantic federal"],
-];
-
 exports.createPages = async ({ actions, cache, graphql }) => {
   const { createPage, createRedirect } = actions
   createPage({
@@ -72,7 +51,7 @@ exports.createPages = async ({ actions, cache, graphql }) => {
     `)
     
     for (let {node, next} of electionsData.data.allElectionsJson.edges) {
-      const pagePath = `/${jurisdiction}-${node.year}`
+      const pagePath = `/${jurisdiction.replace("_","-")}-${node.year}`
       if (!next) {
         console.log({fromPath: `/${jurisdiction}`, toPath: pagePath});
         createRedirect({fromPath: `/${jurisdiction}`, toPath: pagePath});
