@@ -5,11 +5,6 @@
     font-family: Karla;
 }
 
-@keyframes svgload {
-    0%   {margin-bottom: -337.5px; margin-top: 60px;}
-    100% {margin-bottom: 30px; margin-top: 60px;}
-  }
-
 .poll {
     padding-left: 0;
     display: block;
@@ -17,6 +12,11 @@
     animation: svgload 1s 1;
     margin-top: 60px;
     margin-bottom: 30px;
+}
+
+@keyframes svgload {
+    0%   {margin-bottom: -337.5px; margin-top: 60px;}
+    100% {margin-bottom: 30px; margin-top: 60px;}
 }
 
 .pollRow {
@@ -91,10 +91,14 @@ svg text {
     .pollInfo {
         width: 10rem;
     }
+}
+
+@media (min-width: 600px) {
 
     .poll {
         width: 600px;
     }
+    
 }
 
 @media (max-width: 600px) {
@@ -111,6 +115,11 @@ svg text {
 
     .headerLink {
         font-size: 20pt;
+    }
+
+    @keyframes svgload {
+        0%   {margin-bottom: -56.25%; margin-top: 60px;}
+        100% {margin-bottom: 30px; margin-top: 60px;}
     }
 }
 
@@ -136,6 +145,10 @@ svg text {
         r: 12px;
     }
 
+    .electionHalo {
+        visibility: hidden;
+    }
+
     .timeLabel {
         visibility: hidden;
     }
@@ -151,6 +164,7 @@ svg text {
     .credit {
         visibility: hidden;
     }
+
 }
 
 @media (max-width: 1000px) {

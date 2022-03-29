@@ -196,7 +196,7 @@ let brandColours = {
     return (
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
-      <a className="pollLink" href={"#" + PollID(poll)} onClick={onClickRow}>
+      <div className="pollLink" onClick={onClickRow}>
         <p className="pollInfo" bgcolor="white">{poll.company}</p>
         <p className="pollInfo pollDate" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</p>
         <div className="entryContainer">
@@ -213,7 +213,7 @@ let brandColours = {
         </div>
       })}
       </div>
-      </a>
+      </div>
       </div>
     );
   }
@@ -418,11 +418,11 @@ let brandColours = {
           <g className="scatterElection">
             {election.results.map(line => 
               <g>
-                <circle r="22"
+                <circle className="electionHalo" r="22"
                 cx={xMap(new Date(election.date))}
                 cy={yMap(line.score)}
                 fill="white"/>
-                <circle r="16"
+                <circle className="electionHalo" r="16"
                   cx={xMap(new Date(election.date))}
                   cy={yMap(line.score)}
                   fill="none"
@@ -477,7 +477,7 @@ let brandColours = {
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
-        <p>Click any poll to see a chart with more information.</p>
+        <p>A solid box indicates that a party is polling above its last election result. Click any poll to see a chart with more information.</p>
         {polls.length > 0 ? <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} /> : <p>There have been no polls conducted since the last election.</p>}
       </div>
     )
