@@ -12,9 +12,9 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`
           }}
         >
-      <div>
-      <img src={logo} alt="" width="80px" style={{ padding: "1rem"}} />
-      <h1 className="siteTitle" style={{ margin: 0, backgroundImage: `none`, textAlign: "left", display: "inline", position: "relative", top: "-2.25rem" }}>
+      <div className="logoTitle">
+      <img className="siteLogo" src={logo} alt="" width="80px" />
+      <h1 className="siteTitle" style={{ backgroundImage: `none`, textAlign: "left", position: "relative" }}>
           {siteTitle}
       </h1>
       </div>
