@@ -15,7 +15,7 @@ h1 {
     margin: 3rem 0;
     background-image: url(spectrum.svg);
     background-repeat: repeat-x;
-    background-size: 100% 1rem;
+    background-size: 100vw 1rem;
     background-position: left bottom 0px; 
     background-position-x: var(--scrollPos);
 }
@@ -162,4 +162,25 @@ footer {
 footer p {
     font-size: 12pt;
     margin: 1rem;
+}
+
+.mapGallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: flex-start;
+    gap: 10px;
+}
+
+.gatsby-image-wrapper {
+    box-shadow: 2px 2px 4px #b0b0b0;
+}
+
+.mapGallery .gatsby-image-wrapper {
+    width: 240px;
+}
+
+.mapGallery p {
+    text-align: center;
+    margin: 0.5rem 0 0.5rem 0;
 }

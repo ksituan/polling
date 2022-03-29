@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Polling Canada`,
-    description: `Canada's favourite political polling aggregator.`,
+    description: `Your trusted source of raw political data.`,
     author: `@CanadianPolling`,
     siteUrl: `https://canadianpolling.ca`,
+    twitterUsername: `@CanadianPolling`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
