@@ -10035,5 +10035,595 @@
                 "score": 5.9
             }
         ]
+    },
+    {
+        "n": 175,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 148,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "PPC",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 84,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 474,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 298,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "PPC",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 87,
+        "company": "Leger",
+        "date": "January 23, 2022",
+        "field": "2022-01-23",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "PPC",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 285,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26.3
+            },
+            {
+                "party": "CPC",
+                "score": 29.2
+            },
+            {
+                "party": "NDP",
+                "score": 24.3
+            },
+            {
+                "party": "PPC",
+                "score": 11.7
+            },
+            {
+                "party": "GPC",
+                "score": 7.2
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {
+        "n": 261,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 14.8
+            },
+            {
+                "party": "CPC",
+                "score": 50.7
+            },
+            {
+                "party": "NDP",
+                "score": 19.2
+            },
+            {
+                "party": "PPC",
+                "score": 13.4
+            },
+            {
+                "party": "GPC",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {
+        "n": 154,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.1
+            },
+            {
+                "party": "CPC",
+                "score": 22.7
+            },
+            {
+                "party": "NDP",
+                "score": 28.2
+            },
+            {
+                "party": "PPC",
+                "score": 9.3
+            },
+            {
+                "party": "GPC",
+                "score": 4.9
+            },
+            {
+                "party": "Others",
+                "score": 1.8
+            }
+        ]
+    },
+    {
+        "n": 902,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.6
+            },
+            {
+                "party": "CPC",
+                "score": 31.2
+            },
+            {
+                "party": "NDP",
+                "score": 21.1
+            },
+            {
+                "party": "PPC",
+                "score": 9.1
+            },
+            {
+                "party": "GPC",
+                "score": 4.1
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 540,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32.2
+            },
+            {
+                "party": "CPC",
+                "score": 18.9
+            },
+            {
+                "party": "NDP",
+                "score": 11.1
+            },
+            {
+                "party": "BQ",
+                "score": 25.1
+            },
+            {
+                "party": "PPC",
+                "score": 6.3
+            },
+            {
+                "party": "GPC",
+                "score": 5.5
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {
+        "n": 137,
+        "company": "EKOS",
+        "date": "January 17, 2022",
+        "field": "2022-01-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36.5
+            },
+            {
+                "party": "CPC",
+                "score": 31.0
+            },
+            {
+                "party": "NDP",
+                "score": 21.6
+            },
+            {
+                "party": "PPC",
+                "score": 6.1
+            },
+            {
+                "party": "GPC",
+                "score": 3.5
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "n": 555,
+        "company": "Angus Reid",
+        "date": "January 12, 2022",
+        "field": "2022-01-12",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 571,
+        "company": "Angus Reid",
+        "date": "January 12, 2022",
+        "field": "2022-01-12",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17
+            },
+            {
+                "party": "CPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 873,
+        "company": "Angus Reid",
+        "date": "January 12, 2022",
+        "field": "2022-01-12",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23.5
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 6.5
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3.5
+            }
+        ]
+    },
+    {
+        "n": 985,
+        "company": "Angus Reid",
+        "date": "January 12, 2022",
+        "field": "2022-01-12",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 770,
+        "company": "Angus Reid",
+        "date": "January 12, 2022",
+        "field": "2022-01-12",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "CPC",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 23
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
