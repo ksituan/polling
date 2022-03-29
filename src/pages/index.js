@@ -1,5 +1,6 @@
 import * as React from "react"
 import { graphql, Link } from "gatsby"
+import at from "../images/at.svg"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -32,7 +33,7 @@ const federalJurisdictions = [
 const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
-    <p>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
+    <p>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
     <h1>Provincial Polls</h1>
     <div className="dashProvs">
       {provinces.map(jurisdiction => (

@@ -46,6 +46,11 @@ p {
     line-height: 175%;
 }
 
+.at {
+    width: 18px;
+    margin: 0 0.2rem;
+}
+
 header {
     z-index: 5;
     display: flex;

@@ -3,6 +3,8 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import at from "../images/at.svg"
+
 const work = () => (
   <Layout>
     <Seo title="Work" />
@@ -28,7 +30,7 @@ const work = () => (
     <p>I love tabletop gaming, and am especially interested in tabletop community management work!</p>
 
     <h2>Contact</h2>
-    <p>You can reach me at <span className="colourfulText">cfpolling🌀gmail.com</span>.</p>
+    <p>You can reach me at <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
 
   </Layout>
 )
