@@ -5,10 +5,6 @@
     font-family: Karla;
 }
 
-.siteHeader {
-    position: fixed;
-}
-
 @keyframes svgload {
     0%   {margin-bottom: -200px; margin-top: 0px;}
     100% {margin-bottom: 0px; margin-top: 60px;}
@@ -69,7 +65,8 @@ svg text {
 }
 
 .dashProvs {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     justify-items: stretch;
@@ -92,15 +89,13 @@ svg text {
     }
 }
 
-@media (max-width: 800px) {
-
+@media (max-width: 600px) {
     .siteTitle {
-        visibility: hidden;
+        font-size: 30pt;
     }
+}
 
-    .siteHeader {
-        position: absolute;
-    }
+@media (max-width: 800px) {
 
     .dashProvs {
         grid-template-columns: repeat(2, 1fr);
@@ -133,7 +128,14 @@ svg text {
     .credit {
         visibility: hidden;
     }
+}
 
+@media (max-width: 1000px) {
+
+    header {
+        position: relative;
+    }
+    
 }
 
 .dashProvince {

@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
 
-* {
-    margin: 0 auto;
+main * {
+    margin-left: auto;
+    margin-right: auto;
     max-width: min(90vw, 1000px);
 }
 
@@ -12,7 +13,8 @@ h1 {
     font-family: Inter;
     font-size: 40pt;
     font-weight: 800;
-    margin: 3rem 0;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     background-image: url(spectrum.svg);
     background-repeat: repeat-x;
     background-size: 100vw 1rem;
@@ -24,28 +26,42 @@ h2 {
     font-family: Inter;
     font-size: 24pt;
     font-weight: 700;
-    margin: 2rem 0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 h3 {
     font-family: Inter;
     font-size: 18pt;
     font-weight: 700;
-    margin: 2rem 0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 p {
     font-family: Inter;
-    margin: 2rem 0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     font-size: 16pt;
     line-height: 175%;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    max-width: none;
+    width: 100%;
+    margin-top: 2rem;
+    top: 0;
+    position: sticky;
+    background-color: white;
 }
 
 .navMenu {
     position: relative;
     text-align: right;
-    margin-top: -5rem;
-    padding-bottom: 2rem;
     background-image: url(spectrum.svg);
     background-clip: text;
     -webkit-background-clip: text;
