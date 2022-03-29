@@ -98,7 +98,7 @@ svg text {
     .poll {
         width: 600px;
     }
-    
+
 }
 
 @media (max-width: 600px) {
@@ -139,6 +139,10 @@ svg text {
 
     .trendline {
         stroke-width: 12px;
+    }
+
+    .scatterElection circle {
+        r: 12px;
     }
 
     .scatterPoll circle {
