@@ -115,26 +115,24 @@ let brandColours = {
                 strokeWidth="10px"
                 strokeLinecap="round"
                 d={`M ${i * barWidth + barPadding} ${chartHeight - barScale * hist - barPadding - bottom} h ${barWidth - 2 * barPadding}`} />}
-              
-              <text aria-hidden="true" visibility="hidden">{pinfo[ac]?.fullName || "Others"}</text>
   
               {ac !== "Others" && <path d = {pinfo[ac].logo}
                 fill = {brandColours[pinfo[ac].colour]}
                 transform = {"translate(" + ((i + 0.5) * barWidth - 50) + " " + 680 + ")"} />}
   
-              <text textAnchor="middle" fontWeight="bold" fontSize="48pt"
+              <text className="numeric" textAnchor="middle" fontWeight="bold" fontSize="48pt"
                 x={(i + 0.5) * barWidth}
                 y={890 - barPadding}>
                   {ac}
               </text>
               
-              <text textAnchor="middle" fontWeight="bold" fontSize="48pt"
+              <text className="numeric" textAnchor="middle" fontWeight="bold" fontSize="48pt"
                 x={(i + 0.5) * barWidth}
                 y={labely(hist, pp, barScale) - bottom + (ac === "Others" ? 60 : 0)}>
                   {Math.round(pp)}%
               </text>
               
-              {ac !== "Others" && <text textAnchor="middle" fontWeight="bold" fontSize="48pt"
+              {ac !== "Others" && <text className="numeric" textAnchor="middle" fontWeight="bold" fontSize="48pt"
                 x={(i + 0.5) * barWidth}
                 y={labely(hist, pp, barScale) + 60 - bottom}>
                   ({hist >= 0 ? change(pp - Math.round(hist)) : "new"})
@@ -175,12 +173,12 @@ let brandColours = {
            fill="#85ab53"/>
       </g>
       <text textAnchor="end" fontWeight="bold" fontSize="48pt" x={1600 - barPadding} y="50">Polling Canada</text>
-          <text textAnchor="end" fontSize="40pt" x={1600 - barPadding} y="120">{title[poll.jurisdiction]}</text>
-          <text textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="190">{poll.company}</text>
-          <text textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="240">{poll.date}</text>
-          {poll.n && <text textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="310">Sample size = {poll.n.toLocaleString("en-US")}</text>}
-          <text textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="360">{poll.method}</text>
-          {poll.moe && <text textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="410">±{poll.moe}%</text>}
+          <text className="numeric" textAnchor="end" fontSize="40pt" x={1600 - barPadding} y="120">{title[poll.jurisdiction]}</text>
+          <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="190">{poll.company}</text>
+          <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="240">{poll.date}</text>
+          {poll.n && <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="310">Sample size = {poll.n.toLocaleString("en-US")}</text>}
+          <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="360">{poll.method}</text>
+          {poll.moe && <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="410">±{poll.moe}%</text>}
         </svg>
   
       );
@@ -244,37 +242,13 @@ let brandColours = {
       <div className="pollTable">
         {pollList.map((poll, index) => 
         <div>
-          {boundaryIndex.includes(index) && <h2>{new Date(poll.field).getFullYear()}</h2> }
+          {boundaryIndex.includes(index) && <h3>{new Date(poll.field).getFullYear()}</h3> }
           <Row poll={poll} lastElection={lastElection} active={activePoll===index} onClickRow={onClickRow(index)}/>
         </div>)}
       </div>
     );
   }
-  
-  function PollingContent({polls, jurisdiction, election, endDate}) {
-    let pollList = polls;
-    let [pollsActive, setPollsActive] = useState(null);
-  
-    function handleClickRow(rowIndex) {
-      if (rowIndex === pollsActive) {
-        return () => setPollsActive(null);
-      } else {
-      return () => setPollsActive(rowIndex);
-      }
-    }
-  
-    function handleClickPoll(rowIndex) {
-      return () => setPollsActive(rowIndex);
-    }
-  
-    return(
-      <div>
-        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
-        <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
-      </div>
-    )
-  }
-  
+    
   function PollID(poll) {
     let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field;
     return(id);
@@ -473,6 +447,33 @@ let brandColours = {
       </svg>
     );
   
+  }
+
+  function PollingContent({polls, jurisdiction, election, endDate, name}) {
+    let pollList = polls;
+    let [pollsActive, setPollsActive] = useState(null);
+  
+    function handleClickRow(rowIndex) {
+      if (rowIndex === pollsActive) {
+        return () => setPollsActive(null);
+      } else {
+      return () => setPollsActive(rowIndex);
+      }
+    }
+  
+    function handleClickPoll(rowIndex) {
+      return () => setPollsActive(rowIndex);
+    }
+  
+    return(
+      <div>
+        <h2>{name + " trendlines"}</h2>
+        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
+        <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
+        <h2>{name + " polling database"}</h2>
+        <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} />
+      </div>
+    )
   }
   
   export default PollingContent

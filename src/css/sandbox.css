@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
 @import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
 
-.poll text {
+.poll .numeric {
     font-family: Karla;
 }
 
@@ -65,7 +65,7 @@
 }
 
 svg text {
-    font-family: Karla;
+    font-family: Inter;
 }
 
 .dashProvs {
@@ -85,6 +85,10 @@ svg text {
 @media (min-width: 800px) {
     .trendline:hover {
         stroke-width: 8px;
+    }
+
+    .wideChart svg path {
+        stroke-width: 2.5px;
     }
 }
 
@@ -110,12 +114,20 @@ svg text {
         stroke-width: 12px;
     }
 
+    .scatterPoll circle {
+        r: 12px;
+    }
+
     .timeLabel {
         visibility: hidden;
     }
 
     .scoreTicks {
         visibility: hidden;
+    }
+
+    .wideChart svg path {
+        stroke-width: 5px;
     }
 
 }
@@ -146,4 +158,14 @@ svg text {
     text-align: center;
     padding-bottom: 0.5rem;
     margin-top: -2rem;
+}
+
+.wideChartTitle {
+    font-family: Inter;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18pt;
+    margin-top: -3%;
 }

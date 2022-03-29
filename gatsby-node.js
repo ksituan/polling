@@ -40,7 +40,7 @@ exports.createPages = async ({ actions, cache, graphql }) => {
     ["NS", "Nova Scotia"],
     ["NL", "Newfoundland and Labrador"],
     ["YT", "Yukon"],
-    ["Canada", "Canada"],
+    ["Canada", "Federal"],
     ["Canada_BC", "British Columbia federal"],
     ["Canada_AB", "Alberta federal"],
     ["Canada_SKMB", "Saskatchewan/Manitoba federal"],

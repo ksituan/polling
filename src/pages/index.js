@@ -40,9 +40,7 @@ const IndexPage = ({pageContext, data}) => (
       ))} 
     </div>
     <h1>Federal Polls</h1>
-    <Link to={`Canada-${data.electionCanada.nodes[0].year}`}>
       <DashCanada polls={data.pollsCanada} election={data.electionCanada.nodes[0]}/>
-    </Link>
     <div className="dashFed">
       {federalJurisdictions.map(jurisdiction => (
         <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
@@ -53,7 +51,7 @@ const IndexPage = ({pageContext, data}) => (
 
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. now enjoys 45,000 followers across multiple platforms, with millions of views every month.</p>
     <p>My message to campaigns: If you lie about publicly available numbers, I will find you.</p>
-    <p>Find me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a> and <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>.</p>
+    <p>Follow me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a> and <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>.</p>
     </Layout>
 )
 
