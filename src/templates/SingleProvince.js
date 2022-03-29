@@ -8,12 +8,12 @@ export default function SingleProvince({pageContext, data}) {
     const {jurisdiction, jurisdictionName, beforeDate} = pageContext;
     const polls = data.allPollsJson.nodes;
     const election = data.electionsJson;
-    const pageTitle = `${jurisdictionName} ${jurisdiction.split("_")[0] !== "Canada" ? "provincial" : ""} polling`;
+    const pageTitle = `${jurisdictionName} ${jurisdiction.split("_")[0] !== "Canada" ? (jurisdiction !== "Yukon" ? "territorial" : "provincial") : ""} polling`;
     return(
         <Layout>
         <Seo title={pageTitle} />
             <h1>{pageTitle}</h1>
-            <p>This page lists every publicly accessible poll conducted by a reputable group since the {new Date(election.date).getFullYear()} {jurisdiction.split("_")[0] === "Canada" ? "federal" : jurisdictionName + " provincial"} election. Many polls are privately commissioned and go unreleased, but some are leaked after the fact. Click any poll to see a chart with more information.</p>
+            <p>This page lists every publicly accessible poll conducted by a reputable group since the {new Date(election.date).getFullYear()} {jurisdiction.split("_")[0] === "Canada" ? "federal" : jurisdictionName + " " + jurisdiction !== "Yukon" ? "territorial" : "provincial"} election. Many polls are privately commissioned and go unreleased, but some are leaked after the fact. Click any poll to see a chart with more information.</p>
             <PollingContent polls={polls} jurisdiction={jurisdiction} name={jurisdictionName} election={election} endDate={new Date(beforeDate)}/>
         </Layout>
     )
