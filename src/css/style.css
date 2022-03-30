@@ -107,8 +107,9 @@ p a {
     background-image: url(spectrum.svg);
     background-clip: text;
     -webkit-background-clip: text;
+    -webkit-box-decoration-break: clone;
     background-repeat: repeat-x;
-    background-size: 100vw;
+    background-size: 100vw 100vw;
     background-position: left bottom 0px; 
     background-position-x: var(--scrollPos);
     color: transparent;
@@ -121,7 +122,7 @@ p a {
     background-clip: text;
     -webkit-background-clip: text;
     background-repeat: repeat-x;
-    background-size: 100vw;
+    background-size: 100vw 100vw;
     background-position: left bottom 0px; 
     background-position-x: var(--scrollPos);
     color: transparent;
