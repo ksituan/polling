@@ -7,7 +7,7 @@ import at from "../images/at.svg"
 
 const work = () => (
   <Layout>
-    <Seo title="Work" description="Hire Curtis Fric" />
+    <Seo title="Work" description="Hire Polling Canada's Curtis Fric" />
     <h1>Work</h1>
     <h2>Background</h2>
     <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Perhaps you're looking to hire me?</p>

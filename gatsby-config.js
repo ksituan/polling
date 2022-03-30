@@ -4,7 +4,6 @@ module.exports = {
     description: `Your trusted source of raw political data.`,
     author: `@CanadianPolling`,
     siteUrl: `https://canadianpolling.ca`,
-    twitterUsername: `@CanadianPolling`,
     image: "/banner.png",
   },
   plugins: [
