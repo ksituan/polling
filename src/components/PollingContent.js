@@ -196,7 +196,7 @@ let brandColours = {
     return (
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
-      <div className="pollLink" onClick={onClickRow}>
+      <button className="pollLink" onClick={onClickRow}>
         <p className="pollInfo" bgcolor="white">{poll.company}</p>
         <p className="pollInfo pollDate" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</p>
         <div className="entryContainer">
@@ -213,7 +213,7 @@ let brandColours = {
         </div>
       })}
       </div>
-      </div>
+      </button>
       </div>
     );
   }

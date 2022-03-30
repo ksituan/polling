@@ -1,5 +1,5 @@
 import * as React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import at from "../images/at.svg"
 
 import Layout from "../components/layout"
