@@ -76,11 +76,13 @@ let brandColours = {
   
   function Chart({poll, id, lastElection}) {
   
+      let minBar = Math.min(...poll.poll.map(party => party.score)); // Shrink the chart if the last bar is tall
+
       let chartWidth = 1600;
       let chartHeight = 900;
       let barPadding = 20;
       let bottom = 250;
-      let right = poll.poll.length <= 4 ? 400 : 200;
+      let right = (poll.poll.length <= 4 || minBar >= 8) ? 400 : 200;
   
       let barWidth = (chartWidth - right) / poll.poll.length;
   
