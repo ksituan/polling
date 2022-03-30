@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 
 const faq = () => (
   <Layout>
-    <Seo title="Polling FAQs" />
+    <Seo title="Polling FAQs" description="Frequently asked questions" />
     <h1>Frequently Asked Questions</h1>
     <h2>Does Polling Canada conduct polls?</h2>
     <p>No. Polling Canada aggregates publicly available content.</p>

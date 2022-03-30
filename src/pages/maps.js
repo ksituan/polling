@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 
 const maps = () => (
   <Layout>
-    <Seo title="Maps" />
+    <Seo title="Maps"  description="Election map gallery" />
     <h1>Election Maps</h1>
     <p>Can't wait for the next election? Polling Canada is pleased to host a variety of unique election maps designed by our trusty staff cartographer, <a href="https://www.awmcphee.ca" target="_blank" rel="noreferrer">Alex McPhee</a>.</p>
     <h2>Federal Elections</h2>

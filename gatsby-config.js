@@ -5,6 +5,7 @@ module.exports = {
     author: `@CanadianPolling`,
     siteUrl: `https://canadianpolling.ca`,
     twitterUsername: `@CanadianPolling`,
+    image: "/banner.png",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
