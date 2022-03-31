@@ -12465,5 +12465,292 @@
                 "score": 4.2
             }
         ]
+    },
+    {
+        "n": 604,
+        "moe": 4,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "CPBC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 584,
+        "moe": 4,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "WIP",
+                "score": 11
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 602,
+        "moe": 4,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "SLP",
+                "score": 2
+            },
+            {
+                "party": "GPS",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 475,
+        "moe": 4,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "MLP",
+                "score": 14
+            },
+            {
+                "party": "GPM",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1063,
+        "moe": 3,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 865,
+        "moe": 3,
+        "company": "Mainstreet",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 33
+            },
+            {
+                "party": "PLQ",
+                "score": 19
+            },
+            {
+                "party": "PQ",
+                "score": 9
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PCQ",
+                "score": 19
+            },
+            {
+                "party": "PVQ",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 251,
+        "moe": 6,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 32
+            },
+            {
+                "party": "PCNB",
+                "score": 31
+            },
+            {
+                "party": "GPNB",
+                "score": 15
+            },
+            {
+                "party": "PANB",
+                "score": 13
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 366,
+        "moe": 5,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 47
+            },
+            {
+                "party": "NSL",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPNS",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 196,
+        "moe": 7,
+        "company": "Angus Reid",
+        "date": "March 10-15, 2022",
+        "field": "2022-03-15",
+        "method": "Online",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 43
+            },
+            {
+                "party": "PCNL",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
