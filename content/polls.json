@@ -12631,12 +12631,12 @@
         "company": "Angus Reid",
         "date": "March 10-15, 2022",
         "field": "2022-03-15",
-        "method": "IVR",
+        "method": "Online",
         "jurisdiction": "QC",
         "poll": [
             {
                 "party": "CAQ",
-                "score": 33
+                "scoe": 33
             },
             {
                 "party": "PLQ",
