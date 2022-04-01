@@ -206,8 +206,8 @@ let brandColours = {
         let hist = Math.round(lastElection.results.filter(x => x.party === party.party)[0]?.score);
         return (hist < party.score || Number.isNaN(hist)) ?
         <div className="pollEntry" style={{backgroundColor: brandColours[pinfo[party.party]?.colour || "gray"], borderColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
-          <div className="pollScore">{Math.round(party.score)}</div>
-          <div className="pollParty">{party.party}</div>
+          <div className="pollScore" style={{color: (party.party === "Others" || pinfo[party.party]?.colour === "yellow") ? "black" : "white"}}>{Math.round(party.score)}</div>
+          <div className="pollParty" style={{color: (party.party === "Others" || pinfo[party.party]?.colour === "yellow") ? "black" : "white"}}>{party.party}</div>
         </div> :
         <div className="pollEntry" style={{borderColor: brandColours[pinfo[party.party]?.colour || "gray"]}}>
           <div className="pollScore">{Math.round(party.score)}</div>
