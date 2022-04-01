@@ -12752,5 +12752,40 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1001,
+        "moe": 3.1,
+        "company": "Leger",
+        "date": "March 25-28, 2022",
+        "field": "2022-03-28",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            },
+            {
+                "party": "NBP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
