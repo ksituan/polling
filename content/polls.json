@@ -13524,5 +13524,1489 @@
                 "score": 4.9
             }
         ]
+    },
+    {
+        "n": 704,
+        "moe": 3.7,
+        "company": "Mainstreet",
+        "date": "Oct. 22-23, 2020",
+        "field": "2020-10-23",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 750,
+        "moe": 3.6,
+        "company": "Research Co.",
+        "date": "Oct. 22-23, 2020",
+        "field": "2020-10-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 50
+            },
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1314,
+        "moe": 3.0,
+        "company": "Forum",
+        "date": "Oct. 22-23, 2020",
+        "field": "2020-10-23",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1502,
+        "moe": 3.5,
+        "company": "Ipsos",
+        "date": "Oct. 19-22, 2020",
+        "field": "2020-10-22",
+        "method": "Online/Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1100,
+        "moe": 3.0,
+        "company": "Leger",
+        "date": "Oct. 18-21, 2020",
+        "field": "2020-10-21",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1201,
+        "moe": 2.8,
+        "company": "Angus Reid",
+        "date": "Oct. 16-19, 2020",
+        "field": "2020-10-19",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 801,
+        "moe": 3.5,
+        "company": "Angus Reid",
+        "date": "Oct. 14-15, 2020",
+        "field": "2020-10-15",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 49
+            },
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "CPBC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1030,
+        "moe": 3.1,
+        "company": "Insights West",
+        "date": "Oct. 13-14, 2020",
+        "field": "2020-10-14",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "CPBC",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.5,
+        "company": "Ipsos",
+        "date": "Oct. 8-11, 2020",
+        "field": "2020-10-11",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 52
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1100,
+        "moe": 3.0,
+        "company": "Leger",
+        "date": "Oct. 6-9, 2020",
+        "field": "2020-10-09",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 50
+            },
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 750,
+        "moe": 3.6,
+        "company": "Research Co.",
+        "date": "Oct. 5-7, 2020",
+        "field": "2020-10-07",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 989,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "Oct. 1-3, 2020",
+        "field": "2020-10-03",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 49
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1041,
+        "moe": 3.04,
+        "company": "Mainstreet",
+        "date": "Sep. 26-29, 2020",
+        "field": "2020-09-29",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 802,
+        "moe": 3.5,
+        "company": "Leger",
+        "date": "Sep. 24-28, 2020",
+        "field": "2020-09-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 1251,
+        "moe": 3.2,
+        "company": "Ipsos",
+        "date": "Sep. 24-28, 2020",
+        "field": "2020-09-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Insights West",
+        "date": "Sep. 22-23, 2020",
+        "field": "2020-09-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 750,
+        "moe": 3.6,
+        "company": "Research Co.",
+        "date": "Sep. 21-23, 2020",
+        "field": "2020-09-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "BCLP",
+                "score": 37
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 655,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "Aug. 26-Sep. 1, 2020",
+        "field": "2020-09-01",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "CPBC",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1984,
+        "moe": 2.2,
+        "company": "EKOS",
+        "date": "Jul. 18-Aug. 28, 2020",
+        "field": "2020-08-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "BCLP",
+                "score": 25
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "n": 444,
+        "company": "Innovative",
+        "date": "Jul. 14-20, 2020",
+        "field": "2020-07-20",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1504,
+        "moe": 2.5,
+        "company": "EKOS",
+        "date": "Jun. 16-Jul. 17, 2020",
+        "field": "2020-07-17",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "n": 830,
+        "moe": 3.4,
+        "company": "Insights West",
+        "date": "Jun. 24-28, 2020",
+        "field": "2020-06-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 268,
+        "company": "Innovative",
+        "date": "Jun. 19-23, 2020",
+        "field": "2020-06-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCLP",
+                "score": 32
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 261,
+        "company": "Innovative",
+        "date": "May 29-Jun. 1, 2020",
+        "field": "2020-06-01",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Research Co.",
+        "date": "May 23-25, 2020",
+        "field": "2020-05-25",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 603,
+        "moe": 1.4,
+        "company": "Angus Reid",
+        "date": "May 19-24, 2020",
+        "field": "2020-05-24",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCLP",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 261,
+        "company": "Innovative",
+        "date": "May 1-5, 2020",
+        "field": "2020-05-05",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 608,
+        "moe": 6.6,
+        "company": "Angus Reid",
+        "date": "Feb. 24-28. 2020",
+        "field": "2020-02-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 21
+            },
+            {
+                "party": "CPBC",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 808,
+        "moe": 3.4,
+        "company": "Insights West",
+        "date": "Nov. 7-9, 2019",
+        "field": "2019-11-09",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "BCLP",
+                "score": 32
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "CPBC",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 848,
+        "moe": 4.3,
+        "company": "Insights West",
+        "date": "Jun. 6-12, 2019",
+        "field": "2019-06-12",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "BCLP",
+                "score": 30
+            },
+            {
+                "party": "GPBC",
+                "score": 18
+            },
+            {
+                "party": "CPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Research Co.",
+        "date": "May 20-22, 2019",
+        "field": "2019-05-22",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "BCLP",
+                "score": 30
+            },
+            {
+                "party": "GPBC",
+                "score": 21
+            },
+            {
+                "party": "CPBC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 923,
+        "moe": 3.23,
+        "company": "Mainstreet",
+        "date": "Mar. 20-21, 2019",
+        "field": "2019-03-21",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "BCLP",
+                "score": 32
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 812,
+        "moe": 3.4,
+        "company": "Justason",
+        "date": "Feb. 26-Mar. 13, 2019",
+        "field": "2019-03-13",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 887,
+        "moe": 3.29,
+        "company": "Mainstreet",
+        "date": "Jan. 13-14, 2019",
+        "field": "2020-01-14",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 15
+            },
+            {
+                "party": "CPBC",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 814,
+        "company": "Insights West",
+        "date": "Nov. 2-6, 2018",
+        "field": "2018-11-06",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 616,
+        "moe": 3.92,
+        "company": "Mainstreet",
+        "date": "Oct. 31-Nov. 2, 2018",
+        "field": "2018-11-02",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 18
+            },
+            {
+                "party": "CPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 933,
+        "moe": 3.21,
+        "company": "Mainstreet",
+        "date": "Jul. 15-17, 2018",
+        "field": "2018-07-17",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "BCLP",
+                "score": 34
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1053,
+        "moe": 3.0,
+        "company": "Insights West",
+        "date": "Jul. 12-15, 2018",
+        "field": "2018-07-15",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "BCLP",
+                "score": 32
+            },
+            {
+                "party": "GPBC",
+                "score": 17
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 809,
+        "moe": 3.4,
+        "company": "Angus Reid",
+        "date": "May 4-7, 2018",
+        "field": "2018-05-07",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 900,
+        "moe": 3.27,
+        "company": "Mainstreet",
+        "date": "Apr. 16-18, 2018",
+        "field": "2018-04-18",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "BCLP",
+                "score": 37
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1496,
+        "moe": 2.53,
+        "company": "Mainstreet",
+        "date": "Apr. 12-15, 2018",
+        "field": "2018-04-15",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "BCLP",
+                "score": 37
+            },
+            {
+                "party": "GPBC",
+                "score": 17
+            },
+            {
+                "party": "CPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1511,
+        "moe": 2.52,
+        "company": "Mainstreet",
+        "date": "Mar. 5-6, 2018",
+        "field": "2018-05-06",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 22
+            },
+            {
+                "party": "CPBC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 829,
+        "moe": 3.4,
+        "company": "Insights West",
+        "date": "Jan. 15-17, 2018",
+        "field": "2018-01-17",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 19
+            },
+            {
+                "party": "CPBC",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 817,
+        "moe": 3.24,
+        "company": "Mainstreet",
+        "date": "Jan. 3-4, 2018",
+        "field": "2018-01-04",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38.5
+            },
+            {
+                "party": "BCLP",
+                "score": 33.9
+            },
+            {
+                "party": "GPBC",
+                "score": 27.6
+            }
+        ]
+    },
+    {
+        "n": 2050,
+        "moe": 2.16,
+        "company": "Mainstreet",
+        "date": "Aug. 14-15, 2017",
+        "field": "2017-08-15",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "BCLP",
+                "score": 38
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.9,
+        "company": "Ipsos",
+        "date": "Jun. 26-28, 2017",
+        "field": "2020-06-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCLP",
+                "score": 44
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 821,
+        "moe": 3.4,
+        "company": "Insights West",
+        "date": "Jun. 23-28, 2017",
+        "field": "2017-06-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "BCLP",
+                "score": 36
+            },
+            {
+                "party": "GPBC",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1650,
+        "moe": 2.41,
+        "company": "Mainstreet",
+        "date": "Jun. 26-27, 2017",
+        "field": "2017-06-27",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "BCLP",
+                "score": 45
+            },
+            {
+                "party": "GPBC",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 810,
+        "moe": 3.4,
+        "company": "Angus Reid",
+        "date": "Jun. 15-19, 2017",
+        "field": "2017-06-19",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCLP",
+                "score": 39
+            },
+            {
+                "party": "GPBC",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 802,
+        "moe": 3.9,
+        "company": "Ipsos",
+        "date": "Jun. 8-11, 2017",
+        "field": "2017-06-11",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCLP",
+                "score": 40
+            },
+            {
+                "party": "GPBC",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1650,
+        "moe": 3.41,
+        "company": "Mainstreet",
+        "date": "May 11-13, 2017",
+        "field": "2017-05-13",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "BCLP",
+                "score": 38
+            },
+            {
+                "party": "GPBC",
+                "score": 22
+            }
+        ]
     }
 ]

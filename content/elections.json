@@ -274,6 +274,33 @@
         "jurisdiction": "Canada_ATL"
     },
     {
+        "date": "2017-05-09",
+        "nextWrit": "2020-09-21",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 40.3
+            },
+            {
+                "party": "BCLP",
+                "score": 40.4
+            },
+            {
+                "party": "GPBC",
+                "score": 16.8
+            },
+            {
+                "party": "CPBC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 2.0
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
         "date": "2020-10-24",
         "results": [
             {
