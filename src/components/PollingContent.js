@@ -309,6 +309,10 @@ let brandColours = {
     let tickMonth = new Date(startDate).setDate(0);
   
     let monthArray = [new Date(tickMonth)];
+
+    let samplePositions = [...Array(plotWidth).keys()];
+    samplePositions = samplePositions.filter(x => x >= padding && x < plotWidth - padding)
+    console.log(samplePositions);
   
     while (tickMonth < endDate) {
       tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + 1);
@@ -342,21 +346,20 @@ let brandColours = {
   
     // Weight polls
 
-    function weightPolls(day, polls) {
+    function weightPolls(sample, polls) {
 
         //let period = (endDate - startDate)/(24*60*60*1000);
 
         let period = 16;
-        day = xMap(day);
 
-        let weightedPolls = polls.map(poll => {let d = (xMap(new Date(poll.field)) - day)/period; poll.weight = (poll.n**0.5/30 || 1)/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
+        let weightedPolls = polls.map(poll => {let d = (xMap(new Date(poll.field)) - sample)/period; poll.weight = (poll.n**0.5/30 || 1)/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
 
         return(weightedPolls);
     }
 
     // Generate trendlines
 
-    function rollingAverage(days, party) {
+    function rollingAverage(positions, party) {
       
         let output = [];
 
@@ -368,16 +371,16 @@ let brandColours = {
 
         if (!election.results.map(x => x.party).includes(party)) {
 
-            let appearances = partyPolls.map(x => new Date(x.field));
-            let firstAppearance = Math.min.apply(null, appearances);
-            let lastAppearance = Math.max.apply(null, appearances);
+            let appearances = partyPolls.map(x => xMap(new Date(x.field)));
+            let firstAppearance = xMap(Math.min.apply(null, appearances));
+            let lastAppearance = xMap(Math.max.apply(null, appearances));
 
-            days = days.filter(day => new Date(day) >= new Date(firstAppearance) && new Date(day) <= new Date(lastAppearance));
+            positions = positions.filter(sample => sample >= firstAppearance && sample <= lastAppearance);
         }
 
-        for (let day of days) {
+        for (let sample of positions) {
 
-            let weightedPolls = weightPolls(day, partyPolls);
+            let weightedPolls = weightPolls(sample, partyPolls);
 
             // Collect values for the relevant party
 
@@ -386,7 +389,7 @@ let brandColours = {
     
             let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
     
-            output.push({date: day, score: avg});
+            output.push({position: sample, score: avg});
 
         }
     
@@ -415,8 +418,6 @@ let brandColours = {
 
     let bj = jurisdiction.split("_")[0];
   
-    console.log(election.nextWrit);
-
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
           <g className="timeTicks">
@@ -444,7 +445,7 @@ let brandColours = {
                                 d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
                                 stroke="#b0b0b0"
                                 strokeLinecap="round"
-                                strokeWidth="0.5"/>)}
+                                strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>)}
               <text className="writLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
             </g>}
             </g>
@@ -454,12 +455,12 @@ let brandColours = {
               <text fontSize="20pt" x={padding - 5} y={yMap(score)} textAnchor="end">{score}</text>
               )}</g>
 
-            {validParties.map(party => { let line = rollingAverage(dayArray, party);
+            {validParties.map(party => { let line = rollingAverage(samplePositions, party); console.log(line);
                 return <path
                 stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                 className={"trendline"}
                 fill="none"
-                d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
+                d={"M " + line.map(event => String(event.position + 25) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
   
           <g className="scatterElection">
