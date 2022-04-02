@@ -344,9 +344,12 @@ let brandColours = {
 
     function weightPolls(day, polls) {
 
-        let period = (endDate - startDate)/(24*60*60*1000);
+        //let period = (endDate - startDate)/(24*60*60*1000);
 
-        let weightedPolls = polls.map(poll => {let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); poll.weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
+        let period = 16;
+        day = xMap(day);
+
+        let weightedPolls = polls.map(poll => {let d = (xMap(new Date(poll.field)) - day)/period; poll.weight = (poll.n**0.5/30 || 1)/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
 
         return(weightedPolls);
     }
