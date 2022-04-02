@@ -466,10 +466,7 @@ let brandColours = {
     function handleClickPoll(rowIndex) {
       return () => setPollsActive(rowIndex);
     }
-
-    console.log(polls);
-  
-    
+ 
     return(
       <div>
         <div>
