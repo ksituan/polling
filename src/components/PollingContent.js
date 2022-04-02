@@ -267,11 +267,31 @@ let brandColours = {
     pollList.push(electionObject);
   
     let startDate = new Date(election.date);
+
+    let nextWrit = new Date(election.nextWrit);
+    console.log(nextWrit);
   
     // We can now scale objects based on the graph's span
   
-    function xMap(date) {
+    let prewritPolls = pollList.filter(x => new Date(x.date) < new Date(election.nextWrit)).length;
+    let allPolls = pollList.length;
+
+    function xMap(date) { 
+
       let x = (plotWidth-padding*2)*(date-startDate)/(endDate-startDate) + padding + 25;
+
+      // Time to make things more complicated. X is a discontinuous function that scales based on the writ (!!!)
+
+      if (election.nextWrit) {
+        let midpoint = (plotWidth-padding*2)*(prewritPolls/allPolls) + padding + 25;
+        if (date <= nextWrit) {
+          x = (midpoint-padding*2)*(date-startDate)/(nextWrit-startDate) + padding + 25;
+        } 
+        if (date > nextWrit) {
+          x = (plotWidth-midpoint+25)*(date-nextWrit)/(endDate-nextWrit) + midpoint - 25;
+        }
+      }
+
       return(x);
     }
   
@@ -307,7 +327,9 @@ let brandColours = {
         dayArray.push(new Date(tickDay));
     }
 
-    dayArray.splice(-1); 
+    dayArray.splice(-1);
+
+    let writArray = dayArray.filter(x => x > nextWrit);
       
     // Generate vertical marker lines
   
@@ -390,6 +412,8 @@ let brandColours = {
 
     let bj = jurisdiction.split("_")[0];
   
+    console.log(election.nextWrit);
+
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
           <g className="timeTicks">
@@ -402,7 +426,25 @@ let brandColours = {
                 strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
                 {day.getMonth() === 0 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.getYear() + 1900}</text>}
               </g>
-            )}</g>
+            )}
+            {election.nextWrit && <g>
+              <path
+                className="writLine"
+                d={`M ${xMap(new Date(election.nextWrit))} ${padding} v ${plotHeight-padding*2}`}
+                stroke="#b0b0b0"
+                strokeLinecap="round"
+                strokeWidth="2"
+              />
+              {writArray.map(day => 
+                                <path
+                                className="writLine"
+                                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
+                                stroke="#b0b0b0"
+                                strokeLinecap="round"
+                                strokeWidth="0.5"/>)}
+              <text className="writLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
+            </g>}
+            </g>
   
           <g className="scoreTicks">
             {scoreArray.map(score =>
