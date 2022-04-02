@@ -41,6 +41,7 @@ query MyQuery($jurisdiction: String, $afterDate: Date, $beforeDate: Date) {
   }
   electionsJson(date: {eq: $afterDate}, jurisdiction: {eq: $jurisdiction}) {
     date
+    nextWrit
     results {
       party
       score
