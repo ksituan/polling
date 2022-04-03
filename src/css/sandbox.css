@@ -157,6 +157,10 @@ svg text {
         visibility: hidden;
     }
 
+    .writLabel {
+        font-size: 24pt;
+    }
+
     .scoreTicks {
         visibility: hidden;
     }

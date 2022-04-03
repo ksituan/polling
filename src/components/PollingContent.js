@@ -82,7 +82,7 @@ let brandColours = {
       let chartHeight = 900;
       let barPadding = 20;
       let bottom = 250;
-      let right = (poll.poll.length <= 4 || minBar >= 8) ? 400 : 200;
+      let right = poll.poll.length <= 3 ? 600 : (poll.poll.length <= 4 || minBar >= 8) ? 400 : 200;
   
       let barWidth = (chartWidth - right) / poll.poll.length;
   
@@ -269,11 +269,10 @@ let brandColours = {
     let startDate = new Date(election.date);
 
     let nextWrit = new Date(election.nextWrit);
-    console.log(nextWrit);
   
     // We can now scale objects based on the graph's span
   
-    let prewritPolls = pollList.filter(x => new Date(x.date) < new Date(election.nextWrit)).length;
+    let prewritPolls = pollList.filter(x => new Date(x.field) < nextWrit).length;
     let allPolls = pollList.length;
 
     function xMap(date) { 
@@ -311,8 +310,7 @@ let brandColours = {
     let monthArray = [new Date(tickMonth)];
 
     let samplePositions = [...Array(plotWidth).keys()];
-    samplePositions = samplePositions.filter(x => x >= padding && x < plotWidth - padding)
-    console.log(samplePositions);
+    samplePositions = samplePositions.filter(x => x >= padding && x < plotWidth - padding + 25)
   
     while (tickMonth < endDate) {
       tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + 1);
@@ -440,12 +438,15 @@ let brandColours = {
                 strokeWidth="2"
               />
               {writArray.map(day => 
-                                <path
-                                className="writLine"
-                                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
-                                stroke="#b0b0b0"
-                                strokeLinecap="round"
-                                strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>)}
+              <g>
+                <path
+                className="writLine"
+                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
+                stroke="#b0b0b0"
+                strokeLinecap="round"
+                strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>
+                {day.getDate() === 1 && nextWrit.getDate() < 28 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.toLocaleDateString("en-CA", {month: "short"})}</text>}
+              </g>)}
               <text className="writLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
             </g>}
             </g>
@@ -455,7 +456,7 @@ let brandColours = {
               <text fontSize="20pt" x={padding - 5} y={yMap(score)} textAnchor="end">{score}</text>
               )}</g>
 
-            {validParties.map(party => { let line = rollingAverage(samplePositions, party); console.log(line);
+            {validParties.map(party => { let line = rollingAverage(samplePositions, party);
                 return <path
                 stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                 className={"trendline"}
@@ -517,7 +518,7 @@ let brandColours = {
       <div>
         <div>
           <h2>{name + " trendlines"}</h2>
-          <div className="credit">Polling Canada / Prairie Heart</div>
+          <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
