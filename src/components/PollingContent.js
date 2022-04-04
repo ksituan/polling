@@ -310,7 +310,7 @@ let brandColours = {
     let monthArray = [new Date(tickMonth)];
 
     let samplePositions = [...Array(plotWidth).keys()];
-    samplePositions = samplePositions.filter(x => x >= padding && x < plotWidth - padding + 25)
+    samplePositions = samplePositions.filter(x => x >= padding + 25 && x < plotWidth - padding + 25)
   
     while (tickMonth < endDate) {
       tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + 1);
@@ -370,11 +370,14 @@ let brandColours = {
         if (!election.results.map(x => x.party).includes(party)) {
 
             let appearances = partyPolls.map(x => xMap(new Date(x.field)));
-            let firstAppearance = xMap(Math.min.apply(null, appearances));
-            let lastAppearance = xMap(Math.max.apply(null, appearances));
+
+            let firstAppearance = Math.min(...appearances);
+            let lastAppearance = Math.max(...appearances);
 
             positions = positions.filter(sample => sample >= firstAppearance && sample <= lastAppearance);
         }
+
+        console.log(positions);
 
         for (let sample of positions) {
 
@@ -461,7 +464,7 @@ let brandColours = {
                 stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                 className={"trendline"}
                 fill="none"
-                d={"M " + line.map(event => String(event.position + 25) + " " + String(yMap(event.score))).join(" L ")}/>
+                d={"M " + line.map(event => String(event.position) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
   
           <g className="scatterElection">
