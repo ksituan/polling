@@ -1905,8 +1905,12 @@
                 "score": 25
             },
             {
+                "party": "NBP",
+                "score": 3
+            },
+            {
                 "party": "Others",
-                "score": 5
+                "score": 2
             },
             {
                 "party": "GPO",
@@ -3930,7 +3934,11 @@
             },
             {
                 "party": "Others",
-                "score": 3
+                "score": 1
+            },
+            {
+                "party": "NBP",
+                "score": 2
             },
             {
                 "party": "GPO",
@@ -4022,7 +4030,11 @@
             },
             {
                 "party": "Others",
-                "score": 5
+                "score": 3
+            },
+            {
+                "party": "NBP",
+                "score": 2
             },
             {
                 "party": "GPO",
@@ -4976,7 +4988,11 @@
             },
             {
                 "party": "Others",
-                "score": 4
+                "score": 2
+            },
+            {
+                "party": "NBP",
+                "score": 2
             },
             {
                 "party": "GPO",
