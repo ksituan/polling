@@ -450,7 +450,7 @@ let brandColours = {
                 strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>
                 {day.getDate() === 1 && nextWrit.getDate() < 28 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.toLocaleDateString("en-CA", {month: "short"})}</text>}
               </g>)}
-              <text className="writLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
+              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
             </g>}
             </g>
   
