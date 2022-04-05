@@ -15058,5 +15058,409 @@
                 "score": 2
             }
         ]
-    }
+    },  
+    {
+        "n": 1101,
+        "moe": 3,
+        "company": "Forum",
+        "date": "May 4, 2015",
+        "field": "2015-05-04",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 23
+            },
+            {
+                "party": "WRP",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1003,
+        "moe": 3.1,
+        "company": "Insights West",
+        "date": "May 1-4, 2015",
+        "field": "2015-05-04",
+        "method": "online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 23
+            },
+            {
+                "party": "WRP",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1060,
+        "moe": 3,
+        "company": "Forum",
+        "date": "May 2, 2015",
+        "field": "2015-05-02",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 21
+            },
+            {
+                "party": "WRP",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 2114,
+        "moe": 2.1,
+        "company": "ThinkHQ",
+        "date": "April 26-28, 2015",
+        "field": "2015-04-28",
+        "method": "IVR & Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 20
+            },
+            {
+                "party": "WRP",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "ALP",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 801,
+        "moe": 3,
+        "company": "Forum",
+        "date": "April 24, 2015",
+        "field": "2015-04-24",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 20
+            },
+            {
+                "party": "WRP",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            },
+            {
+                "party": "ALP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1835,
+        "moe": 2.3,
+        "company": "ThinkHQ",
+        "date": "April 2-6, 2015",
+        "field": "2015-04-06",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 25
+            },
+            {
+                "party": "WRP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 602,
+        "moe": 3.9,
+        "company": "Insight West",
+        "date": "March 27-30, 2015",
+        "field": "2015-03-30",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 31
+            },
+            {
+                "party": "WRP",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "ALP",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 603,
+        "moe": 3.9,
+        "company": "Insight West",
+        "date": "December 28-30, 2014",
+        "field": "2014-12-30",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 42
+            },
+            {
+                "party": "WRP",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "ALP",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 612,
+        "moe": 3.9,
+        "company": "Insight West",
+        "date": "Nov. 28-Dec. 1, 2014",
+        "field": "2014-12-01",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 35
+            },
+            {
+                "party": "WRP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "ALP",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 622,
+        "moe": 3.9,
+        "company": "Insight West",
+        "date": "April 23-26, 2014",
+        "field": "2014-04-26",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 21
+            },
+            {
+                "party": "WRP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "ALP",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1688,
+        "moe": 2.4,
+        "company": "ThinkHQ",
+        "date": "March 10-16, 2014",
+        "field": "2014-03-16",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 19
+            },
+            {
+                "party": "WRP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1214,
+        "moe": 2.8,
+        "company": "ThinkHQ",
+        "date": "February 12-16, 2014",
+        "field": "2014-02-16",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 26
+            },
+            {
+                "party": "WRP",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    }    
 ]

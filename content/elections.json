@@ -328,6 +328,109 @@
         "jurisdiction": "BC"
     },
     {
+        "date": "2008-03-03",
+        "nextWrit": "2012-03-26",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 8.5
+            },
+            {
+                "party": "WRP",
+                "score": 6.8
+            },
+            {
+                "party": "PCA",
+                "score": 52.7
+            },
+            {
+                "party": "ALP",
+                "score": 26.4
+            },
+            {
+                "party": "GPA",
+                "score": 4.6
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ],
+        "jurisdiction": "AB"
+    },
+    {
+        "date": "2012-04-23",
+        "nextWrit": "2015-04-07",
+        "credit": "Jaac Doduck",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 9.8
+            },
+            {
+                "party": "WRP",
+                "score": 34.3
+            },
+            {
+                "party": "PCA",
+                "score": 44.0
+            },
+            {
+                "party": "ABP",
+                "score": 1.3
+            },
+            {
+                "party": "ALP",
+                "score": 9.9
+            },
+            {
+                "party": "GPA",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ],
+        "jurisdiction": "AB"
+    },
+    {
+        "date": "2015-05-05",
+        "nextWrit": "2019-03-19",
+        "credit": "Jaac Doduck",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 40.6
+            },
+            {
+                "party": "WRP",
+                "score": 24.2
+            },
+            {
+                "party": "PCA",
+                "score": 27.8
+            },
+            {
+                "party": "ABP",
+                "score": 2.2
+            },
+            {
+                "party": "ALP",
+                "score": 4.2
+            },
+            {
+                "party": "GPA",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ],
+        "jurisdiction": "AB"
+    },
+    {
         "date": "2019-04-16",
         "results": [
             {
