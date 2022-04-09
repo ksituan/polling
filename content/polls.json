@@ -15493,5 +15493,2455 @@
                 "score": 4.3
             }
         ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October 22, 1993",
+        "field": "1993-10-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1011,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "October 20, 1993",
+        "field": "1993-10-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "RPC",
+                "score": 19
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 3329,
+        "company": "Angus Reid",
+        "date": "October 20, 1993",
+        "field": "1993-10-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1504,
+        "moe": 2.5,
+        "company": "Comquest",
+        "date": "October 14, 1993",
+        "field": "1993-10-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1961,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "October 6, 1993",
+        "field": "1993-10-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "n": 1505,
+        "moe": 2.5,
+        "company": "EKOS",
+        "date": "September 28, 1993",
+        "field": "1993-09-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Compas",
+        "date": "September 26, 1993",
+        "field": "1993-09-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1015,
+        "company": "Gallup",
+        "date": "September 23, 1993",
+        "field": "1993-09-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "PCPC",
+                "score": 30
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1745,
+        "company": "Leger",
+        "date": "September 23, 1993",
+        "field": "1993-09-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "PCPC",
+                "score": 28
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 3010,
+        "moe": 2.0,
+        "company": "CROP",
+        "date": "September 22, 1993",
+        "field": "1993-09-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "September 16, 1993",
+        "field": "1993-09-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Comquest",
+        "date": "September 14, 1993",
+        "field": "1993-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 36
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1505,
+        "company": "Environics",
+        "date": "September 9, 1993",
+        "field": "1993-09-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1414,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "September 9, 1993",
+        "field": "1993-09-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "RPC",
+                "score": 10
+            },
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "moe": 2.3,
+        "company": "Environics",
+        "date": "September 3, 1993",
+        "field": "1993-09-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1012,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "August 16, 1993",
+        "field": "1993-08-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 36
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1056,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "August 5, 1993",
+        "field": "1993-08-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 9
+            },
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 1010,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "July 13, 1993",
+        "field": "1993-07-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 33
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "June 28, 1993",
+        "field": "1993-06-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1040,
+        "company": "Gallup",
+        "date": "April 17, 1993",
+        "field": "1993-04-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "n": 1012,
+        "company": "Gallup",
+        "date": "April 2, 1993",
+        "field": "1993-04-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "n": 1025,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "March 15, 1993",
+        "field": "1993-03-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 2017,
+        "moe": 2.2,
+        "company": "Gallup",
+        "date": "February 15, 1993",
+        "field": "1993-02-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "RPC",
+                "score": 8
+            },
+            {
+                "party": "PCPC",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 3
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "January 30, 1993",
+        "field": "1993-01-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "company": "Angus Reid",
+        "date": "December 6, 1992",
+        "field": "1992-12-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 2000,
+        "company": "Environics",
+        "date": "December 5, 1992",
+        "field": "1992-12-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 1006,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "November 16, 1992",
+        "field": "1992-11-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "company": "Gallup",
+        "date": "September 14, 1992",
+        "field": "1992-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "RPC",
+                "score": 8
+            },
+            {
+                "party": "PCPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 1027,
+        "company": "Gallup",
+        "date": "July 11, 1992",
+        "field": "1992-07-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "RPC",
+                "score": 10
+            },
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 1024,
+        "moe": 3.1,
+        "company": "Gallup",
+        "date": "June 6, 1992",
+        "field": "1992-06-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1502,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "May 26, 1992",
+        "field": "1992-05-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1035,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "April 11, 1992",
+        "field": "1902-04-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            }
+        ]
+    },
+    {
+        "n": 1001,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "March 7, 1992",
+        "field": "1992-03-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "February 5, 1992",
+        "field": "1992-02-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1013,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "January 11, 1992",
+        "field": "1992-01-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {
+        "n": 1006,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "December 7, 1991",
+        "field": "1991-12-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "n": 2000,
+        "company": "Environics",
+        "date": "December 5, 1991",
+        "field": "1991-12-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 1004,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "November 9, 1991",
+        "field": "1991-11-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "October 7, 1991",
+        "field": "1991-10-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1504,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "September 11, 1991",
+        "field": "1991-09-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "n": 1037,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "September 7, 1991",
+        "field": "1991-09-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            }
+        ]
+    },
+    {
+        "n": 1030,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "August 22, 1991",
+        "field": "1991-08-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "July 15, 1991",
+        "field": "1991-07-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Gallup",
+        "date": "June 8, 1991",
+        "field": "1991-06-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "n": 1508,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "June 2, 1991",
+        "field": "1991-06-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "May 7, 1991",
+        "field": "1991-05-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            }
+        ]
+    },
+    {
+        "n": 1040,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "May 4, 1991",
+        "field": "1991-05-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "n": 1024,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "April 13, 1991",
+        "field": "1991-04-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1503,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "March 20, 1991",
+        "field": "1991-03-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1039,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "March 9, 1991",
+        "field": "1991-03-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1506,
+        "moe": 2.5,
+        "company": "Environics",
+        "date": "February 23, 1991",
+        "field": "1991-02-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            }
+        ]
+    },
+    {
+        "n": 1037,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "February 9, 1991",
+        "field": "1991-02-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "RPC",
+                "score": 8
+            },
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "January 21, 1991",
+        "field": "1991-01-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1026,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "January 5, 1991",
+        "field": "1991-01-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "RPC",
+                "score": 9
+            },
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "December 22, 1990",
+        "field": "1990-12-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "NDP",
+                "score": 36
+            }
+        ]
+    },
+    {
+        "n": 1011,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "December 8, 1990",
+        "field": "1990-12-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "RPC",
+                "score": 8
+            },
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 36
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "November 19, 1990",
+        "field": "1990-11-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "November 10, 1990",
+        "field": "1990-11-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            }
+        ]
+    },
+    {
+        "n": 1041,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "October 13, 1990",
+        "field": "1990-10-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "RPC",
+                "score": 9
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            }
+        ]
+    },
+    {
+        "n": 1504,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "September 19, 1990",
+        "field": "1990-09-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "n": 1051,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "September 15, 1990",
+        "field": "1990-09-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "August 11, 1990",
+        "field": "1990-08-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "RPC",
+                "score": 6
+            },
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "July 14, 1990",
+        "field": "1990-07-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "n": 1011,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "June 16, 1990",
+        "field": "1990-06-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1773,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "June 12, 1990",
+        "field": "1990-06-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "n": 1025,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "May 5, 1990",
+        "field": "1990-05-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "RPC",
+                "score": 7
+            },
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1049,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "April 7, 1990",
+        "field": "1990-04-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "RPC",
+                "score": 6
+            },
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "April 2, 1990",
+        "field": "1990-04-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53
+            },
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            }
+        ]
+    },
+    {
+        "n": 1054,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "March 10, 1990",
+        "field": "1990-03-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "RPC",
+                "score": 5
+            },
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1003,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "February 10, 1990",
+        "field": "1990-02-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "RPC",
+                "score": 4
+            },
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1041,
+        "company": "Gallup",
+        "date": "January 13, 1990",
+        "field": "1990-01-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "December 21, 1989",
+        "field": "1989-12-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "RPC",
+                "score": 3
+            },
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "November 11, 1989",
+        "field": "1989-11-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "October 5, 1989",
+        "field": "1989-10-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "PCPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 1051,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "September 9, 1989",
+        "field": "1989-09-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "PCPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "July 8, 1989",
+        "field": "1989-07-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 1443,
+        "moe": 2.5,
+        "company": "Environics",
+        "date": "June 21, 1989",
+        "field": "1989-06-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1502,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "May 30, 1989",
+        "field": "1989-05-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Gallup",
+        "date": "May 20, 1989",
+        "field": "1989-05-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.5,
+        "company": "Angus Reid",
+        "date": "March 30, 1989",
+        "field": "1989-03-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "PCPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1465,
+        "moe": 2.5,
+        "company": "Environics",
+        "date": "March 25, 1989",
+        "field": "1989-03-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "PCPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1021,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "January 7, 1989",
+        "field": "1989-01-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "PCPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1012,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "December 3, 1988",
+        "field": "1988-12-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "PCPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]

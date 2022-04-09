@@ -1,5 +1,89 @@
 [
     {
+        "date": "1988-11-21",
+        "nextWrit": "1993-09-08",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 43.0
+            },
+            {
+                "party": "LPC",
+                "score": 31.9
+            },
+            {
+                "party": "NDP",
+                "score": 20.4
+            },
+            {
+                "party": "RPC",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 2.6
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1993-10-25",
+        "nextWrit": "1997-04-26",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 16.0
+            },
+            {
+                "party": "LPC",
+                "score": 41.2
+            },
+            {
+                "party": "NDP",
+                "score": 6.9
+            },
+            {
+                "party": "RPC",
+                "score": 18.7
+            },
+            {
+                "party": "BQ",
+                "score": 13.5
+            },
+            {
+                "party": "Others",
+                "score": 3.7
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2015-10-19",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 31.9
+            },
+            {
+                "party": "LPC",
+                "score": 39.5
+            },
+            {
+                "party": "NDP",
+                "score": 19.7
+            },
+            {
+                "party": "BQ",
+                "score": 4.7
+            },
+            {
+                "party": "GPC",
+                "score": 3.4
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
         "date": "2021-09-20",
         "results": [
             {
@@ -59,32 +143,6 @@
             {
                 "party": "PPC",
                 "score": 1.6
-            }
-        ],
-        "jurisdiction": "Canada"
-    },
-    {
-        "date": "2015-10-19",
-        "results": [
-            {
-                "party": "CPC",
-                "score": 31.9
-            },
-            {
-                "party": "LPC",
-                "score": 39.5
-            },
-            {
-                "party": "NDP",
-                "score": 19.7
-            },
-            {
-                "party": "BQ",
-                "score": 4.7
-            },
-            {
-                "party": "GPC",
-                "score": 3.4
             }
         ],
         "jurisdiction": "Canada"
