@@ -17,7 +17,7 @@ const work = () => (
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
     <p className="dateText">2020-present</p>
     <p><span className="colourfulText">Mainstreet Research</span> Social Media Manager & Digital Analyst</p>
-    <p className="dateText">2022-present</p>
+    <p className="dateText">2022</p>
     <p><span className="colourfulText">MPP Chris Glover</span> Social Media Co-ordinator</p>
     <p className="dateText">2018</p>
     <p><span className="colourfulText">Ontario NDP</span> Candidate (Niagara West)</p>
