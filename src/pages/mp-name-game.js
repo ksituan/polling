@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 import initialMembers from "../../content/members.json";
 import cartogram from "../../content/cartogram.json";
 
-initialMembers = initialMembers.sort((a,b) => a.riding - b.riding);
+const startingState = initialMembers.sort((a,b) => a.riding - b.riding);
 
 const provinces = {BC: "British Columbia",
                         AB: "Alberta",
@@ -91,7 +91,7 @@ function caucusList(members) {
 
 function Game() {
 
-    let [members, setMembers] = useState(initialMembers);
+    let [members, setMembers] = useState(startingState);
     let [submission, setSubmission] = useState("");
 
     let caucus = caucusList(members);
@@ -101,8 +101,7 @@ function Game() {
     function Reset() {
         const handleReset = (event) => {
           event.preventDefault();
-          console.log(initialMembers);
-          setMembers(JSON.parse(JSON.stringify(initialMembers)));
+          setMembers(JSON.parse(JSON.stringify(startingState)));
           localStorage.removeItem('members');
         }
         return (
