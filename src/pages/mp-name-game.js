@@ -96,13 +96,10 @@ function Game() {
 
     let caucus = caucusList(members);
 
-    //let memberStore = localStorage.getItem('members');
-
     function Reset() {
         const handleReset = (event) => {
           event.preventDefault();
           setMembers(JSON.parse(JSON.stringify(startingState)));
-          //localStorage.removeItem('members');
         }
         return (
           <button id="resetbutton" onClick={handleReset}>
@@ -114,18 +111,22 @@ function Game() {
     const handleSubmit = (event) => {
         event.preventDefault();
 
-        let guess = Object.values(members).filter(o => o.surname.map(stringNormalize).includes(stringNormalize(submission)));
+        // This is a bullshit way to reset the DOM that I don't understand
+        document.getElementById("guessbox").style.animation = 'none';
+        void document.getElementById("guessbox").offsetWidth;
+        document.getElementById("guessbox").style.animation = null;
+
+        let guess = Object.values(members).filter(o => o.surname.map(stringNormalize).includes(stringNormalize(submission.split(" ").pop())));
 
         if (guess.length > 0) {
             for (let match of guess) {
                 if (match.g) {
                     match.g = false;
                     setMembers(members);
-                    //localStorage.setItem('members', JSON.stringify(members));
                 }
             }
         } else {
-            console.log("Wrong!");
+            document.getElementById("guessbox").style.animation = "wrong 0.3s 1";
         }
 
         setSubmission("");
@@ -144,8 +145,10 @@ function Game() {
         return(
             <svg id="nameMap" viewBox="0 0 450 210">
                 {members.map(member => 
-                    <rect id={member.riding} className={member.g ? member.party : member.party + " correct"} x={10 * cartogram[member.riding].x} y={10 * cartogram[member.riding].y }/>
-                    )}
+                    <g>
+                        <rect id={member.riding} className={member.g ? member.party : member.party + " correct"} x={10 * cartogram[member.riding].x} y={10 * cartogram[member.riding].y }/>
+                        {!member.g && <text x={10 * cartogram[member.riding].x + 5} y={10 * cartogram[member.riding].y + 7.4}>{member.given[0] + member.surname[0][0]}</text>}
+                    </g>)}
                 <path className="cityBorder" d="M 20 70 v 10 h 10 v 20" />
                 <path className="cityBorder" d="M 90 50 h 20 v 30 h -10 v 10 h -20 v -30 h 10 z" />
                 <path className="cityBorder" d="M 160 170 v -40 h 70 v 10 h 10 v 10" />
@@ -165,6 +168,38 @@ function Game() {
                 <path className="provBorder" d="M 50 10 h 10 v 10 h -10 z" />
                 <path className="provBorder" d="M 60 10 h 10 v 10 h -10 z" />
                 <path className="provBorder" d="M 70 10 h 10 v 10 h -10 z" />
+                <g className="pollingCanada" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke="black" transform="scale(1) translate(312 -12)">
+        <path
+           fill="#c94141"
+           d="m 123.94611,189.49703 -5.45888,3.15168 v 6.30338 l 5.45888,3.15168 5.44675,-3.14468 -5.44675,-3.15868 z" />
+        <path
+           d="m 118.48722,186.34534 v 6.30337 l -5.45889,3.15169 -5.45888,-3.15168 v -6.28938 l 5.45888,3.13769 z"
+           fill="#85ab53" />
+        <path
+           d="m 102.11058,189.49702 5.45888,3.15168 v 6.30338 l -5.45888,3.15168 -5.446759,-3.14467 5.446759,-3.15869 z"
+           fill="#e69f4a" />
+        <path
+           d="m 123.94611,214.71052 -5.45888,-3.15168 v -6.30338 l 5.45888,-3.15168 5.44675,3.14468 -5.44675,3.15868 z"
+           fill="#598dab" />         
+        <path
+           d="m 102.11058,214.71053 5.45888,-3.15168 v -6.30339 l -5.45888,-3.15168 -5.446759,3.14468 5.446759,3.15869 z"
+           fill="#88c9c3" />
+        <path
+           d="m 107.56946,198.95208 v 6.30338 l 5.43463,3.16569 5.48313,-3.16569 v -6.30338 l -5.48313,-3.16569 z"
+           fill="#bea79f" />
+        <path
+           d="m 107.56946,198.95209 5.45888,3.15168 5.45888,-3.15168 -5.45888,-3.15168 z"
+           fill="#ddcdc8" />
+        <path
+           d="m 113.04044,202.10377 -0.0242,6.31738"
+           fill="none" />
+        <path
+           d="m 111.93427,198.95208 h 2.18813"
+           fill="none" />
+        <path
+           d="m 113.01624,208.42115 -0.0121,6.30336"
+           fill="#85ab53"/>
+      </g>
             </svg>
         )
     }
@@ -177,7 +212,7 @@ function Game() {
                 id="guessbox"
                 type="text"
                 value={submission}
-                placeholder="Guess a name"
+                placeholder="Guess a surname"
                 onChange={(e) => setSubmission(e.target.value)}
             />
             </label>
@@ -203,15 +238,6 @@ function Game() {
 }
 
 export default function Index() {
-
-    //let memberStore = localStorage.getItem('members');
-    //if(memberStore) {
-    //  try {
-    //    setMembers(JSON.parse(memberStore));
-    //  } catch (error) {
-    //    console.error(error);
-    //  }
-    //}
     return(
         <Layout>
             <Seo title="MP Name Game" description="How much of Parliament can you name?" />

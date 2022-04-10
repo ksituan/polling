@@ -504,7 +504,7 @@
         "riding": "Langley—Aldergrove",
         "party": "Conservative",
         "surname": [
-            "Van Popta"
+            "Van Popta","Popta"
         ],
         "given": "Tako",
         "g": true
@@ -964,7 +964,7 @@
         "riding": "Moncton—Riverview—Dieppe",
         "party": "Liberal",
         "surname": [
-            "Petitpas Taylor"
+            "Petitpas Taylor","Petitpas","Taylor"
         ],
         "given": "Ginette",
         "g": true
@@ -1224,7 +1224,7 @@
         "riding": "Aurora—Oak Ridges—Richmond Hill",
         "party": "Liberal",
         "surname": [
-            "Taylor Roy"
+            "Taylor Roy","Taylor","Roy"
         ],
         "given": "Leah",
         "g": true
@@ -1594,7 +1594,7 @@
         "riding": "Hastings—Lennox and Addington",
         "party": "Conservative",
         "surname": [
-            "Kramp-Neuman"
+            "Kramp-Neuman","Kramp","Neuman"
         ],
         "given": "Shelby",
         "g": true
@@ -1784,7 +1784,7 @@
         "riding": "Milton",
         "party": "Liberal",
         "surname": [
-            "van Koeverden"
+            "van Koeverden","Koeverden"
         ],
         "given": "Adam",
         "g": true
@@ -1864,7 +1864,7 @@
         "riding": "Newmarket—Aurora",
         "party": "Liberal",
         "surname": [
-            "Van Bynen"
+            "Van Bynen","Bynen"
         ],
         "given": "Tony",
         "g": true
@@ -2614,7 +2614,7 @@
         "riding": "Charlesbourg—Haute-Saint-Charles",
         "party": "Conservative",
         "surname": [
-            "Paul-Hus"
+            "Paul-Hus","Paul","Hus"
         ],
         "given": "Pierre",
         "g": true
@@ -2694,7 +2694,7 @@
         "riding": "Hochelaga",
         "party": "Liberal",
         "surname": [
-            "Martinez Ferrada"
+            "Martinez Ferrada","Martinez","Ferrada"
         ],
         "given": "Soraya",
         "g": true
@@ -2724,7 +2724,7 @@
         "riding": "Joliette",
         "party": "Bloc Québécois",
         "surname": [
-            "Ste-Marie"
+            "Ste-Marie","Sainte-Marie","Marie"
         ],
         "given": "Gabriel",
         "g": true
@@ -2764,7 +2764,7 @@
         "riding": "Lac-Saint-Jean",
         "party": "Bloc Québécois",
         "surname": [
-            "Brunelle-Duceppe"
+            "Brunelle-Duceppe","Brunelle","Duceppe"
         ],
         "given": "Alexis",
         "g": true
@@ -2814,7 +2814,7 @@
         "riding": "Laval—Les Îles",
         "party": "Liberal",
         "surname": [
-            "El-Khoury"
+            "El-Khoury","Khoury"
         ],
         "given": "Fayçal",
         "g": true
@@ -2984,7 +2984,7 @@
         "riding": "Pierre-Boucher—Les Patriotes—Verchères",
         "party": "Bloc Québécois",
         "surname": [
-            "Barsalou-Duval"
+            "Barsalou-Duval","Barsalou","Duval"
         ],
         "given": "Xavier",
         "g": true
@@ -3054,7 +3054,7 @@
         "riding": "Rimouski-Neigette—Témiscouata—Les Basques",
         "party": "Bloc Québécois",
         "surname": [
-            "Blanchette-Joncas"
+            "Blanchette-Joncas","Blanchette","Joncas"
         ],
         "given": "Maxime",
         "g": true
@@ -3094,7 +3094,7 @@
         "riding": "Saint-Hyacinthe—Bagot",
         "party": "Bloc Québécois",
         "surname": [
-            "Savard-Tremblay"
+            "Savard-Tremblay","Savard","Tremblay"
         ],
         "given": "Simon-Pierre",
         "g": true

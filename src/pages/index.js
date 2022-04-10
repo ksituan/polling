@@ -1,5 +1,6 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import at from "../images/at.svg"
 
 import Layout from "../components/layout"
@@ -49,10 +50,25 @@ const IndexPage = ({pageContext, data}) => (
     </div>
 
     <h1>About</h1>
-
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. now enjoys 45,000 followers across multiple platforms, with millions of views every month.</p>
     <p>My message to campaigns: If you misrepresent publicly available numbers, I will find you.</p>
     <p>Follow me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a> and <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>.</p>
+    
+    <h1>Fun Stuff</h1>
+    <div className="gameBox">
+      <Link className="gameCard" to="/mp-name-game">
+        <StaticImage src="../images/name_game.png" alt="A screenshot of the MP Name Game" />
+        <p>MP Name Game</p>
+      </Link>
+      <a className="gameCard" href="https://awmcphee.ca/game" target="_blank" rel="noreferrer">
+        <StaticImage src="../images/census_game.png" alt="A screenshot of Alex's Census Game" />
+        <p>Alex's Census Game</p>
+      </a>
+      <a className="gameCard" href="http://www.election-atlas.ca" target="_blank" rel="noreferrer">
+        <StaticImage src="../images/election_atlas.png" alt="A screenshot of the Election Atlas" />
+        <p>election-atlas.ca</p>
+      </a>
+    </div>
     </Layout>
 )
 

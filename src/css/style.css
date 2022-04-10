@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
 @import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
 
 main * {
@@ -251,6 +252,19 @@ input {
 
 .gameBox {
     display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.gameCard {
+    text-align: center;
+    text-decoration: none;
+}
+
+.gameCard p {
+    margin-top: 1rem;
+    color: black;
+    font-weight: 600;
 }
 
 .gameCard img {
@@ -372,3 +386,18 @@ input {
 #nameMap .Independent.correct {
     fill: #b0b0b0;
 }
+
+#nameMap text {
+    text-anchor: middle;
+    font-family: Barlow Condensed;
+    font-size: 5pt;
+}
+
+#nameMap text .correct {
+    visibility: visible;
+}
+
+@keyframes wrong {
+    0%   {background-color: #ff2222; color: black;}
+    100% {background-color: white;}
+  }
