@@ -341,6 +341,7 @@ input {
 
 #nameMap {
     filter: drop-shadow(2px 2px 4px #b0b0b0);
+    margin-bottom: 2rem;
 }
 
 #nameMap rect {
