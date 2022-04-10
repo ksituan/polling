@@ -236,3 +236,139 @@ footer p {
     color: #b0b0b0;
     margin: 0.5rem 0 0.5rem 0;
 }
+
+/* Games */
+
+input {
+    width: calc(min(90vw, 1000px) - 0.5rem);
+    height: 2.5rem;
+    margin-right: -1rem;
+    font-size: 24pt;
+    color: #b0b0b0;
+    font-family: Inter;
+    text-align: center;
+}
+
+.gameBox {
+    display: flex;
+}
+
+.gameCard img {
+    width: 200px;
+}
+
+.member .surname {
+    text-transform: uppercase;
+}
+
+.member .riding {
+    color: #b0b0b0;
+    font-size: 8pt;
+}
+
+.memberBox {
+    column-count: 3;
+    max-width: none;
+}
+
+@media (max-width: 1000px) {
+    .memberBox {
+        column-count: 1;
+    }
+}
+
+.memberBox h3 {
+    margin-top: 0.6rem;
+    margin-bottom: 0.4rem;
+}
+
+.memberBox p {
+    font-size: 10pt;
+    margin-top: 0rem;
+    margin-bottom: 0.1rem;
+}
+
+.memberBox p:first-child {
+    margin-bottom: -0.3rem;
+}
+
+.memberBox .member p:first-child::before {
+    content: "";
+    display: inline-block;
+    height: 8pt;
+    width: 8pt;
+    margin-right: 6pt;
+    border: 2px black;
+}
+
+.memberBox .Conservative p:first-child::before {
+    background-color: #598dab;
+}
+
+.memberBox .Liberal p:first-child::before {
+    background-color: #c94141;
+}
+
+.memberBox .New.Democratic p:first-child::before {
+    background-color: #e69f4a;
+}
+
+.memberBox .Bloc p:first-child::before {
+    background-color: #88c9c3;
+}
+
+.memberBox .Green p:first-child::before {
+    background-color: #85ab53;
+}
+
+.memberBox .Independent p:first-child::before {
+    background-color: #b0b0b0;
+}
+
+#nameMap {
+    filter: drop-shadow(2px 2px 4px #b0b0b0);
+}
+
+#nameMap rect {
+    width: 10px;
+    height: 10px;
+    fill: #d0d0d0;
+    stroke-width: 0.5px;
+    stroke: white;
+}
+
+#nameMap .provBorder {
+    fill: none;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+#nameMap .cityBorder {
+    fill: none;
+    stroke: black;
+    stroke-width: 1.5px;
+}
+
+#nameMap .Conservative.correct {
+    fill: #598dab;
+}
+
+#nameMap .Liberal.correct {
+    fill: #c94141;
+}
+
+#nameMap .New.Democratic.correct {
+    fill: #e69f4a;
+}
+
+#nameMap .Bloc.correct {
+    fill: #88c9c3;
+}
+
+#nameMap .Green.correct {
+    fill: #85ab53;
+}
+
+#nameMap .Independent.correct {
+    fill: #b0b0b0;
+}
