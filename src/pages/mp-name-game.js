@@ -96,13 +96,13 @@ function Game() {
 
     let caucus = caucusList(members);
 
-    let memberStore = localStorage.getItem('members');
+    //let memberStore = localStorage.getItem('members');
 
     function Reset() {
         const handleReset = (event) => {
           event.preventDefault();
           setMembers(JSON.parse(JSON.stringify(startingState)));
-          localStorage.removeItem('members');
+          //localStorage.removeItem('members');
         }
         return (
           <button id="resetbutton" onClick={handleReset}>
@@ -121,7 +121,7 @@ function Game() {
                 if (match.g) {
                     match.g = false;
                     setMembers(members);
-                    localStorage.setItem('members', JSON.stringify(members));
+                    //localStorage.setItem('members', JSON.stringify(members));
                 }
             }
         } else {
