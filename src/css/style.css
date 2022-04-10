@@ -267,7 +267,7 @@ input {
     font-weight: 600;
 }
 
-.gameCard img {
+.gameCard .gatsby-image-wrapper img {
     width: 200px;
 }
 
