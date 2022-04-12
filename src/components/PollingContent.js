@@ -260,7 +260,8 @@ let brandColours = {
 
     let plotWidth = 1600;
     let plotHeight = 900;
-    let padding = 50;
+    let ypadding = 40;
+    let xpadding = 75;
   
     let electionObject = {field: election.date, poll: election.results.sort((a, b) => a.score - b.score)};
     let pollList = [...polls];
@@ -277,17 +278,17 @@ let brandColours = {
 
     function xMap(date) { 
 
-      let x = (plotWidth-padding*2)*(date-startDate)/(endDate-startDate) + padding + 25;
+      let x = (plotWidth-xpadding*2)*(date-startDate)/(endDate-startDate) + xpadding;
 
       // Time to make things more complicated. X is a discontinuous function that scales based on the writ (!!!)
 
       if (election.nextWrit) {
-        let midpoint = (plotWidth-padding*2)*(prewritPolls/allPolls) + padding + 25;
+        let midpoint = (plotWidth-xpadding*2)*(prewritPolls/allPolls) + xpadding;
         if (date <= nextWrit) {
-          x = (midpoint-padding*2)*(date-startDate)/(nextWrit-startDate) + padding + 25;
+          x = (midpoint-xpadding*2)*(date-startDate)/(nextWrit-startDate) + xpadding;
         } 
         if (date > nextWrit) {
-          x = (plotWidth-midpoint+25)*(date-nextWrit)/(endDate-nextWrit) + midpoint - 25;
+          x = (plotWidth-midpoint)*(date-nextWrit)/(endDate-nextWrit) + midpoint - xpadding;
         }
       }
 
@@ -299,7 +300,7 @@ let brandColours = {
     let highScore = Math.max(...pollList.map(poll => Math.max(...poll.poll.map((party) => party.score))));
   
     function yMap(score) {
-      let y = (plotHeight-padding*2)*(1-score/highScore) + padding;
+      let y = (plotHeight-ypadding*2)*(1-score/highScore) + ypadding;
       return(y);
     }
   
@@ -310,7 +311,7 @@ let brandColours = {
     let monthArray = [new Date(tickMonth)];
 
     let samplePositions = [...Array(plotWidth).keys()];
-    samplePositions = samplePositions.filter(x => x >= padding + 25 && x < plotWidth - padding + 25)
+    samplePositions = samplePositions.filter(x => x >= xpadding && x < plotWidth - xpadding)
   
     while (tickMonth < endDate) {
       tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + 1);
@@ -372,12 +373,9 @@ let brandColours = {
             let appearances = partyPolls.map(x => xMap(new Date(x.field)));
 
             let firstAppearance = Math.min(...appearances);
-            let lastAppearance = Math.max(...appearances);
 
-            positions = positions.filter(sample => sample >= firstAppearance && sample <= lastAppearance);
+            positions = positions.filter(sample => sample >= firstAppearance);
         }
-
-        console.log(positions);
 
         for (let sample of positions) {
 
@@ -413,29 +411,65 @@ let brandColours = {
     }
 
     let validParties = Object.entries(partyCount);
-    validParties = validParties.filter(x => x[1] > 2 && x[0] !== "AIP").map(y => y[0]);
+    validParties = validParties.filter(x => x[1] > 2 && x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
 
     // Plot polls
 
     let bj = jurisdiction.split("_")[0];
-  
+
+    // Get an array of label positions
+
+    let partyLabels = validParties.map(party => ({party: party, pos: yMap(rollingAverage([plotWidth-xpadding], party)[0].score) + 7})).sort((a,b) => a.pos - b.pos);
+    
+    function getDistance(labels) {
+      labels = labels.sort((a,b) => a.pos - b.pos);
+      labels.forEach(function (item, ix) {
+        item.dabove = labels[ix-1] ? item.pos - labels[ix-1].pos : plotHeight;
+        item.dbelow = labels[ix+1] ? labels[ix+1].pos - item.pos : plotHeight;
+      return(item);
+      });
+      return(labels);
+    }
+
+    partyLabels = getDistance(partyLabels);
+    let labelBuffer = 30;
+
+    function evalDistance(labels) {
+      let distances = labels.map(item => item.dabove).concat(labels.map(item => item.dbelow));
+      console.log(distances);
+      return (Math.min(...distances) < labelBuffer)
+    }
+
+    while (evalDistance(getDistance(partyLabels))) {
+      console.log("I'm iterating");
+      partyLabels = getDistance(partyLabels);
+      for (let item of partyLabels) {
+        if (item.dabove < labelBuffer) {
+          item.pos += 1;
+        }
+        if (item.dbelow < labelBuffer) {
+          item.pos -= 1;
+        }
+      }
+    }
+
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
           <g className="timeTicks">
             {monthArray.map(day =>
               <g>
                 <path
-                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
+                d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
                 strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
-                {day.getMonth() === 0 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.getYear() + 1900}</text>}
+                {day.getMonth() === 0 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={plotHeight - ypadding + 35}>{day.getYear() + 1900}</text>}
               </g>
             )}
             {election.nextWrit && <g>
               <path
                 className="writLine"
-                d={`M ${xMap(new Date(election.nextWrit))} ${padding} v ${plotHeight-padding*2}`}
+                d={`M ${xMap(new Date(election.nextWrit))} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
                 strokeWidth="2"
@@ -444,19 +478,19 @@ let brandColours = {
               <g>
                 <path
                 className="writLine"
-                d={`M ${xMap(day)} ${padding} v ${plotHeight-padding*2}`}
+                d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
                 strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>
-                {day.getDate() === 1 && nextWrit.getDate() < 28 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={935-padding}>{day.toLocaleDateString("en-CA", {month: "short"})}</text>}
+                {day.getDate() === 1 && nextWrit.getDate() < 28 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={plotHeight - ypadding + 35}>{day.toLocaleDateString("en-CA", {month: "short"})}</text>}
               </g>)}
-              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={935-padding}>Writ</text>
+              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={plotHeight - ypadding + 35}>Writ</text>
             </g>}
             </g>
   
           <g className="scoreTicks">
             {scoreArray.map(score =>
-              <text fontSize="20pt" x={padding - 5} y={yMap(score)} textAnchor="end">{score}</text>
+              <text fontSize="20pt" x={xpadding - 25} y={yMap(score)} textAnchor="end">{score}</text>
               )}</g>
 
             {validParties.map(party => { let line = rollingAverage(samplePositions, party);
@@ -495,6 +529,11 @@ let brandColours = {
                   fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}
                   />
             )}</a></g>)}
+
+          {partyLabels.map(party => 
+            <text className="partyLabel" textAnchor="start" x={plotWidth-xpadding + 8} y={party.pos} fontSize={party.length > 4 ? "16pt" : "18pt"}>
+              {party.party}
+            </text>)}
   
       </svg>
     );
