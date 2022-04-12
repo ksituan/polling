@@ -166,6 +166,10 @@ svg text {
         visibility: hidden;
     }
 
+    .partyLabel {
+        visibility: hidden;
+    }
+
     .wideChart svg path {
         stroke-width: 5px;
     }
