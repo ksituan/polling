@@ -418,6 +418,7 @@ input {
 }
 
 .partyTitle {
+    color: black;
     font-size: 16pt;
     margin-top: 0;
     margin-bottom: 0;

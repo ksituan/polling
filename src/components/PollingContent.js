@@ -289,13 +289,13 @@ let brandColours = {
     return(
         <div className="partyContainer">
           {validParties.map(acronym =>
-          <div className="party">
+          <a className="party" href={parties.content[bj][acronym].url ?? "https://en.wikipedia.org/wiki/Politics_of_Canada"} target="_blank" rel="noreferrer">
           <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[parties.content[bj][acronym].colour]} d={parties.content[bj][acronym].logo} /></svg>
           <div className="partyText">
             <h3 className="partyTitle">{acronym}</h3>
             <p className="partyName">{parties.content[bj][acronym].fullName}</p>
           </div>
-          </div>
+          </a>
           )}
         </div>
     );
