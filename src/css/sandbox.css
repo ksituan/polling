@@ -126,6 +126,10 @@ svg text {
 
 @media (max-width: 800px) {
 
+    .partyContainer {
+        flex-direction: column;
+    }
+
     .pollLink {
         column-gap: 0.75rem;
     }

@@ -255,8 +255,53 @@ let brandColours = {
     let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field;
     return(id);
   }
+
+  function listValidParties(pollList) {
+
+    // Get a list of every party that appears more than twice...
+
+    let partyArray = [];
+    pollList.map(x => x.poll.map(y => y.party !== "Others" && partyArray.push(y.party)));
+
+    const partyCount = {};
+
+    for (const party of partyArray) {
+        if (partyCount[party]) {
+            partyCount[party] += 1;
+        } else {
+            partyCount[party] = 1;
+        }
+    }
+
+    let validParties = Object.entries(partyCount);
+    validParties = validParties.filter(x => x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
+
+    return(validParties);
+  }
+
+  function PartyList({validParties, jurisdiction, election}) {
+
+    console.log(validParties);
+    console.log(jurisdiction);
+
+    let bj = jurisdiction.split("_")[0];
+
+    return(
+        <div className="partyContainer">
+          {validParties.map(acronym =>
+          <div className="party">
+          <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[parties.content[bj][acronym].colour]} d={parties.content[bj][acronym].logo} /></svg>
+          <div className="partyText">
+            <h3 className="partyTitle">{acronym}</h3>
+            <p className="partyName">{parties.content[bj][acronym].fullName}</p>
+          </div>
+          </div>
+          )}
+        </div>
+    );
+  }
   
-  function Scatterplot({polls, jurisdiction, election, endDate, onClickPoll}) {
+  function Scatterplot({polls, jurisdiction, election, endDate, validParties, onClickPoll}) {
 
     let plotWidth = 1600;
     let plotHeight = 900;
@@ -395,24 +440,6 @@ let brandColours = {
         return(output);
     }
 
-    // Get a list of every party that appears more than twice...
-
-    let partyArray = [];
-    pollList.map(x => x.poll.map(y => y.party !== "Others" && partyArray.push(y.party)));
-
-    const partyCount = {};
-
-    for (const party of partyArray) {
-        if (partyCount[party]) {
-            partyCount[party] += 1;
-        } else {
-            partyCount[party] = 1;
-        }
-    }
-
-    let validParties = Object.entries(partyCount);
-    validParties = validParties.filter(x => x[1] > 2 && x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
-
     // Plot polls
 
     let bj = jurisdiction.split("_")[0];
@@ -436,12 +463,10 @@ let brandColours = {
 
     function evalDistance(labels) {
       let distances = labels.map(item => item.dabove).concat(labels.map(item => item.dbelow));
-      console.log(distances);
-      return (Math.min(...distances) < labelBuffer)
+      return (Math.min(...distances) < labelBuffer);
     }
 
     while (evalDistance(getDistance(partyLabels))) {
-      console.log("I'm iterating");
       partyLabels = getDistance(partyLabels);
       for (let item of partyLabels) {
         if (item.dabove < labelBuffer) {
@@ -543,6 +568,7 @@ let brandColours = {
   function PollingContent({polls, jurisdiction, election, endDate, name}) {
     let pollList = polls;
     let [pollsActive, setPollsActive] = useState(null);
+    let validParties = listValidParties(polls);
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -558,11 +584,13 @@ let brandColours = {
  
     return(
       <div>
+        <h2>{name + " parties"}</h2>
+        <PartyList validParties={validParties} jurisdiction={jurisdiction} election={election} />
         <div>
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
-        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} onClickPoll={handleClickPoll} />
+        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} validParties={validParties} onClickPoll={handleClickPoll} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
         <p>A solid box indicates that a party is polling above its last election result. Click any poll to see a chart with more information.</p>

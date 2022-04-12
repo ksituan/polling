@@ -401,4 +401,41 @@ input {
 @keyframes wrong {
     0%   {background-color: #ff2222; color: black;}
     100% {background-color: white;}
-  }
+}
+
+.partyContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.party {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.partyTitle {
+    font-size: 16pt;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.partyName {
+    color: #808080;
+    font-size: 8pt;
+    margin-top: -0.25rem;
+    margin-bottom: 0;
+}
+
+.partyLogo {
+    width: 40px;
+    margin-right: 0.5rem;
+    display: inline;
+}
+
+.partyText {
+    display: inline-block;
+}
