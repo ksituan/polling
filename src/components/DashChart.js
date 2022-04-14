@@ -75,8 +75,10 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
     let dayArray = [new Date(tickDay)];
 
     while (tickDay < endDate) {
-        tickDay = new Date(tickDay).setDate(new Date(tickDay).getDate() + 1);
-        dayArray.push(new Date(tickDay));
+        let nextDay = new Date(tickDay)
+        nextDay.setDate(tickDay.getDate() + 4);
+        dayArray.push(nextDay);
+        tickDay = nextDay;
     }
 
     dayArray.splice(-1);
@@ -87,10 +89,19 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
         let period = (endDate - startDate)/(24*60*60*1000);
 
-        let weightedPolls = polls.map(poll => {let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); poll.weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
+        let weightedPolls = polls.map(poll => {
+            let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); 
+            let weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); 
+            return({
+                ...poll,
+                weight
+            });
+        }) // Weight function
 
         return(weightedPolls);
     }
+
+    let weightedPollsObject = Object.fromEntries(dayArray.map(day => [[day.toDateString()], weightPolls(day, polls)]));
 
     // Generate trendlines
 
@@ -110,22 +121,26 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
             let firstAppearance = Math.min.apply(null, appearances);
             let lastAppearance = Math.max.apply(null, appearances);
 
-            days = days.filter(day => new Date(day) >= new Date(firstAppearance) && new Date(day) <= new Date(lastAppearance));
+            days = days.filter(day => day >= firstAppearance && day <= lastAppearance);
         }
 
-        for (let day of days) {
+        for (const day of days) {
 
-            let weightedPolls = weightPolls(day, partyPolls);
+            let weightedPolls = weightedPollsObject[day.toDateString()]
 
             // Collect values for the relevant party
 
-            weightedPolls = weightedPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
-            let weightSum = weightedPolls.reduce((a, b) => a + b.weight, 0);
-    
-            let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
-    
-            output.push({date: day, score: avg});
+            let weightSum = 0;
+            let valueSum = 0
+            for (const poll of weightedPolls) {
+                let value = poll.poll.filter(x => x.party === party)[0]?.score;
+                if (value !== undefined) {
+                    weightSum += poll.weight;
+                    valueSum += value * poll.weight;
+                }
+            }
 
+            output.push({date: day, score: valueSum/weightSum})
         }
     
         return(output);
