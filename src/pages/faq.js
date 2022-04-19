@@ -10,6 +10,8 @@ const faq = () => (
     <h1>Frequently Asked Questions</h1>
     <h2>Does Polling Canada conduct polls?</h2>
     <p>No. Polling Canada aggregates publicly available content.</p>
+    <h2>Can I use your graphics?</h2>
+    <p>Yes! All Polling Canada graphics are released under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons license</a> - specifically, Attribution-ShareAlike 4.0. That means you can legally do anything you like with them, as long as Polling Canada gets credited and you don't attempt to impose copyright on the result.</p>
     <h2>How can a sample size of 1,000 represent millions?</h2>
     <p>Statistics! Nothing can exactly replace the precision of surveying everyone in the country (hence why we still hold elections). But a few hundred respondents is mathematically good enough for 95% confidence, 19 times out of 20.</p>
     <h2>What about this Twitter poll with 50,000 responses?</h2>

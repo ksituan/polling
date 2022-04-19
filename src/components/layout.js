@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer>
           <p>🄯 {new Date().getFullYear()} {"//"} site by <a href="https://awmcphee.ca" target="_blank" rel="noreferrer">Prairie Heart Workshop</a></p>
-          <p>Creative Commons (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank" rel="noreferrer">CC BY-NC-SA 4.0</a>)</p>
+          <p>Creative Commons (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>)</p>
         </footer>
       </div>
     </>
