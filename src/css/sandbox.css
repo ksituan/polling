@@ -104,6 +104,11 @@ svg text {
 
 @media (max-width: 600px) {
 
+    footer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     .siteTitle {
         font-size: 26pt;
         font-weight: 600;

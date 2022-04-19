@@ -207,13 +207,13 @@ tr {
 }
 
 footer {
-    position: absolute;
-    left: 0.5rem;
+    display: flex;
+    justify-content: space-between;
 }
 
 footer p {
     font-size: 12pt;
-    margin: 1rem;
+    margin: 0 0.5rem;
 }
 
 .mapGallery {
