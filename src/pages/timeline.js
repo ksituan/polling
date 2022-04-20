@@ -59,7 +59,7 @@ function TimeColumn({jurisdiction, column}) {
 
     return(
         <div style={{gridColumn: column, width: "100%"}}>
-            <h3 style={{textAlign: "center", margin: "0", padding: "1rem", backgroundColor: "white", position: "sticky", top: "50vh", zIndex: "10"}}>{jurisdiction}</h3>
+            <h3 style={{textAlign: "center", margin: "0", padding: "0.5rem", backgroundColor: "white", position: "sticky", top: "8rem", zIndex: "10"}}>{jurisdiction}</h3>
             {relevantElections.map(function (elec) {
                 let elecPolls = relevantPolls.filter(x => new Date(x.field) >= new Date(elec.date) && new Date(x.field) <= elec.next)
 
@@ -76,7 +76,7 @@ function TimeColumn({jurisdiction, column}) {
                 //console.log(elec.date)
                 //console.log(elecPolls)
 
-                return(<Link to={"/"+jurisdiction+"-"+elec.date.getFullYear()}><div className="timelineElection" style={{border: "8px solid white", margin: "0 -4px -8px -4px"}}>{
+                return(<Link to={"/"+jurisdiction+"-"+elec.date.getFullYear()}><div className="timelineElection" style={{padding: "16px", filter: "drop-shadow(2px 2px 2px #b0b0b0)"}}>{
                     elecPolls.map(function (x) {
                     let pollSum = x.poll.reduce((a,b) => b.score + a, 0);
                     if (pollSum < 100) {
@@ -93,7 +93,9 @@ function TimeColumn({jurisdiction, column}) {
                                                         height: x.time}} />)}
                         )}
                     </div>)}
-                    )}</div></Link>)
+                    )}
+                    {elecPolls.length > 0 && <div className="timelineYear">{elec.date.getFullYear()}</div>}
+                    </div></Link>)
                 })}
         </div>
     )
@@ -117,6 +119,8 @@ const timeline = () => (
         <TimeColumn jurisdiction="NS" column="9" />
         <TimeColumn jurisdiction="NL" column="10" />
     </div>
+    <h2>Got old polls?</h2>
+    <p>We're always looking to push our coverage back even further. Please get in touch if you have any historical data for us!</p>
   </Layout>
 )
 

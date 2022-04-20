@@ -449,3 +449,14 @@ input {
     gap: 0px;
     grid-auto-rows: minmax(100px, auto);
   }
+
+.timelineYear {
+    color: black;
+    font-size: 18pt;
+    font-family: Inter;
+    font-weight: 700;
+    width: calc(100% - 32px);
+    text-align: center;
+    position: absolute;
+    bottom: 24px;
+}
