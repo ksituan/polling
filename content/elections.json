@@ -332,6 +332,60 @@
         "jurisdiction": "Canada_ATL"
     },
     {
+        "date": "2009-05-12",
+        "nextWrit": "2013-04-16",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 42.2
+            },
+            {
+                "party": "BCLP",
+                "score": 45.8
+            },
+            {
+                "party": "GPBC",
+                "score": 8.2
+            },
+            {
+                "party": "CPBC",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
+        "date": "2013-05-14",
+        "nextWrit": "2017-04-11",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 39.7
+            },
+            {
+                "party": "BCLP",
+                "score": 44.1
+            },
+            {
+                "party": "GPBC",
+                "score": 8.1
+            },
+            {
+                "party": "CPBC",
+                "score": 4.8
+            },
+            {
+                "party": "Others",
+                "score": 3.3
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
         "date": "2017-05-09",
         "nextWrit": "2020-09-21",
         "credit": "Caelem Galloway",
@@ -654,6 +708,86 @@
         "jurisdiction": "SK"
     },
     {
+        "date": "2007-05-22",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 48.0
+            },
+            {
+                "party": "PCPM",
+                "score": 37.9
+            },
+            {
+                "party": "GPM",
+                "score": 1.3
+            },
+            {
+                "party": "MLP",
+                "score": 12.4
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ],
+        "jurisdiction": "MB"
+    },
+    {
+        "date": "2011-10-04",
+        "nextWrit": "2016-03-16",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 46.2
+            },
+            {
+                "party": "PCPM",
+                "score": 43.7
+            },
+            {
+                "party": "GPM",
+                "score": 2.5
+            },
+            {
+                "party": "MLP",
+                "score": 7.5
+            },
+            {
+                "party": "Others",
+                "score": 0.1
+            }
+        ],
+        "jurisdiction": "MB"
+    },
+    {
+        "date": "2016-04-19",
+        "nextWrit": "2019-08-12",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 25.8
+            },
+            {
+                "party": "PCPM",
+                "score": 53.1
+            },
+            {
+                "party": "GPM",
+                "score": 5.1
+            },
+            {
+                "party": "MLP",
+                "score": 14.4
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ],
+        "jurisdiction": "MB"
+    },
+    {
         "date": "2019-09-10",
         "results": [
             {
@@ -680,6 +814,87 @@
         "jurisdiction": "MB"
     },
     {
+        "date": "2007-10-10",
+        "nextWrit": "2011-09-07",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 16.8
+            },
+            {
+                "party": "PCPO",
+                "score": 31.6
+            },
+            {
+                "party": "GPO",
+                "score": 8.0
+            },
+            {
+                "party": "OLP",
+                "score": 42.3
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "2011-10-06",
+        "nextWrit": "2014-05-02",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 22.7
+            },
+            {
+                "party": "PCPO",
+                "score": 35.5
+            },
+            {
+                "party": "GPO",
+                "score": 2.9
+            },
+            {
+                "party": "OLP",
+                "score": 37.7
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "2014-06-12",
+        "nextWrit": "2018-05-09",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 23.8
+            },
+            {
+                "party": "PCPO",
+                "score": 31.2
+            },
+            {
+                "party": "GPO",
+                "score": 4.9
+            },
+            {
+                "party": "OLP",
+                "score": 38.7
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
         "date": "2018-06-07",
         "results": [
             {
@@ -704,6 +919,111 @@
             }
         ],
         "jurisdiction": "ON"
+    },
+    {
+        "date": "2008-12-08",
+        "nextWrit": "2012-08-01",
+        "results": [
+            {
+                "party": "QS",
+                "score": 3.8
+            },
+            {
+                "party": "ADQ",
+                "score": 16.4
+            },
+            {
+                "party": "PLQ",
+                "score": 42.1
+            },
+            {
+                "party": "PQ",
+                "score": 35.2
+            },
+            {
+                "party": "PVQ",
+                "score": 2.2
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ],
+        "jurisdiction": "QC"
+    },
+    {
+        "date": "2012-09-04",
+        "nextWrit": "2014-03-05",
+        "results": [
+            {
+                "party": "QS",
+                "score": 6.0
+            },
+            {
+                "party": "CAQ",
+                "score": 27.1
+            },
+            {
+                "party": "PLQ",
+                "score": 31.2
+            },
+            {
+                "party": "ON",
+                "score": 1.9
+            },
+            {
+                "party": "PQ",
+                "score": 32.0
+            },
+            {
+                "party": "PVQ",
+                "score": 1.0
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "QC"
+    },
+    {
+        "date": "2014-04-07",
+        "nextWrit": "2018-08-23",
+        "results": [
+            {
+                "party": "QS",
+                "score": 7.6
+            },
+            {
+                "party": "CAQ",
+                "score": 23.1
+            },
+            {
+                "party": "PLQ",
+                "score": 41.5
+            },
+            {
+                "party": "ON",
+                "score": 0.7
+            },
+            {
+                "party": "PCQ",
+                "score": 0.4
+            },
+            {
+                "party": "PQ",
+                "score": 25.4
+            },
+            {
+                "party": "PVQ",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ],
+        "jurisdiction": "QC"
     },
     {
         "date": "2018-10-01",
@@ -740,6 +1060,99 @@
         "jurisdiction": "QC"
     },
     {
+        "date": "2010-09-27",
+        "nextWrit": "2014-08-21",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 10.4
+            },
+            {
+                "party": "PCNB",
+                "score": 48.8
+            },
+            {
+                "party": "GPNB",
+                "score": 4.6
+            },
+            {
+                "party": "NBLA",
+                "score": 34.5
+            },
+            {
+                "party": "PANB",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ],
+        "jurisdiction": "NB"
+    },
+    {
+        "date": "2014-09-22",
+        "nextWrit": "2018-08-17",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 13.0
+            },
+            {
+                "party": "PCNB",
+                "score": 34.6
+            },
+            {
+                "party": "GPNB",
+                "score": 6.6
+            },
+            {
+                "party": "NBLA",
+                "score": 42.7
+            },
+            {
+                "party": "PANB",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ],
+        "jurisdiction": "NB"
+    },
+    {
+        "date": "2018-09-24",
+        "nextWrit": "2020-08-17",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 5.0
+            },
+            {
+                "party": "PCNB",
+                "score": 31.9
+            },
+            {
+                "party": "GPNB",
+                "score": 11.9
+            },
+            {
+                "party": "NBLA",
+                "score": 37.8
+            },
+            {
+                "party": "PANB",
+                "score": 12.6
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "NB"
+    },
+    {
         "date": "2020-09-14",
         "results": [
             {
@@ -770,6 +1183,86 @@
         "jurisdiction": "NB"
     },
     {
+        "date": "2007-05-28",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 2.0
+            },
+            {
+                "party": "PEIPC",
+                "score": 41.4
+            },
+            {
+                "party": "GPPEI",
+                "score": 3.0
+            },
+            {
+                "party": "LPPEI",
+                "score": 52.9
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ],
+        "jurisdiction": "PE"
+    },
+    {
+        "date": "2011-10-03",
+        "nextWrit": "2015-04-06",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 3.2
+            },
+            {
+                "party": "PEIPC",
+                "score": 40.2
+            },
+            {
+                "party": "GPPEI",
+                "score": 4.4
+            },
+            {
+                "party": "LPPEI",
+                "score": 51.4
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ],
+        "jurisdiction": "PE"
+    },
+    {
+        "date": "2015-05-04",
+        "nextWrit": "2019-03-26",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 11.0
+            },
+            {
+                "party": "PEIPC",
+                "score": 37.4
+            },
+            {
+                "party": "GPPEI",
+                "score": 10.8
+            },
+            {
+                "party": "LPPEI",
+                "score": 40.8
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ],
+        "jurisdiction": "PE"
+    },
+    {
         "date": "2019-04-23",
         "results": [
             {
@@ -794,6 +1287,60 @@
             }
         ],
         "jurisdiction": "PE"
+    },
+    {
+        "date": "2009-06-09",
+        "nextWrit": "2013-09-07",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 45.2
+            },
+            {
+                "party": "PCNS",
+                "score": 24.5
+            },
+            {
+                "party": "GPNS",
+                "score": 2.3
+            },
+            {
+                "party": "NSL",
+                "score": 27.2
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ],
+        "jurisdiction": "NS"
+    },
+    {
+        "date": "2013-10-08",
+        "nextWrit": "2017-04-30",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 26.8
+            },
+            {
+                "party": "PCNS",
+                "score": 26.3
+            },
+            {
+                "party": "GPNS",
+                "score": 0.9
+            },
+            {
+                "party": "NSL",
+                "score": 45.7
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ],
+        "jurisdiction": "NS"
     },
     {
         "date": "2017-05-30",
@@ -847,6 +1394,102 @@
             }
         ],
         "jurisdiction": "NS"
+    },
+    {
+        "date": "2007-10-09",
+        "nextWrit": "2011-09-19",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 8.5
+            },
+            {
+                "party": "PCNL",
+                "score": 69.6
+            },
+            {
+                "party": "LPNL",
+                "score": 21.7
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ],
+        "jurisdiction": "NL"
+    },
+    {
+        "date": "2011-10-11",
+        "nextWrit": "2015-11-05",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 24.6
+            },
+            {
+                "party": "PCNL",
+                "score": 56.1
+            },
+            {
+                "party": "LPNL",
+                "score": 19.1
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ],
+        "jurisdiction": "NL"
+    },
+    {
+        "date": "2015-11-30",
+        "nextWrit": "2019-04-17",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 12.0
+            },
+            {
+                "party": "PCNL",
+                "score": 30.2
+            },
+            {
+                "party": "LPNL",
+                "score": 57.2
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ],
+        "jurisdiction": "NL"
+    },
+    {
+        "date": "2019-05-16",
+        "nextWrit": "2021-01-15",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 6.3
+            },
+            {
+                "party": "PCNL",
+                "score": 42.6
+            },
+            {
+                "party": "LPNL",
+                "score": 44.0
+            },
+            {
+                "party": "NLA",
+                "score": 2.4
+            },
+            {
+                "party": "Others",
+                "score": 4.7
+            }
+        ],
+        "jurisdiction": "NL"
     },
     {
         "date": "2021-03-25",

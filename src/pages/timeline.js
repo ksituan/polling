@@ -29,11 +29,11 @@ let ideology = { // This is totally arbitrary but it makes the graphs look nice!
     SK: ['GPS','NDP','SLP','Others','SKP','PCS','BPS'],
     MB: ['GPM','NDP','MLP','Others','PCPM'],
     ON: ['GPO','NDP','OLP','Others','PCPO','NBP'],
-    QC: ['QS','PVQ','PQ','Others','PLQ','CAQ','PCQ'],
+    QC: ['QS','ON','PVQ','PQ','Others','PLQ','ADQ','CAQ','PCQ'],
     NB: ['NDP','GPNB','NBLA','Others','PCNB','PANB'],
     PE: ['NDP','GPPEI','LPPEI','Others','PEIPC'],
     NS: ['NDP','GPNS','NSL','Others','PCNS'],
-    NL: ['NDP','LPNL','Others','PCNL'],
+    NL: ['NDP','LPNL','Others','NLA','PCNL'],
     YT: ['YGP','NDP','YLP','Others','YP']
 }
 
@@ -63,6 +63,8 @@ function TimeColumn({jurisdiction, column}) {
             {relevantElections.map(function (elec) {
                 let elecPolls = relevantPolls.filter(x => new Date(x.field) >= new Date(elec.date) && new Date(x.field) <= elec.next)
 
+                elecPolls.push({poll: elec.results, field: elec.date})
+
                 elecPolls = elecPolls.map(function(poll, i) {
                     if (i === 0) {
                         poll.time = (elec.next - new Date(elecPolls[i].field))/(24*60*60*1000)
@@ -90,7 +92,7 @@ function TimeColumn({jurisdiction, column}) {
                         return(<div className="timelineParty" style={{display: "inline-block",
                                                         backgroundColor: brandColours[pinfo[entry.party]?.colour|| "gray"],
                                                         width: (pollSum > 100 ? 100 * entry.score / pollSum : entry.score) + "%",
-                                                        height: x.time}} />)}
+                                                        height: x.time / 2}} />)}
                         )}
                     </div>)}
                     )}
@@ -104,8 +106,8 @@ function TimeColumn({jurisdiction, column}) {
 const timeline = () => (
   <Layout>
     <Seo title="Timeline" description="Timeline of Canadian politics" />
-    <h1>Timeline</h1>
-    <p>Did you know Polling Canada also has a lot of historical data? This page gives a quick overview of our entire database. Click any election for more details.</p>
+    <h1>Provincial Timeline</h1>
+    <p>Did you know Polling Canada also has a lot of historical data? This page gives a quick overview of all the provincial elections in our database. Click any election to go to a more detailed page.</p>
     <div className="timeline" style={{maxWidth: "none"}}>
         <TimeColumn jurisdiction="BC" column="1" />
         <TimeColumn jurisdiction="AB" column="2" />
