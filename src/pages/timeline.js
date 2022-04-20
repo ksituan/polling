@@ -58,8 +58,8 @@ function TimeColumn({jurisdiction, column}) {
     relevantPolls = relevantPolls.sort((a,b) => new Date(b.field) - new Date(a.field))
 
     return(
-        <div style={{gridColumn: column, width: "100%"}}>
-            <h3 style={{textAlign: "center", margin: "0", padding: "0.5rem", backgroundColor: "white", position: "sticky", top: "8rem", zIndex: "10"}}>{jurisdiction}</h3>
+        <div className="timelineColumn" style={{gridColumn: column, width: "100%"}}>
+            <h3 style={{textAlign: "center", margin: "0", backgroundColor: "white", position: "sticky", zIndex: "10"}}>{jurisdiction}</h3>
             {relevantElections.map(function (elec) {
                 let elecPolls = relevantPolls.filter(x => new Date(x.field) >= new Date(elec.date) && new Date(x.field) <= elec.next)
 
@@ -78,9 +78,11 @@ function TimeColumn({jurisdiction, column}) {
                 //console.log(elec.date)
                 //console.log(elecPolls)
 
-                return(<Link to={"/"+jurisdiction+"-"+elec.date.getFullYear()}><div className="timelineElection" style={{padding: "16px", filter: "drop-shadow(2px 2px 2px #b0b0b0)"}}>{
+                return(<Link to={"/"+jurisdiction+"-"+elec.date.getFullYear()}><div className="timelineElection" style={{filter: "drop-shadow(2px 2px 2px #b0b0b0)"}}>{
                     elecPolls.map(function (x) {
                     let pollSum = x.poll.reduce((a,b) => b.score + a, 0);
+                    let pollMax = Math.max(...x.poll.map(y => y.score))
+                    console.log(pollMax)
                     if (pollSum < 100) {
                         x.poll.push({party: "Others", score: 100 - pollSum})
                     }
@@ -88,11 +90,11 @@ function TimeColumn({jurisdiction, column}) {
                         x.poll = x.poll.sort((a, b) => ideology[jurisdiction].indexOf(a.party) - ideology[jurisdiction].indexOf(b.party))
                     }
                     return(<div className="timelinePoll" style={{margin: "0", fontSize: "0"}}>
-                        {x.poll.map(function (entry) {
-                        return(<div className="timelineParty" style={{display: "inline-block",
+                        {x.poll.map(function (entry, i) {
+                        return(<div className={entry.score === pollMax ? "timelineParty largest" : "timelineParty"} style={{display: "inline-block",
                                                         backgroundColor: brandColours[pinfo[entry.party]?.colour|| "gray"],
                                                         width: (pollSum > 100 ? 100 * entry.score / pollSum : entry.score) + "%",
-                                                        height: x.time / 2}} />)}
+                                                        height: x.time / 4}} />)}
                         )}
                     </div>)}
                     )}
