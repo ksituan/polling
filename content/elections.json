@@ -527,6 +527,68 @@
         "jurisdiction": "AB"
     },
     {
+        "date": "2007-11-07",
+        "nextWrit": "2011-10-10",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 37.2
+            },
+            {
+                "party": "SKP",
+                "score": 50.9
+            },
+            {
+                "party": "GPS",
+                "score": 2.0
+            },
+            {
+                "party": "SLP",
+                "score": 9.4
+            },
+            {
+                "party": "PCS",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ],
+        "jurisdiction": "SK"
+    },
+    {
+        "date": "2011-11-07",
+        "nextWrit": "2016-03-08",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 32.0
+            },
+            {
+                "party": "SKP",
+                "score": 64.3
+            },
+            {
+                "party": "GPS",
+                "score": 2.9
+            },
+            {
+                "party": "SLP",
+                "score": 0.6
+            },
+            {
+                "party": "PCS",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.0
+            }
+        ],
+        "jurisdiction": "SK"
+    },
+    {
         "date": "2016-04-04",
         "nextWrit": "2020-09-29",
         "results": [

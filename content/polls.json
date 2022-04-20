@@ -18656,5 +18656,587 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "company": "Forum",
+        "date": "April 1-2, 2016",
+        "field": "2016-04-02",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60.8
+            },
+            {
+                "party": "NDP",
+                "score": 30.1
+            },
+            {
+                "party": "GPS",
+                "score": 3.3
+            },
+            {
+                "party": "SLP",
+                "score": 5.5
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "company": "Insights West",
+        "date": "March 31-April 2, 2016",
+        "field": "2016-04-02",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 61
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "GPS",
+                "score": 4
+            },
+            {
+                "party": "SLP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "March 31, 2016",
+        "field": "2016-03-31",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "GPS",
+                "score": 5
+            },
+            {
+                "party": "SLP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "March 28-30, 2016",
+        "field": "2016-03-30",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 5
+            },
+            {
+                "party": "PCS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Insights West",
+        "date": "March 23-25, 2016",
+        "field": "2016-03-25",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "March 14-16, 2016",
+        "field": "2016-03-16",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 61
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "GPS",
+                "score": 2
+            },
+            {
+                "party": "SLP",
+                "score": 6
+            },
+            {
+                "party": "PCS",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "March 15, 2016",
+        "field": "2016-03-15",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 53
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "GPS",
+                "score": 4
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "March 8-10, 2016",
+        "field": "2016-03-10",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "SLP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "March 8, 2016",
+        "field": "2016-03-08",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Forum",
+        "date": "March 7, 2016",
+        "field": "2016-03-07",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "March 1, 2016",
+        "field": "2016-03-01",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "February 23, 2016",
+        "field": "2016-02-23",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "GPS",
+                "score": 4
+            },
+            {
+                "party": "SLP",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "February 11, 2016",
+        "field": "2016-02-11",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "GPS",
+                "score": 4
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 4, 2016",
+        "field": "2016-01-04",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 59
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 7
+            },
+            {
+                "party": "PCS",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "November 10-12, 2015",
+        "field": "2015-11-12",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "GPS",
+                "score": 4
+            },
+            {
+                "party": "SLP",
+                "score": 14
+            },
+            {
+                "party": "PCS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "October 6, 2015",
+        "field": "2015-10-06",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Oracle",
+        "date": "May 19-25, 2015",
+        "field": "2015-05-25",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60.8
+            },
+            {
+                "party": "NDP",
+                "score": 26.7
+            },
+            {
+                "party": "GPS",
+                "score": 4.1
+            },
+            {
+                "party": "SLP",
+                "score": 4.8
+            },
+            {
+                "party": "Others",
+                "score": 3.7
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "April 7-9, 2015",
+        "field": "2015-04-09",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 6
+            },
+            {
+                "party": "PCS",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "April 9-13, 2014",
+        "field": "2014-04-13",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 63.2
+            },
+            {
+                "party": "NDP",
+                "score": 27.4
+            },
+            {
+                "party": "GPS",
+                "score": 3.8
+            },
+            {
+                "party": "SLP",
+                "score": 5.1
+            },
+            {
+                "party": "PCS",
+                "score": 0.5
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "July 6-13, 2013",
+        "field": "2013-07-13",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60.1
+            },
+            {
+                "party": "NDP",
+                "score": 28.7
+            },
+            {
+                "party": "GPS",
+                "score": 6
+            },
+            {
+                "party": "SLP",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "May 1-8, 2013",
+        "field": "2013-05-08",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60.7
+            },
+            {
+                "party": "NDP",
+                "score": 29.4
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "June 4-8, 2012",
+        "field": "2012-06-08",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60.8
+            },
+            {
+                "party": "NDP",
+                "score": 29.4
+            },
+            {
+                "party": "GPS",
+                "score": 4.3
+            },
+            {
+                "party": "SLP",
+                "score": 1
+            },
+            {
+                "party": "PCS",
+                "score": 0.2
+            }
+        ]
     }
 ]
