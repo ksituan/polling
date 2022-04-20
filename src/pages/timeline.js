@@ -106,7 +106,6 @@ const timeline = () => (
     <Seo title="Timeline" description="Timeline of Canadian politics" />
     <h1>Timeline</h1>
     <p>Did you know Polling Canada also has a lot of historical data? This page gives a quick overview of our entire database. Click any election for more details.</p>
-    <p>While you're here... all this data will soon be yours. Please check back frequently while we create some free, easy-to-use downloads for casual and academic users.</p>
     <div className="timeline" style={{maxWidth: "none"}}>
         <TimeColumn jurisdiction="BC" column="1" />
         <TimeColumn jurisdiction="AB" column="2" />

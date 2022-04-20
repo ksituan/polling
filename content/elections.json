@@ -796,6 +796,33 @@
         "jurisdiction": "PE"
     },
     {
+        "date": "2017-05-30",
+        "nextWrit": "2021-07-17",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 21.5
+            },
+            {
+                "party": "PCNS",
+                "score": 35.7
+            },
+            {
+                "party": "GPNS",
+                "score": 2.8
+            },
+            {
+                "party": "NSL",
+                "score": 39.5
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ],
+        "jurisdiction": "NS"
+    },
+    {
         "date": "2021-08-17",
         "results": [
             {

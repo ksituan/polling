@@ -19238,5 +19238,114 @@
                 "score": 0.2
             }
         ]
+    },
+    {
+        "n": 993,
+        "company": "Forum",
+        "date": "August 16, 2021",
+        "field": "2021-08-16",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 39
+            },
+            {
+                "party": "PCNS",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPNS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "Mainstreet",
+        "date": "August 16, 2021",
+        "field": "2021-08-16",
+        "method": "IVR",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 38
+            },
+            {
+                "party": "PCNS",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPNS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Narrative",
+        "date": "August 11, 2021",
+        "field": "2021-08-11",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 40
+            },
+            {
+                "party": "PCNS",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "GPNS",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1239,
+        "moe": 2.8,
+        "company": "Mainstreet",
+        "date": "April 11-12, 2022",
+        "field": "2022-04-12",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36.4
+            },
+            {
+                "party": "OLP",
+                "score": 27.6
+            },
+            {
+                "party": "NDP",
+                "score": 24.4
+            },
+            {
+                "party": "Others",
+                "score": 6.3
+            },
+            {
+                "party": "GPO",
+                "score": 5.3
+            }
+        ]
     }
 ]
