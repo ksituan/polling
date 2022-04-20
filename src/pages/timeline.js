@@ -59,7 +59,7 @@ function TimeColumn({jurisdiction, column}) {
 
     return(
         <div style={{gridColumn: column, width: "100%"}}>
-            <h3 style={{textAlign: "center"}}>{jurisdiction}</h3>
+            <h3 style={{textAlign: "center", margin: "0", padding: "1rem", backgroundColor: "white", position: "sticky", top: "50vh", zIndex: "10"}}>{jurisdiction}</h3>
             {relevantElections.map(function (elec) {
                 let elecPolls = relevantPolls.filter(x => new Date(x.field) >= new Date(elec.date) && new Date(x.field) <= elec.next)
 
@@ -76,7 +76,7 @@ function TimeColumn({jurisdiction, column}) {
                 //console.log(elec.date)
                 //console.log(elecPolls)
 
-                return(<div className="timelineElection" style={{border: "4px solid black", margin: "0 -2px -4px -2px"}}>{
+                return(<Link to={"/"+jurisdiction+"-"+elec.date.getFullYear()}><div className="timelineElection" style={{border: "8px solid white", margin: "0 -4px -8px -4px"}}>{
                     elecPolls.map(function (x) {
                     let pollSum = x.poll.reduce((a,b) => b.score + a, 0);
                     if (pollSum < 100) {
@@ -93,7 +93,7 @@ function TimeColumn({jurisdiction, column}) {
                                                         height: x.time}} />)}
                         )}
                     </div>)}
-                    )}</div>)
+                    )}</div></Link>)
                 })}
         </div>
     )
@@ -103,8 +103,9 @@ const timeline = () => (
   <Layout>
     <Seo title="Timeline" description="Timeline of Canadian politics" />
     <h1>Timeline</h1>
-    <p>Click on an election to view the relevant page.</p>
-    <div className="timeline">
+    <p>Did you know Polling Canada also has a lot of historical data? This page gives a quick overview of our entire database. Click any election for more details.</p>
+    <p>While you're here... all this data will soon be yours. Please check back frequently while we create some free, easy-to-use downloads for casual and academic users.</p>
+    <div className="timeline" style={{maxWidth: "none"}}>
         <TimeColumn jurisdiction="BC" column="1" />
         <TimeColumn jurisdiction="AB" column="2" />
         <TimeColumn jurisdiction="SK" column="3" />

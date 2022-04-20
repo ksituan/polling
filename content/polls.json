@@ -18530,10 +18530,130 @@
             {
                 "party": "ALP",
                 "score": 3
+            }
+        ]
+    },
+    {
+        "n": 3258,
+        "moe": 1.7,
+        "company": "Mainstreet",
+        "date": "October 1, 2015",
+        "field": "2015-10-01",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 21
             },
             {
-                "party": "Others",
+                "party": "WRP",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 3199,
+        "moe": 1.7,
+        "company": "Mainstreet",
+        "date": "November 1, 2015",
+        "field": "2015-11-01",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "WRP",
+                "score": 37
+            },
+            {
+                "party": "PCA",
+                "score": 20
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 619,
+        "moe": 3.9,
+        "company": "Insights West",
+        "date": "November 10, 2015",
+        "field": "2015-11-10",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "WRP",
+                "score": 28
+            },
+            {
+                "party": "PCA",
+                "score": 21
+            },
+            {
+                "party": "ALP",
+                "score": 13
+            },
+            {
+                "party": "ABP",
                 "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1230,
+        "moe": 2.8,
+        "company": "ThinkHQ",
+        "date": "December 6, 2015",
+        "field": "2015-12-06",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "WRP",
+                "score": 33
+            },
+            {
+                "party": "PCA",
+                "score": 25
+            },
+            {
+                "party": "ALP",
+                "score": 8
+            },
+            {
+                "party": "ABP",
+                "score": 3
             }
         ]
     }
