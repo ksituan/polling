@@ -446,6 +446,6 @@ input {
 .timeline {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
-    gap: 10px;
+    gap: 0px;
     grid-auto-rows: minmax(100px, auto);
   }

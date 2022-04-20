@@ -18501,5 +18501,40 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 3007,
+        "moe": 1.8,
+        "company": "Mainstreet",
+        "date": "June 30, 2015",
+        "field": "2015-06-30",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "PCA",
+                "score": 24
+            },
+            {
+                "party": "WRP",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "ABP",
+                "score": 2
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]

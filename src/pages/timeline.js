@@ -42,41 +42,59 @@ function TimeColumn({jurisdiction, column}) {
     let pinfo = parties.content[bj];
 
     let relevantElections = elections.filter(x => x.jurisdiction === jurisdiction)
+    relevantElections = relevantElections.sort((a,b) => new Date(b.date) - new Date(a.date))
+
+    relevantElections = relevantElections.map(function(elec, i) {
+        elec.date = new Date(elec.date)
+        if (i === 0) {
+            elec.next = new Date()
+        } else {
+            elec.next = new Date(relevantElections[i-1].date)
+        }
+        return(elec)
+    })
 
     let relevantPolls = polls.filter(x => x.jurisdiction === jurisdiction)
     relevantPolls = relevantPolls.sort((a,b) => new Date(b.field) - new Date(a.field))
 
-    relevantPolls = relevantPolls.map(function(poll, i) {
-        if (i === 0) {
-            poll.time = (new Date() - new Date(relevantPolls[i].field))/(24*60*60*1000)
-        } else {
-            poll.time = (new Date(relevantPolls[i-1].field) - new Date(relevantPolls[i].field))/(24*60*60*1000)
-        }
-        return(poll)
-    })
-
-    console.log(relevantPolls)
-
     return(
         <div style={{gridColumn: column, width: "100%"}}>
             <h3 style={{textAlign: "center"}}>{jurisdiction}</h3>
-            {relevantPolls.map(function (x) {
-                let pollSum = x.poll.reduce((a,b) => b.score + a, 0);
-                if (pollSum < 100) {
-                    x.poll.push({party: "Others", score: 100 - pollSum})
-                }
-                if (ideology[jurisdiction]) {
-                    x.poll = x.poll.sort((a, b) => ideology[jurisdiction].indexOf(a.party) - ideology[jurisdiction].indexOf(b.party))
-                }
-                return(<div className="timelinePoll" style={{margin: "0", fontSize: "0"}}>
-                    {x.poll.map(function (entry) {
-                    return(<div className="timelineParty" style={{display: "inline-block",
-                                                    backgroundColor: brandColours[pinfo[entry.party]?.colour|| "gray"],
-                                                    width: (pollSum > 100 ? 100 * entry.score / pollSum : entry.score) + "%",
-                                                    height: x.time}} />)}
-                    )}
-                </div>)}
-                )}
+            {relevantElections.map(function (elec) {
+                let elecPolls = relevantPolls.filter(x => new Date(x.field) >= new Date(elec.date) && new Date(x.field) <= elec.next)
+
+                elecPolls = elecPolls.map(function(poll, i) {
+                    if (i === 0) {
+                        poll.time = (elec.next - new Date(elecPolls[i].field))/(24*60*60*1000)
+                    } else {
+                        poll.time = (new Date(elecPolls[i-1].field) - new Date(elecPolls[i].field))/(24*60*60*1000)
+                    }
+                    return(poll)
+                })
+                //console.log(jurisdiction)
+                //console.log(elec.next)
+                //console.log(elec.date)
+                //console.log(elecPolls)
+
+                return(<div className="timelineElection" style={{border: "4px solid black", margin: "0 -2px -4px -2px"}}>{
+                    elecPolls.map(function (x) {
+                    let pollSum = x.poll.reduce((a,b) => b.score + a, 0);
+                    if (pollSum < 100) {
+                        x.poll.push({party: "Others", score: 100 - pollSum})
+                    }
+                    if (ideology[jurisdiction]) {
+                        x.poll = x.poll.sort((a, b) => ideology[jurisdiction].indexOf(a.party) - ideology[jurisdiction].indexOf(b.party))
+                    }
+                    return(<div className="timelinePoll" style={{margin: "0", fontSize: "0"}}>
+                        {x.poll.map(function (entry) {
+                        return(<div className="timelineParty" style={{display: "inline-block",
+                                                        backgroundColor: brandColours[pinfo[entry.party]?.colour|| "gray"],
+                                                        width: (pollSum > 100 ? 100 * entry.score / pollSum : entry.score) + "%",
+                                                        height: x.time}} />)}
+                        )}
+                    </div>)}
+                    )}</div>)
+                })}
         </div>
     )
 }
