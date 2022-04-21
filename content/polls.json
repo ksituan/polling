@@ -5174,41 +5174,6 @@
         ]
     },
     {
-        "n": 2032,
-        "moe": 2.2,
-        "company": "Mainstreet",
-        "date": "October 20, 2019",
-        "field": "2019-10-20",
-        "method": "IVR",
-        "jurisdiction": "Canada",
-        "poll": [
-            {
-                "party": "CPC",
-                "score": 32.2
-            },
-            {
-                "party": "LPC",
-                "score": 31.6
-            },
-            {
-                "party": "NDP",
-                "score": 18.3
-            },
-            {
-                "party": "BQ",
-                "score": 7.9
-            },
-            {
-                "party": "PPC",
-                "score": 2.8
-            },
-            {
-                "party": "GPC",
-                "score": 6.1
-            }
-        ]
-    },
-    {
         "n": 424,
         "moe": 4.8,
         "company": "DataPath",
@@ -36646,6 +36611,37 @@
             {
                 "party": "Others",
                 "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1261,
+        "moe": 2.1,
+        "company": "Abacus",
+        "date": "April 19, 2022",
+        "field": "2022-04-19",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
             }
         ]
     }
