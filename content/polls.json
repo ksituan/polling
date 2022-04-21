@@ -19318,6 +19318,181 @@
         ]
     },
     {
+        "company": "Leger",
+        "date": "August 2, 2021",
+        "field": "2021-08-02",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 42
+            },
+            {
+                "party": "PCNS",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPNS",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "July 22, 2021",
+        "field": "2021-07-22",
+        "method": "IVR",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 42
+            },
+            {
+                "party": "PCNS",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "June 9, 2021",
+        "field": "2021-06-09",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 41
+            },
+            {
+                "party": "PCNS",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Narrative",
+        "date": "June 3, 2021",
+        "field": "2021-06-03",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 52
+            },
+            {
+                "party": "PCNS",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPNS",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Narrative",
+        "date": "March 9, 2021",
+        "field": "2021-03-09",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 50
+            },
+            {
+                "party": "PCNS",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPNS",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "February 25, 2021",
+        "field": "2021-02-25",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 51
+            },
+            {
+                "party": "PCNS",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "December 10, 2020",
+        "field": "2020-12-10",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "NSL",
+                "score": 37
+            },
+            {
+                "party": "PCNS",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "GPNS",
+                "score": 7
+            }
+        ]
+    },
+    {
         "n": 1239,
         "moe": 2.8,
         "company": "Mainstreet",
@@ -19345,6 +19520,1352 @@
             {
                 "party": "GPO",
                 "score": 5.3
+            }
+        ]
+    },
+    {
+        "n": 1073,
+        "company": "Narrative",
+        "date": "April 18-22, 2019",
+        "field": "2019-04-22",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 25.7
+            },
+            {
+                "party": "PEIPC",
+                "score": 35.3
+            },
+            {
+                "party": "GPPEI",
+                "score": 34.3
+            },
+            {
+                "party": "NDP",
+                "score": 4.6
+            }
+        ]
+    },
+    {
+        "n": 636,
+        "company": "Mainstreet",
+        "date": "April 14-17, 2019",
+        "field": "2019-04-17",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 30.5
+            },
+            {
+                "party": "LPPEI",
+                "score": 29.2
+            },
+            {
+                "party": "GPPEI",
+                "score": 35.4
+            },
+            {
+                "party": "NDP",
+                "score": 3.9
+            }
+        ]
+    },
+    {
+        "n": 539,
+        "company": "Narrative",
+        "date": "April 12-15, 2019",
+        "field": "2019-04-15",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 29
+            },
+            {
+                "party": "PEIPC",
+                "score": 32
+            },
+            {
+                "party": "GPPEI",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "April 11-16, 2019",
+        "field": "2019-04-16",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 26
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 691,
+        "company": "Mainstreet",
+        "date": "March 23-24, 2019",
+        "field": "2019-03-24",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 31.6
+            },
+            {
+                "party": "PEIPC",
+                "score": 27.5
+            },
+            {
+                "party": "GPPEI",
+                "score": 35.9
+            },
+            {
+                "party": "NDP",
+                "score": 3.7
+            }
+        ]
+    },
+    {
+        "n": 301,
+        "company": "Corporate",
+        "date": "February 2-24, 2019",
+        "field": "2019-02-24",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 27
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "January 21-27, 2019",
+        "field": "2019-01-27",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 33
+            },
+            {
+                "party": "PEIPC",
+                "score": 28
+            },
+            {
+                "party": "GPPEI",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 731,
+        "company": "Mainstreet",
+        "date": "January 15-18, 2019",
+        "field": "2019-01-18",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 35.2
+            },
+            {
+                "party": "PEIPC",
+                "score": 29.6
+            },
+            {
+                "party": "GPPEI",
+                "score": 30.8
+            },
+            {
+                "party": "NDP",
+                "score": 2.7
+            }
+        ]
+    },
+    {
+        "n": 637,
+        "company": "Corporate",
+        "date": "November 2-19, 2018",
+        "field": "2018-11-19",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 36
+            },
+            {
+                "party": "PEIPC",
+                "score": 20
+            },
+            {
+                "party": "GPPEI",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 637,
+        "company": "Mainstreet",
+        "date": "Oct. 30-Nov. 1, 2018",
+        "field": "2018-11-01",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 33.4
+            },
+            {
+                "party": "PEIPC",
+                "score": 28.3
+            },
+            {
+                "party": "GPPEI",
+                "score": 29.7
+            },
+            {
+                "party": "NDP",
+                "score": 6.7
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "Oct. 22-Nov. 4, 2018",
+        "field": "2018-11-04",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 31
+            },
+            {
+                "party": "PEIPC",
+                "score": 30
+            },
+            {
+                "party": "GPPEI",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Corporate",
+        "date": "August 2-21, 2018",
+        "field": "2018-08-21",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 35
+            },
+            {
+                "party": "PEIPC",
+                "score": 20
+            },
+            {
+                "party": "GPPEI",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 731,
+        "company": "Mainstreet",
+        "date": "July 15-17, 2018",
+        "field": "2018-07-17",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 32.0
+            },
+            {
+                "party": "PEIPC",
+                "score": 31.3
+            },
+            {
+                "party": "GPPEI",
+                "score": 29.2
+            },
+            {
+                "party": "NDP",
+                "score": 5.4
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "July 12-29, 2018",
+        "field": "2018-07-29",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 34
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "company": "Corporate",
+        "date": "May 2-28, 2018",
+        "field": "2018-05-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 34
+            },
+            {
+                "party": "PEIPC",
+                "score": 26
+            },
+            {
+                "party": "GPPEI",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "April 16-May 8, 2018",
+        "field": "2018-05-08",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 38
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Corporate",
+        "date": "February 2-28, 2018",
+        "field": "2018-02-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 42
+            },
+            {
+                "party": "PEIPC",
+                "score": 17
+            },
+            {
+                "party": "GPPEI",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "January 15-20, 2018",
+        "field": "2018-01-20",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 37
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 647,
+        "company": "Mainstreet",
+        "date": "January 4-6, 2018",
+        "field": "2018-01-06",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 28.6
+            },
+            {
+                "party": "PEIPC",
+                "score": 30.2
+            },
+            {
+                "party": "GPPEI",
+                "score": 36.1
+            },
+            {
+                "party": "NDP",
+                "score": 5.1
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "company": "Corporate",
+        "date": "November 1-30, 2017",
+        "field": "2017-11-30",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 37
+            },
+            {
+                "party": "PEIPC",
+                "score": 28
+            },
+            {
+                "party": "GPPEI",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "company": "MQO",
+        "date": "October 3-10, 2017",
+        "field": "2017-10-10",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 43
+            },
+            {
+                "party": "PEIPC",
+                "score": 32
+            },
+            {
+                "party": "GPPEI",
+                "score": 13
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "n": 304,
+        "company": "Corporate",
+        "date": "Aug. 3-Sep. 5, 2017",
+        "field": "2017-09-05",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 45
+            },
+            {
+                "party": "PEIPC",
+                "score": 24
+            },
+            {
+                "party": "GPPEI",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "July 15, 2017",
+        "field": "2017-07-15",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 39
+            },
+            {
+                "party": "PEIPC",
+                "score": 31
+            },
+            {
+                "party": "GPPEI",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 304,
+        "company": "Corporate",
+        "date": "May 9-June 1, 2017",
+        "field": "2017-06-01",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 38
+            },
+            {
+                "party": "PEIPC",
+                "score": 26
+            },
+            {
+                "party": "GPPEI",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "April 18, 2017",
+        "field": "2017-04-18",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 39
+            },
+            {
+                "party": "PEIPC",
+                "score": 29
+            },
+            {
+                "party": "GPPEI",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 304,
+        "company": "Corporate",
+        "date": "Feb. 3-March 1, 2017",
+        "field": "2017-03-01",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 48
+            },
+            {
+                "party": "PEIPC",
+                "score": 19
+            },
+            {
+                "party": "GPPEI",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "January 16, 2017",
+        "field": "2017-01-16",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 44
+            },
+            {
+                "party": "PEIPC",
+                "score": 26
+            },
+            {
+                "party": "GPPEI",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Corporate",
+        "date": "November 7-29, 2016",
+        "field": "2016-11-29",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 46
+            },
+            {
+                "party": "PEIPC",
+                "score": 25
+            },
+            {
+                "party": "GPPEI",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "October 2, 2016",
+        "field": "2016-10-02",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 56
+            },
+            {
+                "party": "PEIPC",
+                "score": 25
+            },
+            {
+                "party": "GPPEI",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "July 19, 2016",
+        "field": "2016-07-19",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 64
+            },
+            {
+                "party": "PEIPC",
+                "score": 14
+            },
+            {
+                "party": "GPPEI",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Corporate",
+        "date": "May 6-30, 2016",
+        "field": "2016-05-30",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 58
+            },
+            {
+                "party": "PEIPC",
+                "score": 20
+            },
+            {
+                "party": "GPPEI",
+                "score": 16
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "MQO",
+        "date": "April 6, 2016",
+        "field": "2016-04-06",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 69
+            },
+            {
+                "party": "PEIPC",
+                "score": 17
+            },
+            {
+                "party": "GPPEI",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 309,
+        "company": "Corporate",
+        "date": "Feb. 9-March 7, 2016",
+        "field": "2016-03-07",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 61
+            },
+            {
+                "party": "PEIPC",
+                "score": 19
+            },
+            {
+                "party": "GPPEI",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 301,
+        "company": "Corporate",
+        "date": "Nov. 6-Dec. 1, 2015",
+        "field": "2015-12-01",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 61
+            },
+            {
+                "party": "PEIPC",
+                "score": 18
+            },
+            {
+                "party": "GPPEI",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 304,
+        "company": "Corporate",
+        "date": "Aug. 10-Sep. 2, 2015",
+        "field": "2015-09-02",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 46
+            },
+            {
+                "party": "PEIPC",
+                "score": 22
+            },
+            {
+                "party": "GPPEI",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Corporate",
+        "date": "May 11-28, 2015",
+        "field": "2015-05-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 40
+            },
+            {
+                "party": "PEIPC",
+                "score": 24
+            },
+            {
+                "party": "GPPEI",
+                "score": 17
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "April 23, 2015",
+        "field": "2015-04-23",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 44
+            },
+            {
+                "party": "PEIPC",
+                "score": 35
+            },
+            {
+                "party": "GPPEI",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "company": "Abingdon",
+        "date": "April 20, 2015",
+        "field": "2015-04-20",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 43
+            },
+            {
+                "party": "PEIPC",
+                "score": 27
+            },
+            {
+                "party": "GPPEI",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "February 28, 2015",
+        "field": "2015-02-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 58
+            },
+            {
+                "party": "PEIPC",
+                "score": 26
+            },
+            {
+                "party": "GPPEI",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "November 25, 2014",
+        "field": "2014-11-25",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 50
+            },
+            {
+                "party": "PEIPC",
+                "score": 23
+            },
+            {
+                "party": "GPPEI",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "September 1, 2014",
+        "field": "2014-09-01",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 48
+            },
+            {
+                "party": "PEIPC",
+                "score": 28
+            },
+            {
+                "party": "GPPEI",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "May 22, 2014",
+        "field": "2014-05-22",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 53
+            },
+            {
+                "party": "PEIPC",
+                "score": 23
+            },
+            {
+                "party": "GPPEI",
+                "score": 3
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "February 27, 2014",
+        "field": "2014-02-27",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 53
+            },
+            {
+                "party": "PEIPC",
+                "score": 17
+            },
+            {
+                "party": "GPPEI",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "November 27, 2013",
+        "field": "2013-11-27",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 49
+            },
+            {
+                "party": "PEIPC",
+                "score": 17
+            },
+            {
+                "party": "GPPEI",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "August 28, 2013",
+        "field": "2013-08-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 42
+            },
+            {
+                "party": "PEIPC",
+                "score": 23
+            },
+            {
+                "party": "GPPEI",
+                "score": 3
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "May 28, 2013",
+        "field": "2013-05-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 52
+            },
+            {
+                "party": "PEIPC",
+                "score": 22
+            },
+            {
+                "party": "GPPEI",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "March 2, 2013",
+        "field": "2013-03-02",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 51
+            },
+            {
+                "party": "PEIPC",
+                "score": 16
+            },
+            {
+                "party": "GPPEI",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "December 1, 2012",
+        "field": "2012-12-01",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 45
+            },
+            {
+                "party": "PEIPC",
+                "score": 28
+            },
+            {
+                "party": "GPPEI",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "August 31, 2012",
+        "field": "2012-08-31",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 42
+            },
+            {
+                "party": "PEIPC",
+                "score": 32
+            },
+            {
+                "party": "GPPEI",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "June 4, 2012",
+        "field": "2012-06-04",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 47
+            },
+            {
+                "party": "PEIPC",
+                "score": 26
+            },
+            {
+                "party": "GPPEI",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "February 26, 2012",
+        "field": "2012-02-26",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 50
+            },
+            {
+                "party": "PEIPC",
+                "score": 33
+            },
+            {
+                "party": "GPPEI",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "November 29, 2011",
+        "field": "2011-11-29",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "LPPEI",
+                "score": 53
+            },
+            {
+                "party": "PEIPC",
+                "score": 34
+            },
+            {
+                "party": "GPPEI",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 9
             }
         ]
     }

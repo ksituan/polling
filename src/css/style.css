@@ -482,6 +482,7 @@ input {
     }
 
     .timelineYear {
+        font-size: 12pt;
         width: calc(100% - 16px);
         bottom: 16px;
     }
