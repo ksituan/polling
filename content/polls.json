@@ -36613,5 +36613,40 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1020,
+        "moe": 3.1,
+        "company": "Léger",
+        "date": "April 14-17, 2022",
+        "field": "2022-04-17",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 44
+            },
+            {
+                "party": "PLQ",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 9
+            },
+            {
+                "party": "QS",
+                "score": 15
+            },
+            {
+                "party": "PCQ",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
