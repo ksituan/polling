@@ -58,7 +58,174 @@
         "jurisdiction": "Canada"
     },
     {
+        "date": "1997-06-02",
+        "nextWrit": "2000-10-22",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 18.8
+            },
+            {
+                "party": "RPC",
+                "score": 19.4
+            },
+            {
+                "party": "LPC",
+                "score": 38.5
+            },
+            {
+                "party": "NDP",
+                "score": 11.1
+            },
+            {
+                "party": "BQ",
+                "score": 10.7
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2000-11-27",
+        "nextWrit": "2004-05-23",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 12.2
+            },
+            {
+                "party": "CRCA",
+                "score": 25.5
+            },
+            {
+                "party": "LPC",
+                "score": 40.9
+            },
+            {
+                "party": "NDP",
+                "score": 8.5
+            },
+            {
+                "party": "BQ",
+                "score": 10.7
+            },
+            {
+                "party": "GPC",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2004-06-28",
+        "nextWrit": "2005-11-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 29.6
+            },
+            {
+                "party": "LPC",
+                "score": 36.7
+            },
+            {
+                "party": "NDP",
+                "score": 15.7
+            },
+            {
+                "party": "BQ",
+                "score": 12.4
+            },
+            {
+                "party": "GPC",
+                "score": 4.3
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2006-01-23",
+        "nextWrit": "2008-09-07",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 36.3
+            },
+            {
+                "party": "LPC",
+                "score": 30.2
+            },
+            {
+                "party": "NDP",
+                "score": 17.5
+            },
+            {
+                "party": "BQ",
+                "score": 10.5
+            },
+            {
+                "party": "GPC",
+                "score": 4.5
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2008-10-14",
+        "nextWrit": "2011-03-26",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 37.7
+            },
+            {
+                "party": "LPC",
+                "score": 26.3
+            },
+            {
+                "party": "NDP",
+                "score": 18.2
+            },
+            {
+                "party": "BQ",
+                "score": 10.0
+            },
+            {
+                "party": "GPC",
+                "score": 6.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2011-05-02",
+        "nextWrit": "2015-08-04",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 39.6
+            },
+            {
+                "party": "LPC",
+                "score": 18.9
+            },
+            {
+                "party": "NDP",
+                "score": 30.7
+            },
+            {
+                "party": "BQ",
+                "score": 6.1
+            },
+            {
+                "party": "GPC",
+                "score": 3.9
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
         "date": "2015-10-19",
+        "nextWrit": "2019-10-21",
         "results": [
             {
                 "party": "CPC",
@@ -119,6 +286,7 @@
     },
     {
         "date": "2019-10-21",
+        "nextWrit": "2021-08-15",
         "results": [
             {
                 "party": "CPC",

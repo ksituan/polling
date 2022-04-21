@@ -1,4 +1,5 @@
 import * as React from "react"
+import { Link } from "gatsby"
 
 import parties from "../../content/parties.json"
 
@@ -595,6 +596,8 @@ let brandColours = {
         <h2>{name + " polling database"}</h2>
         <p>A solid box indicates that a party is polling above its last election result. Click any poll to see a chart with more information.</p>
         {polls.length > 0 ? <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} /> : <p>There have been no polls conducted since the last election.</p>}
+        {['BC','AB','SK','MB','ON','QC','NB','PE','NS','NL'].includes(jurisdiction) && <p>For other years, check out the <Link to="/timeline">provincial timeline</Link>.</p>}
+        {jurisdiction.split('_')[0] === 'Canada' && <p>For other years, check out the <Link to="/federal-timeline">federal timeline</Link>.</p>}
       </div>
     )
   }
