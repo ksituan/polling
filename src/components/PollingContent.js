@@ -308,6 +308,7 @@ let brandColours = {
     let plotHeight = 900;
     let ypadding = 40;
     let xpadding = 75;
+    let circleSize = 8;
   
     let electionObject = {field: election.date, poll: election.results.sort((a, b) => a.score - b.score)};
     let pollList = [...polls];
@@ -321,6 +322,13 @@ let brandColours = {
   
     let prewritPolls = pollList.filter(x => new Date(x.field) < nextWrit).length;
     let allPolls = pollList.length;
+
+    // Shrink dots if too many polls
+
+    if (allPolls > 100) {
+      console.log("lot of polls")
+      circleSize = 4;
+    }
 
     function xMap(date) { 
 
@@ -548,7 +556,7 @@ let brandColours = {
               </g>
   
           {pollList.map((poll, index) => poll.company && <g className="scatterPoll"><a href={"#"+PollID(poll)} onClick={onClickPoll(index)}>{poll.poll.map(line => 
-                poll.field !== election.date && <circle r="8"
+                poll.field !== election.date && <circle r={circleSize}
                   className={line.party}
                   cx={xMap(new Date(poll.field))}
                   cy={yMap(line.score)}
