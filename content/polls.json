@@ -19815,6 +19815,491 @@
         ]
     },
     {
+        "n": 1132,
+        "moe": 3.0,
+        "company": "Forum",
+        "date": "April 4-5, 2019",
+        "field": "2019-04-05",
+        "method": "Telephone",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "UCP",
+                "score": 55
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 7
+            },
+            {
+                "party": "GPA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 876,
+        "moe": 3.3,
+        "company": "Mainstreet",
+        "date": "April 4-5, 2019",
+        "field": "2019-04-05",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "UCP",
+                "score": 50.5
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 5.8
+            },
+            {
+                "party": "GPA",
+                "score": 1.8
+            },
+            {
+                "party": "FCP",
+                "score": 1.7
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "n": 1139,
+        "moe": 2.9,
+        "company": "ThinkHQ",
+        "date": "April 5-6, 2019",
+        "field": "2019-04-06",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 8
+            },
+            {
+                "party": "FCP",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 506,
+        "company": "Innovative",
+        "date": "April 4-8, 2019",
+        "field": "2019-04-08",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "UCP",
+                "score": 44
+            },
+            {
+                "party": "ALP",
+                "score": 7
+            },
+            {
+                "party": "ABP",
+                "score": 11
+            },
+            {
+                "party": "GPA",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 4.0,
+        "company": "Ipsos",
+        "date": "April 5-8, 2019",
+        "field": "2019-04-08",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "UCP",
+                "score": 47
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 807,
+        "moe": 3.5,
+        "company": "Angus Reid",
+        "date": "April 5-8, 2019",
+        "field": "2019-04-08",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "UCP",
+                "score": 52
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1005,
+        "moe": 3.1,
+        "company": "Pollara",
+        "date": "April 8-10, 2019",
+        "field": "2019-04-10",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "UCP",
+                "score": 45
+            },
+            {
+                "party": "ALP",
+                "score": 4
+            },
+            {
+                "party": "ABP",
+                "score": 8
+            },
+            {
+                "party": "AIP",
+                "score": 2
+            },
+            {
+                "party": "FCP",
+                "score": 2
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1505,
+        "moe": 2.5,
+        "company": "Leger",
+        "date": "April 10-13, 2019",
+        "field": "2019-04-13",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "moe": 4.4,
+        "company": "Nanos",
+        "date": "April 13, 2019",
+        "field": "2019-04-13",
+        "method": "Telephone",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36.4
+            },
+            {
+                "party": "UCP",
+                "score": 44.3
+            },
+            {
+                "party": "ALP",
+                "score": 3.2
+            },
+            {
+                "party": "ABP",
+                "score": 12.0
+            },
+            {
+                "party": "FCP",
+                "score": 2.2
+            },
+            {
+                "party": "Others",
+                "score": 1.9
+            }
+        ]
+    },
+    {
+        "n": 1202,
+        "moe": 3.2,
+        "company": "Ipsos",
+        "date": "April 11-14, 2019",
+        "field": "2019-04-14",
+        "method": "Hybrid",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1005,
+        "moe": 3.1,
+        "company": "Pollara",
+        "date": "April 12-14, 2019",
+        "field": "2019-04-14",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "UCP",
+                "score": 45
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 8
+            },
+            {
+                "party": "AIP",
+                "score": 1
+            },
+            {
+                "party": "FCP",
+                "score": 1
+            },
+            {
+                "party": "GPA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1288,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "April 14, 2019",
+        "field": "2019-04-14",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40.1
+            },
+            {
+                "party": "UCP",
+                "score": 47.5
+            },
+            {
+                "party": "ALP",
+                "score": 2.1
+            },
+            {
+                "party": "ABP",
+                "score": 7.9
+            },
+            {
+                "party": "FCP",
+                "score": 1.1
+            },
+            {
+                "party": "GPA",
+                "score": 1.3
+            }
+        ]
+    },
+    {
+        "n": 602,
+        "moe": 4.0,
+        "company": "Research Co.",
+        "date": "April 13-15, 2019",
+        "field": "2019-04-15",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "UCP",
+                "score": 49
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1140,
+        "moe": 3.0,
+        "company": "Forum",
+        "date": "April 15, 2019",
+        "field": "2019-04-15",
+        "method": "Telephone",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 34.6
+            },
+            {
+                "party": "UCP",
+                "score": 50.6
+            },
+            {
+                "party": "ALP",
+                "score": 2.2
+            },
+            {
+                "party": "ABP",
+                "score": 10.9
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {
         "company": "Forum",
         "date": "April 1-2, 2016",
         "field": "2016-04-02",
