@@ -18,7 +18,7 @@ let brandColours = {
 let ideology = { // This is totally arbitrary but it makes the graphs look nice!
     Canada: ['GPC','NDP','LPC','Others','BQ','PCPC','CPC','RPC','PPC'],
     BC: ['GPBC','NDP','Others','BCLP','CPBC'],
-    AB: ['GPA','NDP','ALP','Others','ABP','PCA','UCP','WRP','WIP','AIP'],
+    AB: ['GPA','NDP','ALP','Others','ABP','PCA','UCP','WRP','WIP','AIP','FCP'],
     SK: ['GPS','NDP','SLP','Others','SKP','PCS','BPS'],
     MB: ['GPM','NDP','MLP','Others','PCPM'],
     ON: ['GPO','NDP','OLP','Others','PCPO','NBP'],

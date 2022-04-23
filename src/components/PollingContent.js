@@ -282,9 +282,6 @@ let brandColours = {
 
   function PartyList({validParties, jurisdiction, election}) {
 
-    console.log(validParties);
-    console.log(jurisdiction);
-
     let bj = jurisdiction.split("_")[0];
 
     return(
@@ -326,7 +323,6 @@ let brandColours = {
     // Shrink dots if too many polls
 
     if (allPolls > 100) {
-      console.log("lot of polls")
       circleSize = 4;
     }
 
@@ -431,6 +427,12 @@ let brandColours = {
             positions = positions.filter(sample => sample >= firstAppearance);
         }
 
+        // Also have to manually cut off certain parties
+
+        if (['PCA','WRP'].includes(party)) {
+          positions = positions.filter(sample => sample <= xMap(new Date("2017-07-22")));
+        }
+
         for (let sample of positions) {
 
             let weightedPolls = weightPolls(sample, partyPolls);
@@ -445,7 +447,7 @@ let brandColours = {
             output.push({position: sample, score: avg});
 
         }
-    
+
         return(output);
     }
 
@@ -455,7 +457,18 @@ let brandColours = {
 
     // Get an array of label positions
 
-    let partyLabels = validParties.map(party => ({party: party, pos: yMap(rollingAverage([plotWidth-xpadding], party)[0].score) + 7})).sort((a,b) => a.pos - b.pos);
+    let partyLabels = validParties;
+
+    partyLabels = partyLabels.map(function(party) {
+      return({party: party, score: rollingAverage([plotWidth-xpadding], party)})
+    });
+    partyLabels = partyLabels.filter(party => party.score.length > 0)
+
+    partyLabels = partyLabels.map(function (party) {
+      party.pos = yMap(party.score[0].score) + 7;
+      return(party);
+      });
+    partyLabels = partyLabels.sort((a,b) => a.pos - b.pos);
     
     function getDistance(labels) {
       labels = labels.sort((a,b) => a.pos - b.pos);
