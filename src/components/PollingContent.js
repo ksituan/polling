@@ -532,7 +532,7 @@ let brandColours = {
 
     console.log(timeLabels)
 
-    timeLabels = sortLabels(timeLabels, plotWidth, 50);
+    timeLabels = sortLabels(timeLabels, plotWidth, 70);
 
     console.log(timeLabels)
 
@@ -562,8 +562,6 @@ let brandColours = {
                 strokeLinecap="round"
                 strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>)}
             </g>}
-            {timeLabels.map(label =>
-              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={label.pos} y={plotHeight - ypadding + 35}>{label.label}</text>)}
             </g>
   
           <g className="scoreTicks">
@@ -612,6 +610,9 @@ let brandColours = {
             <text className="partyLabel" textAnchor="start" x={plotWidth-xpadding + 8} y={party.pos} fontSize={party.length > 4 ? "16pt" : "18pt"}>
               {party.party}
             </text>)}
+
+          {timeLabels.map(label =>
+            <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={label.pos} y={plotHeight - ypadding + 35}>{label.label}</text>)}
   
       </svg>
     );
