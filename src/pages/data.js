@@ -5,7 +5,7 @@ import Seo from "../components/seo"
 
 const data = () => (
   <Layout>
-    <Seo title="Raw Data" description="Download Canadian political data" />
+    <Seo title="Data Downloads" description="Download Canadian political data" />
     <h1>Data Downloads</h1>
     <h2>Polling Canada database</h2>
     <p><Link to="/polls.zip">polls.json</Link> (45 KB)</p>
