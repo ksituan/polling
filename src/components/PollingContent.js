@@ -470,48 +470,81 @@ let brandColours = {
       });
     partyLabels = partyLabels.sort((a,b) => a.pos - b.pos);
     
-    function getDistance(labels) {
-      labels = labels.sort((a,b) => a.pos - b.pos);
-      labels.forEach(function (item, ix) {
-        item.dabove = labels[ix-1] ? item.pos - labels[ix-1].pos : plotHeight;
-        item.dbelow = labels[ix+1] ? labels[ix+1].pos - item.pos : plotHeight;
-      return(item);
-      });
+    function sortLabels(labels, span, buffer) {
+      function getDistance(labels) {
+        labels = labels.sort((a,b) => a.pos - b.pos);
+        labels.forEach(function (item, ix) {
+          item.dabove = labels[ix-1] ? item.pos - labels[ix-1].pos : span;
+          item.dbelow = labels[ix+1] ? labels[ix+1].pos - item.pos : span;
+        return(item);
+        });
+        return(labels);
+      }
+      
+      labels = getDistance(labels);
+
+      function evalDistance(labels) {
+        let distances = labels.map(item => item.dabove).concat(labels.map(item => item.dbelow));
+        return (Math.min(...distances) < buffer);
+      }
+  
+      while (evalDistance(getDistance(labels))) {
+        labels = getDistance(labels);
+        for (let item of labels) {
+          if (item.dabove < buffer) {
+            item.pos += 1;
+          }
+          if (item.dbelow < buffer) {
+            item.pos -= 1;
+          }
+        }
+      }
+
       return(labels);
     }
 
-    partyLabels = getDistance(partyLabels);
-    let labelBuffer = 30;
+    partyLabels = sortLabels(partyLabels, plotHeight, 30)
 
-    function evalDistance(labels) {
-      let distances = labels.map(item => item.dabove).concat(labels.map(item => item.dbelow));
-      return (Math.min(...distances) < labelBuffer);
-    }
+    // Do the same for the x-axis
 
-    while (evalDistance(getDistance(partyLabels))) {
-      partyLabels = getDistance(partyLabels);
-      for (let item of partyLabels) {
-        if (item.dabove < labelBuffer) {
-          item.pos += 1;
+    let timeLabels = dayArray.filter(day => election.nextWrit ?
+      (day.getMonth() === 0 && day.getDate() === 1) || day.getTime() === new Date(election.nextWrit).getTime() || (day > new Date(election.nextWrit) && day.getDate() === 1) :
+      day.getMonth() === 0 && day.getDate() === 1);
+
+    console.log(timeLabels)
+
+    timeLabels = timeLabels.map(
+      function (day) {
+        let label
+        if (day.getTime() === new Date(election.nextWrit).getTime()) {
+          label = "Writ";
+        } else if (day.getMonth() === 0) {
+          label = day.getFullYear();
+        } else {
+          label = day.toLocaleDateString("en-CA", {month: "short"});
         }
-        if (item.dbelow < labelBuffer) {
-          item.pos -= 1;
-        }
+        label = {label: label, pos: xMap(day)}
+        console.log(day)
+        console.log(label.pos)
+        return(label)
       }
-    }
+    )
+
+    console.log(timeLabels)
+
+    timeLabels = sortLabels(timeLabels, plotWidth, 50);
+
+    console.log(timeLabels)
 
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
           <g className="timeTicks">
             {monthArray.map(day =>
-              <g>
                 <path
                 d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
                 strokeWidth={(day.getMonth() === 0 ? "2" : "0.5")}/>
-                {day.getMonth() === 0 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={plotHeight - ypadding + 35}>{day.getYear() + 1900}</text>}
-              </g>
             )}
             {election.nextWrit && <g>
               <path
@@ -522,17 +555,15 @@ let brandColours = {
                 strokeWidth="2"
               />
               {writArray.map(day => 
-              <g>
                 <path
                 className="writLine"
                 d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
-                strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>
-                {day.getDate() === 1 && nextWrit.getDate() < 28 && <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(day)} y={plotHeight - ypadding + 35}>{day.toLocaleDateString("en-CA", {month: "short"})}</text>}
-              </g>)}
-              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={xMap(new Date(election.nextWrit))} y={plotHeight - ypadding + 35}>Writ</text>
+                strokeWidth={(day.getDate() === 1 ? "2" : "0.5")}/>)}
             </g>}
+            {timeLabels.map(label =>
+              <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={label.pos} y={plotHeight - ypadding + 35}>{label.label}</text>)}
             </g>
   
           <g className="scoreTicks">
