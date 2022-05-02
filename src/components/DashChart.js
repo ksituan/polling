@@ -51,11 +51,30 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
     let startDate = new Date(election.date);
 
     let endDate = new Date();
-    
+
+    let nextWrit = new Date(election.nextWrit);
+
     // We can now scale objects based on the graph's span
-  
-    function xMap(date) {
+
+    let prewritPolls = pollList.filter(x => new Date(x.field) < nextWrit).length;
+    let allPolls = pollList.length;
+
+    function xMap(date) { 
+
       let x = (plotWidth-padding*2)*(date-startDate)/(endDate-startDate) + padding;
+
+      // Time to make things more complicated. X is a discontinuous function that scales based on the writ (!!!)
+
+      if (election.nextWrit) {
+        let midpoint = (plotWidth-padding*2)*(prewritPolls/allPolls) + padding;
+        if (date <= nextWrit) {
+          x = (midpoint-padding*2)*(date-startDate)/(nextWrit-startDate) + padding;
+        } 
+        if (date > nextWrit) {
+          x = (plotWidth-midpoint)*(date-nextWrit)/(endDate-nextWrit) + midpoint - padding;
+        }
+      }
+
       return(x);
     }
   
@@ -69,29 +88,25 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
     }
   
     // Generate the date arrays needed for horizontal marker lines + statistical calculations
-  
-    let tickDay = new Date(startDate);
 
-    let dayArray = [new Date(tickDay)];
+    let positions = [...Array(plotWidth).keys()];
 
-    while (tickDay < endDate) {
-        let nextDay = new Date(tickDay)
-        nextDay.setDate(tickDay.getDate() + 4);
-        dayArray.push(nextDay);
-        tickDay = nextDay;
+    let samplePositions = []
+    for (var i = 0; i < positions.length; i = i+3) { // Only take every fourth position
+        samplePositions.push(positions[i]);
     }
 
-    dayArray.splice(-1);
+    samplePositions = samplePositions.filter(x => x >= padding && x < plotWidth - padding)
 
     // Weight polls
 
-    function weightPolls(day, polls) {
+    function weightPolls(sample, polls) {
 
-        let period = (endDate - startDate)/(24*60*60*1000);
+        let period = plotWidth/50;
 
         let weightedPolls = polls.map(poll => {
-            let d = (new Date(poll.field) - day)/(24*60*60*1000)/(period/60); 
-            let weight = 1/(Math.exp(d) + 2 + Math.exp(-d)); 
+            let d = (xMap(new Date(poll.field)) - sample)/period;
+            let weight = (poll.n**0.5/30 || 1)/(Math.exp(d) + 2 + Math.exp(-d));
             return({
                 ...poll,
                 weight
@@ -101,11 +116,11 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
         return(weightedPolls);
     }
 
-    let weightedPollsObject = Object.fromEntries(dayArray.map(day => [[day.toDateString()], weightPolls(day, polls)]));
+    let weightedPollsObject = Object.fromEntries(samplePositions.map(x => [[x], weightPolls(x, pollList)]));
 
     // Generate trendlines
 
-    function rollingAverage(days, party) {
+    function rollingAverage(positions, party) {
     
         let output = [];
 
@@ -117,16 +132,15 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
         if (!election.results.map(x => x.party).includes(party)) {
 
-            let appearances = partyPolls.map(x => new Date(x.field));
+            let appearances = partyPolls.map(x => xMap(new Date(x.field)));
             let firstAppearance = Math.min.apply(null, appearances);
-            let lastAppearance = Math.max.apply(null, appearances);
 
-            days = days.filter(day => day >= firstAppearance && day <= lastAppearance);
+            positions = positions.filter(sample => sample >= firstAppearance);
         }
 
-        for (const day of days) {
+        for (const sample of positions) {
 
-            let weightedPolls = weightedPollsObject[day.toDateString()]
+            let weightedPolls = weightedPollsObject[sample]
 
             // Collect values for the relevant party
 
@@ -140,7 +154,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
                 }
             }
 
-            output.push({date: day, score: valueSum/weightSum})
+            output.push({x: sample, score: valueSum/weightSum})
         }
     
         return(output);
@@ -173,12 +187,12 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
         <Link to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
         <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
             <rect width={plotWidth} height={plotHeight} fill="white" />
-            {validParties.map(party => { let line = rollingAverage(dayArray, party);
+            {validParties.map(party => { let line = rollingAverage(samplePositions, party);
                 return <path
                 stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                 fill="none"
                 strokeWidth="4"
-                d={"M " + line.map(event => String(xMap(event.date)) + " " + String(yMap(event.score))).join(" L ")}/>
+                d={"M " + line.map(event => String(event.x) + " " + String(yMap(event.score))).join(" L ")}/>
             })}
 
             <path
