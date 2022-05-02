@@ -131,6 +131,13 @@ svg text {
 
 @media (max-width: 800px) {
 
+    .scatter {
+        position: relative;
+        max-width: none;
+        width: 100vw;
+        left: -5vw;
+    }
+
     .partyContainer {
         flex-direction: column;
     }
@@ -149,14 +156,6 @@ svg text {
 
     .trendline {
         stroke-width: 12px;
-    }
-
-    .scatterElection circle {
-        r: 12px;
-    }
-
-    .scatterPoll circle {
-        r: 12px;
     }
 
     .electionHalo {

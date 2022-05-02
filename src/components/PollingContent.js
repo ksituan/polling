@@ -399,7 +399,7 @@ let brandColours = {
 
         //let period = (endDate - startDate)/(24*60*60*1000);
 
-        let period = 16;
+        let period = 24;
 
         let weightedPolls = polls.map(poll => {let d = (xMap(new Date(poll.field)) - sample)/period; poll.weight = (poll.n**0.5/30 || 1)/(Math.exp(d) + 2 + Math.exp(-d)); return(poll)}) // Weight function
 
