@@ -607,7 +607,7 @@ let brandColours = {
             )}</a></g>)}
 
           {partyLabels.map(party => 
-            <text className="partyLabel" textAnchor="start" x={plotWidth-xpadding + 8} y={party.pos} fontSize={party.length > 4 ? "16pt" : "18pt"}>
+            <text className="partyLabel" textAnchor="start" x={plotWidth-xpadding + 8} y={party.pos} fill={brandColours[parties.content[bj][party.party]?.colour || "gray"]} fontWeight="bold" fontSize={party.party.length > 4 ? "16pt" : "18pt"}>
               {party.party}
             </text>)}
 
