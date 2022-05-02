@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
-@import url('https://fonts.googleapis.com/css?family=Inter:400,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800,900');
 
 main * {
     margin-left: auto;
@@ -204,6 +204,15 @@ tr {
     text-align: left;
     margin: 0;
     line-height: 100%;
+}
+
+.pollInfo.lastPoll {
+    font-weight: 500;
+}
+
+.pollInfo.lastPoll::before {
+    content: "★";
+    margin-right: 6px;
 }
 
 .pollDate {

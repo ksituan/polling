@@ -200,7 +200,7 @@ let brandColours = {
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <button className="pollLink" onClick={onClickRow}>
-        <p className="pollInfo" bgcolor="white">{poll.company}</p>
+        <p className={poll.last ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
         <p className="pollInfo pollDate" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</p>
         <div className="entryContainer">
       {poll.poll.map((party, i) => {
@@ -511,8 +511,6 @@ let brandColours = {
       (day.getMonth() === 0 && day.getDate() === 1) || day.getTime() === new Date(election.nextWrit).getTime() || (day > new Date(election.nextWrit) && day.getDate() === 1) :
       day.getMonth() === 0 && day.getDate() === 1);
 
-    console.log(timeLabels)
-
     timeLabels = timeLabels.map(
       function (day) {
         let label
@@ -524,17 +522,11 @@ let brandColours = {
           label = day.toLocaleDateString("en-CA", {month: "short"});
         }
         label = {label: label, pos: xMap(day)}
-        console.log(day)
-        console.log(label.pos)
         return(label)
       }
     )
 
-    console.log(timeLabels)
-
     timeLabels = sortLabels(timeLabels, plotWidth, 70);
-
-    console.log(timeLabels)
 
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
@@ -635,6 +627,17 @@ let brandColours = {
     function handleClickPoll(rowIndex) {
       return () => setPollsActive(rowIndex);
     }
+
+    if (election.nextWrit) {
+      const companies = [...new Set(pollList.map(x => x.company))]
+      console.log(companies)
+      for (let company of companies) {
+        console.log(company)
+        let pidx = pollList.findIndex(x => x.company === company && new Date(x.field) > new Date(election.nextWrit));
+        if (pidx > -1) {(pollList[pidx]).last = true}
+        console.log(pollList)
+      }
+    }
  
     return(
       <div>
@@ -647,7 +650,7 @@ let brandColours = {
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} validParties={validParties} onClickPoll={handleClickPoll} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
-        <p>A solid box indicates that a party is polling above its last election result. Click any poll to see a chart with more information.</p>
+        <p>A solid box indicates that a party is polling above its last election result. {election.nextWrit && "A star indicates the last poll issued by a company during a writ period. "}Click any poll to see a chart with more information.</p>
         {polls.length > 0 ? <ResultsTable pollList={pollList} lastElection={election} onClickRow={handleClickRow} activePoll={pollsActive} /> : <p>There have been no polls conducted since the last election.</p>}
         {['BC','AB','SK','MB','ON','QC','NB','PE','NS','NL'].includes(jurisdiction) && <p>For other years, check out the <Link to="/timeline">provincial timeline</Link>.</p>}
         {jurisdiction.split('_')[0] === 'Canada' && <p>For other years, check out the <Link to="/federal-timeline">federal timeline</Link>.</p>}
