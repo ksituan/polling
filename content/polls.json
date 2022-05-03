@@ -38473,5 +38473,35 @@
                 "score": 5.1
             }
         ]
+    },
+    {
+        "n": 500,
+        "company": "Nanos",
+        "date": "April 28-May 2, 2022",
+        "field": "2022-05-02",
+        "method": "Telephone",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36.9
+            },
+            {
+                "party": "NDP",
+                "score": 23.7
+            },
+            {
+                "party": "OLP",
+                "score": 30.4
+            },
+            {
+                "party": "Others",
+                "score": 4.7
+            },
+            {
+                "party": "GPO",
+                "score": 4.3
+            }
+        ]
     }
 ]
