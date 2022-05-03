@@ -301,10 +301,12 @@ let brandColours = {
     );
   }
   
-  function PollingContent({polls, jurisdiction, election, endDate, name}) {
+  function PollingContent({polls, jurisdiction, election, nextElection, name}) {
     let pollList = polls;
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
+
+    console.log(nextElection);
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -325,6 +327,8 @@ let brandColours = {
         if (pidx > -1) {(pollList[pidx]).last = true}
       }
     }
+
+    const endDate = nextElection ? new Date(nextElection.date) : new Date()
  
     return(
       <div>
