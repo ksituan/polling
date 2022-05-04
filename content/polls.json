@@ -38495,12 +38495,20 @@
                 "score": 30.4
             },
             {
-                "party": "Others",
-                "score": 4.7
-            },
-            {
                 "party": "GPO",
                 "score": 4.3
+            },
+            {
+                "party": "NBP",
+                "score": 0.9
+            },
+            {
+                "party": "TOP",
+                "score": 2.8
+            },
+            {
+                "party": "Others",
+                "score": 0.8
             }
         ]
     },
