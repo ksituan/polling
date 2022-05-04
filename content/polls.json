@@ -38760,5 +38760,35 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Innovative",
+        "date": "April 27-May 2, 2022",
+        "field": "2022-05-02",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
