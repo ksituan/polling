@@ -282,7 +282,7 @@ let brandColours = {
     return(validParties);
   }
 
-  function PartyList({validParties, jurisdiction, election}) {
+  function PartyList({validParties, jurisdiction, polls, election, nextElection}) {
 
     let bj = jurisdiction.split("_")[0];
 
@@ -294,19 +294,47 @@ let brandColours = {
           <div className="partyText">
             <h3 className="partyTitle">{acronym}</h3>
             <p className="partyName">{parties.content[bj][acronym].fullName}</p>
+            <p className="partyScore">{currentAverage(polls, acronym, nextElection)}%</p>
           </div>
           </a>
           )}
         </div>
     );
   }
+
+  function currentAverage(polls, party, nextElection) {
+
+    const endDate = nextElection ? new Date(nextElection.date) : new Date()
+
+    // We only care about polls with the relevant party
+
+    let partyPolls = polls.filter(x => x.poll.map(x => x.party).includes(party));
+    let weightedPolls = partyPolls.map(
+      function (poll) {
+        poll.weight = 0.95**((endDate-new Date(poll.field))/(24*60*60*1000));
+        poll.value = poll.poll.filter(x => x.party === party)[0].score;
+        return(poll);
+      }
+    );
+
+    // Collect values for the relevant party
+
+    weightedPolls = weightedPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
+    let weightSum = weightedPolls.reduce((a, b) => a + b.weight, 0);
+
+    console.log(partyPolls);
+
+    let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
+
+    avg = Math.round(avg*10)/10
+
+    return(avg);
+  }
   
   function PollingContent({polls, jurisdiction, election, nextElection, name}) {
     let pollList = polls;
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
-
-    console.log(nextElection);
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -331,7 +359,7 @@ let brandColours = {
     return(
       <div>
         <h2>{name + " parties"}</h2>
-        <PartyList validParties={validParties} jurisdiction={jurisdiction} election={election} />
+        <PartyList validParties={validParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
         <div>
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
