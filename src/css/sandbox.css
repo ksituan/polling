@@ -136,6 +136,7 @@ svg text {
         max-width: none;
         width: 100vw;
         left: -5vw;
+        margin-right: -5vw;
     }
 
     .partyContainer {
