@@ -327,8 +327,6 @@ let brandColours = {
         if (pidx > -1) {(pollList[pidx]).last = true}
       }
     }
-
-    const endDate = nextElection ? new Date(nextElection.date) : new Date()
  
     return(
       <div>
@@ -338,7 +336,7 @@ let brandColours = {
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
-        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} endDate={endDate} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
+        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
         <p>A solid box indicates that a party is polling above its last election result. {election.nextWrit && "A star indicates the last poll issued by a company during a writ period. "}Click any poll to see a chart with more information.</p>

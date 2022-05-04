@@ -5,7 +5,9 @@ function PollID(poll) {
     return(id);
 }
 
-function Scatterplot({polls, jurisdiction, election, endDate, validParties, onClickPoll, brandColours, parties}) {
+function Scatterplot({polls, jurisdiction, election, nextElection, validParties, onClickPoll, brandColours, parties}) {
+
+    const endDate = nextElection ? new Date(nextElection.date) : new Date()
 
     let plotWidth = 1600;
     let plotHeight = 900;
@@ -290,6 +292,23 @@ function Scatterplot({polls, jurisdiction, election, endDate, validParties, onCl
                   strokeWidth="4"/>
                 <circle r="8"
                   cx={xMap(new Date(election.date))}
+                  cy={yMap(line.score)}
+                  fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}/>
+                </g>)}
+            {nextElection && nextElection.results.map(line => 
+              <g>
+                <circle className="electionHalo" r="22"
+                cx={xMap(new Date(nextElection.date))}
+                cy={yMap(line.score)}
+                fill="white"/>
+                <circle className="electionHalo" r="16"
+                  cx={xMap(new Date(nextElection.date))}
+                  cy={yMap(line.score)}
+                  fill="none"
+                  stroke={brandColours[parties.content[bj][line.party]?.colour || "gray"]}
+                  strokeWidth="4"/>
+                <circle r="8"
+                  cx={xMap(new Date(nextElection.date))}
                   cy={yMap(line.score)}
                   fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}/>
                 </g>)}
