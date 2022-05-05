@@ -103,6 +103,9 @@ header {
 
 .navMenu {
     position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
     text-align: right;
     background-image: url(spectrum.svg);
     background-clip: text;
@@ -120,7 +123,7 @@ header {
     font-family: Inter;
     font-weight: 700;
     font-size: 24pt;
-    padding: 0 1rem;
+    padding: 0;
     color: transparent;
     text-decoration: none;
 }

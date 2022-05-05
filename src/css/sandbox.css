@@ -104,6 +104,10 @@ svg text {
 
 @media (max-width: 600px) {
 
+    .navMenu {
+        width: 100%;
+    }
+
     footer {
         flex-wrap: wrap;
         justify-content: center;
@@ -201,6 +205,10 @@ svg text {
 
     header {
         position: relative;
+    }
+
+    .navMenu {
+        width: 90%;
     }
 
 }
