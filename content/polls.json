@@ -38886,5 +38886,36 @@
                 "score": 5.7
             }
         ]
+    },
+    {
+        "n": 2117,
+        "moe": 3.0,
+        "company": "Forum",
+        "date": "May 4, 2022",
+        "field": "2022-05-04",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 4
+            }
+        ]
     }
 ]
