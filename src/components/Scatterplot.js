@@ -241,6 +241,7 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
           <g className="timeTicks">
             {monthArray.map(day =>
                 <path
+                className={(day.getMonth() === 0 ? "major" : "minor")}
                 d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"
@@ -256,7 +257,7 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
               />
               {writArray.map(day => 
                 <path
-                className="writLine"
+                className={(day.getDate() === 1 ? "major" : "minor")}
                 d={`M ${xMap(day)} ${ypadding} v ${plotHeight-ypadding*2}`}
                 stroke="#b0b0b0"
                 strokeLinecap="round"

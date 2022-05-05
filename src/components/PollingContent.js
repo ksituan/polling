@@ -358,12 +358,11 @@ let brandColours = {
  
     return(
       <div>
-        <h2>{name + " parties"}</h2>
-        <PartyList validParties={validParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
         <div>
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
+        <PartyList validParties={validParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
