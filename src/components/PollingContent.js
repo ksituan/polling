@@ -285,18 +285,26 @@ let brandColours = {
   function PartyList({validParties, jurisdiction, polls, election, nextElection}) {
 
     let bj = jurisdiction.split("_")[0];
+    console.log(election.results.filter(x => x.party === "NDP")[0].score);
 
     return(
         <div className="partyContainer">
-          {validParties.map(acronym =>
+          {validParties.map(function(acronym) {
+            let average = currentAverage(polls, acronym, nextElection);
+            return (
           <a className="party" href={parties.content[bj][acronym].url ?? "https://en.wikipedia.org/wiki/Politics_of_Canada"} target="_blank" rel="noreferrer">
           <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[parties.content[bj][acronym].colour]} d={parties.content[bj][acronym].logo} /></svg>
           <div className="partyText">
             <h3 className="partyTitle">{acronym}</h3>
+            <p className="partyScore" style={{color: brandColours[parties.content[bj][acronym].colour]}}>
+              {average > (election.results.filter(x => x.party === acronym)[0]?.score || 0) ? "▲" : "▼"}
+              {average}
+              %
+            </p>
             <p className="partyName">{parties.content[bj][acronym].fullName}</p>
-            <p className="partyScore">{currentAverage(polls, acronym, nextElection)}%</p>
           </div>
           </a>
+          );}
           )}
         </div>
     );
@@ -321,8 +329,6 @@ let brandColours = {
 
     weightedPolls = weightedPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
     let weightSum = weightedPolls.reduce((a, b) => a + b.weight, 0);
-
-    console.log(partyPolls);
 
     let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
 
