@@ -440,7 +440,8 @@ input {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
-    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1rem;
 }
 
 .party {
@@ -448,6 +449,22 @@ input {
     margin-right: 0;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-start;
+    flex: 1;
+}
+
+.partyLogo {
+    width: 40px;
+    margin-right: 0.5rem;
+    margin-left: 0;
+    flex-shrink: 0;
+}
+
+.partyText {
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .partyTitle {
@@ -460,26 +477,17 @@ input {
 .partyName {
     color: #808080;
     font-size: 8pt;
-    margin-top: -0.25rem;
-    margin-bottom: -0.5rem;
+    margin-top: -2px;
+    margin-bottom: -6px;
+    line-height: 1.1;
 }
 
 .partyScore {
     font-weight: 600;
     font-size: 14pt;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: -0.5rem;
+    margin-bottom: -0.3rem;
     color: #808080;
-}
-
-.partyLogo {
-    width: 40px;
-    margin-right: 0.5rem;
-    display: inline;
-}
-
-.partyText {
-    display: inline-block;
 }
 
 /* Timeline */
