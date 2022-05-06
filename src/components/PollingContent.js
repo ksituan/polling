@@ -285,7 +285,6 @@ let brandColours = {
   function PartyList({validParties, jurisdiction, polls, election, nextElection}) {
 
     let bj = jurisdiction.split("_")[0];
-    console.log(election.results.filter(x => x.party === "NDP")[0].score);
 
     return(
         <div className="partyContainer">
