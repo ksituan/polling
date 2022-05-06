@@ -182,8 +182,10 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     let bj = jurisdiction.split("_")[0];
 
+    console.log(election);
+
     return(
-        <div className={className}>
+        <div className={className + (election.nextWrit ? " writ" : "")}>
         <Link to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
         <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
             <rect width={plotWidth} height={plotHeight} fill="white" />
@@ -222,6 +224,7 @@ export const pollQuery = graphql`
 
     fragment ElectionInformation on ElectionsJson {
         date
+        nextWrit
         results {
             party
             score

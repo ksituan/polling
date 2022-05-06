@@ -222,6 +222,33 @@ svg text {
     display: block;
 }
 
+@keyframes writ {
+    0%  {transform: rotate(0);}
+    25%  {transform: rotate(0);}
+    50%  {transform: rotate(3deg);}
+    75%  {transform: rotate(-3deg);}
+    100%  {transform: rotate(0);}
+}
+
+.writ::after {
+    content: "WRIT";
+    font-size: 8pt;
+    font-family: Inter;
+    font-weight: 700;
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    background-color: #E4002B;
+    color: white;
+    padding: 5px;
+    box-shadow: 2px 3px rgb(129, 31, 31);
+    border-radius: 1rem;
+}
+
+.writ {
+    animation: writ 1s infinite;
+}
+
 .dashProvinceTitle {
     font-family: Inter;
     font-weight: bold;
