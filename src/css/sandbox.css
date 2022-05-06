@@ -146,6 +146,7 @@ svg text {
     .partyContainer {
         flex-wrap: wrap;
         gap: 2rem;
+        margin-bottom: 2rem;
     }
 
     .pollLink {

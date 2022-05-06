@@ -296,7 +296,7 @@ let brandColours = {
           <div className="partyText">
             <h3 className="partyTitle">{acronym}</h3>
             <p className="partyScore" style={{color: brandColours[parties.content[bj][acronym].colour]}}>
-              {average > (election.results.filter(x => x.party === acronym)[0]?.score || 0) ? "▲" : "▼"}
+              {average > (election.results.filter(x => x.party === acronym)[0]?.score || 0) ? "▲ " : "▼ "}
               {average}
               %
             </p>
