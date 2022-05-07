@@ -38991,7 +38991,7 @@
     {
         "n": 1181,
         "moe": 3,
-        "company": "Forum Research",
+        "company": "Forum",
         "date": "September 19, 2021",
         "field": "2021-09-19",
         "method": "IVR",
@@ -39810,7 +39810,7 @@
     {
         "n": 5163,
         "moe": 1,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "September 16, 2021",
         "field": "2021-09-16",
         "method": "online",
@@ -40822,7 +40822,7 @@
     {
         "n": 1579,
         "moe": 3,
-        "company": "Forum Research",
+        "company": "Forum",
         "date": "September 10, 2021",
         "field": "2021-09-10",
         "method": "IVR",
@@ -42221,7 +42221,7 @@
     {
         "n": 3011,
         "moe": 2,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "September 1, 2021",
         "field": "2021-09-01",
         "method": "online",
@@ -44631,7 +44631,7 @@
     {
         "n": 1203,
         "moe": 3,
-        "company": "Forum Research",
+        "company": "Forum",
         "date": "August 15, 2021",
         "field": "2021-08-15",
         "method": "IVR",
@@ -47483,7 +47483,7 @@
     {
         "n": 2880,
         "moe": 2,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "April 8, 2021",
         "field": "2021-04-08",
         "method": "online",
@@ -48540,7 +48540,7 @@
     {
         "n": 2413,
         "moe": 2,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "January 30, 2021",
         "field": "2021-01-30",
         "method": "online",
@@ -49387,7 +49387,7 @@
     },
     {
         "n": 1956,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "December 3, 2020",
         "field": "2020-12-03",
         "method": "online",
@@ -50786,7 +50786,7 @@
     {
         "n": 2389,
         "moe": 2,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "September 15, 2020",
         "field": "2020-09-15",
         "method": "online",
@@ -51511,7 +51511,7 @@
     {
         "n": 2013,
         "moe": 2,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "August 13, 2020",
         "field": "2020-08-13",
         "method": "online",
@@ -53927,7 +53927,7 @@
     {
         "n": 1606,
         "moe": 2.5,
-        "company": "Campaign Research",
+        "company": "Campaign",
         "date": "February 26, 2020",
         "field": "2020-02-26",
         "method": "online",
