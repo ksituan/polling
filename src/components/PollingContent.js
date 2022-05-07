@@ -259,6 +259,36 @@ let brandColours = {
     return(id);
   }
 
+  function listEndParties(pollList, jurisdiction, parties, nextElection) {
+
+    // Get a list of every party that appears more than twice...
+
+    let partyArray = [];
+    pollList.map(x => x.poll.map(y => y.party !== "Others" && partyArray.push(y.party)));
+
+    const partyCount = {};
+
+    const endDate = nextElection ? new Date(nextElection.date) : new Date()
+
+    for (const party of partyArray) {
+      let end = parties.content[jurisdiction][party].end;
+      console.log(jurisdiction);
+      console.log(end);
+      if (!end || (new Date(end) > endDate)) {
+        if (partyCount[party]) {
+            partyCount[party] += 1;
+        } else {
+            partyCount[party] = 1;
+        }
+      }
+    }
+
+    let validParties = Object.entries(partyCount);
+    validParties = validParties.filter(x => x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
+
+    return(validParties);
+  }
+
   function listValidParties(pollList) {
 
     // Get a list of every party that appears more than twice...
@@ -340,6 +370,7 @@ let brandColours = {
     let pollList = polls;
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
+    let endParties = listEndParties(polls, jurisdiction, parties, nextElection);
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -367,7 +398,7 @@ let brandColours = {
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
-        <PartyList validParties={validParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
+        <PartyList validParties={endParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
         <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
