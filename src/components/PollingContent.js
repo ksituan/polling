@@ -271,9 +271,7 @@ let brandColours = {
     const endDate = nextElection ? new Date(nextElection.date) : new Date()
 
     for (const party of partyArray) {
-      let end = parties.content[jurisdiction][party].end;
-      console.log(jurisdiction);
-      console.log(end);
+      let end = parties.content[jurisdiction][party]?.end;
       if (!end || (new Date(end) > endDate)) {
         if (partyCount[party]) {
             partyCount[party] += 1;
