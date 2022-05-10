@@ -30,7 +30,7 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
 
     // Shrink dots if too many polls
 
-    if (allPolls > 100) {
+    if (allPolls > 150) {
       circleSize = 4;
     }
 
