@@ -55041,6 +55041,14 @@
             {
                 "party": "GPO",
                 "score": 4.2
+            },
+            {
+                "party": "NBP",
+                "score": 3.6
+            },
+            {
+                "party": "TOP",
+                "score": 1.4
             }
         ]
     }
