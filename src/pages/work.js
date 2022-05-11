@@ -1,4 +1,5 @@
 import * as React from "react"
+import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -9,9 +10,10 @@ const work = () => (
   <Layout>
     <Seo title="Work" description="Hire Polling Canada's Curtis Fric" />
     <h1>Work</h1>
+    <div><StaticImage className="formalCurtis" src="../images/curtis_1.png" alt="A formal headshot of Curtis." /></div>
+    <p className="formalCaption"><em>Preparing to run against an older and more experienced candidate (2018)</em></p>
     <h2>Background</h2>
     <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Perhaps you're looking to hire me?</p>
-
     <h2>Experience</h2>
     <p className="dateText">2017-present</p>
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>

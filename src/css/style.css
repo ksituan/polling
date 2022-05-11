@@ -107,6 +107,12 @@ header {
     flex: none;
 }
 
+.formalCurtis {
+    width: 240px;
+    display: block;
+    margin: 0;
+}
+
 .navMenu {
     position: relative;
     display: flex;

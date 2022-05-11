@@ -139,6 +139,14 @@ svg text {
 
 @media (max-width: 800px) {
 
+    .formalCurtis {
+        margin: 0 auto;
+    }
+
+    .formalCaption {
+        text-align: center;
+    }
+
     .scatter {
         position: relative;
         max-width: 100vw;
