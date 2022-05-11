@@ -101,6 +101,12 @@ header {
     margin-bottom: 2rem;
 }
 
+.curtis {
+    width: 100px;
+    height: 100px;
+    flex: none;
+}
+
 .navMenu {
     position: relative;
     display: flex;

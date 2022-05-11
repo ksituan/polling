@@ -108,6 +108,10 @@ svg text {
         width: 100%;
     }
 
+    .curtis {
+        display: none;
+    }
+
     footer {
         flex-wrap: wrap;
         justify-content: center;
@@ -211,6 +215,10 @@ svg text {
 
     .navMenu {
         width: 90%;
+    }
+
+    .curtisContainer {
+        margin-top: 2rem;
     }
 
 }
