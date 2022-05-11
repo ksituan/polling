@@ -102,13 +102,7 @@ header {
 }
 
 .curtis {
-    width: 100px;
-    height: 100px;
     flex: none;
-}
-
-.formalCurtis {
-    width: 240px;
 }
 
 .navMenu {

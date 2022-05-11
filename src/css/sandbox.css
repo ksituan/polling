@@ -113,7 +113,7 @@ svg text {
     }
 
     .curtis * {
-        display: none;
+        display: none !important;
     }
 
     footer {
@@ -143,8 +143,9 @@ svg text {
 
 @media (max-width: 800px) {
 
-    .formalCurtis {
-        margin: 0 auto;
+    .formalContainer {
+        display: flex;
+        align-items: center;
     }
 
     .formalCaption {

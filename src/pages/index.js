@@ -35,7 +35,7 @@ const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
     <div className="curtisContainer" style={{display: "flex", gap: "2rem", alignItems: "center"}}>
-      <StaticImage className="curtis" src="../images/curtis_2.jpg" alt="An informal headshot of Curtis." />
+      <StaticImage className="curtis" src="../images/curtis_2.jpg" alt="An informal headshot of Curtis." width={100} height={100} />
       <p style={{margin: 0}}>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
     </div>
     <h1>Provincial Polls</h1>
