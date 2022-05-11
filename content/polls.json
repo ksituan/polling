@@ -55135,11 +55135,15 @@
             },
             {
                 "party": "Others",
-                "score": 3
+                "score": 2
             },
             {
                 "party": "NBP",
                 "score": 3
+            },
+            {
+                "party": "TOP",
+                "score": 1
             },
             {
                 "party": "GPO",
