@@ -55242,5 +55242,36 @@
                 "score": 5.1
             }
         ]
+    },
+    {
+        "n": 1673,
+        "moe": 2.4,
+        "company": "Mainstreet",
+        "date": "May 6-11, 2022",
+        "field": "2022-05-11",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38.8
+            },
+            {
+                "party": "NDP",
+                "score": 21.1
+            },
+            {
+                "party": "OLP",
+                "score": 28.1
+            },
+            {
+                "party": "Others",
+                "score": 6.6
+            },
+            {
+                "party": "GPO",
+                "score": 5.4
+            }
+        ]
     }
 ]
