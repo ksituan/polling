@@ -55580,5 +55580,222 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "company": "EKOS",
+        "n": 2128,
+        "moe": 2.1,
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.8
+            },
+            {
+                "party": "CPC",
+                "score": 31.4
+            },
+            {
+                "party": "NDP",
+                "score": 20.3
+            },
+            {
+                "party": "GPC",
+                "score": 5.2
+            },
+            {
+                "party": "BQ",
+                "score": 4.8
+            },
+            {
+                "party": "PPC",
+                "score": 4.8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "PPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32.5
+            },
+            {
+                "party": "CPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "May 3-9, 2022",
+        "field": "2022-05-09",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
     }
 ]
