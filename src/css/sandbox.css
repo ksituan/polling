@@ -116,6 +116,10 @@ svg text {
         display: none !important;
     }
 
+    .curtisContainer {
+        gap: 0;
+    }
+
     footer {
         flex-wrap: wrap;
         justify-content: center;
