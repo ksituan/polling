@@ -55859,5 +55859,400 @@
                 "score": 4.1
             }
         ]
+    },
+    {
+        "n": 1006,
+        "moe": 3.0,
+        "company": "Forum",
+        "date": "March 24, 2021",
+        "field": "2021-02-23",
+        "method": "IVR",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 53
+            },
+            {
+                "party": "PCNL",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 4.9
+            }
+        ]
+    },
+    {
+        "n": 1243,
+        "moe": 3.1,
+        "company": "Mainstreet",
+        "date": "February 20-21, 2021",
+        "field": "2021-02-21",
+        "method": "IVR",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 53
+            },
+            {
+                "party": "PCNL",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "NLA",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 996,
+        "moe": 3.1,
+        "company": "Mainstreet",
+        "date": "February 9-10, 2021",
+        "field": "2021-02-10",
+        "method": "IVR",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 54
+            },
+            {
+                "party": "PCNL",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "NLA",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 877,
+        "moe": 3.3,
+        "company": "Mainstreet",
+        "date": "January 26-27, 2021",
+        "field": "2021-01-27",
+        "method": "IVR",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 62
+            },
+            {
+                "party": "PCNL",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "NLA",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 5.7,
+        "company": "MQO",
+        "date": "December 8-20, 2020",
+        "field": "2020-12-20",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 65
+            },
+            {
+                "party": "PCNL",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "Nov. 2-Dec. 3, 2020",
+        "field": "2020-12-03",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 58
+            },
+            {
+                "party": "PCNL",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 198,
+        "company": "Angus Reid",
+        "date": "November 24-30, 2020",
+        "field": "2020-11-30",
+        "method": "Online",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 50
+            },
+            {
+                "party": "PCNL",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "MQO",
+        "date": "Aug. 12-Sep. 2, 2020",
+        "field": "2020-09-02",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 53
+            },
+            {
+                "party": "PCNL",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "NLA",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 401,
+        "moe": 4.9,
+        "company": "Narrative",
+        "date": "August 4-18, 2020",
+        "field": "2020-08-18",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 61
+            },
+            {
+                "party": "PCNL",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 213,
+        "company": "Angus Reid",
+        "date": "May 19-24, 2020",
+        "field": "2020-05-24",
+        "method": "Online",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 48
+            },
+            {
+                "party": "PCNL",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 801,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "April 29-May 26, 2020",
+        "field": "2020-05-26",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 60
+            },
+            {
+                "party": "PCNL",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "Narrative",
+        "date": "February 3-23, 2020",
+        "field": "2020-02-23",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 37
+            },
+            {
+                "party": "PCNL",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 581,
+        "moe": 4.1,
+        "company": "Narrative",
+        "date": "Oct. 31-Nov. 22, 2019",
+        "field": "2019-11-22",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 42
+            },
+            {
+                "party": "PCNL",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "July 31-Aug. 25, 2019",
+        "field": "2019-08-25",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 42
+            },
+            {
+                "party": "PCNL",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "MQO",
+        "date": "July 25-31, 2019",
+        "field": "2019-07-31",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 50
+            },
+            {
+                "party": "PCNL",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "NLA",
+                "score": 1
+            }
+        ]
     }
 ]
