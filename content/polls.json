@@ -56346,5 +56346,35 @@
                 "score": 4.9
             }
         ]
+    },
+    {
+        "n": 700,
+        "company": "Innovative",
+        "date": "May 12-16, 2022",
+        "field": "2022-05-16",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
