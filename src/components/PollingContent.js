@@ -339,6 +339,20 @@ let brandColours = {
     );
   }
 
+  function Checkboxes({companies, checked, handleCompanyClick}) {
+
+    return(
+      <div className="checkboxes">
+        {companies.map((company, index) =>
+        <div>
+          <input type="checkbox" name={company} value={company} checked={checked[index]} onChange={() => handleCompanyClick(index)} />
+          <div style={{textAlign: "center"}}>{company}</div>
+        </div>
+          )}
+      </div>
+    )
+  }
+
   function currentAverage(polls, party, nextElection) {
 
     const endDate = nextElection ? new Date(nextElection.date) : new Date()
@@ -368,9 +382,14 @@ let brandColours = {
   
   function PollingContent({polls, jurisdiction, election, nextElection, name}) {
     let pollList = polls;
+    let [livePolls, setLivePolls] = useState(polls);
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
     let endParties = listEndParties(polls, jurisdiction, parties, nextElection);
+
+    let companies = polls.map(poll => poll.company);
+    companies = [...new Set(companies)];
+    companies = companies.sort()
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -385,11 +404,28 @@ let brandColours = {
     }
 
     if (election.nextWrit) {
-      const companies = [...new Set(pollList.map(x => x.company))]
       for (let company of companies) {
         let pidx = pollList.findIndex(x => x.company === company && new Date(x.field) > new Date(election.nextWrit));
         if (pidx > -1) {(pollList[pidx]).last = true}
       }
+    }
+
+    const [checked, setChecked] = useState(
+      new Array(companies.length).fill(true)
+    );
+
+    const handleCompanyClick = (position) => {
+      let updatedChecked = checked.map((item, index) =>
+      index === position ? !item : item)
+      if(updatedChecked.reduce((a,b) => a || b)) { // Don't uncheck the last box
+        setChecked(updatedChecked);
+      } else {
+        updatedChecked = checked;
+      }
+
+      let checkedCompanies = companies.filter((company, index) => updatedChecked[index]);
+      let filteredPolls = polls.filter(x => checkedCompanies.includes(x.company));
+      setLivePolls(filteredPolls);
     }
  
     return(
@@ -398,8 +434,9 @@ let brandColours = {
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
-        <PartyList validParties={endParties} jurisdiction={jurisdiction} polls={polls} election={election} nextElection={nextElection} />
-        <Scatterplot polls={polls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
+        <PartyList validParties={endParties} jurisdiction={jurisdiction} polls={livePolls} election={election} nextElection={nextElection} />
+        <Scatterplot polls={livePolls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
+        <Checkboxes companies={companies} checked={checked} handleCompanyClick={handleCompanyClick} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
         <h2>{name + " polling database"}</h2>
         <p>A solid box indicates that a party is polling above its last election result. {election.nextWrit && "A star indicates the last poll issued by a company during a writ period. "}Click any poll to see a chart with more information.</p>

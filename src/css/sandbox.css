@@ -222,6 +222,14 @@ svg text {
         visibility: hidden;
     }
 
+    .checkboxes {
+        display: none;
+    }
+
+    .mobileAxis {
+        display: inline;
+    }
+
 }
 
 @media (max-width: 1000px) {

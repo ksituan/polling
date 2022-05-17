@@ -494,6 +494,13 @@ input {
     color: #808080;
 }
 
+.mobileAxis {
+    display: none;
+    stroke: black;
+    fill: none;
+    stroke-width: 8px;
+}
+
 /* Timeline */
 
 .timeline {
@@ -574,4 +581,28 @@ input {
         top: 0;
     }
 
+}
+
+/* Checkboxes */
+
+.checkboxes {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.checkboxes input {
+    width: 1rem;
+    height: 1rem;
+    margin: 0;
+}
+
+.checkboxes div {
+    font-family: Inter;
+    font-size: 9pt;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 4px;
+    flex-direction: column;
 }

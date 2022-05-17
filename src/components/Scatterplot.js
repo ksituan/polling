@@ -296,7 +296,7 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
                   cy={yMap(line.score)}
                   fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}/>
                 </g>)}
-            {nextElection && nextElection.results.map(line => 
+            {nextElection && nextElection.results.sort((a,b) => a.score - b.score).map(line => 
               <g>
                 <circle className="electionHalo" r="22"
                 cx={xMap(new Date(nextElection.date))}
@@ -333,6 +333,8 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
 
           {timeLabels.map(label =>
             <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={label.pos} y={plotHeight - ypadding + 35}>{label.label}</text>)}
+
+          <path className="mobileAxis" d={`M ${xpadding} ${ypadding} v ${plotHeight-ypadding*2} h ${plotWidth-xpadding*2}`} />
   
       </svg>
     );
