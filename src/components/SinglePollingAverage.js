@@ -31,7 +31,8 @@ function SinglePollingAverage(polls, endDate, parties) {
         let partyPolls = weightedPolls.filter(x => x.poll.map(x => x.party).includes(party));
         partyPolls = partyPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
         let weightSum = partyPolls.reduce((a, b) => a + b.weight, 0);
-        let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
+        let avg = partyPolls.map(poll => poll.value*(poll.weight/weightSum));
+        avg = avg.reduce((x, y) => x + y, 0);
         avg = Math.round(avg*10)/10
         return({party: party, score: avg})
       }
