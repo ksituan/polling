@@ -7,6 +7,7 @@ import "../css/sandbox.css"
 import { useState } from "react";
 
 import Scatterplot from "../components/Scatterplot.js"
+import SinglePollingAverage from "../components/SinglePollingAverage.js"
 
 let brandColours = {
     "maroon" : "#8b4943",
@@ -312,28 +313,23 @@ let brandColours = {
     return(validParties);
   }
 
-  function PartyList({validParties, jurisdiction, polls, election, nextElection}) {
-
-    let bj = jurisdiction.split("_")[0];
+  function PartyList({todaysAverage, relevantParties, election}) {
 
     return(
         <div className="partyContainer">
-          {validParties.map(function(acronym) {
-            let average = currentAverage(polls, acronym, nextElection);
-            return (
-          <a className="party" href={parties.content[bj][acronym].url ?? "https://en.wikipedia.org/wiki/Politics_of_Canada"} target="_blank" rel="noreferrer">
-          <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[parties.content[bj][acronym].colour]} d={parties.content[bj][acronym].logo} /></svg>
+          {todaysAverage.map(event =>
+          <a className="party" href={relevantParties[event.party].url ?? "https://en.wikipedia.org/wiki/Politics_of_Canada"} target="_blank" rel="noreferrer">
+          <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[relevantParties[event.party].colour]} d={relevantParties[event.party].logo} /></svg>
           <div className="partyText">
-            <h3 className="partyTitle">{acronym}</h3>
-            <p className="partyScore" style={{color: brandColours[parties.content[bj][acronym].colour]}}>
-              {average > (election.results.filter(x => x.party === acronym)[0]?.score || 0) ? "▲" : "▼"}
-              {average}
+            <h3 className="partyTitle">{event.party}</h3>
+            <p className="partyScore" style={{color: brandColours[relevantParties[event.party].colour]}}>
+              {event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? "▲" : "▼"}
+              {event.score}
               %
             </p>
-            <p className="partyName">{parties.content[bj][acronym].fullName}</p>
+            <p className="partyName">{relevantParties[event.party].fullName}</p>
           </div>
           </a>
-          );}
           )}
         </div>
     );
@@ -387,6 +383,10 @@ let brandColours = {
     let validParties = listValidParties(polls);
     let endParties = listEndParties(polls, jurisdiction, parties, nextElection);
 
+    const relevantParties = parties.content[jurisdiction.split("_")[0]];
+    const endDate = nextElection ? new Date(nextElection.date) : new Date();
+    const todaysAverage = SinglePollingAverage(polls, endDate, relevantParties);
+
     let companies = polls.map(poll => poll.company);
     companies = [...new Set(companies)];
     companies = companies.sort()
@@ -427,14 +427,14 @@ let brandColours = {
       let filteredPolls = polls.filter(x => checkedCompanies.includes(x.company));
       setLivePolls(filteredPolls);
     }
- 
+
     return(
       <div>
         <div>
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
         </div>
-        <PartyList validParties={endParties} jurisdiction={jurisdiction} polls={livePolls} election={election} nextElection={nextElection} />
+        <PartyList todaysAverage={todaysAverage} relevantParties={relevantParties} election={election} />
         <Scatterplot polls={livePolls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
         <Checkboxes companies={companies} checked={checked} handleCompanyClick={handleCompanyClick} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
