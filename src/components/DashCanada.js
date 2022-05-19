@@ -42,7 +42,7 @@ function DashCanada({polls, election}) {
                 </div>
             )}
             </div> 
-            <div className="dashTitle">Canada</div>
+            <div className="dashTitle">House of Commons</div>
         </Link>
     )
 }
