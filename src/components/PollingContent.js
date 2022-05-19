@@ -260,36 +260,6 @@ let brandColours = {
     return(id);
   }
 
-  function listEndParties(pollList, jurisdiction, parties, nextElection) {
-
-    let bj = jurisdiction.split("_")[0];
-
-    // Get a list of every party that appears more than twice...
-
-    let partyArray = [];
-    pollList.map(x => x.poll.map(y => y.party !== "Others" && partyArray.push(y.party)));
-
-    const partyCount = {};
-
-    const endDate = nextElection ? new Date(nextElection.date) : new Date()
-
-    for (const party of partyArray) {
-      let end = parties.content[bj][party]?.end;
-      if (!end || (new Date(end) > endDate)) {
-        if (partyCount[party]) {
-            partyCount[party] += 1;
-        } else {
-            partyCount[party] = 1;
-        }
-      }
-    }
-
-    let validParties = Object.entries(partyCount);
-    validParties = validParties.filter(x => x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
-
-    return(validParties);
-  }
-
   function listValidParties(pollList) {
 
     // Get a list of every party that appears more than twice...
@@ -324,7 +294,7 @@ let brandColours = {
             <h3 className="partyTitle">{event.party}</h3>
             <p className="partyScore" style={{color: brandColours[relevantParties[event.party].colour]}}>
               {event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? "▲" : "▼"}
-              {event.score}
+              {event.score % 1 === 0 ? String(event.score) + ".0" : event.score}
               %
             </p>
             <p className="partyName">{relevantParties[event.party].fullName}</p>
@@ -354,7 +324,6 @@ let brandColours = {
     let [livePolls, setLivePolls] = useState(polls);
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
-    let endParties = listEndParties(polls, jurisdiction, parties, nextElection);
 
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     const endDate = nextElection ? new Date(nextElection.date) : new Date();
