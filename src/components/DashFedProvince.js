@@ -39,16 +39,16 @@ let title = {
     Canada: "Canada"
 }
 
-function DashProvince({polls, jurisdiction, election}) {
+function DashFedProvince({polls, jurisdiction, election}) {
 
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     let todaysAverage = SinglePollingAverage(polls, new Date(), relevantParties);
 
     let majorAverage = todaysAverage.filter(party => party.score >= 10); // Only parties over 10%
     
-    //if (majorAverage.length > 3) { // Only the top 3 parties
-    //    majorAverage = majorAverage.slice(0,3);
-    //}
+    if (majorAverage.length > 3) { // Only the top 3 parties
+        majorAverage = majorAverage.slice(0,3);
+    }
 
     return (
         <Link className="dashProvince" to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
@@ -69,4 +69,4 @@ function DashProvince({polls, jurisdiction, election}) {
     )
 }
 
-export default DashProvince
+export default DashFedProvince

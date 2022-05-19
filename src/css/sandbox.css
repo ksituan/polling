@@ -182,6 +182,14 @@ svg text {
         grid-template-columns: repeat(3, 1fr);
     }
 
+    .fedPartyContainer {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .dashFedParty {
+        justify-content: flex-start;
+    }
+
     .trendline {
         stroke-width: 12px;
     }
@@ -283,23 +291,23 @@ svg text {
     animation: writ 1s infinite;
 }
 
-.dashProvinceTitle {
+.dashProvince .dashTitle {
     font-family: Inter;
     font-weight: bold;
     color: black;
     text-align: center;
     padding-bottom: 0.5rem;
-    margin-top: -0.5rem;
+    padding-top: 0.25rem;
 }
 
-.dashCanadaTitle {
+.dashCanada .dashTitle {
     font-family: Inter;
-    font-size: 18pt;
+    font-size: 24pt;
     font-weight: bold;
     color: black;
     text-align: center;
     padding-bottom: 0.5rem;
-    margin-top: -2rem;
+    padding-top: 0.25rem;
 }
 
 .wideChartTitle {

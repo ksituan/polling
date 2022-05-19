@@ -8,6 +8,7 @@ import Seo from "../components/seo"
 
 import DashProvince from "../components/DashProvince"
 import DashCanada from "../components/DashCanada"
+import DashFedProvince from "../components/DashFedProvince"
 
 const provinces = [
   "BC",
@@ -48,7 +49,7 @@ const IndexPage = ({pageContext, data}) => (
       <DashCanada polls={data.pollsCanada} election={data.electionCanada.nodes[0]}/>
     <div className="dashFed">
       {federalJurisdictions.map(jurisdiction => (
-        <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
+        <DashFedProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
       ))}
     </div>
 

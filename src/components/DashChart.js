@@ -1,30 +1,9 @@
 import * as React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import parties from "../../content/parties.json"
 
 import "../css/sandbox.css"
-
-let title = {
-    BC: "British Columbia",
-    AB: "Alberta",
-    SK: "Saskatchewan",
-    MB: "Manitoba",
-    ON: "Ontario",
-    QC: "Quebec",
-    NB: "New Brunswick",
-    PE: "Prince Edward Island",
-    NS: "Nova Scotia",
-    NL: "Newfoundland & Lab.",
-    YT: "Yukon",
-    Canada_BC: "British Columbia",
-    Canada_AB: "Alberta",
-    Canada_SKMB: "Sask./Man.",
-    Canada_ON: "Ontario",
-    Canada_QC: "Quebec",
-    Canada_ATL: "Atlantic",
-    Canada: "Canada"
-  }
 
 let brandColours = {
     "maroon" : "#8b4943",
@@ -42,7 +21,7 @@ let brandColours = {
 
 function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, className}) {
 
-    let padding = 50;
+    let padding = 10;
 
     let electionObject = {field: election.date, poll: election.results.sort((a, b) => a.score - b.score)};
     let pollList = [...polls];
@@ -186,27 +165,22 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     return(
         <div className={className + (election.nextWrit ? " writ" : "")}>
-        <Link to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
-        <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
-            <rect width={plotWidth} height={plotHeight} fill="white" />
-            {validParties.map(party => { let line = rollingAverage(samplePositions, party);
-                return <path
-                stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
-                fill="none"
-                strokeWidth="4"
-                d={"M " + line.map(event => String(event.x) + " " + String(yMap(event.score))).join(" L ")}/>
-            })}
+            <svg viewBox={`0 0 ${plotWidth-0} ${plotHeight-0}`}>
+                {validParties.map(party => { let line = rollingAverage(samplePositions, party);
+                    return <path
+                    stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
+                    fill="none"
+                    strokeWidth="5"
+                    d={"M " + line.map(event => String(event.x) + " " + String(yMap(event.score))).join(" L ")}/>
+                })}
 
-            <path
-                d ={`M ${padding} ${padding} v ${plotHeight-padding*2} h ${plotWidth-padding*2}`}
-                stroke = "black"
-                fill = "none"
-                strokeWidth = "4px"
-            />
-
-        </svg>
-        <div className={`${className}Title`}>{title[jurisdiction]}</div>
-        </Link>
+                <path
+                    d ={`M ${padding} ${padding} v ${plotHeight-padding*2} h ${plotWidth-padding*2}`}
+                    stroke = "black"
+                    fill = "none"
+                    strokeWidth = "5px"
+                />
+            </svg>
         </div>
     );
 }

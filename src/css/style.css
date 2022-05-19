@@ -606,3 +606,61 @@ input {
     gap: 4px;
     flex-direction: column;
 }
+
+/* Dashboard decorations */
+
+.dashChart {
+    padding: 0.5rem 0.5rem 0.25rem 0.5rem;
+}
+
+.dashPartyContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fedPartyContainer {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.dashParty {
+    z-index: 3;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.dashName {
+    font-size: 8pt;
+    font-weight: 700;
+    font-family: Inter;
+}
+
+.dashScore {
+    font-size: 8pt;
+    font-family: Inter;
+}
+
+.dashFedParty {
+    display: flex;
+    margin: 0.25rem 0;
+    width: 100%;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+.dashFedParty * {
+    margin: 0;
+}
+
+.dashFedName {
+    font-size: 14pt;
+    font-weight: 700;
+    font-family: Inter;
+    margin-bottom: -0.2rem;
+}
+
+.dashFedScore {
+    font-size: 12pt;
+    font-family: Inter;
+}
