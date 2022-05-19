@@ -165,7 +165,8 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     return(
         <div className={className + (election.nextWrit ? " writ" : "")}>
-            <svg viewBox={`0 0 ${plotWidth-0} ${plotHeight-0}`}>
+            <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
+                <rect fill="white" width={plotWidth} height={plotHeight} />
                 {validParties.map(party => { let line = rollingAverage(samplePositions, party);
                     return <path
                     stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
