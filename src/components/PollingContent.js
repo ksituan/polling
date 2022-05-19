@@ -348,33 +348,6 @@ let brandColours = {
       </div>
     )
   }
-
-  function currentAverage(polls, party, nextElection) {
-
-    const endDate = nextElection ? new Date(nextElection.date) : new Date()
-
-    // We only care about polls with the relevant party
-
-    let partyPolls = polls.filter(x => x.poll.map(x => x.party).includes(party));
-    let weightedPolls = partyPolls.map(
-      function (poll) {
-        poll.weight = 0.95**((endDate-new Date(poll.field))/(24*60*60*1000));
-        poll.value = poll.poll.filter(x => x.party === party)[0].score;
-        return(poll);
-      }
-    );
-
-    // Collect values for the relevant party
-
-    weightedPolls = weightedPolls.map(poll => {poll.value = poll.poll.filter(x => x.party === party)[0].score; return(poll)});
-    let weightSum = weightedPolls.reduce((a, b) => a + b.weight, 0);
-
-    let avg = weightedPolls.map(poll => poll.value*(poll.weight/weightSum)).reduce((x,y)=>x+y,0);
-
-    avg = Math.round(avg*10)/10
-
-    return(avg);
-  }
   
   function PollingContent({polls, jurisdiction, election, nextElection, name}) {
     let pollList = polls;
