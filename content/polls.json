@@ -56616,23 +56616,27 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 19
+                "score": 19.1
             },
             {
                 "party": "CPC",
-                "score": 35
+                "score": 34.7
             },
             {
                 "party": "NDP",
-                "score": 35
+                "score": 35.0
             },
             {
                 "party": "GPC",
-                "score": 7
+                "score": 7.0
             },
             {
                 "party": "PPC",
-                "score": 3
+                "score": 3.2
+            },
+            {
+                "party": "Others",
+                "score": 1.0
             }
         ]
     },
@@ -56645,27 +56649,63 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 18
+                "score": 18.0
             },
             {
                 "party": "CPC",
-                "score": 53
+                "score": 52.6
             },
             {
                 "party": "NDP",
-                "score": 15
+                "score": 14.8
             },
             {
                 "party": "GPC",
-                "score": 1
+                "score": 1.4
             },
             {
                 "party": "PPC",
-                "score": 7
+                "score": 7.2
+            },
+            {
+                "party": "Others",
+                "score": 6.0
             }
         ]
     },
-
+    {
+        "company": "EKOS",
+        "date": "May 13-17, 2022",
+        "field": "2022-05-17",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 41.7
+            },
+            {
+                "party": "NDP",
+                "score": 14.4
+            },
+            {
+                "party": "GPC",
+                "score": 7.1
+            },
+            {
+                "party": "PPC",
+                "score": 3.4
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
     {
         "company": "EKOS",
         "date": "May 13-17, 2022",
@@ -56675,23 +56715,27 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 34
+                "score": 33.8
             },
             {
                 "party": "CPC",
-                "score": 36
+                "score": 35.8
             },
             {
                 "party": "NDP",
-                "score": 20
+                "score": 19.8
             },
             {
                 "party": "GPC",
-                "score": 4
+                "score": 3.8
             },
             {
                 "party": "PPC",
-                "score": 5
+                "score": 5.4
+            },
+            {
+                "party": "Others",
+                "score": 1.4
             }
         ]
     },
@@ -56704,27 +56748,31 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 31
+                "score": 31.1
             },
             {
                 "party": "CPC",
-                "score": 25
+                "score": 24.5
             },
             {
                 "party": "NDP",
-                "score": 17
+                "score": 16.5
             },
             {
                 "party": "BQ",
-                "score": 19
+                "score": 18.6
             },
             {
                 "party": "GPC",
-                "score": 5
+                "score": 5.1
             },
             {
                 "party": "PPC",
-                "score": 1
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 3
             }
         ]
     },
@@ -56737,23 +56785,27 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 32
+                "score": 32.1
             },
             {
                 "party": "CPC",
-                "score": 38
+                "score": 38.3
             },
             {
                 "party": "NDP",
-                "score": 12
+                "score": 12.3
             },
             {
                 "party": "GPC",
-                "score": 3
+                "score": 3.2
             },
             {
                 "party": "PPC",
-                "score": 6
+                "score": 5.5
+            },
+            {
+                "party": "Others",
+                "score": 8.6
             }
         ]
     }
