@@ -647,6 +647,7 @@ input {
     margin: 0.25rem 0;
     width: 100%;
     justify-content: center;
+    align-items: center;
     gap: 0.4rem;
 }
 
