@@ -327,7 +327,7 @@ let brandColours = {
 
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     const endDate = nextElection ? new Date(nextElection.date) : new Date();
-    const todaysAverage = SinglePollingAverage(polls, endDate, relevantParties);
+    let todaysAverage = SinglePollingAverage(livePolls, endDate, relevantParties);
 
     let companies = polls.map(poll => poll.company);
     companies = [...new Set(companies)];
