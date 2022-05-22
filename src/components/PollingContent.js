@@ -203,7 +203,7 @@ let brandColours = {
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <button className="pollLink" onClick={onClickRow}>
-        <p className={poll.last ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
+        <p className={poll.last && new Date(poll.field) > new Date(lastElection.nextWrit) ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
         <p className="pollInfo pollDate" bgcolor="white">{field.toLocaleString("en-CA",{"dateStyle":"medium"})}</p>
         <div className="entryContainer">
       {poll.poll.map((party, i) => {
@@ -325,13 +325,20 @@ let brandColours = {
     let [pollsActive, setPollsActive] = useState(null);
     let validParties = listValidParties(polls);
 
-    const relevantParties = parties.content[jurisdiction.split("_")[0]];
-    const endDate = nextElection ? new Date(nextElection.date) : new Date();
-    let todaysAverage = SinglePollingAverage(livePolls, endDate, relevantParties);
-
     let companies = polls.map(poll => poll.company);
     companies = [...new Set(companies)];
     companies = companies.sort()
+
+    if (election.nextWrit) {
+      for (let company of companies) {
+        let pidx = pollList.findIndex(x => x.company === company);
+        if (pidx > -1) {(pollList[pidx]).last = true}
+      }
+    }
+
+    const relevantParties = parties.content[jurisdiction.split("_")[0]];
+    const endDate = nextElection ? new Date(nextElection.date) : new Date();
+    let todaysAverage = SinglePollingAverage(livePolls.filter(x => x.last), endDate, relevantParties);
   
     function handleClickRow(rowIndex) {
       if (rowIndex === pollsActive) {
@@ -343,13 +350,6 @@ let brandColours = {
   
     function handleClickPoll(rowIndex) {
       return () => setPollsActive(rowIndex);
-    }
-
-    if (election.nextWrit) {
-      for (let company of companies) {
-        let pidx = pollList.findIndex(x => x.company === company && new Date(x.field) > new Date(election.nextWrit));
-        if (pidx > -1) {(pollList[pidx]).last = true}
-      }
     }
 
     const [checked, setChecked] = useState(
