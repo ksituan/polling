@@ -195,7 +195,7 @@ let brandColours = {
     let bj = poll.jurisdiction.split("_")[0];
     let pinfo = parties.content[bj];
 
-    let field = new Date(poll.field);
+    let field = new Date(poll.field + "T00:00");
   
     poll.poll = poll.poll.sort((a, b) => b.score - a.score);
     
@@ -204,7 +204,7 @@ let brandColours = {
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <button className="pollLink" onClick={onClickRow}>
         <p className={poll.last ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
-        <p className="pollInfo pollDate" bgcolor="white">{new Date(new Date(field).setDate(new Date(field).getDate() + 1)).toLocaleString("en-CA",{"dateStyle":"short"})}</p>
+        <p className="pollInfo pollDate" bgcolor="white">{field.toLocaleString("en-CA",{"dateStyle":"medium"})}</p>
         <div className="entryContainer">
       {poll.poll.map((party, i) => {
         let hist = Math.round(lastElection.results.filter(x => x.party === party.party)[0]?.score);
