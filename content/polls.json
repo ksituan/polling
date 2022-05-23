@@ -56961,5 +56961,97 @@
                 "score": 7.2
             }
         ]
+    },
+    {
+        "n": 1709,
+        "moe": 2.4,
+        "company": "Mainstreet",
+        "date": "May 16-22, 2022",
+        "field": "2022-05-22",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 23.8
+            },
+            {
+                "party": "OLP",
+                "score": 25.1
+            },
+            {
+                "party": "Others",
+                "score": 7.9
+            },
+            {
+                "party": "GPO",
+                "score": 8.2
+            }
+        ]
+    },
+    {
+        "n": 1501,
+        "moe": 2.9,
+        "company": "Ipsos",
+        "date": "May 17-19, 2022",
+        "field": "2022-05-19",
+        "method": "Hybrid",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 1500,
+        "company": "Abacus",
+        "date": "May 18-21, 2022",
+        "field": "2022-05-21",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 8
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
