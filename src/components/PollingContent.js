@@ -20,7 +20,7 @@ let brandColours = {
     "blue" : "#598dab",
     "darkBlue" : "#52709e",
     "purple" : "#af7ac8",
-    "gray" : "#ddd",
+    "gray" : "#d0d0d0",
   }
   
   let title = {

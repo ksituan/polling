@@ -320,7 +320,7 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
                   className={line.party}
                   cx={xMap(new Date(poll.field))}
                   cy={yMap(line.score)}
-                  fill={brandColours[parties.content[bj][line.party]?.colour || "gray"]}
+                  fill={brandColours[parties.content[bj][line.party]?.colour || "gray"] + "80"}
                   />
             )}</a></g>)}
 
