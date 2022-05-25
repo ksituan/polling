@@ -5,6 +5,7 @@ import PollingContent from "../components/PollingContent";
 import Seo from "../components/seo"
 
 let provinceOrder = ['BC', 'AB', 'SK', 'MB', 'ON', 'QC', 'NB', 'PE', 'NS', 'NL'];
+let fedOrder = ['Canada_BC', 'Canada_AB', 'Canada_SKMB', 'Canada_ON', 'Canada_QC', 'Canada_ATL'];
 
 let title = {
   Canada: "Federal polling",
@@ -33,8 +34,21 @@ export default function SingleProvince({pageContext, data}) {
     const election = data.prevElection;
     const pageTitle = `${jurisdictionName} ${jurisdiction.split("_")[0] !== "Canada" ? (jurisdiction === "YT" ? "territorial" : "provincial") : ""} polling`;
 
-    const lastProvince = jurisdiction === 'BC' ? 'NL' : provinceOrder[provinceOrder.findIndex(x => x === jurisdiction) - 1];
-    const nextProvince = jurisdiction === 'NL' ? 'BC' : provinceOrder[provinceOrder.findIndex(x => x === jurisdiction) + 1];
+    let lastProvince, nextProvince, lastLink, nextLink = null;
+
+    if (jurisdiction !== "Canada") {
+      if (jurisdiction.split("_")[0] === "Canada") {
+        lastProvince = jurisdiction === 'Canada_BC' ? 'Canada_ATL' : fedOrder[fedOrder.findIndex(x => x === jurisdiction) - 1];
+        nextProvince = jurisdiction === 'Canada_ATL' ? 'Canada_BC' : fedOrder[fedOrder.findIndex(x => x === jurisdiction) + 1];
+        lastLink = `/${lastProvince.replace("_","-")}-${new Date(election.date).getFullYear()}`;
+        nextLink = `/${nextProvince.replace("_","-")}-${new Date(election.date).getFullYear()}`;
+      } else {
+        lastProvince = jurisdiction === 'BC' ? 'NL' : provinceOrder[provinceOrder.findIndex(x => x === jurisdiction) - 1];
+        nextProvince = jurisdiction === 'NL' ? 'BC' : provinceOrder[provinceOrder.findIndex(x => x === jurisdiction) + 1];
+        lastLink = `/${lastProvince}`;
+        nextLink = `/${nextProvince}`;
+      }
+    }
 
     return(
         <Layout>
@@ -42,8 +56,8 @@ export default function SingleProvince({pageContext, data}) {
             <h1>{pageTitle}</h1>
             <p>This page lists every publicly accessible poll conducted by a reputable firm after the {new Date(election.date).getFullYear()} {jurisdiction.split("_")[0] === "Canada" ? "federal" : jurisdictionName + " " + (jurisdiction === "YT" ? "territorial" : "provincial")} election. Many polls are privately commissioned and go unreleased, but some are leaked after the fact. To learn more about Polling Canada's standards, check the <Link to="/faq">FAQ</Link>.</p>
             <PollingContent polls={polls} jurisdiction={jurisdiction} name={jurisdictionName} election={election} nextElection={data.nextElection} />
-            <Link to={"/" + lastProvince} className="navArrow leftArrow">{title[lastProvince]}</Link>
-            <Link to={"/" + nextProvince} className="navArrow rightArrow">{title[nextProvince]}</Link>
+            {lastProvince && <Link to={lastLink} className="navArrow leftArrow">{title[lastProvince]}</Link>}
+            {nextProvince && <Link to={nextLink} className="navArrow rightArrow">{title[nextProvince]}</Link>}
         </Layout>
     )
 }
