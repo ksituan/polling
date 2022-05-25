@@ -329,15 +329,14 @@ let brandColours = {
     companies = [...new Set(companies)];
     companies = companies.sort()
 
-    if (election.nextWrit) {
-      for (let company of companies) {
-        let pidx = pollList.findIndex(x => x.company === company);
-        if (pidx > -1) {(pollList[pidx]).last = true}
-      }
+    for (let company of companies) {
+      let pidx = pollList.findIndex(x => x.company === company);
+      if (pidx > -1) {(pollList[pidx]).last = true}
     }
 
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     const endDate = nextElection ? new Date(nextElection.date) : new Date();
+
     let todaysAverage = SinglePollingAverage(livePolls.filter(x => x.last), endDate, relevantParties);
   
     function handleClickRow(rowIndex) {
