@@ -109,7 +109,7 @@ svg text {
     }
 
     .curtis {
-        display: none;
+        display: none !important;
     }
 
     .curtis * {
