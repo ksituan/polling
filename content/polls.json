@@ -60640,6 +60640,10 @@
             {
                 "party": "TOP",
                 "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
             }
         ]
     }
