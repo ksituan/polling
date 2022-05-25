@@ -57221,7 +57221,7 @@
     {
         "n": 635,
         "moe": 4,
-        "company": "Angus Reid Institute",
+        "company": "Angus Reid",
         "date": "September 30, 2018",
         "field": "2018-09-30",
         "method": "Online",
@@ -60576,6 +60576,36 @@
             {
                 "party": "GPO",
                 "score": 8
+            }
+        ]
+    },
+    {
+        "n": 601,
+        "company": "Innovative",
+        "date": "May 19-23, 2022",
+        "field": "2022-05-23",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 9
             }
         ]
     }
