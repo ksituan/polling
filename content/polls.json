@@ -56504,6 +56504,18 @@
             {
                 "party": "GPO",
                 "score": 7.3
+            },
+            {
+                "party": "NBP",
+                "score": 4.7
+            },
+            {
+                "party": "TOP",
+                "score": 1.7
+            },
+            {
+                "party": "Others",
+                "score": 1.1
             }
         ]
     },
