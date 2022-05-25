@@ -666,3 +666,66 @@ input {
     font-size: 12pt;
     font-family: Inter;
 }
+
+/* Navigation arrows (on desktop only) */
+
+@media (max-width: 1200px) {
+
+    .navArrow.leftArrow {
+        display: none;
+    }
+
+    .navArrow.rightArrow {
+        display: none;
+    }
+
+}
+
+.navArrow {
+    background-image: url(spectrum.svg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-repeat: repeat-x;
+    background-size: 100vw 100vw;
+    background-position: left bottom 0px; 
+    background-position-x: var(--scrollPos);
+    color: transparent;
+    background-color: skyblue;
+    position: fixed;
+    top: 50%;
+    width: 6rem;
+    text-decoration: none;
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+
+.leftArrow {
+    left: 1rem;
+}
+
+.rightArrow {
+    right: 1rem;
+    text-align: right;
+}
+
+.leftArrow:before {
+    content: "";
+    width: 0; 
+    height: 0; 
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-right: 6px solid black; 
+    margin-right: 0.5rem;
+}
+
+.rightArrow:after {
+    content: "";
+    width: 0; 
+    height: 0; 
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent; 
+    border-left: 6px solid black; 
+    margin-left: 0.5rem;
+}
