@@ -8,7 +8,7 @@ const data = () => (
     <Seo title="Data Downloads" description="Download Canadian political data" />
     <h1>Data Downloads</h1>
     <h2>Polling Canada database</h2>
-    <p><Link to="/polls.zip">polls.json</Link> (45 KB)</p>
+    <p><Link to="/polls.zip">polls.json</Link> (68 KB)</p>
     <p>The complete Polling Canada database, in JSON format. This is the same file used to generate all the content on this site. Contains information about polling company, methodology, field date, sample size, and margin of error.</p>
     <h2>2021 election results by polling division</h2>
     <p><Link to="/2021_polls.zip">2021_polls.csv</Link> (1.07 MB)</p>
