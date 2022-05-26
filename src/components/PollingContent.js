@@ -203,7 +203,7 @@ let brandColours = {
       <div className="pollRow">
       {active && <Chart poll={poll} id={PollID(poll)} lastElection={lastElection}/>}
       <button className="pollLink" onClick={onClickRow}>
-        <p className={poll.last && new Date(poll.field) > new Date(lastElection.nextWrit) ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
+        <p className={poll.last && lastElection.nextWrit && new Date(poll.field) > new Date(lastElection.nextWrit) ? "pollInfo lastPoll" : "pollInfo"} bgcolor="white">{poll.company}</p>
         <p className="pollInfo pollDate" bgcolor="white">{field.toLocaleString("en-CA",{"dateStyle":"medium"})}</p>
         <div className="entryContainer">
       {poll.poll.map((party, i) => {
