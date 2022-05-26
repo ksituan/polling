@@ -3,6 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
 @import url('https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800,900');
 
+body {
+    margin: 0;
+}
+
 main * {
     margin-left: auto;
     margin-right: auto;
@@ -80,8 +84,8 @@ header {
     justify-content: space-around;
     align-items: center;
     max-width: none;
+    margin-bottom: 1rem;
     width: 100%;
-    padding-bottom: 1rem;
     top: 0;
     position: sticky;
     background-color: white;
@@ -692,7 +696,8 @@ input {
     color: transparent;
     background-color: skyblue;
     position: fixed;
-    top: 50%;
+    height: 100%;
+    top: 0%;
     width: 8rem;
     text-decoration: none;
     font-family: Inter;
