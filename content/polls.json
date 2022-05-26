@@ -57155,6 +57155,10 @@
             {
                 "party": "TOP",
                 "score": 1.7
+            },
+            {
+                "party": "Others",
+                "score": 0.3
             }
         ]
     },
@@ -60639,11 +60643,11 @@
             },
             {
                 "party": "TOP",
-                "score": 1
+                "score": 2
             },
             {
                 "party": "Others",
-                "score": 2
+                "score": 1
             }
         ]
     },
@@ -60890,6 +60894,67 @@
             {
                 "party": "Others",
                 "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1622,
+        "moe": 2.4,
+        "company": "Mainstreet",
+        "date": "May 19-25, 2022",
+        "field": "2022-05-25",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 23.5
+            },
+            {
+                "party": "OLP",
+                "score": 26.1
+            },
+            {
+                "party": "Others",
+                "score": 5.9
+            },
+            {
+                "party": "GPO",
+                "score": 8.5
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "company": "Earnscliffe",
+        "date": "May 20-22, 2022",
+        "field": "2022-05-22",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 6
             }
         ]
     }
