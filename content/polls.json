@@ -61081,5 +61081,40 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1017,
+        "moe": 3.1,
+        "company": "EKOS",
+        "date": "May 23-25, 2022",
+        "field": "2022-05-25",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 33.7
+            },
+            {
+                "party": "NDP",
+                "score": 23.8
+            },
+            {
+                "party": "OLP",
+                "score": 26.9
+            },
+            {
+                "party": "Others",
+                "score": 3.0
+            },
+            {
+                "party": "NBP",
+                "score": 4.7
+            },
+            {
+                "party": "GPO",
+                "score": 8.0
+            }
+        ]
     }
 ]
