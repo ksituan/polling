@@ -1,6 +1,7 @@
 import * as React from "react"
 import DashChart from "./DashChart.js"
 import SinglePollingAverage from "../components/SinglePollingAverage.js"
+import MarkLastPolls from "../components/MarkLastPolls"
 import parties from "../../content/parties.json"
 import {Link} from "gatsby"
 
@@ -41,8 +42,13 @@ let title = {
 
 function DashProvince({polls, jurisdiction, election}) {
 
+    console.log(jurisdiction);
+    console.log(polls);
+
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
-    let todaysAverage = SinglePollingAverage(polls, new Date(), relevantParties);
+    let todaysAverage = SinglePollingAverage(MarkLastPolls(polls), new Date(), relevantParties);
+
+    console.log(todaysAverage);
 
     let majorAverage = todaysAverage.filter(party => party.score >= 10); // Only parties over 10%
     

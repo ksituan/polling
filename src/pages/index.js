@@ -98,227 +98,244 @@ const IndexPage = ({pageContext, data}) => (
 
 export default IndexPage
 export const query = graphql`
-  query {
-    pollsCanada: recentElectionPolls(jurisdiction: "Canada") {
-      ...PollInformation
-    }
-    electionCanada: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsBC: recentElectionPolls(jurisdiction: "BC") {
-      ...PollInformation
-    }
-    electionBC: allElectionsJson(
-      filter: {jurisdiction: {eq: "BC"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsAB: recentElectionPolls(jurisdiction: "AB") {
-      ...PollInformation
-    }
-    electionAB: allElectionsJson(
-      filter: {jurisdiction: {eq: "AB"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsSK: recentElectionPolls(jurisdiction: "SK") {
-      ...PollInformation
-    }
-    electionSK: allElectionsJson(
-      filter: {jurisdiction: {eq: "SK"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsMB: recentElectionPolls(jurisdiction: "MB") {
-      ...PollInformation
-    }
-    electionMB: allElectionsJson(
-      filter: {jurisdiction: {eq: "MB"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-            year: date(formatString: "YYYY")
-        }
-    }
-    pollsON: recentElectionPolls(jurisdiction: "ON") {
-      ...PollInformation
-    }
-    electionON: allElectionsJson(
-      filter: {jurisdiction: {eq: "ON"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsQC: recentElectionPolls(jurisdiction: "QC") {
-      ...PollInformation
-    }
-    electionQC: allElectionsJson(
-      filter: {jurisdiction: {eq: "QC"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsNB: recentElectionPolls(jurisdiction: "NB") {
-      ...PollInformation
-    }
-    electionNB: allElectionsJson(
-      filter: {jurisdiction: {eq: "NB"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsPE: recentElectionPolls(jurisdiction: "PE") {
-      ...PollInformation
-    }
-    electionPE: allElectionsJson(
-      filter: {jurisdiction: {eq: "PE"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsNS: recentElectionPolls(jurisdiction: "NS") {
-      ...PollInformation
-    }
-    electionNS: allElectionsJson(
-      filter: {jurisdiction: {eq: "NS"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsNL: recentElectionPolls(jurisdiction: "NL") {
-      ...PollInformation
-    }
-    electionNL: allElectionsJson(
-      filter: {jurisdiction: {eq: "NL"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_BC: recentElectionPolls(jurisdiction: "Canada_BC") {
-      ...PollInformation
-    }
-    electionCanada_BC: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_BC"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_AB: recentElectionPolls(jurisdiction: "Canada_AB") {
-      ...PollInformation
-    }
-    electionCanada_AB: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_AB"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_SKMB: recentElectionPolls(jurisdiction: "Canada_SKMB") {
-      ...PollInformation
-    }
-    electionCanada_SKMB: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_SKMB"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_ON: recentElectionPolls(jurisdiction: "Canada_ON") {
-      ...PollInformation
-    }
-    electionCanada_ON: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_ON"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_QC: recentElectionPolls(jurisdiction: "Canada_QC") {
-      ...PollInformation
-    }
-    electionCanada_QC: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_QC"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
-    }
-    pollsCanada_ATL: recentElectionPolls(jurisdiction: "Canada_ATL") {
-      ...PollInformation
-    }
-    electionCanada_ATL: allElectionsJson(
-      filter: {jurisdiction: {eq: "Canada_ATL"}}
-      sort: {fields: date, order: DESC}
-      limit: 1
-    ) {
-        nodes {
-          ...ElectionInformation
-          year: date(formatString: "YYYY")
-        }
+{
+  pollsCanada: recentElectionPolls(jurisdiction: "Canada") {
+    ...PollInformation
+    company
+  }
+  electionCanada: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
     }
   }
+  pollsBC: recentElectionPolls(jurisdiction: "BC") {
+    ...PollInformation
+    company
+  }
+  electionBC: allElectionsJson(
+    filter: {jurisdiction: {eq: "BC"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsAB: recentElectionPolls(jurisdiction: "AB") {
+    ...PollInformation
+    company
+  }
+  electionAB: allElectionsJson(
+    filter: {jurisdiction: {eq: "AB"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsSK: recentElectionPolls(jurisdiction: "SK") {
+    ...PollInformation
+    company
+  }
+  electionSK: allElectionsJson(
+    filter: {jurisdiction: {eq: "SK"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsMB: recentElectionPolls(jurisdiction: "MB") {
+    ...PollInformation
+    company
+  }
+  electionMB: allElectionsJson(
+    filter: {jurisdiction: {eq: "MB"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsON: recentElectionPolls(jurisdiction: "ON") {
+    ...PollInformation
+    company
+  }
+  electionON: allElectionsJson(
+    filter: {jurisdiction: {eq: "ON"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsQC: recentElectionPolls(jurisdiction: "QC") {
+    ...PollInformation
+    company
+  }
+  electionQC: allElectionsJson(
+    filter: {jurisdiction: {eq: "QC"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsNB: recentElectionPolls(jurisdiction: "NB") {
+    ...PollInformation
+    company
+  }
+  electionNB: allElectionsJson(
+    filter: {jurisdiction: {eq: "NB"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsPE: recentElectionPolls(jurisdiction: "PE") {
+    ...PollInformation
+    company
+  }
+  electionPE: allElectionsJson(
+    filter: {jurisdiction: {eq: "PE"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsNS: recentElectionPolls(jurisdiction: "NS") {
+    ...PollInformation
+    company
+  }
+  electionNS: allElectionsJson(
+    filter: {jurisdiction: {eq: "NS"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsNL: recentElectionPolls(jurisdiction: "NL") {
+    ...PollInformation
+    company
+  }
+  electionNL: allElectionsJson(
+    filter: {jurisdiction: {eq: "NL"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_BC: recentElectionPolls(jurisdiction: "Canada_BC") {
+    ...PollInformation
+    company
+  }
+  electionCanada_BC: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_BC"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_AB: recentElectionPolls(jurisdiction: "Canada_AB") {
+    ...PollInformation
+    company
+  }
+  electionCanada_AB: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_AB"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_SKMB: recentElectionPolls(jurisdiction: "Canada_SKMB") {
+    ...PollInformation
+    company
+  }
+  electionCanada_SKMB: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_SKMB"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_ON: recentElectionPolls(jurisdiction: "Canada_ON") {
+    ...PollInformation
+    company
+  }
+  electionCanada_ON: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_ON"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_QC: recentElectionPolls(jurisdiction: "Canada_QC") {
+    ...PollInformation
+    company
+  }
+  electionCanada_QC: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_QC"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsCanada_ATL: recentElectionPolls(jurisdiction: "Canada_ATL") {
+    ...PollInformation
+    company
+  }
+  electionCanada_ATL: allElectionsJson(
+    filter: {jurisdiction: {eq: "Canada_ATL"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+}
 `
