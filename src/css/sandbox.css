@@ -202,11 +202,11 @@ svg text {
         visibility: hidden;
     }
 
-    .scoreTicks {
+    .ticks text {
         visibility: hidden;
     }
 
-    .timeTicks .minor {
+    .ticks .minor {
         visibility: hidden;
     }
 

@@ -238,7 +238,13 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
 
     return (
       <svg className="scatter" viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
-          <g className="timeTicks">
+          <g className="ticks timeTicks">
+            <path
+                className="major"
+                d={`M ${xMap(new Date(election.date))} ${ypadding} v ${plotHeight-ypadding*2}`}
+                stroke="#b0b0b0"
+                strokeLinecap="round"
+                strokeWidth="2" />
             {monthArray.map(day =>
                 <path
                 className={(day.getMonth() === 0 ? "major" : "minor")}
@@ -265,10 +271,19 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
             </g>}
             </g>
   
-          <g className="scoreTicks">
+          <g className="ticks scoreTicks">
             {scoreArray.map(score =>
-              <text fontSize="20pt" x={xpadding - 25} y={yMap(score)} textAnchor="end">{score}</text>
-              )}</g>
+                          <path
+                          className="major"
+                          d={`M ${xpadding} ${yMap(score)} h ${plotWidth-xpadding*2}`}
+                          stroke="#b0b0b0"
+                          strokeLinecap="round"
+                          strokeWidth="2" />
+              )}
+            {scoreArray.map(score =>
+              <text fontSize="20pt" x={xpadding - 25} y={yMap(score) + 7.5} textAnchor="end">{score}</text>
+              )}
+          </g>
 
             {validParties.map(party => { let line = rollingAverage(samplePositions, party);
                 return <path
