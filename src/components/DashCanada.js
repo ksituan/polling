@@ -1,6 +1,7 @@
 import * as React from "react"
 import DashChart from "./DashChart.js"
 import SinglePollingAverage from "../components/SinglePollingAverage.js"
+import MarkLastPolls from "../components/MarkLastPolls"
 import parties from "../../content/parties.json"
 import {Link} from "gatsby"
 
@@ -21,7 +22,7 @@ let brandColours = {
 function DashCanada({polls, election}) {
 
     const relevantParties = parties.content["Canada"];
-    let todaysAverage = SinglePollingAverage(polls, new Date(), relevantParties);
+    let todaysAverage = SinglePollingAverage(MarkLastPolls(polls), new Date(), relevantParties);
 
     let majorAverage = todaysAverage //.filter(party => party.score >= 5);
 
