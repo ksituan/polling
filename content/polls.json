@@ -61498,5 +61498,35 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 2501,
+        "company": "Ipsos",
+        "date": "May 29-31, 2022",
+        "field": "2022-05-31",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "OLP",
+                "score": 24
+            },
+            {
+                "party": "NBP",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
