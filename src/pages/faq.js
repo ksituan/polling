@@ -13,7 +13,7 @@ const faq = () => (
     <h2>Can I use your graphics?</h2>
     <p>Yes! All Polling Canada graphics are released under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons license</a> - specifically, Attribution-ShareAlike 4.0. That means you can legally do anything you like with them, as long as Polling Canada gets credited and you don't attempt to impose copyright on the result.</p>
     <h2>How can a sample size of 1,000 represent millions?</h2>
-    <p>Statistics! Nothing can exactly replace the precision of surveying everyone in the country (hence why we still hold elections). But a few hundred respondents is mathematically good enough for 95% confidence, 19 times out of 20.</p>
+    <p>Statistics! Nothing can exactly replace the precision of surveying everyone in the country (hence why we still hold elections). But a few hundred respondents is mathematically good enough 19 times out of 20.</p>
     <h2>What about this Twitter poll with 50,000 responses?</h2>
     <p>In a scientific poll, every demographic is specially weighted relative to its share of the population. Social media polls are unscientific (and dominated by people who spend all day on social media), making them useless for understanding the general public.</p>
     <h2>Who decides if a company is "reputable"? Is it you?</h2>
