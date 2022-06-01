@@ -61395,5 +61395,74 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 1334,
+        "company": "Leger",
+        "date": "May 27-30, 2022",
+        "field": "2022-05-30",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            },
+            {
+                "party": "NBP",
+                "score": 3
+            },
+            {
+                "party": "TOP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 2086,
+        "moe": 2.1,
+        "company": "Mainstreet",
+        "date": "May 25-31, 2022",
+        "field": "2022-05-31",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 35.4
+            },
+            {
+                "party": "NDP",
+                "score": 23.9
+            },
+            {
+                "party": "OLP",
+                "score": 26.2
+            },
+            {
+                "party": "Others",
+                "score": 5.2
+            },
+            {
+                "party": "GPO",
+                "score": 9.2
+            }
+        ]
     }
 ]
