@@ -61666,5 +61666,67 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1032,
+        "moe": 3.1,
+        "company": "Forum",
+        "date": "June 1, 2022",
+        "field": "2022-06-01",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40.3
+            },
+            {
+                "party": "NDP",
+                "score": 23.2
+            },
+            {
+                "party": "OLP",
+                "score": 24.5
+            },
+            {
+                "party": "Others",
+                "score": 5.5
+            },
+            {
+                "party": "GPO",
+                "score": 6.5
+            }
+        ]
+    },
+    {
+        "n": 2034,
+        "moe": 2.2,
+        "company": "Mainstreet",
+        "date": "May 26-June 1, 2022",
+        "field": "2022-06-01",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38.9
+            },
+            {
+                "party": "NDP",
+                "score": 22.8
+            },
+            {
+                "party": "OLP",
+                "score": 24.2
+            },
+            {
+                "party": "Others",
+                "score": 4.7
+            },
+            {
+                "party": "GPO",
+                "score": 9.4
+            }
+        ]
     }
 ]
