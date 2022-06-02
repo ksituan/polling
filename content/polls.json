@@ -61728,5 +61728,35 @@
                 "score": 9.4
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Earnscliffe",
+        "date": "May 27-29, 2022",
+        "field": "2022-05-29",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "OLP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
