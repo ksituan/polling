@@ -60,7 +60,7 @@ function DashProvince({polls, jurisdiction, election}) {
         <Link className="dashProvince" to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
             <DashChart polls={polls} jurisdiction={jurisdiction} election={election} plotWidth={400} plotHeight={350} className="dashChart" /> 
             <div className="dashPartyContainer">
-            {majorAverage.map(event =>
+            {majorAverage.length > 0 ? majorAverage.map(event =>
                 <div className="dashParty">
                         <div className="dashName" style={{color: brandColours[relevantParties[event.party].colour]}}>{event.party}</div>
                         <div className="dashScore" style={{color: event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? brandColours["green"] : brandColours["red"]}}>
@@ -68,7 +68,10 @@ function DashProvince({polls, jurisdiction, election}) {
                             {event.score % 1 === 0 ? String(event.score) + ".0" : event.score}
                         </div>
                 </div>
-            )}
+            ) : <div className="dashParty">
+                    <div className="dashName" style={{color: "#B0B0B0"}}>Gone fishing</div>
+                    <div className="dashScore" style={{color: "#B0B0B0"}}>No new polls yet</div>
+                </div>}
             </div> 
             <div className="dashTitle">{title[jurisdiction]}</div>
         </Link>
