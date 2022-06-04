@@ -61758,5 +61758,39 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Leger",
+        "date": "May 20-23, 2022",
+        "field": "2022-05-23",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 42
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "WIP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
