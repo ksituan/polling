@@ -61792,5 +61792,251 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1528,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 179,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 133,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "PPC",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 77,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 18
+            },
+            {
+                "party": "CPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 489,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 281,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 28
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 83,
+        "company": "Leger",
+        "date": "June 10-12, 2022",
+        "field": "2022-06-12",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "PPC",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
