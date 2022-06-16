@@ -62038,5 +62038,35 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 537,
+        "company": "Angus Reid",
+        "date": "June 13, 2022",
+        "field": "2022-06-13",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCLP",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 15
+            },
+            {
+                "party": "CPBC",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
