@@ -62133,5 +62133,36 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Probe",
+        "date": "June 12, 2022",
+        "field": "2022-06-12",
+        "method": "Telephone/Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "MLP",
+                "score": 13
+            },
+            {
+                "party": "GPM",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
