@@ -500,6 +500,64 @@
         "jurisdiction": "Canada_ATL"
     },
     {
+        "date": "1991-10-17",
+        "nextWrit": "1996-04-30",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 40.7
+            },
+            {
+                "party": "BCLP",
+                "score": 33.3
+            },
+            {
+                "party": "GPBC",
+                "score": 0.9
+            },
+            {
+                "party": "BCSC",
+                "score": 24.1
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
+        "date": "1996-05-28",
+        "nextWrit": "2001-04-18",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 39.5
+            },
+            {
+                "party": "BCLP",
+                "score": 41.8
+            },
+            {
+                "party": "GPBC",
+                "score": 2.0
+            },
+            {
+                "party": "RPBC",
+                "score": 9.3
+            },
+            {
+                "party": "PDA",
+                "score": 5.7
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
         "date": "2001-05-16",
         "nextWrit": "2005-04-19",
         "results": [

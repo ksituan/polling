@@ -92,6 +92,25 @@
                 "fullName" : "Marijuana Party",
                 "url" : "https://en.wikipedia.org/wiki/British_Columbia_Marijuana_Party",
                 "logo" : ""
+            },
+            "RPBC" : {
+                "colour" : "teal",
+                "fullName" : "Reform Party",
+                "url" : "https://en.wikipedia.org/wiki/Reform_Party_of_British_Columbia",
+                "logo" : ""
+            },
+            "PDA" : {
+                "colour" : "purple",
+                "fullName" : "Progressive Democratic Alliance",
+                "url" : "https://en.wikipedia.org/wiki/Progressive_Democratic_Alliance",
+                "logo" : "",
+                "end": "2000-06-14"
+            },
+            "BCSC" : {
+                "colour" : "blue",
+                "fullName" : "Social Credit",
+                "url" : "https://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+                "logo" : ""
             }
         },
         "AB" : {

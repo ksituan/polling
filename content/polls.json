@@ -62650,5 +62650,762 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 700,
+        "moe": 4.5,
+        "company": "Compas",
+        "date": "May 11-12, 2001",
+        "field": "2001-05-12",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 61
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "moe": 4.5,
+        "company": "Compas",
+        "date": "May 1, 2001",
+        "field": "2001-05-01",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 64
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BCRP",
+                "score": 1
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Ipsos",
+        "date": "April 19-23, 2001",
+        "field": "2001-04-23",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 70
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.1,
+        "company": "Compas",
+        "date": "March 27-April 1, 2001",
+        "field": "2001-04-01",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 66
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BCRP",
+                "score": 2
+            },
+            {
+                "party": "GPBC",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.1,
+        "company": "Compas",
+        "date": "February 2001",
+        "field": "2001-02-01",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 59
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BCRP",
+                "score": 12
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "Ipsos",
+        "date": "December 6-10, 2000",
+        "field": "2000-12-10",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BCRP",
+                "score": 18
+            },
+            {
+                "party": "GPBC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "September 5-11, 2000",
+        "field": "2000-09-11",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BCRP",
+                "score": 22
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "June 8-13, 2000",
+        "field": "2000-06-13",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BCRP",
+                "score": 15
+            },
+            {
+                "party": "GPBC",
+                "score": 6
+            },
+            {
+                "party": "PDA",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 601,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "March 1-13, 2000",
+        "field": "2000-03-13",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "BCRP",
+                "score": 16
+            },
+            {
+                "party": "GPBC",
+                "score": 6
+            },
+            {
+                "party": "PDA",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "December 1-12, 1999",
+        "field": "1999-12-12",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BCRP",
+                "score": 18
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "PDA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "September 1-10, 1999",
+        "field": "1999-09-10",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BCRP",
+                "score": 16
+            },
+            {
+                "party": "GPBC",
+                "score": 7
+            },
+            {
+                "party": "PDA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "August 1999",
+        "field": "1999-08-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BCRP",
+                "score": 17
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "PDA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4.0,
+        "company": "Angus Reid",
+        "date": "June 1999",
+        "field": "1999-06-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BCRP",
+                "score": 14
+            },
+            {
+                "party": "GPBC",
+                "score": 7
+            },
+            {
+                "party": "PDA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "December 1998",
+        "field": "1998-12-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BCRP",
+                "score": 18
+            },
+            {
+                "party": "GPBC",
+                "score": 5
+            },
+            {
+                "party": "PDA",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "company": "Marktrend",
+        "date": "January 1996",
+        "field": "1996-01-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "BCRP",
+                "score": 27
+            },
+            {
+                "party": "BCSC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 502,
+        "company": "Marktrend",
+        "date": "February 12-15, 1996",
+        "field": "1996-02-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "BCRP",
+                "score": 21
+            },
+            {
+                "party": "BCSC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Marktrend",
+        "date": "March 1, 1996",
+        "field": "1996-03-01",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCRP",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "company": "Angus Reid",
+        "date": "March 15, 1996",
+        "field": "1996-03-15",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCRP",
+                "score": 16
+            },
+            {
+                "party": "BCSC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 503,
+        "company": "Marktrend",
+        "date": "April 9-14, 1996",
+        "field": "1996-04-14",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCRP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "company": "Compas",
+        "date": "April 15-25, 1996",
+        "field": "1996-04-25",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "BCRP",
+                "score": 16
+            },
+            {
+                "party": "BCSC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 544,
+        "company": "UTV",
+        "date": "May 1, 1996",
+        "field": "1996-05-01",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 35.6
+            },
+            {
+                "party": "NDP",
+                "score": 44.1
+            },
+            {
+                "party": "BCRP",
+                "score": 15.5
+            },
+            {
+                "party": "BCSC",
+                "score": 1.4
+            },
+            {
+                "party": "Others",
+                "score": 3.4
+            }
+        ]
+    },
+    {
+        "n": 802,
+        "company": "Angus Reid",
+        "date": "April 30-May 2, 1996",
+        "field": "1996-05-02",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "BCRP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 516,
+        "company": "UTV",
+        "date": "May 10-11, 1996",
+        "field": "1996-05-11",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "BCRP",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "May 13-14, 1996",
+        "field": "1996-05-14",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "BCRP",
+                "score": 12
+            },
+            {
+                "party": "PDA",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "May 20-21, 1996",
+        "field": "1996-05-21",
+        "method": "Telephone",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "BCLP",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCRP",
+                "score": 8
+            },
+            {
+                "party": "PDA",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
