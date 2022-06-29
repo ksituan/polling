@@ -64556,5 +64556,341 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "company": "Forum",
+        "date": "November 5, 2011",
+        "field": "2011-11-05",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 62
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            },
+            {
+                "party": "SLP",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Praxis",
+        "date": "November 4, 2011",
+        "field": "2011-11-04",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 66.7
+            },
+            {
+                "party": "NDP",
+                "score": 26.4
+            },
+            {
+                "party": "GPS",
+                "score": 5.2
+            }
+        ]
+    },
+    {
+        "company": "Forum",
+        "date": "October 27, 2011",
+        "field": "2011-10-27",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 66
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "SLP",
+                "score": 1
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "October 25-26, 2011",
+        "field": "2011-10-26",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 33.3
+            },
+            {
+                "party": "SLP",
+                "score": 2.8
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Praxis",
+        "date": "Aug. 29-Sep. 2, 2011",
+        "field": "2011-09-02",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 63.4
+            },
+            {
+                "party": "NDP",
+                "score": 26.1
+            },
+            {
+                "party": "SLP",
+                "score": 5.9
+            },
+            {
+                "party": "GPS",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "July 6-8, 2011",
+        "field": "2011-07-08",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 58.2
+            },
+            {
+                "party": "NDP",
+                "score": 30.8
+            },
+            {
+                "party": "SLP",
+                "score": 4.2
+            },
+            {
+                "party": "GPS",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Sigma",
+        "date": "November 6, 2010",
+        "field": "2010-11-06",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 57.3
+            },
+            {
+                "party": "NDP",
+                "score": 29.4
+            },
+            {
+                "party": "SLP",
+                "score": 8.2
+            },
+            {
+                "party": "GPS",
+                "score": 4.8
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "April 15, 2010",
+        "field": "2010-04-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 58.3
+            },
+            {
+                "party": "NDP",
+                "score": 28.7
+            }
+        ]
+    },
+    {
+        "company": "Insightrix",
+        "date": "November 2009",
+        "field": "2009-11-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 66.6
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "June 2009",
+        "field": "2009-06-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 62
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "SLP",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "April 2009",
+        "field": "2009-04-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 61
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "December 2008",
+        "field": "2008-12-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 65
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "SLP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "October 2008",
+        "field": "2008-10-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "SLP",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "June 2008",
+        "field": "2008-06-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "SLP",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "March 2008",
+        "field": "2008-03-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "SLP",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "December 2007",
+        "field": "2007-12-15",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "SLP",
+                "score": 15
+            }
+        ]
     }
 ]
