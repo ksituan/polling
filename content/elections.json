@@ -861,6 +861,41 @@
         "jurisdiction": "AB"
     },
     {
+        "date": "2003-11-05",
+        "nextWrit": "2007-10-10",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 44.7
+            },
+            {
+                "party": "SKP",
+                "score": 39.4
+            },
+            {
+                "party": "GPS",
+                "score": 0.6
+            },
+            {
+                "party": "SLP",
+                "score": 14.2
+            },
+            {
+                "party": "WIP",
+                "score": 0.6
+            },
+            {
+                "party": "PCS",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ],
+        "jurisdiction": "SK"
+    },
+    {
         "date": "2007-11-07",
         "nextWrit": "2011-10-10",
         "results": [
