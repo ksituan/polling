@@ -65236,5 +65236,95 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 247,
+        "company": "Angus Reid",
+        "date": "June 7-13, 2022",
+        "field": "2022-06-13",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 36
+            },
+            {
+                "party": "PCNB",
+                "score": 31
+            },
+            {
+                "party": "GPNB",
+                "score": 14
+            },
+            {
+                "party": "PANB",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 330,
+        "company": "Angus Reid",
+        "date": "June 7-13, 2022",
+        "field": "2022-06-13",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 46
+            },
+            {
+                "party": "NSL",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "GPNS",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 201,
+        "company": "Angus Reid",
+        "date": "June 7-13, 2022",
+        "field": "2022-06-13",
+        "method": "Online",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 36
+            },
+            {
+                "party": "PCNL",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
     }
 ]
