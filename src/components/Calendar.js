@@ -51,7 +51,8 @@ let tdict = {
 function Calendar() {
 
     calendar.map(function (event) {
-        event.date = new Date(event.date)
+        event.date = new Date(event.date + "T00:00")
+        console.log(event.date)
         return(event)})
     calendar = calendar.filter(event => event.date - new Date <= 1000*60*60*24*365 || event.minority) // We only want the next year
     calendar.sort((a, b) => a.date - b.date)
