@@ -1,0 +1,152 @@
+[
+    {
+        "date": "2022-07-22",
+        "jurisdiction": "MB",
+        "type": "municipal",
+        "note": "Dunnottar, Victoria Beach, and Winnipeg Beach"
+    },
+    {
+        "date": "2022-08-06",
+        "jurisdiction": "NB",
+        "type": "leadership",
+        "party": "NBLA"
+    },
+    {
+        "date": "2022-09-10",
+        "jurisdiction": "Canada",
+        "type": "leadership",
+        "party": "CPC"
+    },
+    {
+        "date": "2022-09-25",
+        "jurisdiction": "AB",
+        "type": "leadership",
+        "party": "ALP"
+    },
+    {
+        "date": "2022-10-03",
+        "jurisdiction": "QC",
+        "type": "legislative",
+        "minority": false
+    },
+    {
+        "date": "2022-11-19",
+        "jurisdiction": "PE",
+        "type": "leadership",
+        "party": "LPPEI"
+    },
+    {
+        "date": "2022-10-06",
+        "jurisdiction": "AB",
+        "type": "leadership",
+        "party": "UCP"
+    },
+    {
+        "date": "2022-10-15",
+        "jurisdiction": "BC",
+        "type": "municipal",
+        "note": "All municipal offices"
+    },
+    {
+        "date": "2022-10-24",
+        "jurisdiction": "ON",
+        "type": "municipal",
+        "note": "All municipal offices"
+    },
+    {
+        "date": "2022-10-26",
+        "jurisdiction": "MB",
+        "type": "municipal",
+        "note": "All municipal offices"
+    },
+    {
+        "date": "2022-11-07",
+        "jurisdiction": "PE",
+        "type": "municipal",
+        "note": "All municipal offices"
+    },
+    {
+        "date": "2022-08-08",
+        "jurisdiction": "PE",
+        "type": "municipal",
+        "note": "Resort municipalities"
+    },
+    {
+        "date": "2022-11-09",
+        "jurisdiction": "SK",
+        "type": "municipal",
+        "note": "Even-numbered rural divisions"
+    },
+    {
+        "date": "2022-11-19",
+        "jurisdiction": "Canada",
+        "type": "leadership",
+        "party": "GPC"
+    },
+    {
+        "date": "2022-11-28",
+        "jurisdiction": "NB",
+        "type": "municipal",
+        "note": "All municipal offices"
+    },
+    {
+        "date": "2022-10-17",
+        "jurisdiction": "NT",
+        "type": "municipal",
+        "note": "Yellowknife"
+    },
+    {
+        "date": "2022-12-03",
+        "jurisdiction": "BC",
+        "type": "leadership",
+        "party": "NDP"
+    },
+    {
+        "date": "2022-12-12",
+        "jurisdiction": "NT",
+        "type": "municipal",
+        "note": "Aklavik, Enterprise, Fort McPherson, Fort Providence, Fort Resolution, Sachs Harbour, Tuktoyaktuk, and Ulukhaktok"
+    },
+    {
+        "date": "2023-05-29",
+        "jurisdiction": "AB",
+        "type": "legislative",
+        "minority": false
+    },
+    {
+        "date": "2023-10-02",
+        "jurisdiction": "PE",
+        "type": "legislative",
+        "minority": false
+    },
+    {
+        "date": "2023-10-03",
+        "jurisdiction": "MB",
+        "type": "legislative",
+        "minority": false
+    },
+    {
+        "date": "2024-10-19",
+        "jurisdiction": "BC",
+        "type": "legislative",
+        "minority": false
+    },
+    {
+        "date": "2024-07-27",
+        "jurisdiction": "SK",
+        "type": "municipal",
+        "note": "Resort villages"
+    },
+    {
+        "date": "2024-11-13",
+        "jurisdiction": "SK",
+        "type": "municipal",
+        "note": "Urban municipalities and odd-numbered rural divisions"
+    },
+    {
+        "date": "2025-10-20",
+        "jurisdiction": "Canada",
+        "type": "legislative",
+        "minority": true
+    }
+]

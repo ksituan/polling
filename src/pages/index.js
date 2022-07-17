@@ -9,6 +9,7 @@ import Seo from "../components/seo"
 import DashProvince from "../components/DashProvince"
 import DashCanada from "../components/DashCanada"
 import DashFedProvince from "../components/DashFedProvince"
+import Calendar from "../components/Calendar"
 
 const provinces = [
   "BC",
@@ -39,24 +40,6 @@ const IndexPage = ({pageContext, data}) => (
       <StaticImage className="curtis" src="../images/curtis_2.jpg" alt="An informal headshot of Curtis." width={100} height={100} />
       <p style={{margin: 0}}>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
     </div>
-    {data.electionCanada.nodes[0].nextWrit ?
-    <div>
-      <h1>Federal Polls</h1>
-      <DashCanada polls={data.pollsCanada} election={data.electionCanada.nodes[0]}/>
-      <div className="dashFed">
-        {federalJurisdictions.map(jurisdiction => (
-          <DashFedProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
-        ))}
-      </div>
-      <h1>Provincial Polls</h1>
-      <div className="dashProvs">
-        {provinces.map(jurisdiction => (
-          <DashProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
-        ))} 
-      </div>
-    </div>
-    :
-    <div>
       <h1>Provincial Polls</h1>
       <div className="dashProvs">
         {provinces.map(jurisdiction => (
@@ -69,15 +52,16 @@ const IndexPage = ({pageContext, data}) => (
         {federalJurisdictions.map(jurisdiction => (
           <DashFedProvince jurisdiction={jurisdiction} polls={data[`polls${jurisdiction}`]} election={data[`election${jurisdiction}`].nodes[0]}  />
         ))}
-      </div>
-    </div>
-    }
+      </div> 
 
     <h1>About</h1>
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. now enjoys 48,000 followers across multiple platforms, with millions of views every month.</p>
     <p>My message to campaigns: If you misrepresent publicly available numbers, I will find you.</p>
     <p>Follow me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a> and <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>, or help me keep this site ad-free by <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">sending me money</a>.</p>
     
+    <h1>Election Calendar</h1>
+    <Calendar />
+
     <h1>Fun Stuff</h1>
     <div className="gameBox">
       <Link className="gameCard" to="/mp-name-game">
