@@ -780,10 +780,6 @@ input {
     font-style: italic;
 }
 
-.electionText .timing {
-    color: #c94141;
-}
-
 @media (max-width: 600px) {
 
     .calendar {
