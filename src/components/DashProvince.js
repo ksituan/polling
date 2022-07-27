@@ -42,13 +42,8 @@ let title = {
 
 function DashProvince({polls, jurisdiction, election}) {
 
-    console.log(jurisdiction);
-    console.log(polls);
-
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     let todaysAverage = SinglePollingAverage(MarkLastPolls(polls), new Date(), relevantParties);
-
-    console.log(todaysAverage);
 
     let majorAverage = todaysAverage.filter(party => party.score >= 10); // Only parties over 10%
     
