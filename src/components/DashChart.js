@@ -161,8 +161,6 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
     let bj = jurisdiction.split("_")[0];
 
-    console.log(election);
-
     return(
         <div className={className + (election.nextWrit ? " writ" : "")}>
             <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>

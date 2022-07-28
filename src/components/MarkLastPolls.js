@@ -1,13 +1,9 @@
 function MarkLastPolls(polls) {
 
-    console.log(polls);
-
     // Get list of companies
 
     let companies = polls.map(poll => poll.company);
     companies = [...new Set(companies)];
-
-    console.log(companies);
 
     // Mark them with the LAST attribute
 
@@ -17,8 +13,6 @@ function MarkLastPolls(polls) {
     }
 
     polls = polls.filter(x => x.last);
-
-    console.log(polls);
 
     return(polls);
 
