@@ -734,3 +734,45 @@ input {
     border-left: 6px solid black; 
     margin-left: 0.5rem;
 }
+
+/* Election calendar */
+
+.calendar {
+    column-count: 3;
+}
+
+@media (max-width: 1000px) {
+    .calendar {
+        column-count: 2;
+    }
+
+    .calendar .hidden {
+        display: none;
+    }
+}
+
+.calendar .event {
+    margin-bottom: 1rem;
+    font-family: Inter;
+    break-inside: avoid;
+}
+
+.calendar .event .date {
+    font-weight: 700;
+    font-size: 14pt;
+}
+
+.calendar .event .desc {
+    font-size: 10pt;
+}
+
+.calendar .event .note {
+    font-size: 10pt;
+    font-style: italic;
+    color: #808080;
+}
+
+.calendar .event .warning {
+    color: #c94141;
+    font-size: 10pt;
+}
