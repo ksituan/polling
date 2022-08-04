@@ -15,6 +15,8 @@ const jurisdictions = {
     NS: "Nova Scotia",
     NL: "Newfoundland and Labrador",
     YT: "Yukon",
+    NT: "Northwest Territories",
+    NU: "Nunavut",
     Canada: "Canada"
 };
 
