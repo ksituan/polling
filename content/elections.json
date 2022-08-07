@@ -1910,5 +1910,19 @@
             }
         ],
         "jurisdiction": "YT"
+    },
+    {
+        "date": "1995-10-30",
+        "results": [
+            {
+                "party": "Yes",
+                "score": 49.4
+            },
+            {
+                "party": "No",
+                "score": 50.6
+            }
+        ],
+        "jurisdiction": "Sovereignty"
     }
 ]

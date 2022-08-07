@@ -26,6 +26,7 @@ exports.createPages = async ({ actions, cache, graphql }) => {
     ["Canada_ON", "Ontario federal"],
     ["Canada_QC", "Quebec federal"],
     ["Canada_ATL", "Atlantic federal"],
+    ["Sovereignty", "Quebec sovereignty"]
   ];
 
   let lastElectionIn = {};

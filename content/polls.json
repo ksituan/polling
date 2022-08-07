@@ -66163,5 +66163,59 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1404,
+        "company": "Mainstreet",
+        "date": "June 9-10, 2022",
+        "field": "2022-06-10",
+        "method": "IVR",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 33
+            },
+            {
+                "party": "No",
+                "score": 66
+            }
+        ]
+    },
+    {
+        "n": 1010,
+        "company": "Léger",
+        "date": "February 4-7, 2022",
+        "field": "2022-02-07",
+        "method": "Online",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 40.5
+            },
+            {
+                "party": "No",
+                "score": 59.5
+            }
+        ]
+    },
+    {
+        "n": 1012,
+        "company": "Mainstreet",
+        "date": "February 8-9, 2021",
+        "field": "2021-02-09",
+        "method": "IVR",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 32
+            },
+            {
+                "party": "No",
+                "score": 56
+            }
+        ]
     }
 ]
