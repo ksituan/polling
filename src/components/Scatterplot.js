@@ -219,6 +219,12 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
       (day.getMonth() === 0 && day.getDate() === 1) || day.getTime() === new Date(election.nextWrit).getTime() || (day > new Date(election.nextWrit) && day.getDate() === 1) :
       day.getMonth() === 0 && day.getDate() === 1);
 
+    // Cut down on labels for Quebec independence
+
+    if (jurisdiction === "Sovereignty") {
+      timeLabels = timeLabels.filter(time => time.getFullYear() % 10 === 0);
+    }
+
     timeLabels = timeLabels.map(
       function (day) {
         let label
