@@ -469,6 +469,20 @@
                 "url" : "https://en.wikipedia.org/wiki/Yukon_Green_Party",
                 "logo" : 0
             }
+        },
+        "Sovereignty" : {
+            "Yes" : {
+                "colour" : "blue",
+                "fullName" : "Sovereignty",
+                "url" : "https://en.wikipedia.org/wiki/Quebec_sovereignty_movement#Allies",
+                "logo" : ""
+            },
+            "No" : {
+                "colour" : "red",
+                "fullName" : "Federalism",
+                "url" : "https://en.wikipedia.org/wiki/Quebec_sovereignty_movement#Opponents",
+                "logo" : ""
+            }
         }
     }
 }
