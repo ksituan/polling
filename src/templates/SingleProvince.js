@@ -26,13 +26,14 @@ let title = {
   NS: "Nova Scotia provincial polling",
   NL: "Nfld. & Lab. provincial polling",
   YT: "Yukon territorial polling",
+  Sovereignty: "Quebec sovereignty polling"
 }
 
 export default function SingleProvince({pageContext, data}) {
     const {jurisdiction, jurisdictionName, beforeDate} = pageContext;
     const polls = data.allPollsJson.nodes;
     const election = data.prevElection;
-    const pageTitle = `${jurisdictionName} ${jurisdiction.split("_")[0] !== "Canada" ? (jurisdiction === "YT" ? "territorial" : "provincial") : ""} polling`;
+    const pageTitle = title[jurisdiction];
 
     let lastProvince, nextProvince, lastLink, nextLink = null;
 
