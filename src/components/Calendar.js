@@ -3,38 +3,38 @@ import * as React from "react"
 import events from "../../content/events.json"
 import parties from "../../content/parties.json"
 
-import BC from '../images/flags/BC.png'
-import AB from '../images/flags/AB.png'
-import SK from '../images/flags/SK.png'
-import MB from '../images/flags/MB.png'
-import ON from '../images/flags/ON.png'
-import QC from '../images/flags/QC.png'
-import NB from '../images/flags/NB.png'
-import PE from '../images/flags/PE.png'
-import NS from '../images/flags/NS.png'
-import NL from '../images/flags/NL.png'
-import NU from '../images/flags/NU.png'
-import NT from '../images/flags/NT.png'
-import YT from '../images/flags/YT.png'
-import Canada from '../images/flags/Canada.png'
+import BC_flag from '../images/flags/BC.png'
+import AB_flag from '../images/flags/AB.png'
+import SK_flag from '../images/flags/SK.png'
+import MB_flag from '../images/flags/MB.png'
+import ON_flag from '../images/flags/ON.png'
+import QC_flag from '../images/flags/QC.png'
+import NB_flag from '../images/flags/NB.png'
+import PE_flag from '../images/flags/PE.png'
+import NS_flag from '../images/flags/NS.png'
+import NL_flag from '../images/flags/NL.png'
+import NU_flag from '../images/flags/NU.png'
+import NT_flag from '../images/flags/NT.png'
+import YT_flag from '../images/flags/YT.png'
+import Canada_flag from '../images/flags/Canada.png'
 
 // I understand this is terrible code but I don't care right now
 
 const flags = {
-    BC: BC,
-    AB: AB,
-    SK: SK,
-    MB: MB,
-    ON: ON,
-    QC: QC,
-    NB: NB,
-    PE: PE,
-    NS: NS,
-    NL: NL,
-    NU: NU,
-    NT: NT,
-    YT: YT,
-    Canada: Canada
+    BC: BC_flag,
+    AB: AB_flag,
+    SK: SK_flag,
+    MB: MB_flag,
+    ON: ON_flag,
+    QC: QC_flag,
+    NB: NB_flag,
+    PE: PE_flag,
+    NS: NS_flag,
+    NL: NL_flag,
+    NU: NU_flag,
+    NT: NT_flag,
+    YT: YT_flag,
+    Canada: Canada_flag
 }
 
 const jurisdictions = {
