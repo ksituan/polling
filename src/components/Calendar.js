@@ -54,9 +54,6 @@ const jurisdictions = {
     Canada: "Canada"
 };
 
-let titles = {municipal: "Municipal elections",
-legislative: "General election"}
-
 function Calendar() {
 
     let fevents = events.map(function(event) { event.date = new Date(event.date + "T00:00"); return(event) });
@@ -71,7 +68,10 @@ function Calendar() {
                     <img className="flag" src={flags[event.jurisdiction]} alt="" width="25" />
                     <div className="desc">{jurisdictions[event.jurisdiction]}</div>
                 </div>
-                <div className="desc">{event.type === "leadership" ? parties.content[event.jurisdiction][event.party].fullName + " leadership election" : titles[event.type]}</div>
+                {event.type === "leadership" && <div className="desc">{parties.content[event.jurisdiction][event.party].fullName + " leadership election"}</div>}
+                {event.type === "legislative" && <div className="desc">General election</div>}
+                {event.type === "municipal" && <div className="desc">Municipal elections</div>}
+                {event.type === "by" && <div className="desc">{event.riding + " by-election"}</div>}
                 <div className="date">{event.date.toLocaleDateString('en-CA', {year: "numeric", month: "long", day: "numeric"})}</div>
                 <div className="date">{event.date - new Date() > 24*60*60*1000 ? Math.ceil((event.date - new Date())/(24*60*60*1000)) + " days" : "Tomorrow"}</div>
                 {event.type === "legislative" && <div className="warning">{event.minority ? "ⓘ Or earlier (minority government)" : "ⓘ Or earlier"}</div>}

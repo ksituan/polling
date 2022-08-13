@@ -148,5 +148,11 @@
         "jurisdiction": "Canada",
         "type": "legislative",
         "minority": true
+    },
+    {
+        "date": "2022-09-10",
+        "jurisdiction": "BC",
+        "type": "by",
+        "riding": "Surrey South"
     }
 ]
