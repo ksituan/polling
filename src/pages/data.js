@@ -8,7 +8,7 @@ const data = () => (
     <Seo title="Data Downloads" description="Download Canadian political data" />
     <h1>Data Downloads</h1>
     <h2>Polling Canada database</h2>
-    <p><Link to="/polls.zip">polls.json</Link> (68 KB)</p>
+    <p><Link to="/polls.zip">polls.json</Link> (82.2 KB)</p>
     <p>The complete Polling Canada database, in JSON format. This is the same file used to generate all the content on this site. Contains information about polling company, methodology, field date, sample size, and margin of error.</p>
     <h2>2021 election results by polling division</h2>
     <p><Link to="/2021_polls.zip">2021_polls.csv</Link> (1.07 MB)</p>
@@ -36,6 +36,10 @@ const data = () => (
         <li>Press <span className="docs">OK</span></li>
     </ol>
     <p>This joins both files, associating each polling division boundary with its local election results.</p>
+    <h2>2022 Ontario election results by polling division</h2>
+    <p><Link to="/2022_ontario_polls.zip">2022_ontario_polls.csv</Link> (145 KB)</p>
+    <p>Partisan results in the 2022 Ontario provincial election. Four major parties only. Mail and advance votes modeled by polling place.
+      Pairs with <a href="https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles/limited-use-data-product-licence-agreement/download-shapefiles.html" target="_blank" rel="noreferrer">Polling Division Shapefile (2022)</a>.</p>
   </Layout>
 )
 
