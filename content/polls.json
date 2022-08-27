@@ -72258,5 +72258,35 @@
                 "score": 2.1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Léger",
+        "date": "August 22-26, 2022",
+        "field": "2022-08-26",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 42
+            },
+            {
+                "party": "PLQ",
+                "score": 17
+            },
+            {
+                "party": "PCQ",
+                "score": 14
+            },
+            {
+                "party": "QS",
+                "score": 15
+            },
+            {
+                "party": "PQ",
+                "score": 9
+            }
+        ]
     }
 ]
