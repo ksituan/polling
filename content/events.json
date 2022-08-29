@@ -160,5 +160,11 @@
         "jurisdiction": "BC",
         "type": "by",
         "riding": "Surrey South"
+    },
+    {
+        "date": "2022-09-26",
+        "jurisdiction": "SK",
+        "type": "by",
+        "riding": "Saskatoon Meewasin"
     }
 ]
