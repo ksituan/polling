@@ -27,7 +27,8 @@
         "date": "2022-10-03",
         "jurisdiction": "QC",
         "type": "legislative",
-        "minority": false
+        "minority": false,
+        "future": false
     },
     {
         "date": "2022-11-19",
@@ -111,25 +112,29 @@
         "date": "2023-05-29",
         "jurisdiction": "AB",
         "type": "legislative",
-        "minority": false
+        "minority": false,
+        "future": true
     },
     {
         "date": "2023-10-02",
         "jurisdiction": "PE",
         "type": "legislative",
-        "minority": false
+        "minority": false,
+        "future": true
     },
     {
         "date": "2023-10-03",
         "jurisdiction": "MB",
         "type": "legislative",
-        "minority": false
+        "minority": false,
+        "future": true
     },
     {
         "date": "2024-10-19",
         "jurisdiction": "BC",
         "type": "legislative",
-        "minority": false
+        "minority": false,
+        "future": true
     },
     {
         "date": "2024-07-27",
@@ -147,7 +152,8 @@
         "date": "2025-10-20",
         "jurisdiction": "Canada",
         "type": "legislative",
-        "minority": true
+        "minority": true,
+        "future": true
     },
     {
         "date": "2022-09-10",
