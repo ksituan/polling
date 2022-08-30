@@ -72323,5 +72323,129 @@
                 "score": 3.9
             }
         ]
+    },
+    {
+        "n": 525,
+        "moe": 4.2,
+        "company": "Narrative",
+        "date": "August 4-24, 2022",
+        "field": "2022-08-24",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 41
+            },
+            {
+                "party": "PCNB",
+                "score": 30
+            },
+            {
+                "party": "GPNB",
+                "score": 14
+            },
+            {
+                "party": "PANB",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 300,
+        "moe": 5.6,
+        "company": "Narrative",
+        "date": "August 8-16, 2022",
+        "field": "2022-08-16",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 55
+            },
+            {
+                "party": "LPPEI",
+                "score": 18
+            },
+            {
+                "party": "GPPEI",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 585,
+        "moe": 4,
+        "company": "Narrative",
+        "date": "August 4-23, 2022",
+        "field": "2022-08-23",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 43
+            },
+            {
+                "party": "NSL",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "Narrative",
+        "date": "August 3-23, 2022",
+        "field": "2022-08-23",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 40
+            },
+            {
+                "party": "PCNL",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
