@@ -21,6 +21,7 @@ h1 {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-repeat: repeat-x;
     background-size: 100vw 1rem;
     background-position: left bottom 0px; 
@@ -61,6 +62,7 @@ li {
     position: relative;
     bottom: 2px;
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-repeat: repeat-x;
     background-size: 100vw 2rem;
     background-position: left bottom 0px; 
@@ -98,6 +100,7 @@ header {
 
 .siteLogo {
     padding-right: 1rem;
+    filter: grayscale(100%); /* Queens dead */
 }
 
 .siteTitle {
@@ -116,6 +119,7 @@ header {
     width: 40%;
     text-align: right;
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-clip: text;
     -webkit-background-clip: text;
     background-repeat: repeat-x;
@@ -138,6 +142,7 @@ header {
 
 p a {
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-box-decoration-break: clone;
@@ -152,6 +157,7 @@ p a {
 
 .colourfulText {
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-clip: text;
     -webkit-background-clip: text;
     background-repeat: repeat-x;
@@ -687,6 +693,7 @@ input {
 
 .navArrow {
     background-image: url(spectrum.svg);
+    filter: brightness(150%) contrast(50%) grayscale(100%); /* Queens dead */
     background-clip: text;
     -webkit-background-clip: text;
     background-repeat: repeat-x;
