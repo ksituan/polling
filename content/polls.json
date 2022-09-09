@@ -73078,5 +73078,39 @@
                 "score": 4.5
             }
         ]
+    },
+    {
+        "n": 858,
+        "company": "Leger",
+        "date": "September 1-5, 2022",
+        "field": "2022-09-05",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "UCP",
+                "score": 44
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "WIP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
