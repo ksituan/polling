@@ -40,6 +40,10 @@ const data = () => (
     <p><Link to="/2022_ontario_polls.zip">2022_ontario_polls.csv</Link> (145 KB)</p>
     <p>Partisan results in the 2022 Ontario provincial election. Four major parties only. Mail and advance votes modeled by polling place.
       Pairs with <a href="https://www.elections.on.ca/en/voting-in-ontario/electoral-district-shapefiles/limited-use-data-product-licence-agreement/download-shapefiles.html" target="_blank" rel="noreferrer">Polling Division Shapefile (2022)</a>.</p>
+    <h2>2022 Conservative leadership election results by riding</h2>
+    <p><Link to="/2022_cpc_results.zip">2022_cpc_results.csv</Link> (4.2 KB)</p>
+    <p>Raw votes only. 100 points are allocated per riding and can be calculated with simple division.</p>
+
   </Layout>
 )
 
