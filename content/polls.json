@@ -73637,5 +73637,110 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1641,
+        "moe": 2.4,
+        "company": "Mainstreet",
+        "date": "September 13-16, 2022",
+        "field": "2022-09-16",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 41
+            },
+            {
+                "party": "PLQ",
+                "score": 17.5
+            },
+            {
+                "party": "PQ",
+                "score": 8.1
+            },
+            {
+                "party": "QS",
+                "score": 11
+            },
+            {
+                "party": "PCQ",
+                "score": 18.7
+            },
+            {
+                "party": "Others",
+                "score": 3.7
+            }
+        ]
+    },
+    {
+        "n": 1846,
+        "moe": 2.3,
+        "company": "Mainstreet",
+        "date": "September 14-17, 2022",
+        "field": "2022-09-17",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 41.8
+            },
+            {
+                "party": "PLQ",
+                "score": 17.7
+            },
+            {
+                "party": "PQ",
+                "score": 8.1
+            },
+            {
+                "party": "QS",
+                "score": 11.2
+            },
+            {
+                "party": "PCQ",
+                "score": 17.8
+            },
+            {
+                "party": "Others",
+                "score": 3.4
+            }
+        ]
+    },
+    {
+        "n": 1538,
+        "moe": 2.5,
+        "company": "Mainstreet",
+        "date": "September 16-18, 2022",
+        "field": "2022-09-18",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 39.5
+            },
+            {
+                "party": "PLQ",
+                "score": 16.5
+            },
+            {
+                "party": "PQ",
+                "score": 9.9
+            },
+            {
+                "party": "QS",
+                "score": 11.9
+            },
+            {
+                "party": "PCQ",
+                "score": 19.7
+            },
+            {
+                "party": "Others",
+                "score": 2.5
+            }
+        ]
     }
 ]
