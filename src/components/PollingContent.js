@@ -278,7 +278,7 @@ let brandColours = {
     }
 
     let validParties = Object.entries(partyCount);
-    validParties = validParties.filter(x => x[0] !== "AIP").map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
+    validParties = validParties.filter(x => ["AIP", "PVQ"].includes(x[0])).map(y => y[0]); // Yeah, I excluded the Alberta Independence Party from having a trendline
 
     return(validParties);
   }
