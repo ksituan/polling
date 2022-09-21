@@ -74088,5 +74088,75 @@
                 "score": 3.1
             }
         ]
+    },
+    {
+        "n": 1080,
+        "moe": 3,
+        "company": "Segma",
+        "date": "September 16-20, 2022",
+        "field": "2022-09-20",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 40
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PQ",
+                "score": 14
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PCQ",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1467,
+        "moe": 2.6,
+        "company": "Mainstreet",
+        "date": "September 18-20, 2022",
+        "field": "2022-09-20",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 39.2
+            },
+            {
+                "party": "PLQ",
+                "score": 14.3
+            },
+            {
+                "party": "PQ",
+                "score": 10.6
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2.9
+            }
+        ]
     }
 ]
