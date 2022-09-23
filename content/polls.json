@@ -74350,5 +74350,70 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 1472,
+        "moe": 2.6,
+        "company": "Mainstreet",
+        "date": "September 19-21, 2022",
+        "field": "2022-09-21",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 39.3
+            },
+            {
+                "party": "PLQ",
+                "score": 15.1
+            },
+            {
+                "party": "PQ",
+                "score": 10.3
+            },
+            {
+                "party": "QS",
+                "score": 14.2
+            },
+            {
+                "party": "PCQ",
+                "score": 18.3
+            },
+            {
+                "party": "Others",
+                "score": 2.7
+            }
+        ]
+    },
+    {
+        "n": 700,
+        "company": "Research Co.",
+        "date": "September 19-21, 2022",
+        "field": "2022-09-21",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "PLQ",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 10
+            },
+            {
+                "party": "CAQ",
+                "score": 40
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 18
+            }
+        ]
     }
 ]
