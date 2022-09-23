@@ -74450,5 +74450,44 @@
                 "score": 2.2
             }
         ]
+    },
+    {
+        "n": 1088,
+        "moe": 3,
+        "company": "Mainstreet",
+        "date": "September 21-22, 2022",
+        "field": "2022-09-22",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32.7
+            },
+            {
+                "party": "CPC",
+                "score": 40.8
+            },
+            {
+                "party": "NDP",
+                "score": 12.4
+            },
+            {
+                "party": "BQ",
+                "score": 5.2
+            },
+            {
+                "party": "GPC",
+                "score": 2.6
+            },
+            {
+                "party": "PPC",
+                "score": 3.4
+            },
+            {
+                "party": "Others",
+                "score": 2.7
+            }
+        ]
     }
 ]
