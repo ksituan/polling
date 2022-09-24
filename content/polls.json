@@ -74496,6 +74496,7 @@
         "field": "2022-09-22",
         "method": "IVR",
         "jurisdiction": "Canada_BC",
+        "n": 114,
         "poll": [
             {
                 "party": "LPC",
@@ -74529,6 +74530,7 @@
         "field": "2022-09-22",
         "method": "IVR",
         "jurisdiction": "Canada_AB",
+        "n": 118,
         "poll": [
             {
                 "party": "LPC",
@@ -74561,7 +74563,42 @@
         "date": "September 21-22, 2022",
         "field": "2022-09-22",
         "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "n": 70,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "CPC",
+                "score": 57.3
+            },
+            {
+                "party": "NDP",
+                "score": 13.9
+            },
+            {
+                "party": "PPC",
+                "score": 4.7
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            },
+            {
+                "party": "Others",
+                "score": 2.2
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "September 21-22, 2022",
+        "field": "2022-09-22",
+        "method": "IVR",
         "jurisdiction": "Canada_ON",
+        "n": 367,
         "poll": [
             {
                 "party": "LPC",
@@ -74595,6 +74632,7 @@
         "field": "2022-09-22",
         "method": "IVR",
         "jurisdiction": "Canada_QC",
+        "n": 319,
         "poll": [
             {
                 "party": "LPC",
@@ -74631,6 +74669,7 @@
         "date": "September 21-22, 2022",
         "field": "2022-09-22",
         "method": "IVR",
+        "n": 58,
         "jurisdiction": "Canada_ATL",
         "poll": [
             {
