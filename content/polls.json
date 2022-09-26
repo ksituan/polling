@@ -74767,5 +74767,71 @@
                 "score": 3.1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Probe",
+        "date": "September 8-18, 2022",
+        "field": "2022-09-18",
+        "method": "Telephone",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "MLP",
+                "score": 15
+            },
+            {
+                "party": "GPM",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1529,
+        "moe": 2.5,
+        "company": "Mainstreet",
+        "date": "September 23-25, 2022",
+        "field": "2022-09-25",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 41.8
+            },
+            {
+                "party": "PLQ",
+                "score": 16.5
+            },
+            {
+                "party": "PQ",
+                "score": 10
+            },
+            {
+                "party": "QS",
+                "score": 9.9
+            },
+            {
+                "party": "PCQ",
+                "score": 18.7
+            },
+            {
+                "party": "Others",
+                "score": 3.1
+            }
+        ]
     }
 ]
