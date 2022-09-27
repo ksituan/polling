@@ -75109,5 +75109,36 @@
                 "score": 1.6
             }
         ]
+    },
+    {
+        "n": 649,
+        "moe": 4,
+        "company": "EKOS",
+        "date": "September 13-23, 2022",
+        "field": "2022-09-23",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 35
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 12
+            },
+            {
+                "party": "QS",
+                "score": 21
+            },
+            {
+                "party": "PQ",
+                "score": 15
+            }
+        ]
     }
 ]
