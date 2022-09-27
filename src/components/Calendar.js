@@ -56,7 +56,7 @@ const jurisdictions = {
 
 function Calendar() {
 
-    let fevents = events.map(function(event) { event.date = new Date(event.date + "T00:00"); return(event) });
+    let fevents = events.map(function(event) { event.date = new Date(event.date + "T21:00"); return(event) });
     fevents = fevents.filter(event => event.date > new Date() && (event.date - new Date() < 365*24*60*60*1000 || event.minority));
     fevents = fevents.sort((a,b) => a.date - b.date);
 
