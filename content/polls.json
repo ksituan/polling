@@ -75175,5 +75175,39 @@
                 "score": 2.6
             }
         ]
+    },
+    {
+        "n": 1221,
+        "company": "Angus Reid",
+        "date": "September 19-22, 2022",
+        "field": "2022-09-22",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 34
+            },
+            {
+                "party": "PLQ",
+                "score": 16
+            },
+            {
+                "party": "PQ",
+                "score": 12
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PCQ",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
