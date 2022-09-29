@@ -75490,5 +75490,40 @@
                 "score": 2.4
             }
         ]
+    },
+    {
+        "n": 1523,
+        "moe": 2.5,
+        "company": "Mainstreet",
+        "date": "September 26-28, 2022",
+        "field": "2022-09-28",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 40.3
+            },
+            {
+                "party": "PLQ",
+                "score": 15.7
+            },
+            {
+                "party": "PQ",
+                "score": 11.9
+            },
+            {
+                "party": "QS",
+                "score": 13.5
+            },
+            {
+                "party": "PCQ",
+                "score": 16.4
+            },
+            {
+                "party": "Others",
+                "score": 2.3
+            }
+        ]
     }
 ]
