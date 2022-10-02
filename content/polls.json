@@ -75594,5 +75594,70 @@
                 "score": 1.9
             }
         ]
+    },
+    {
+        "n": 1463,
+        "moe": 2.6,
+        "company": "Mainstreet",
+        "date": "September 28-30, 2022",
+        "field": "2022-09-30",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 41.3
+            },
+            {
+                "party": "PLQ",
+                "score": 15.4
+            },
+            {
+                "party": "PQ",
+                "score": 12.8
+            },
+            {
+                "party": "QS",
+                "score": 11.2
+            },
+            {
+                "party": "PCQ",
+                "score": 18.4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "company": "Léger",
+        "date": "October 1, 2022",
+        "field": "2022-10-01",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 38
+            },
+            {
+                "party": "PLQ",
+                "score": 17
+            },
+            {
+                "party": "PCQ",
+                "score": 14
+            },
+            {
+                "party": "QS",
+                "score": 15
+            },
+            {
+                "party": "PQ",
+                "score": 15
+            }
+        ]
     }
 ]
