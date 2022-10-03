@@ -57,7 +57,7 @@
     stroke-width: 4px;
 }
 
-.trendline {
+.scatter .trendline {
     stroke-width: 4px;
 }
 
@@ -81,7 +81,7 @@ svg text {
 }
 
 @media (min-width: 800px) {
-    .trendline:hover {
+    .scatter .trendline:hover {
         stroke-width: 8px;
     }
 
