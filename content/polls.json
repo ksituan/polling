@@ -75764,5 +75764,39 @@
                 "score": 1.9
             }
         ]
+    },
+    {
+        "n": 637,
+        "company": "Research Co.",
+        "date": "Sep. 30-Oct. 2, 2022",
+        "field": "2022-10-02",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "PLQ",
+                "score": 16
+            },
+            {
+                "party": "PQ",
+                "score": 12
+            },
+            {
+                "party": "CAQ",
+                "score": 41
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
