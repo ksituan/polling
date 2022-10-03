@@ -194,7 +194,7 @@ svg text {
         justify-content: flex-start;
     }
 
-    .trendline {
+    .scatter .trendline {
         stroke-width: 12px;
     }
 
