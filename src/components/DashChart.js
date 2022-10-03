@@ -67,7 +67,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
     }
   
     // Generate the date arrays needed for horizontal marker lines + statistical calculations
-
+    
     let positions = [...Array(plotWidth).keys()];
 
     let samplePositions = []
@@ -157,6 +157,15 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
     let validParties = Object.entries(partyCount);
     validParties = validParties.filter(x => x[1] > 2 && x[0] !== "AIP").map(y => y[0]);
 
+    // Add major ticks
+
+    let scoreTicks = Math.round((highScore - 5)/10);
+    let scoreArray = [];
+    
+    for (let n = 0; n <= scoreTicks; n++) {
+      scoreArray.push(n*10);
+    }
+
     // Plot polls
 
     let bj = jurisdiction.split("_")[0];
@@ -165,6 +174,31 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
         <div className={className + (election.nextWrit ? " writ" : "")}>
             <svg viewBox={`0 0 ${plotWidth} ${plotHeight}`}>
                 <rect fill="white" width={plotWidth} height={plotHeight} />
+
+                <g className="ticks timeTicks">
+
+            {election.nextWrit && <g>
+              <path
+                className="writLine"
+                d={`M ${xMap(new Date(election.nextWrit))} ${padding} v ${plotHeight-padding*2}`}
+                stroke="#b0b0b0"
+                strokeLinecap="round"
+                strokeWidth="2"
+              />
+            </g>}
+            </g>
+
+                <g className="ticks scoreTicks">
+                    {scoreArray.map(score =>
+                                <path
+                                className="major"
+                                d={`M ${padding} ${yMap(score)} h ${plotWidth-padding*2}`}
+                                stroke="#b0b0b0"
+                                strokeLinecap="round"
+                                strokeWidth="2" />
+                    )}
+                </g>
+
                 {validParties.length > 0 ? validParties.map(party => { let line = rollingAverage(samplePositions, party);
                     return <path
                     stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
