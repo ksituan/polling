@@ -85,8 +85,12 @@ svg text {
         stroke-width: 8px;
     }
 
-    .wideChart svg path {
-        stroke-width: 2.5px;
+    .wideChart svg .trendline {
+        stroke-width: 3px;
+    }
+
+    .wideChart svg .axis {
+        stroke-width: 3px;
     }
 
     .pollInfo {

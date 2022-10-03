@@ -201,6 +201,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
 
                 {validParties.length > 0 ? validParties.map(party => { let line = rollingAverage(samplePositions, party);
                     return <path
+                    className="trendline"
                     stroke={brandColours[parties.content[bj][party]?.colour || "gray"]}
                     fill="none"
                     strokeWidth="5"
@@ -223,6 +224,7 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
                 </g>}
 
                 <path
+                    className="axis"
                     d ={`M ${padding} ${padding} v ${plotHeight-padding*2} h ${plotWidth-padding*2}`}
                     stroke = "black"
                     fill = "none"
