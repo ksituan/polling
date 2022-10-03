@@ -75729,5 +75729,40 @@
                 "score": 1.2
             }
         ]
+    },
+    {
+        "n": 1021,
+        "moe": 3,
+        "company": "Forum",
+        "date": "October 2, 2022",
+        "field": "2022-10-02",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 36.8
+            },
+            {
+                "party": "PLQ",
+                "score": 15.4
+            },
+            {
+                "party": "PQ",
+                "score": 17.2
+            },
+            {
+                "party": "QS",
+                "score": 14.3
+            },
+            {
+                "party": "PCQ",
+                "score": 14.4
+            },
+            {
+                "party": "Others",
+                "score": 1.9
+            }
+        ]
     }
 ]
