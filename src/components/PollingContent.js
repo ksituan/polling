@@ -185,6 +185,7 @@ let brandColours = {
           {poll.n && <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="310">Sample size = {poll.n.toLocaleString("en-US")}</text>}
           <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="360">{poll.method}</text>
           {poll.moe && <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="410">±{poll.moe}%</text>}
+          {!poll.moe && poll.note && <text className="numeric" textAnchor="end" fontSize="32pt" x={1600 - barPadding} y="410">{poll.note}</text>}
         </svg>
   
       );
