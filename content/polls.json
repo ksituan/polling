@@ -75824,5 +75824,40 @@
                 "score": 9
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "September 30, 2022",
+        "field": "2022-09-30",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.3
+            },
+            {
+                "party": "CPC",
+                "score": 32.8
+            },
+            {
+                "party": "NDP",
+                "score": 23.4
+            },
+            {
+                "party": "BQ",
+                "score": 6.4
+            },
+            {
+                "party": "GPC",
+                "score": 5.3
+            },
+            {
+                "party": "PPC",
+                "score": 2.1
+            }
+        ]
     }
 ]
