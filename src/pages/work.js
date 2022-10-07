@@ -10,8 +10,8 @@ const work = () => (
   <Layout>
     <Seo title="Work" description="Hire Polling Canada's Curtis Fric" />
     <h1>Work</h1>
-    <div className="formalContainer"><StaticImage className="formalCurtis" src="../images/formalCurtis.jpg" alt="A formal headshot of Curtis." width={240} /></div>
-    <p className="formalCaption"><em>Preparing to run against an older and more experienced candidate (2018)</em></p>
+    <div className="formalContainer"><StaticImage className="formalCurtis" src="../images/curtis_1.jpg" alt="A formal headshot of Curtis." width={320} /></div>
+    <p className="formalCaption"><em>Appearances in a three-piece suit cost extra (2022)</em></p>
     <h2>Background</h2>
     <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Perhaps you're looking to hire me?</p>
     <h2>Experience</h2>
