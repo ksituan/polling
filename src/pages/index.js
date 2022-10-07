@@ -10,6 +10,7 @@ import DashProvince from "../components/DashProvince"
 import DashCanada from "../components/DashCanada"
 import DashFedProvince from "../components/DashFedProvince"
 import Calendar from "../components/Calendar"
+import Sovereignty from "../components/Sovereignty"
 
 const provinces = [
   "BC",
@@ -37,8 +38,8 @@ const IndexPage = ({pageContext, data}) => (
   <Layout>
     <Seo title="Polling Canada" />
     <div className="curtisContainer" style={{display: "flex", gap: "2rem", alignItems: "center"}}>
-      <StaticImage className="curtis" src="../images/curtis_2.jpg" alt="An informal headshot of Curtis." width={100} height={100} />
-      <p style={{margin: 0}}>Polling Canada is your trusted source of raw political data. It's also a one-man project. Donate to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
+      <StaticImage className="curtis" src="../images/curtis_1.jpg" alt="An informal headshot of Curtis." width={100} height={120} />
+      <p style={{margin: 0}}>Isn't it nice how this site has no ads? Why not help keep it that way by donating to my <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">Ko-fi</a>, or send an Interac e-transfer to <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
     </div>
     {data.electionCanada.nodes[0].nextWrit ?
     <div>
@@ -73,6 +74,9 @@ const IndexPage = ({pageContext, data}) => (
       </div>
     </div>
     }
+
+    {/* <h1>Sovereignty</h1>
+    <Sovereignty polls={data[`pollsSovereignty`]} election={data[`electionSovereignty`].nodes[0]} /> */}
 
     <h1>Election Calendar</h1>
     <Calendar />
@@ -333,6 +337,20 @@ export const query = graphql`
   }
   electionCanada_ATL: allElectionsJson(
     filter: {jurisdiction: {eq: "Canada_ATL"}}
+    sort: {fields: date, order: DESC}
+    limit: 1
+  ) {
+    nodes {
+      ...ElectionInformation
+      year: date(formatString: "YYYY")
+    }
+  }
+  pollsSovereignty: recentElectionPolls(jurisdiction: "Sovereignty") {
+    ...PollInformation
+    company
+  }
+  electionSovereignty: allElectionsJson(
+    filter: {jurisdiction: {eq: "Sovereignty"}}
     sort: {fields: date, order: DESC}
     limit: 1
   ) {
