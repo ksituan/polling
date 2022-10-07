@@ -75886,5 +75886,755 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 880,
+        "moe": 3,
+        "company": "Forum",
+        "date": "September 9-13, 2020",
+        "field": "2020-09-13",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 29.9
+            },
+            {
+                "party": "PCNB",
+                "score": 36.7
+            },
+            {
+                "party": "GPNB",
+                "score": 20.8
+            },
+            {
+                "party": "PANB",
+                "score": 7.7
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {
+        "n": 369,
+        "moe": 4,
+        "company": "Mainstreet",
+        "date": "September 11-12, 2020",
+        "field": "2020-09-12",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 29.7
+            },
+            {
+                "party": "PCNB",
+                "score": 36.9
+            },
+            {
+                "party": "GPNB",
+                "score": 20.8
+            },
+            {
+                "party": "PANB",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 4.4
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {
+        "n": 641,
+        "moe": 3.9,
+        "company": "EKOS",
+        "date": "September 8-12, 2020",
+        "field": "2020-09-12",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 32
+            },
+            {
+                "party": "PCNB",
+                "score": 32
+            },
+            {
+                "party": "GPNB",
+                "score": 18
+            },
+            {
+                "party": "PANB",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "moe": 4.4,
+        "company": "Oracle",
+        "date": "September 1-3, 2020",
+        "field": "2020-09-03",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 33
+            },
+            {
+                "party": "PCNB",
+                "score": 42
+            },
+            {
+                "party": "GPNB",
+                "score": 18
+            },
+            {
+                "party": "PANB",
+                "score": 2
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "MQO",
+        "date": "August 25-30, 2020",
+        "field": "2020-08-30",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 27
+            },
+            {
+                "party": "PCNB",
+                "score": 43
+            },
+            {
+                "party": "GPNB",
+                "score": 17
+            },
+            {
+                "party": "PANB",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 700,
+        "moe": 3.7,
+        "company": "Mainstreet",
+        "date": "August 27, 2020",
+        "field": "2020-08-27",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 32.4
+            },
+            {
+                "party": "PCNB",
+                "score": 37.5
+            },
+            {
+                "party": "GPNB",
+                "score": 19.1
+            },
+            {
+                "party": "PANB",
+                "score": 7.3
+            },
+            {
+                "party": "NDP",
+                "score": 3.8
+            }
+        ]
+    },
+    {
+        "n": 519,
+        "company": "Leger",
+        "date": "August 21-26, 2020",
+        "field": "2020-08-26",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 32
+            },
+            {
+                "party": "PCNB",
+                "score": 40
+            },
+            {
+                "party": "GPNB",
+                "score": 13
+            },
+            {
+                "party": "PANB",
+                "score": 7
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "August 5-23, 2020",
+        "field": "2020-08-23",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 33
+            },
+            {
+                "party": "PCNB",
+                "score": 44
+            },
+            {
+                "party": "GPNB",
+                "score": 14
+            },
+            {
+                "party": "PANB",
+                "score": 2
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 199,
+        "company": "Angus Reid",
+        "date": "May 19-24, 2020",
+        "field": "2020-05-24",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 26
+            },
+            {
+                "party": "PCNB",
+                "score": 39
+            },
+            {
+                "party": "GPNB",
+                "score": 17
+            },
+            {
+                "party": "PANB",
+                "score": 13
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "May 1-20, 2020",
+        "field": "2020-05-20",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 30
+            },
+            {
+                "party": "PCNB",
+                "score": 48
+            },
+            {
+                "party": "GPNB",
+                "score": 15
+            },
+            {
+                "party": "PANB",
+                "score": 3
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 200,
+        "company": "Innovative",
+        "date": "May 1-7, 2020",
+        "field": "2020-05-07",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 37
+            },
+            {
+                "party": "PCNB",
+                "score": 33
+            },
+            {
+                "party": "GPNB",
+                "score": 13
+            },
+            {
+                "party": "PANB",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "n": 400,
+        "moe": 4.9,
+        "company": "Narrative",
+        "date": "February 6-24, 2020",
+        "field": "2020-02-24",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 28
+            },
+            {
+                "party": "PCNB",
+                "score": 39
+            },
+            {
+                "party": "GPNB",
+                "score": 20
+            },
+            {
+                "party": "PANB",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "MQO",
+        "date": "February 13-27, 2020",
+        "field": "2020-02-27",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 31
+            },
+            {
+                "party": "PCNB",
+                "score": 37
+            },
+            {
+                "party": "GPNB",
+                "score": 21
+            },
+            {
+                "party": "PANB",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "Oct. 31-Nov. 22, 2019",
+        "field": "2019-11-22",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 31
+            },
+            {
+                "party": "PCNB",
+                "score": 37
+            },
+            {
+                "party": "GPNB",
+                "score": 21
+            },
+            {
+                "party": "PANB",
+                "score": 3
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Narrative",
+        "date": "August 23, 2019",
+        "field": "2019-08-23",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 29
+            },
+            {
+                "party": "PCNB",
+                "score": 36
+            },
+            {
+                "party": "GPNB",
+                "score": 18
+            },
+            {
+                "party": "PANB",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Narrative",
+        "date": "May 2-22, 2019",
+        "field": "2019-05-22",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 25
+            },
+            {
+                "party": "PCNB",
+                "score": 42
+            },
+            {
+                "party": "GPNB",
+                "score": 18
+            },
+            {
+                "party": "PANB",
+                "score": 6
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "MQO",
+        "date": "April 23-May 6, 2019",
+        "field": "2019-05-06",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 30
+            },
+            {
+                "party": "PCNB",
+                "score": 40
+            },
+            {
+                "party": "GPNB",
+                "score": 20
+            },
+            {
+                "party": "PANB",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Corporate",
+        "date": "February 19, 2019",
+        "field": "2019-02-19",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 29
+            },
+            {
+                "party": "PCNB",
+                "score": 42
+            },
+            {
+                "party": "GPNB",
+                "score": 14
+            },
+            {
+                "party": "PANB",
+                "score": 9
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "MQO",
+        "date": "Jan. 30-Feb. 10, 2019",
+        "field": "2019-02-10",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 32
+            },
+            {
+                "party": "PCNB",
+                "score": 46
+            },
+            {
+                "party": "GPNB",
+                "score": 11
+            },
+            {
+                "party": "PANB",
+                "score": 8
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 611,
+        "moe": 4,
+        "company": "Mainstreet",
+        "date": "January 13-15, 2019",
+        "field": "2019-01-15",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 27.3
+            },
+            {
+                "party": "PCNB",
+                "score": 40.2
+            },
+            {
+                "party": "GPNB",
+                "score": 15
+            },
+            {
+                "party": "PANB",
+                "score": 12.4
+            },
+            {
+                "party": "NDP",
+                "score": 4.5
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Corporate",
+        "date": "November 24, 2018",
+        "field": "2018-11-24",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 35
+            },
+            {
+                "party": "PCNB",
+                "score": 30
+            },
+            {
+                "party": "GPNB",
+                "score": 17
+            },
+            {
+                "party": "PANB",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "moe": 4,
+        "company": "MQO",
+        "date": "Oct. 23-Nov. 5, 2018",
+        "field": "2018-11-05",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 29
+            },
+            {
+                "party": "PCNB",
+                "score": 36
+            },
+            {
+                "party": "GPNB",
+                "score": 21
+            },
+            {
+                "party": "PANB",
+                "score": 11
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 572,
+        "moe": 4.1,
+        "company": "Mainstreet",
+        "date": "Oct. 30-Nov. 2, 2018",
+        "field": "2018-11-02",
+        "method": "IVR",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 33.7
+            },
+            {
+                "party": "PCNB",
+                "score": 33.7
+            },
+            {
+                "party": "GPNB",
+                "score": 15.7
+            },
+            {
+                "party": "PANB",
+                "score": 12.7
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
     }
 ]
