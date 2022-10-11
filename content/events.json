@@ -160,5 +160,11 @@
         "jurisdiction": "SK",
         "type": "by",
         "riding": "Saskatoon Meewasin"
+    },
+    {
+        "date": "2022-11-08",
+        "jurisdiction": "AB",
+        "type": "by",
+        "riding": "Brooks-Medicine Hat"
     }
 ]
