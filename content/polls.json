@@ -76671,5 +76671,27 @@
                 "score": 2.1
             }
         ]
+    },
+    {
+        "n": 1534,
+        "company": "Leger",
+        "date": "October 7-10, 2022",
+        "field": "2022-10-10",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            }
+        ]
     }
 ]
