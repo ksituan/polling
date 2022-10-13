@@ -76691,6 +76691,22 @@
             {
                 "party": "NDP",
                 "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
             }
         ]
     }
