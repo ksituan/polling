@@ -76951,5 +76951,88 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "October 14, 2022",
+        "field": "2022-10-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.5
+            },
+            {
+                "party": "CPC",
+                "score": 34.6
+            },
+            {
+                "party": "NDP",
+                "score": 17.6
+            },
+            {
+                "party": "BQ",
+                "score": 6.2
+            },
+            {
+                "party": "GPC",
+                "score": 4.5
+            },
+            {
+                "party": "PPC",
+                "score": 3.1
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "company": "Research Co.",
+        "date": "October 9-11, 2022",
+        "field": "2022-10-11",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "BCLP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 15
+            },
+            {
+                "party": "CPBC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1002,
+        "company": "Navigator",
+        "date": "October 7, 2022",
+        "field": "2022-10-07",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 53
+            }
+        ]
     }
 ]
