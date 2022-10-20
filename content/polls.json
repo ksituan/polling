@@ -77032,6 +77032,14 @@
             {
                 "party": "NDP",
                 "score": 53
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },            
+            {
+                "party": "Others",
+                "score": 5
             }
         ]
     }
