@@ -77361,5 +77361,36 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1104,
+        "moe": 2.8,
+        "company": "Janet Brown",
+        "date": "October 12-30, 2022",
+        "field": "2022-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "WIP",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
