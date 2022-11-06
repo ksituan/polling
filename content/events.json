@@ -166,5 +166,11 @@
         "jurisdiction": "AB",
         "type": "by",
         "riding": "Brooks-Medicine Hat"
+    },
+    {
+        "date": "2022-12-12",
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Mississauga—Lakeshore"
     }
 ]
