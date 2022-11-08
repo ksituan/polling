@@ -77426,5 +77426,69 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1028,
+        "company": "Léger",
+        "date": "November 4-6, 2022",
+        "field": "2022-11-06",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 36
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 11
+            },
+            {
+                "party": "QS",
+                "score": 19
+            },
+            {
+                "party": "PQ",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "n": 1028,
+        "company": "Leger",
+        "date": "November 4-6, 2022",
+        "field": "2022-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
