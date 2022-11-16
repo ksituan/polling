@@ -77983,5 +77983,43 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 870,
+        "company": "Innovative",
+        "date": "November 4-14, 2022",
+        "field": "2022-11-14",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
