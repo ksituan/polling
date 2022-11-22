@@ -73,7 +73,7 @@ function Calendar() {
                 {event.type === "municipal" && <div className="desc">Municipal elections</div>}
                 {event.type === "by" && <div className="desc">{event.riding + " by-election"}</div>}
                 <div className="date">{event.date.toLocaleDateString('en-CA', {year: "numeric", month: "long", day: "numeric"})}</div>
-                <div className="date">{event.date - new Date() > 24*60*60*1000 ? Math.ceil((event.date - new Date())/(24*60*60*1000)) + " days" : "Today"}</div>
+                <div className="date">{Math.ceil((event.date - new Date())/(24*60*60*1000)) === 1 ? "1 day" : Math.ceil((event.date - new Date())/(24*60*60*1000)) + " days"}</div>
                 {(event.type === "legislative" && event.future) && <div className="warning">{event.minority ? "ⓘ Or earlier (minority government)" : "ⓘ Or earlier"}</div>}
                 {event.note && <div className="note">{event.note}</div>}
             </div>)}
