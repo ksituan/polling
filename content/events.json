@@ -91,12 +91,6 @@
         "note": "Yellowknife"
     },
     {
-        "date": "2022-12-03",
-        "jurisdiction": "BC",
-        "type": "leadership",
-        "party": "NDP"
-    },
-    {
         "date": "2022-12-12",
         "jurisdiction": "NT",
         "type": "municipal",
@@ -172,5 +166,11 @@
         "jurisdiction": "Canada",
         "type": "by",
         "riding": "Mississauga—Lakeshore"
+    },
+    {
+        "date": "2022-12-13",
+        "jurisdiction": "MB",
+        "type": "by",
+        "riding": "Kirkfield Park"
     }
 ]
