@@ -127,7 +127,7 @@ function PaletteColour({colour, angle, thickness, id, paint, setPaint}) {
 
     const handlePalettePick = () => {
         if (id === paint) {
-            setPaint("");
+            setPaint("blank0");
         } else {
             setPaint(id);
         }
