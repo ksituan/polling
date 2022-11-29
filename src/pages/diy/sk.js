@@ -5,7 +5,7 @@ import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 import brandColours from "../../../content/brandColours"
 
-let def = {1: "orange2", 2: "darkGreen3", 3: "darkGreen4", 4: "darkGreen3", 5: "darkGreen4", 6: "orange3", 7: "darkGreen4", 8: "darkGreen4", 9: "darkGreen4", 10: "darkGreen3",
+let ge2020 = {1: "orange2", 2: "darkGreen3", 3: "darkGreen4", 4: "darkGreen3", 5: "darkGreen4", 6: "orange3", 7: "darkGreen4", 8: "darkGreen4", 9: "darkGreen4", 10: "darkGreen3",
 11: "darkGreen4", 12: "darkGreen4", 13: "darkGreen4", 14: "darkGreen3", 15: "darkGreen4", 16: "darkGreen4", 17: "darkGreen3", 18: "darkGreen3", 19: "darkGreen4", 20: "darkGreen4",
 21: "darkGreen3", 22: "darkGreen2", 23: "darkGreen4", 24: "darkGreen2", 25: "darkGreen1", 26: "darkGreen1", 27: "orange3", 28: "orange3", 29: "orange3", 30: "orange1",
 31: "darkGreen1", 32: "darkGreen1", 33: "darkGreen2", 34: "orange1", 35: "darkGreen2", 36: "darkGreen2", 37: "darkGreen2", 38: "darkGreen4", 39: "darkGreen4", 40: "darkGreen3",
@@ -13,16 +13,39 @@ let def = {1: "orange2", 2: "darkGreen3", 3: "darkGreen4", 4: "darkGreen3", 5: "
 51: "darkGreen2", 52: "orange1", 53: "darkGreen2", 54: "darkGreen3", 55: "darkGreen4", 56: "darkGreen3", 57: "darkGreen4", 58: "darkGreen4", 59: "darkGreen3", 60: "darkGreen4",
 61: "darkGreen4"};
 
-function Diy({}) {
-    const [colours, setColours] = useState(def);
-    const [paint, setPaint] = useState("orange3");
+let codes = [...Array(61).keys()].map(x => x + 1);
+let blank = {}
 
-    
+let sortColours = ["green", "orange", "blank", "red", "darkGreen", "yellow"];
+
+function evaluateRating(colour) {
+    let value = 10 * sortColours.indexOf(colour.slice(0, -1));
+    if (sortColours.indexOf(colour.slice(0, -1)) > sortColours.indexOf("blank")) {
+        value += colour.slice(-1);
+    } else {
+        value -= colour.slice(-1);
+    }
+    return(value);
+}
+
+codes.forEach(x => blank[x] = 'blank0');
+
+function Diy({}) {
+    const [colours, setColours] = useState(blank);
+    const [paint, setPaint] = useState("");
 
     const handlePaintClick = (e) => {
         if (paint) {
             setColours({...colours, [e.target.id]: paint});
         }
+    }
+
+    const setElection = () => {
+        setColours(ge2020);
+    } 
+
+    const setBlank = () => {
+        setColours(blank);
     }
 
     return(
@@ -34,15 +57,60 @@ function Diy({}) {
                 <PaletteRow paint={paint} setPaint={setPaint} name="Liberal Party" colour="red" angle="90"/>
             </div>
             <Map colours={colours} handlePaintClick={handlePaintClick} />
+            <PartyCount colours={colours}/>
+            <div className="buttonBar">
+                <Button electionFunction={setElection} label={"2020 election"} />
+                <Button electionFunction={setBlank} label={"Reset map"} />
+            </div>
+            <svg viewBox="0 0 0 0" height="0" width="0">
+                <pattern id="blank0" viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse">
+                    <rect width="10" height="10" fill="#808080" />
+                </pattern>
+            </svg>
         </div>
     );
 }
 
+function Button({electionFunction, label}) {
+    return(
+        <button className="diyButton" onClick={electionFunction}>{label}</button>
+    )
+}
+
+function PartyCount({colours}) {
+    colours = Object.values(colours);
+    colours = colours.sort((a,b) => evaluateRating(a) - evaluateRating(b));
+
+    let partyCounts = {};
+    for (const x of colours.map(x => x.slice(0, -1))) {
+        partyCounts[x] = partyCounts[x] ? partyCounts[x] + 1 : 1;
+    }
+
+    console.log()
+
+    return(
+        <div className="bar">
+            <div className="partyCount">
+                {colours.map(x => 
+                <svg className="partyCounter" viewBox="0 0 24 48">
+                    <rect width="24" height="48" fill={`url(#${x})`} />
+                </svg>)}
+            </div>
+            <div className="partyCountLabels">
+                {Object.entries(partyCounts).map(x => 
+                <div className="partyCounterLabel" style={{width: x[1]/.61+"%"}}>{x[0] === "blank" ? "" : x[1]}</div>)}
+            </div>
+        </div>
+    )
+}
+
 function PaletteRow({paint, setPaint, name, colour, angle}) {
+
+    const [label, setLabel] = useState(name);
 
     return(
         <div className="paletteRow">
-            <div className="paletteLabel">{name}</div>
+            <input className="paletteLabel" value={label} onChange={(e) => setLabel(e.target.value)} />
             <div className="paletteSwatch">
                 <PaletteColour colour={colour} thickness={"3"} angle={angle} id={colour + "1"} paint={paint} setPaint={setPaint} />
                 <PaletteColour colour={colour} thickness={"5"} angle={angle} id={colour + "2"} paint={paint} setPaint={setPaint} />
