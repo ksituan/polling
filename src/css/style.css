@@ -793,3 +793,63 @@ input {
     color: #c94141;
     font-size: 10pt;
 }
+
+/* DIY pages */
+
+.palette {
+    display: flex;
+    margin: 1rem;
+    gap: 0.5rem;
+}
+
+@media (max-width: 1000px) {
+    .palette {
+        flex-wrap: wrap;
+    }
+}
+
+.paletteRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0.5rem;
+}
+
+.paletteSwatch {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 0.5rem;
+    margin: 1rem;
+}
+
+.paletteRow * {
+    margin: 0;
+    font-family: Inter;
+}
+
+.paletteColour {
+    width: 2rem;
+}
+
+.paletteColour.selected {
+    border: 2px black solid;
+    margin: -2px;
+}
+
+.diyMap path {
+    stroke: white;
+    stroke-width: 1;
+}
+
+.diyMap .outline {
+    fill: none;
+    stroke: black;
+    stroke-width: 2;
+}
+
+.diyMap text {
+    font-size: 18pt;
+    font-weight: 600;
+}
