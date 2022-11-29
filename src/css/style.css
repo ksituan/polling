@@ -850,6 +850,10 @@ input {
     font-size: 12pt;
 }
 
+.diyMap {
+    margin: 0.5rem 0;
+}
+
 .diyMap path {
     stroke: white;
     stroke-width: 1;
@@ -874,7 +878,6 @@ input {
     position: relative;
     display: flex;
     width: 100%;
-    margin-top: 0.5rem;
 }
 
 .partyCount::before {
