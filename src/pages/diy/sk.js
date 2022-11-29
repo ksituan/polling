@@ -32,12 +32,14 @@ codes.forEach(x => blank[x] = 'blank0');
 
 function Diy({}) {
     const [colours, setColours] = useState(blank);
-    const [paint, setPaint] = useState("");
+    const [paint, setPaint] = useState("blank0");
 
     const handlePaintClick = (e) => {
-        if (paint) {
+        if (paint === colours[e.target.id]) {
+            setColours({...colours, [e.target.id]: "blank0"});
+        } else {
             setColours({...colours, [e.target.id]: paint});
-        }
+        } 
     }
 
     const setElection = () => {
@@ -92,7 +94,7 @@ function PartyCount({colours}) {
         <div className="bar">
             <div className="partyCount">
                 {colours.map(x => 
-                <svg className="partyCounter" viewBox="0 0 24 48">
+                <svg className="partyCounter" viewBox="0 0 1200/61 48">
                     <rect width="24" height="48" fill={`url(#${x})`} />
                 </svg>)}
             </div>
