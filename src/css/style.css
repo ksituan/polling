@@ -906,9 +906,10 @@ input {
 
 .partyCounterLabel {
     font-family: Inter;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 16pt;
     text-align: center;
+    text-shadow: white 2px 2px;
 }
 
 .buttonBar {
