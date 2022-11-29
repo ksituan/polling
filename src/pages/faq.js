@@ -10,6 +10,10 @@ const faq = () => (
     <h1>Frequently Asked Questions</h1>
     <h2>Does Polling Canada conduct polls?</h2>
     <p>No. Polling Canada aggregates publicly available content.</p>
+    <h2>Is Polling Canada biased?</h2>
+    <p>Polling Canada aggregates publicly available content.</p>
+    <h2>I have some insider information that proves your polls wrong!</h2>
+    <p style={{color: "red"}}><strong>Polling Canada aggregates publicly available content.</strong></p>
     <h2>Can I use your graphics?</h2>
     <p>Yes! All Polling Canada graphics are released under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons license</a> - specifically, Attribution-ShareAlike 4.0. That means you can legally do anything you like with them, as long as Polling Canada gets credited and you don't attempt to impose copyright on the result.</p>
     <h2>How can a sample size of 1,000 represent millions?</h2>
