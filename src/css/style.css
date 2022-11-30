@@ -927,3 +927,33 @@ input {
     font-weight: 600;
     letter-spacing: 2px;
 }
+
+/* DIY links */
+
+.diyContainer {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+}
+
+.diyLink {
+    margin: 0;
+    width: 6rem;
+    height: 6rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    box-shadow: 2px 2px 4px #b0b0b0;
+}
+
+.diyLink p {
+    font-size: 12pt;
+    font-family: Inter;
+    color: white;
+    margin-top: 0.2rem;
+    line-height: normal;
+}
+
+.diyLink:hover {
+    rotate: 1deg;
+}

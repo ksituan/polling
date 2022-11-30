@@ -1,14 +1,36 @@
 import * as React from "react"
 import { StaticImage } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+
+import BC_flag from '../images/flags/BC.png'
+import AB_flag from '../images/flags/AB.png'
+import SK_flag from '../images/flags/SK.png'
+import MB_flag from '../images/flags/MB.png'
+import ON_flag from '../images/flags/ON.png'
+import QC_flag from '../images/flags/QC.png'
+import NB_flag from '../images/flags/NB.png'
+import PE_flag from '../images/flags/PE.png'
+import NS_flag from '../images/flags/NS.png'
+import NL_flag from '../images/flags/NL.png'
+import NU_flag from '../images/flags/NU.png'
+import NT_flag from '../images/flags/NT.png'
+import YT_flag from '../images/flags/YT.png'
+import Canada_flag from '../images/flags/Canada.png'
 
 const maps = () => (
   <Layout>
     <Seo title="Maps"  description="Election map gallery" />
     <h1>Election Maps</h1>
     <p>Can't wait for the next election? Polling Canada is pleased to host a variety of unique election maps designed by our trusty staff cartographer, <a href="https://www.awmcphee.ca" target="_blank" rel="noreferrer">Alex McPhee</a>.</p>
+    <h2>Do It Yourself</h2>
+    <p>Make your own election predictions with PC DIY, our in-house map painting app.</p>
+    <div className="diyContainer">
+      <Link className="diyLink" to="/diy/ab" style={{backgroundColor: "#0D3692b0"}}><img className="flag" src={AB_flag} alt="" width="25" /><p>Alberta provincial legislature</p></Link>
+      <Link className="diyLink" to="/diy/sk" style={{backgroundColor: "#046A21b0"}}><img className="flag" src={SK_flag} alt="" width="25" /><p>Sask. provincial legislature</p></Link>
+    </div>
     <h2>Federal Elections</h2>
     <p>Even in the world's largest democracy, land doesn't vote. Ever wonder why federal campaigns mostly revolve around suburban Toronto? These innovative "cartograms" provide a detailed and unbiased look into every riding.</p>
     <div>
