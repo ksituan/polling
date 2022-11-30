@@ -905,6 +905,7 @@ input {
 }
 
 .partyCounterLabel {
+    margin: 0;
     font-family: Inter;
     font-weight: 700;
     font-size: 16pt;

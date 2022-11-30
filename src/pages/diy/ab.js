@@ -3,7 +3,9 @@ import { useState } from "react";
 
 import Layout from "../../components/layout"
 import Seo from "../../components/seo"
-import brandColours from "../../../content/brandColours"
+
+import PartyCount from "../../components/diy/PartyCount"
+import Palette from "../../components/diy/Palette"
 
 let ge2012 = {1: "", 2: "", 3: "", 4: "", 5: "", 6: "", 7: "", 8: "", 9: "", 10: "",
 11: "", 12: "", 13: "", 14: "", 15: "", 16: "", 17: "", 18: "", 19: "", 20: "",
@@ -35,26 +37,32 @@ let ge2019 = {1: "blue2", 2: "blue2", 3: "blue3", 4: "orange1", 5: "blue2", 6: "
 71: "blue2", 72: "orange1", 73: "blue4", 74: "blue4", 75: "blue2", 76: "blue4", 77: "blue4", 78: "blue4", 79: "blue4", 80: "blue4",
 81: "blue1", 82: "blue3", 83: "orange1", 84: "blue3", 85: "blue4", 86: "blue4", 87: "blue4"};
 
-let codes = [...Array(87).keys()].map(x => x + 1);
-let blank = {}
+let sortOrder = ["orange", "red", "blank", "teal", "blue", "green"];
 
-let sortColours = ["orange", "red", "blank", "teal", "blue", "green"];
+const paletteInfo = [
+    {name: "New Democrats", colour: "orange", angle: "45"},
+    {name: "United Conservatives", colour: "blue", angle: "-45"},
+    {name: "Wildrose Independence", colour: "green", angle: "0"},
+    {name: "Alberta Party", colour: "teal", angle: "90"},
+]
 
-function evaluateRating(colour) {
-    let value = 10 * sortColours.indexOf(colour.slice(0, -1));
-    if (sortColours.indexOf(colour.slice(0, -1)) > sortColours.indexOf("blank")) {
-        value += colour.slice(-1);
-    } else {
-        value -= colour.slice(-1);
-    }
-    return(value);
-}
+const paletteInfo15 = [
+    {id: "ndp", name: "New Democrats", colour: "orange", angle: "45"},
+    {id: "pc", name: "Prog. Conservatives", colour: "blue", angle: "-45"},
+    {id: "wrp", name: "Wildrose Party", colour: "green", angle: "0"},
+    {id: "abp", name: "Alberta Party", colour: "teal", angle: "90"},
+    {id: "alp", name: "Liberal Party", colour: "red", angle: "90"}
+]
 
-codes.forEach(x => blank[x] = "blank0");
+function Diy({size}) {
 
-function Diy({}) {
+    let codes = [...Array(size).keys()].map(x => x + 1);
+    let blank = {}
+    codes.forEach(x => blank[x] = "blank0");
+
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
+    const [palette, setPalette] = useState(paletteInfo);
 
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
@@ -66,10 +74,12 @@ function Diy({}) {
 
     const setElection19 = () => {
         setColours(ge2019);
+        setPalette(paletteInfo);
     } 
 
     const setElection15 = () => {
         setColours(ge2015);
+        setPalette(paletteInfo15);
     } 
 
     const setBlank = () => {
@@ -78,15 +88,9 @@ function Diy({}) {
 
     return(
         <div>
-            <div className="palette">
-                <PaletteRow paint={paint} setPaint={setPaint} name="New Democrats" colour="orange" angle="45"/>
-                <PaletteRow paint={paint} setPaint={setPaint} name="United Conservatives" colour="blue" angle="-45"/>
-                <PaletteRow paint={paint} setPaint={setPaint} name="Alberta Party" colour="teal" angle="90"/>
-                <PaletteRow paint={paint} setPaint={setPaint} name="Wildrose Independence" colour="green" angle="0"/>
-                <PaletteRow paint={paint} setPaint={setPaint} name="Liberal Party" colour="red" angle="90"/>
-            </div>
+            <Palette paint={paint} setPaint={setPaint} palette={palette} />
             <Map colours={colours} handlePaintClick={handlePaintClick} />
-            <PartyCount colours={colours}/>
+            <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection15} label={"2015 election"} />
                 <Button electionFunction={setElection19} label={"2019 election"} />
@@ -105,71 +109,6 @@ function Button({electionFunction, label}) {
     return(
         <button className="diyButton" onClick={electionFunction}>{label}</button>
     )
-}
-
-function PartyCount({colours}) {
-    colours = Object.values(colours);
-    colours = colours.sort((a,b) => evaluateRating(a) - evaluateRating(b));
-
-    let partyCounts = {};
-    for (const x of colours.map(x => x.slice(0, -1))) {
-        partyCounts[x] = partyCounts[x] ? partyCounts[x] + 1 : 1;
-    }
-
-    console.log()
-
-    return(
-        <div className="bar">
-            <div className="partyCount">
-                {colours.map(x => 
-                <svg className="partyCounter" viewBox="0 0 1200/87 48">
-                    <rect width="24" height="48" fill={`url(#${x})`} />
-                </svg>)}
-            </div>
-            <div className="partyCountLabels">
-                {Object.entries(partyCounts).map(x => 
-                <div className="partyCounterLabel" style={{width: x[1]/.87+"%"}}>{x[0] === "blank" ? "" : x[1]}</div>)}
-            </div>
-        </div>
-    )
-}
-
-function PaletteRow({paint, setPaint, name, colour, angle}) {
-
-    const [label, setLabel] = useState(name);
-
-    return(
-        <div className="paletteRow">
-            <input className="paletteLabel" value={label} onChange={(e) => setLabel(e.target.value)} />
-            <div className="paletteSwatch">
-                <PaletteColour colour={colour} thickness={"3"} angle={angle} id={colour + "1"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"5"} angle={angle} id={colour + "2"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"7"} angle={angle} id={colour + "3"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"9"} angle={angle} id={colour + "4"} paint={paint} setPaint={setPaint} />
-            </div>
-        </div>
-    );
-}
-
-function PaletteColour({colour, angle, thickness, id, paint, setPaint}) {
-
-    const handlePalettePick = () => {
-        if (id === paint) {
-            setPaint("blank0");
-        } else {
-            setPaint(id);
-        }
-    }
-
-    return(
-        <svg className={id === paint ? "paletteColour selected" : "paletteColour"} viewBox="0 0 32 32" onClick={handlePalettePick}>
-            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={`rotate(${angle})`}>
-                <path d="M -1,5 H 12" stroke={brandColours[colour]} strokeWidth={`${thickness}px`} />
-            </pattern>
-            <rect width="32" height="32" fill="white" />
-            <rect width="32" height="32" fill={`url(#${id})`} />
-        </svg>
-    );
 }
 
 function Map({colours, handlePaintClick}) {
@@ -311,7 +250,7 @@ const ab = () => (
   <Layout>
     <Seo title="DIY: Alberta" description="Colour a map of the Alberta provincial legislature" />
     <h1>PC DIY: Alberta</h1>
-    <Diy/>
+    <Diy size={87} />
   </Layout>
 )
 
