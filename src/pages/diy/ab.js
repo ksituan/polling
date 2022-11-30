@@ -5,6 +5,26 @@ import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 import brandColours from "../../../content/brandColours"
 
+let ge2012 = {1: "", 2: "", 3: "", 4: "", 5: "", 6: "", 7: "", 8: "", 9: "", 10: "",
+11: "", 12: "", 13: "", 14: "", 15: "", 16: "", 17: "", 18: "", 19: "", 20: "",
+21: "", 22: "", 23: "", 24: "", 25: "", 26: "", 27: "", 28: "", 29: "", 30: "",
+31: "", 32: "", 33: "", 34: "", 35: "", 36: "", 37: "", 38: "", 39: "", 40: "",
+41: "", 42: "", 43: "", 44: "", 45: "", 46: "", 47: "", 48: "", 49: "", 50: "",
+51: "", 52: "", 53: "", 54: "", 55: "", 56: "", 57: "", 58: "", 59: "", 60: "",
+61: "", 62: "", 63: "", 64: "", 65: "", 66: "", 67: "", 68: "", 69: "", 70: "",
+71: "", 72: "", 73: "", 74: "", 75: "", 76: "", 77: "", 78: "", 79: "", 80: "",
+81: "", 82: "", 83: "", 84: "", 85: "", 86: "", 87: ""};
+
+let ge2015 = {1: "orange1", 2: "orange1", 3: "orange1", 4: "orange2", 5: "blue1", 6: "orange2", 7: "orange2", 8: "blue1", 9: "teal1", 10: "orange1",
+11: "blue1", 12: "orange1", 13: "blue1", 14: "blue1", 15: "orange2", 16: "blue1", 17: "orange1", 18: "orange1", 19: "orange1", 20: "orange2",
+21: "blue1", 22: "orange1", 23: "blue1", 24: "blue1", 25: "orange2", 26: "blue2", 27: "orange4", 28: "orange4", 29: "orange4", 30: "orange4",
+31: "orange4", 32: "orange4", 33: "orange4", 34: "orange4", 35: "orange4", 36: "orange4", 37: "orange4", 38: "orange4", 39: "orange4", 40: "orange4",
+41: "orange4", 42: "orange3", 43: "orange3", 44: "orange4", 45: "orange4", 46: "orange3", 47: "green1", 48: "green1", 49: "green2", 50: "orange1",
+51: "green2", 52: "green3", 53: "blue1", 54: "green1", 55: "green1", 56: "green2", 57: "green2", 58: "green1", 59: "green2", 60: "green1",
+61: "green1", 62: "orange2", 63: "orange1", 64: "blue1", 65: "green1", 66: "green2", 67: "orange1", 68: "green1", 69: "orange2", 70: "orange1",
+71: "orange3", 72: "orange4", 73: "green1", 74: "orange2", 75: "orange2", 76: "green3", 77: "orange1", 78: "orange1", 79: "orange1", 80: "green1",
+81: "orange3", 82: "orange2", 83: "orange3", 84: "orange2", 85: "green1", 86: "blue1", 87: "orange1"};
+
 let ge2019 = {1: "blue2", 2: "blue2", 3: "blue3", 4: "orange1", 5: "blue2", 6: "blue1", 7: "blue2", 8: "blue2", 9: "blue2", 10: "blue1",
 11: "blue4", 12: "blue3", 13: "blue3", 14: "blue4", 15: "blue1", 16: "blue4", 17: "orange2", 18: "orange2", 19: "blue3", 20: "blue2",
 21: "blue3", 22: "blue4", 23: "blue4", 24: "blue4", 25: "blue1", 26: "blue4", 27: "orange2", 28: "orange1", 29: "orange4", 30: "orange1",
@@ -44,8 +64,12 @@ function Diy({}) {
         } 
     }
 
-    const setElection = () => {
+    const setElection19 = () => {
         setColours(ge2019);
+    } 
+
+    const setElection15 = () => {
+        setColours(ge2015);
     } 
 
     const setBlank = () => {
@@ -64,7 +88,8 @@ function Diy({}) {
             <Map colours={colours} handlePaintClick={handlePaintClick} />
             <PartyCount colours={colours}/>
             <div className="buttonBar">
-                <Button electionFunction={setElection} label={"2019 election"} />
+                <Button electionFunction={setElection15} label={"2015 election"} />
+                <Button electionFunction={setElection19} label={"2019 election"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">
