@@ -1,6 +1,5 @@
 import * as React from "react"
 import PaletteRow from "./PaletteRow"
-import { useState } from "react";
 
 function Palette({palette, paint, setPaint}) {
 

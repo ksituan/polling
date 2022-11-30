@@ -5,20 +5,9 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-import BC_flag from '../images/flags/BC.png'
 import AB_flag from '../images/flags/AB.png'
 import SK_flag from '../images/flags/SK.png'
 import MB_flag from '../images/flags/MB.png'
-import ON_flag from '../images/flags/ON.png'
-import QC_flag from '../images/flags/QC.png'
-import NB_flag from '../images/flags/NB.png'
-import PE_flag from '../images/flags/PE.png'
-import NS_flag from '../images/flags/NS.png'
-import NL_flag from '../images/flags/NL.png'
-import NU_flag from '../images/flags/NU.png'
-import NT_flag from '../images/flags/NT.png'
-import YT_flag from '../images/flags/YT.png'
-import Canada_flag from '../images/flags/Canada.png'
 
 const maps = () => (
   <Layout>
