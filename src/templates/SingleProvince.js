@@ -78,7 +78,6 @@ query MyQuery($jurisdiction: String, $afterDate: Date, $beforeDate: Date) {
       jurisdiction
       method
       moe
-      note
       n
       poll {
         party
