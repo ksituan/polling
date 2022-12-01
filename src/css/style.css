@@ -941,6 +941,12 @@ input {
     justify-content: flex-start;
 }
 
+@media (max-width: 800px) {
+    .diyContainer {
+        flex-wrap: wrap;
+    }
+}
+
 .diyLink {
     margin: 0;
     width: 6rem;
