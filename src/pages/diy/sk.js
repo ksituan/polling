@@ -35,7 +35,7 @@ function Diy({size}) {
 
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
-    const [caption, setCaption] = useState("Saskatoon Meewasin");
+    const [caption, setCaption] = useState("");
 
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
