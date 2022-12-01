@@ -958,3 +958,27 @@ input {
 .diyLink:hover {
     rotate: 1deg;
 }
+
+.hoverTip .hoverText {
+    position: absolute;
+    font-family: Inter;
+    background-color: #ffffffb0;
+    text-align: center;
+    left: 50%;
+    bottom: 0.75rem;
+    width: 8rem;
+    margin-left: -4.5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.hoverTip .hoverText::after {
+    content: " ";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ffffffb0 transparent transparent transparent;
+}
