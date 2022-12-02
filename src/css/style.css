@@ -822,7 +822,11 @@ input {
 /* DIY pages */
 
 .diy {
-    max-width: 800px;
+    max-width: min(800px, 95vw);
+}
+
+.diy * {
+    max-width: min(800px, 95vw);
 }
 
 .palette {
@@ -909,8 +913,8 @@ input {
 
 .partyCount {
     position: relative;
-    display: flex;
     width: 100%;
+    display: flex;
 }
 
 .partyCount::before {
@@ -929,12 +933,14 @@ input {
     position: absolute;
     top: 0.25rem;
     display: flex;
+    justify-content: center;
     width: 100%;
 }
 
 .partyCounter {
-    border-radius: 0.1rem;
-    height: 2rem;
+    border-radius: 0.2rem;
+    margin: 0;
+    height: min(2rem, 4vw)
 }
 
 .partyCounterLabel {

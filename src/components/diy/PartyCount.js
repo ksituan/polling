@@ -26,8 +26,8 @@ function PartyCount({sortOrder, colours, size}) {
         <div className="bar">
             <div className="partyCount">
                 {colours.map(x => 
-                <svg className="partyCounter" viewBox={`0 0 1200/${size} 48`}>
-                    <rect width={1200/size} height="48" fill={`url(#${x})`} />
+                <svg className="partyCounter" viewBox={`0 0 800/${size} 96`}>
+                    <rect width={800/size} height="96" fill={`url(#${x})`} />
                 </svg>)}
             </div>
             <div className="partyCountLabels">
