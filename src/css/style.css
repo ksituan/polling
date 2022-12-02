@@ -821,6 +821,10 @@ input {
 
 /* DIY pages */
 
+.diy {
+    max-width: 800px;
+}
+
 .palette {
     display: flex;
     margin: 1rem;

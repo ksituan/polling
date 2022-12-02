@@ -63,7 +63,7 @@ function Diy({size}) {
     }
 
     return(
-        <div>
+        <div className="diy">
             <Palette paint={paint} setPaint={setPaint} palette={palette} />
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
