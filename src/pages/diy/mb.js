@@ -15,7 +15,7 @@ let ge2019 = {1: "blue2", 2: "blue4", 3: "blue4", 4: "blue4", 5: "blue4", 6: "bl
 41: "blue3", 42: "orange1", 43: "red3", 44: "blue3", 45: "orange2", 46: "orange3", 47: "orange4", 48: "blue4", 49: "blue4", 50: "blue4",
 51: "blue4", 52: "blue2", 53: "blue4", 54: "blue4", 55: "blue1", 56: "blue4", 57: "orange4"};
 
-let ridingNames = {1: "Brandon East", 2: "Turtle Mountain", 3: "Borderland", 4: "Riding Mountain", 5: "Portage la Prairie", 6: "Agassiz", 7: "Interlake-Gimli", 8: "Sprude Woods", 9: "Midland", 10: "Lakeside", 
+let ridingNames = {1: "Brandon East", 2: "Turtle Mountain", 3: "Borderland", 4: "Riding Mountain", 5: "Portage la Prairie", 6: "Agassiz", 7: "Interlake-Gimli", 8: "Spruce Woods", 9: "Midland", 10: "Lakeside", 
 11: "Dauphin", 12: "Morden-Winkler", 13: "Brandon West", 14: "Seine River", 15: "Transcona", 16: "Radisson", 17: "Kildonan-River East", 18: "St. Johns", 19: "McPhillips", 20: "The Maples",
 21: "St. James", 22: "Burrows", 23: "Notre Dame", 24: "Assiniboia", 25: "Wolseley", 26: "Tuxedo", 27: "Roblin", 28: "River Heights", 29: "Fort Rouge", 30: "Fort Garry",
 31: "Fort Richmond", 32: "Riel", 33: "Elmwood", 34: "Concordia", 35: "Point Douglas", 36: "Union Station", 37: "St. Boniface", 38: "Fort Whyte", 39: "Waverley", 40: "Southdale",
