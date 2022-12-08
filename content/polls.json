@@ -78512,5 +78512,39 @@
                 "score": 3.3
             }
         ]
+    },
+    {
+        "n": 591,
+        "company": "Angus Reid",
+        "date": "Nov. 28-Dec. 3, 2022",
+        "field": "2022-12-03",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "WIP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
