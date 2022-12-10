@@ -172,5 +172,11 @@
         "jurisdiction": "MB",
         "type": "by",
         "riding": "Kirkfield Park"
+    },
+    {
+        "date": "2023-03-26",
+        "jurisdiction": "MB",
+        "type": "leadership",
+        "party": "GPM"
     }
 ]
