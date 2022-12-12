@@ -12,22 +12,28 @@ function PartyCount({sortOrder, colours, size}) {
         return(value);
     }
 
-    colours = Object.values(colours);
-    colours = colours.sort((a,b) => evaluateRating(a) - evaluateRating(b));
+    colours = Object.values(colours).sort((a,b) => evaluateRating(a) - evaluateRating(b));
+
+    const colourCounts = {};
+    for (const n of colours) {
+        colourCounts[n] = colourCounts[n] ? colourCounts[n] + 1 : 1;
+    }
+
+    const colourSet = Array.from(new Set(colours)).sort((a,b) => evaluateRating(a) - evaluateRating(b));
+
+    console.log(colourSet);
 
     let partyCounts = {};
     for (const x of colours.map(x => x.slice(0, -1))) {
         partyCounts[x] = partyCounts[x] ? partyCounts[x] + 1 : 1;
     }
 
-    console.log()
-
     return(
         <div className="bar">
             <div className="partyCount">
-                {colours.map(x => 
-                <svg className="partyCounter" viewBox={`0 0 800/${size} 96`}>
-                    <rect width={800/size} height="96" fill={`url(#${x})`} />
+                {colourSet.map(x => 
+                <svg className="partyCounter" viewBox={`0 0 ${colourCounts[x]*1200/size} 36`}>
+                    <rect x="-1" width={colourCounts[x]*1200/size + 2} height="36" fill={`url(#${x})`} />
                 </svg>)}
             </div>
             <div className="partyCountLabels">

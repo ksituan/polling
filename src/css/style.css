@@ -840,10 +840,6 @@ input {
         flex-wrap: wrap;
     }
 
-    .partyCounterLabel {
-        display: none;
-    }
-
     .hoverTip .hoverText {
         display: none;
     }
@@ -931,16 +927,15 @@ input {
 }
 
 .partyCountLabels {
-    position: absolute;
-    top: 0.25rem;
     display: flex;
     justify-content: center;
     width: 100%;
+    margin-top: 0.1rem;
 }
 
 .partyCounter {
     margin: 0;
-    height: min(2rem, 4vw)
+    height: min(24px, 3vw);
 }
 
 .partyCounterLabel {
@@ -949,7 +944,12 @@ input {
     font-weight: 700;
     font-size: 16pt;
     text-align: center;
-    text-shadow: white 2px 2px;
+}
+
+@media (max-width: 800px) {
+    .partyCounterLabel {
+        font-size: 10pt;
+    }
 }
 
 .buttonBar {
