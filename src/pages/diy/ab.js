@@ -18,25 +18,25 @@ let ge2012 = {1: "", 2: "", 3: "", 4: "", 5: "", 6: "", 7: "", 8: "", 9: "", 10:
 71: "", 72: "", 73: "", 74: "", 75: "", 76: "", 77: "", 78: "", 79: "", 80: "",
 81: "", 82: "", 83: "", 84: "", 85: "", 86: "", 87: ""};
 
-let ge2015 = {1: "orange1", 2: "orange1", 3: "orange1", 4: "orange2", 5: "blue1", 6: "orange2", 7: "orange2", 8: "blue1", 9: "teal1", 10: "orange1",
-11: "blue1", 12: "orange1", 13: "blue1", 14: "blue1", 15: "orange2", 16: "blue1", 17: "orange1", 18: "orange1", 19: "orange1", 20: "orange2",
-21: "blue1", 22: "orange1", 23: "blue1", 24: "blue1", 25: "orange2", 26: "blue2", 27: "orange4", 28: "orange4", 29: "orange4", 30: "orange4",
-31: "orange4", 32: "orange4", 33: "orange4", 34: "orange4", 35: "orange4", 36: "orange4", 37: "orange4", 38: "orange4", 39: "orange4", 40: "orange4",
-41: "orange4", 42: "orange3", 43: "orange3", 44: "orange4", 45: "orange4", 46: "orange3", 47: "green1", 48: "green1", 49: "green2", 50: "orange1",
-51: "green2", 52: "green3", 53: "blue1", 54: "green1", 55: "green1", 56: "green2", 57: "green2", 58: "green1", 59: "green2", 60: "green1",
-61: "green1", 62: "orange2", 63: "orange1", 64: "blue1", 65: "green1", 66: "green2", 67: "orange1", 68: "green1", 69: "orange2", 70: "orange1",
-71: "orange3", 72: "orange4", 73: "green1", 74: "orange2", 75: "orange2", 76: "green3", 77: "orange1", 78: "orange1", 79: "orange1", 80: "green1",
-81: "orange3", 82: "orange2", 83: "orange3", 84: "orange2", 85: "green1", 86: "blue1", 87: "orange1"};
+let ge2015 = {1: "ndp1", 2: "ndp1", 3: "ndp1", 4: "ndp2", 5: "pc1", 6: "ndp2", 7: "ndp2", 8: "pc1", 9: "abp1", 10: "ndp1",
+11: "pc1", 12: "ndp1", 13: "pc1", 14: "pc1", 15: "ndp2", 16: "pc1", 17: "ndp1", 18: "ndp1", 19: "ndp1", 20: "ndp2",
+21: "pc1", 22: "ndp1", 23: "pc1", 24: "pc1", 25: "ndp2", 26: "pc2", 27: "ndp4", 28: "ndp4", 29: "ndp4", 30: "ndp4",
+31: "ndp4", 32: "ndp4", 33: "ndp4", 34: "ndp4", 35: "ndp4", 36: "ndp4", 37: "ndp4", 38: "ndp4", 39: "ndp4", 40: "ndp4",
+41: "ndp4", 42: "ndp3", 43: "ndp3", 44: "ndp4", 45: "ndp4", 46: "ndp3", 47: "wrp1", 48: "wrp1", 49: "wrp2", 50: "ndp1",
+51: "wrp2", 52: "wrp3", 53: "pc1", 54: "wrp1", 55: "wrp1", 56: "wrp2", 57: "wrp2", 58: "wrp1", 59: "wrp2", 60: "wrp1",
+61: "wrp1", 62: "ndp2", 63: "ndp1", 64: "pc1", 65: "wrp1", 66: "wrp2", 67: "ndp1", 68: "wrp1", 69: "ndp2", 70: "ndp1",
+71: "ndp3", 72: "ndp4", 73: "wrp1", 74: "ndp2", 75: "ndp2", 76: "wrp3", 77: "ndp1", 78: "ndp1", 79: "ndp1", 80: "wrp1",
+81: "ndp3", 82: "ndp2", 83: "ndp3", 84: "ndp2", 85: "wrp1", 86: "pc1", 87: "ndp1"};
 
-let ge2019 = {1: "blue2", 2: "blue2", 3: "blue3", 4: "orange1", 5: "blue2", 6: "blue1", 7: "blue2", 8: "blue2", 9: "blue2", 10: "blue1",
-11: "blue4", 12: "blue3", 13: "blue3", 14: "blue4", 15: "blue1", 16: "blue4", 17: "orange2", 18: "orange2", 19: "blue3", 20: "blue2",
-21: "blue3", 22: "blue4", 23: "blue4", 24: "blue4", 25: "blue1", 26: "blue4", 27: "orange2", 28: "orange1", 29: "orange4", 30: "orange1",
-31: "orange2", 32: "orange3", 33: "orange4", 34: "orange4", 35: "orange2", 36: "orange1", 37: "orange2", 38: "orange2", 39: "orange2", 40: "orange3",
-41: "orange2", 42: "orange1", 43: "blue1", 44: "orange4", 45: "orange1", 46: "orange1", 47: "blue4", 48: "blue4", 49: "blue4", 50: "blue1",
-51: "blue4", 52: "blue4", 53: "blue4", 54: "blue4", 55: "blue4", 56: "blue4", 57: "blue4", 58: "blue4", 59: "blue4", 60: "blue4",
-61: "blue4", 62: "blue3", 63: "blue4", 64: "blue4", 65: "blue4", 66: "blue4", 67: "blue4", 68: "blue4", 69: "blue4", 70: "blue3",
-71: "blue2", 72: "orange1", 73: "blue4", 74: "blue4", 75: "blue2", 76: "blue4", 77: "blue4", 78: "blue4", 79: "blue4", 80: "blue4",
-81: "blue1", 82: "blue3", 83: "orange1", 84: "blue3", 85: "blue4", 86: "blue4", 87: "blue4"};
+let ge2019 = {1: "ucp2", 2: "ucp2", 3: "ucp3", 4: "ndp1", 5: "ucp2", 6: "ucp1", 7: "ucp2", 8: "ucp2", 9: "ucp2", 10: "ucp1",
+11: "ucp4", 12: "ucp3", 13: "ucp3", 14: "ucp4", 15: "ucp1", 16: "ucp4", 17: "ndp2", 18: "ndp2", 19: "ucp3", 20: "ucp2",
+21: "ucp3", 22: "ucp4", 23: "ucp4", 24: "ucp4", 25: "ucp1", 26: "ucp4", 27: "ndp2", 28: "ndp1", 29: "ndp4", 30: "ndp1",
+31: "ndp2", 32: "ndp3", 33: "ndp4", 34: "ndp4", 35: "ndp2", 36: "ndp1", 37: "ndp2", 38: "ndp2", 39: "ndp2", 40: "ndp3",
+41: "ndp2", 42: "ndp1", 43: "ucp1", 44: "ndp4", 45: "ndp1", 46: "ndp1", 47: "ucp4", 48: "ucp4", 49: "ucp4", 50: "ucp1",
+51: "ucp4", 52: "ucp4", 53: "ucp4", 54: "ucp4", 55: "ucp4", 56: "ucp4", 57: "ucp4", 58: "ucp4", 59: "ucp4", 60: "ucp4",
+61: "ucp4", 62: "ucp3", 63: "ucp4", 64: "ucp4", 65: "ucp4", 66: "ucp4", 67: "ucp4", 68: "ucp4", 69: "ucp4", 70: "ucp3",
+71: "ucp2", 72: "ndp1", 73: "ucp4", 74: "ucp4", 75: "ucp2", 76: "ucp4", 77: "ucp4", 78: "ucp4", 79: "ucp4", 80: "ucp4",
+81: "ucp1", 82: "ucp3", 83: "ndp1", 84: "ucp3", 85: "ucp4", 86: "ucp4", 87: "ucp4"};
 
 let ridingNames = {1: "Calgary-Acadia", 2: "Calgary-Beddington", 3: "Calgary-Bow", 4: "Calgary-Buffalo", 5: "Calgary-Cross", 6: "Calgary-Currie", 7: "Calgary-East", 8: "Calgary-Edgemont", 9: "Calgary-Elbow", 10: "Calgary-Falconridge",
 11: "Calgary-Fish Creek", 12: "Calgary-Foothills", 13: "Calgary-Glenmore", 14: "Calgary-Hays", 15: "Calgary-Klein", 16: "Calgary-Lougheed", 17: "Calgary-McCall", 18: "Calgary-Mountain View", 19: "Calgary-North", 20: "Calgary-North East",
@@ -48,22 +48,7 @@ let ridingNames = {1: "Calgary-Acadia", 2: "Calgary-Beddington", 3: "Calgary-Bow
 71: "Lethbridge-East", 72: "Lethbridge-West", 73: "Livingstone-Macleod", 74: "Maskwacis-Wetaskiwin", 75: "Morinville-St. Albert", 76: "Olds-Didsbury-Three Hills", 77: "Peace River", 78: "Red Deer-North", 79: "Red Deer-South", 80: "Rimbey-Rocky Mountain House-Sundre",
 81: "Sherwood Park", 82: "Spruce Grove-Stony Plain", 83: "St. Albert", 84: "Strathcona-Sherwood Park", 85: "Taber-Warner", 86: "Vermilion-Lloydminster-Wainwright", 87: "West Yellowhead"};
 
-let sortOrder = ["orange", "red", "blank", "teal", "blue", "green"];
-
-const paletteInfo = [
-    {name: "New Democrats", colour: "orange", angle: "45"},
-    {name: "United Conservatives", colour: "blue", angle: "-45"},
-    {name: "Wildrose Independence", colour: "green", angle: "0"},
-    {name: "Alberta Party", colour: "teal", angle: "90"},
-]
-
-const paletteInfo15 = [
-    {id: "ndp", name: "New Democrats", colour: "orange", angle: "45"},
-    {id: "pc", name: "Prog. Conservatives", colour: "blue", angle: "-45"},
-    {id: "wrp", name: "Wildrose Party", colour: "green", angle: "0"},
-    {id: "abp", name: "Alberta Party", colour: "teal", angle: "90"},
-    {id: "alp", name: "Liberal Party", colour: "red", angle: "90"}
-]
+let sortOrder = ["ndp", "alp", "extra", "blank", "abp", "pc", "ucp", "wrp", "wip"];
 
 function Diy({size}) {
 
@@ -73,9 +58,8 @@ function Diy({size}) {
 
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
-    const [palette, setPalette] = useState(paletteInfo);
     const [caption, setCaption] = useState("");
-
+    
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
             setColours({...colours, [e.target.id]: "blank0"});
@@ -83,11 +67,6 @@ function Diy({size}) {
             setColours({...colours, [e.target.id]: paint});
         } 
     }
-
-    const setElection19 = () => {
-        setColours(ge2019);
-        setPalette(paletteInfo);
-    } 
 
     const handleHover = (e) => {
         setCaption(ridingNames[e.target.id])
@@ -98,18 +77,73 @@ function Diy({size}) {
         setPalette(paletteInfo15);
     } 
 
+    const setElection19 = () => {
+        setColours(ge2019);
+        setPalette(paletteInfo);
+    } 
+
     const setBlank = () => {
         setColours(blank);
+        setPalette(paletteInfo);
     }
+
+    const addParty = () => {
+        if (Object.keys(palette).includes("extra")) {
+            let newColours = {...colours};
+            for (let x in newColours) {
+                if (newColours[x].includes("extra")) {
+                    newColours[x] = "blank0";
+                }
+            }
+            setColours(newColours);
+            let newPalette = {...palette};
+            delete newPalette.extra;
+            setPalette(newPalette);
+        } else {
+            let newPalette = {...palette, ...{extra : {name: "New Party", colour: "gray", pattern: "solid"}}};
+            setPalette(newPalette);
+        }
+    }
+
+    const deleteParty = (id) => {
+        let newPalette = {...palette};
+        delete newPalette[id];
+        setPalette(newPalette);
+        let newColours = {...colours};
+        for (let x in newColours) {
+            if (newColours[x].includes(id)) {
+                newColours[x] = "blank0";
+            }
+        }
+        setColours(newColours);
+    }
+    
+    const paletteInfo15 = {
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "pc" : {name: "Prog. Conservatives", colour: "blue", pattern: "right"},
+        "wrp" : {name: "Wildrose Party", colour: "green", pattern: "vert"},
+        "abp" : {name: "Alberta Party", colour: "teal", pattern: "hor"},
+        "alp" : {name: "Liberal Party", colour: "red", pattern: "spots"},
+    };
+
+    const paletteInfo = {
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "ucp" : {name: "United Conservatives", colour: "blue", pattern: "right"},
+        "wrp" : {name: "Wildrose Independence", colour: "green", pattern: "vert"},
+        "abp" : {name: "Alberta Party", colour: "teal", pattern: "hor"},
+    };
+
+    const [palette, setPalette] = useState(paletteInfo);
 
     return(
         <div className="diy">
-            <Palette paint={paint} setPaint={setPaint} palette={palette} />
+            <Palette paint={paint} setPaint={setPaint} palette={palette} setPalette={setPalette} deleteParty={deleteParty} />
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection15} label={"2015 election"} />
                 <Button electionFunction={setElection19} label={"2019 election"} />
+                <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">

@@ -8,28 +8,21 @@ import PartyCount from "../../components/diy/PartyCount"
 import Palette from "../../components/diy/Palette"
 import Hover from "../../components/diy/Hover"
 
-let ge2019 = {1: "blue2", 2: "blue4", 3: "blue4", 4: "blue4", 5: "blue4", 6: "blue4", 7: "blue3", 8: "blue4", 9: "blue4", 10: "blue4",
-11: "blue1", 12: "blue4", 13: "blue4", 14: "blue2", 15: "orange1", 16: "blue2", 17: "blue2", 18: "orange3", 19: "blue1", 20: "orange1",
-21: "orange2", 22: "orange2", 23: "orange4", 24: "blue1", 25: "orange1", 26: "blue3", 27: "blue4", 28: "red3", 29: "orange4", 30: "orange2",
-31: "blue3", 32: "blue1", 33: "orange2", 34: "orange3", 35: "orange4", 36: "orange4", 37: "red2", 38: "blue3", 39: "blue3", 40: "blue1",
-41: "blue3", 42: "orange1", 43: "red3", 44: "blue3", 45: "orange2", 46: "orange3", 47: "orange4", 48: "blue4", 49: "blue4", 50: "blue4",
-51: "blue4", 52: "blue2", 53: "blue4", 54: "blue4", 55: "blue1", 56: "blue4", 57: "orange4"};
+let ge2019 = {1: "pc2", 2: "pc4", 3: "pc4", 4: "pc4", 5: "pc4", 6: "pc4", 7: "pc3", 8: "pc4", 9: "pc4", 10: "pc4",
+11: "pc1", 12: "pc4", 13: "pc4", 14: "pc2", 15: "ndp1", 16: "pc2", 17: "pc2", 18: "ndp3", 19: "pc1", 20: "ndp1",
+21: "ndp2", 22: "ndp2", 23: "ndp4", 24: "pc1", 25: "ndp1", 26: "pc3", 27: "pc4", 28: "mlp3", 29: "ndp4", 30: "ndp2",
+31: "pc3", 32: "pc1", 33: "ndp2", 34: "ndp3", 35: "ndp4", 36: "ndp4", 37: "mlp2", 38: "pc3", 39: "pc3", 40: "pc1",
+41: "pc3", 42: "ndp1", 43: "mlp3", 44: "pc3", 45: "ndp2", 46: "ndp3", 47: "ndp4", 48: "pc4", 49: "pc4", 50: "pc4",
+51: "pc4", 52: "pc2", 53: "pc4", 54: "pc4", 55: "pc1", 56: "pc4", 57: "ndp4"};
 
 let ridingNames = {1: "Brandon East", 2: "Turtle Mountain", 3: "Borderland", 4: "Riding Mountain", 5: "Portage la Prairie", 6: "Agassiz", 7: "Interlake-Gimli", 8: "Spruce Woods", 9: "Midland", 10: "Lakeside", 
 11: "Dauphin", 12: "Morden-Winkler", 13: "Brandon West", 14: "Seine River", 15: "Transcona", 16: "Radisson", 17: "Kildonan-River East", 18: "St. Johns", 19: "McPhillips", 20: "The Maples",
 21: "St. James", 22: "Burrows", 23: "Notre Dame", 24: "Assiniboia", 25: "Wolseley", 26: "Tuxedo", 27: "Roblin", 28: "River Heights", 29: "Fort Rouge", 30: "Fort Garry",
 31: "Fort Richmond", 32: "Riel", 33: "Elmwood", 34: "Concordia", 35: "Point Douglas", 36: "Union Station", 37: "St. Boniface", 38: "Fort Whyte", 39: "Waverley", 40: "Southdale",
-41: "Lagimodière", 42: "St. Vital", 43: "Tyndall Park", 44: "Kirkfield Park", 45: "Thompson", 46: "Flin Flon", 47: "Keewatinook", 48: "Lac du Bonnet", 49: "Red River North", 50: "La Vérendrye",
+41: "Lagimodière", 42: "St. Vital", 43: "Tyndall Park", 44: "Kirkfield Park", 45: "Thompson", 46: "Flin Flon", 47: "Keewatinook", 48: "Lac du Bonnet", 49: "mlp River North", 50: "La Vérendrye",
 51: "Steinbach", 52: "Selkirk", 53: "Dawson Trail", 54: "Springfield-Ritchot", 55: "Rossmere", 56: "Swan River", 57: "The Pas-Kameesak"};
 
-let sortOrder = ["green", "orange", "red", "blank", "blue"];
-
-const paletteInfo = [
-    {name: "New Democrats", colour: "orange", angle: "45"},
-    {name: "Prog. Conservatives", colour: "blue", angle: "-45"},
-    {name: "Liberal Party", colour: "red", angle: "90"},
-    {name: "Green Party", colour: "green", angle: "0"},
-]
+let sortOrder = ["gpm", "ndp", "mlp", "blank", "extra", "pc"];
 
 function Diy({size}) {
 
@@ -39,9 +32,8 @@ function Diy({size}) {
 
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
-    const [palette, setPalette] = useState(paletteInfo);
     const [caption, setCaption] = useState("");
-
+    
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
             setColours({...colours, [e.target.id]: "blank0"});
@@ -50,25 +42,68 @@ function Diy({size}) {
         } 
     }
 
-    const setElection19 = () => {
-        setColours(ge2019);
-    } 
-
     const handleHover = (e) => {
         setCaption(ridingNames[e.target.id])
     }
 
+    const setElection19 = () => {
+        setColours(ge2019);
+        setPalette(paletteInfo);
+    } 
+
     const setBlank = () => {
         setColours(blank);
+        setPalette(paletteInfo);
     }
+
+    const addParty = () => {
+        if (Object.keys(palette).includes("extra")) {
+            let newColours = {...colours};
+            for (let x in newColours) {
+                if (newColours[x].includes("extra")) {
+                    newColours[x] = "blank0";
+                }
+            }
+            setColours(newColours);
+            let newPalette = {...palette};
+            delete newPalette.extra;
+            setPalette(newPalette);
+        } else {
+            let newPalette = {...palette, ...{extra : {name: "New Party", colour: "gray", pattern: "solid"}}};
+            setPalette(newPalette);
+        }
+    }
+
+    const deleteParty = (id) => {
+        let newPalette = {...palette};
+        delete newPalette[id];
+        setPalette(newPalette);
+        let newColours = {...colours};
+        for (let x in newColours) {
+            if (newColours[x].includes(id)) {
+                newColours[x] = "blank0";
+            }
+        }
+        setColours(newColours);
+    }
+
+    const paletteInfo = {
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "pc" : {name: "Prog. Conservatives", colour: "blue", pattern: "right"},
+        "mlp" : {name: "Liberal Party", colour: "red", pattern: "hor"},
+        "gpm" : {name: "Green Party", colour: "green", pattern: "vert"},
+    }
+
+    const [palette, setPalette] = useState(paletteInfo);
 
     return(
         <div className="diy">
-            <Palette paint={paint} setPaint={setPaint} palette={palette} />
+            <Palette paint={paint} setPaint={setPaint} palette={palette} setPalette={setPalette} deleteParty={deleteParty} />
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection19} label={"2019 election"} />
+                <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">

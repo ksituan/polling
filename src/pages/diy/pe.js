@@ -8,22 +8,15 @@ import PartyCount from "../../components/diy/PartyCount"
 import Palette from "../../components/diy/Palette"
 import Hover from "../../components/diy/Hover"
 
-let ge2019 = {1: "blue2", 2: "blue3", 3: "blue3", 4: "blue3", 5: "green1", 6: "blue2", 7: "blue4", 8: "blue1", 9: "blue2", 10: "red2",
-11: "green1", 12: "green2", 13: "green1", 14: "red1", 15: "blue2", 16: "red2", 17: "green3", 18: "blue4", 19: "blue2", 20: "blue4",
-21: "green1", 22: "green2", 23: "green1", 24: "red2", 25: "red1", 26: "blue1", 27: "red3"};
+let ge2019 = {1: "peipc2", 2: "peipc3", 3: "peipc3", 4: "peipc3", 5: "gppei1", 6: "peipc2", 7: "peipc4", 8: "peipc1", 9: "peipc2", 10: "lppei2",
+11: "gppei1", 12: "gppei2", 13: "gppei1", 14: "lppei1", 15: "peipc2", 16: "lppei2", 17: "gppei3", 18: "peipc4", 19: "peipc2", 20: "peipc4",
+21: "gppei1", 22: "gppei2", 23: "gppei1", 24: "lppei2", 25: "lppei1", 26: "peipc1", 27: "lppei3"};
 
 let ridingNames = {1: "Souris-Elmira", 2: "Georgetown-Pownal", 3: "Montague-Kilmuir", 4: "Belfast-Murray River", 5: "Mermaid-Stratford", 6: "Stratford-Keppoch", 7: "Morell-Donagh", 8: "Stanhope-Marshfield", 9: "Charlottetown-Hillsborough Park", 10: "Charlottetown-Winsloe",
 11: "Charlottetown-Belvedere", 12: "Charlottetown-Victoria Park", 13: "Charlottetown-Brighton", 14: "Charlottetown-West Royalty", 15: "Brackley-Hunter River", 16: "Cornwall-Meadowbank", 17: "New Haven-Rocky Point", 18: "Rustico-Emerald", 19: "Borden-Kinkora", 20: "Kensington-Malpeque",
 21: "Summerside-Wilmot", 22: "Summerside-South Drive", 23: "Tyne Valley-Sherbrooke", 24: "Evangeline-Miscouche", 25: "O'Leary-Inverness", 26: "Alberton-Bloomfield", 27: "Tignish-Palmer Road"};
 
-let sortOrder = ["green", "orange", "red", "blank", "blue"];
-
-const paletteInfo = [
-    {name: "Green Party", colour: "green", angle: "0"},
-    {name: "Liberal Party", colour: "red", angle: "90"},
-    {name: "Prog. Conservatives", colour: "blue", angle: "-45"},
-    {name: "New Democrats", colour: "orange", angle: "45"},
-]
+let sortOrder = ["gppei", "ndp", "lppei", "extra", "blank", "peipc"];
 
 function Diy({size}) {
 
@@ -33,9 +26,8 @@ function Diy({size}) {
 
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
-    const [palette, setPalette] = useState(paletteInfo);
     const [caption, setCaption] = useState("");
-
+    
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
             setColours({...colours, [e.target.id]: "blank0"});
@@ -44,25 +36,68 @@ function Diy({size}) {
         } 
     }
 
-    const setElection19 = () => {
-        setColours(ge2019);
-    } 
-
     const handleHover = (e) => {
         setCaption(ridingNames[e.target.id])
     }
 
+    const setElection19 = () => {
+        setColours(ge2019);
+        setPalette(paletteInfo);
+    } 
+
     const setBlank = () => {
         setColours(blank);
+        setPalette(paletteInfo);
     }
+
+    const addParty = () => {
+        if (Object.keys(palette).includes("extra")) {
+            let newColours = {...colours};
+            for (let x in newColours) {
+                if (newColours[x].includes("extra")) {
+                    newColours[x] = "blank0";
+                }
+            }
+            setColours(newColours);
+            let newPalette = {...palette};
+            delete newPalette.extra;
+            setPalette(newPalette);
+        } else {
+            let newPalette = {...palette, ...{extra : {name: "New Party", colour: "gray", pattern: "solid"}}};
+            setPalette(newPalette);
+        }
+    }
+
+    const deleteParty = (id) => {
+        let newPalette = {...palette};
+        delete newPalette[id];
+        setPalette(newPalette);
+        let newColours = {...colours};
+        for (let x in newColours) {
+            if (newColours[x].includes(id)) {
+                newColours[x] = "blank0";
+            }
+        }
+        setColours(newColours);
+    }
+
+    const paletteInfo = {
+        "gppei" : {name: "Green Party", colour: "green", pattern: "vert"},
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "lppei" : {name: "Liberal Party", colour: "red", pattern: "hor"},
+        "peipc" : {name: "PC Party", colour: "blue", pattern: "right"},
+    }
+
+    const [palette, setPalette] = useState(paletteInfo);
 
     return(
         <div className="diy">
-            <Palette paint={paint} setPaint={setPaint} palette={palette} />
+            <Palette paint={paint} setPaint={setPaint} palette={palette} setPalette={setPalette} deleteParty={deleteParty} />
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection19} label={"2019 election"} />
+                <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">

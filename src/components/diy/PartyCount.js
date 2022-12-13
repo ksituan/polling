@@ -21,8 +21,6 @@ function PartyCount({sortOrder, colours, size}) {
 
     const colourSet = Array.from(new Set(colours)).sort((a,b) => evaluateRating(a) - evaluateRating(b));
 
-    console.log(colourSet);
-
     let partyCounts = {};
     for (const x of colours.map(x => x.slice(0, -1))) {
         partyCounts[x] = partyCounts[x] ? partyCounts[x] + 1 : 1;
@@ -32,13 +30,13 @@ function PartyCount({sortOrder, colours, size}) {
         <div className="bar">
             <div className="partyCount">
                 {colourSet.map(x => 
-                <svg className="partyCounter" viewBox={`0 0 ${colourCounts[x]*1200/size} 36`}>
+                <svg key={x} className="partyCounter" viewBox={`0 0 ${colourCounts[x]*1200/size} 36`}>
                     <rect x="-1" width={colourCounts[x]*1200/size + 2} height="36" fill={`url(#${x})`} />
                 </svg>)}
             </div>
             <div className="partyCountLabels">
                 {Object.entries(partyCounts).map(x => 
-                <div className="partyCounterLabel" style={{width: (100*x[1]/size) + "%"}}>{x[0] === "blank" ? "" : x[1]}</div>)}
+                <div key={x[0]} className="partyCounterLabel" style={{width: (100*x[1]/size) + "%"}}>{x[0] === "blank" ? "" : x[1]}</div>)}
             </div>
         </div>
     )

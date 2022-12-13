@@ -8,20 +8,20 @@ import PartyCount from "../../components/diy/PartyCount"
 import Palette from "../../components/diy/Palette"
 import Hover from "../../components/diy/Hover"
 
-let ge2022 = {104: "teal3", 110: "teal2", 116: "orange1", 120: "teal3", 126: "teal4", 132: "teal3", 138: "teal4", 144: "teal3", 150: "teal3",
-204: "teal3", 206: "teal4", 210: "teal4", 212: "teal4", 216: "teal4", 218: "teal4", 220: "teal3", 224: "red1", 226: "teal2", 230: "teal4", 232: "teal4",
-236: "red1", 238: "teal4", 240: "teal3", 244: "teal1", 246: "teal1", 250: "teal3", 252: "teal3", 256: "teal4", 258: "teal4", 260: "teal4", 264: "teal4",
-300: "orange1", 304: "red3", 306: "red3", 310: "red4", 312: "red4", 316: "red4", 318: "red4", 320: "red3", 324: "red4", 326: "red1",
-330: "orange4", 332: "red4", 336: "red2", 338: "red3", 340: "orange1", 344: "orange3", 346: "orange4", 350: "orange4", 352: "orange4", 356: "orange2",
-358: "red1", 360: "red2", 364: "red4", 366: "teal1", 370: "blue1", 380: "teal3", 390: "red4",
-454: "teal1", 460: "red1", 466: "teal1", 470: "teal2", 476: "teal1", 482: "red1",
-502: "teal4", 508: "teal3", 514: "teal4", 520: "teal3", 526: "teal4", 530: "teal4", 536: "teal4", 542: "teal4", 548: "teal4", 554: "teal4",
-560: "teal4", 566: "teal4", 570: "teal2", 576: "teal4", 582: "teal3", 588: "teal3", 594: "teal4",
-602: "teal1", 608: "red2", 614: "teal3", 620: "teal4", 626: "teal4", 636: "teal2", 642: "teal3", 648: "teal4", 660: "teal4", 666: "teal4", 670: "teal4", 676: "teal4",
-702: "teal1", 708: "teal4", 714: "teal2", 720: "teal2", 726: "teal3", 730: "orange2", 736: "orange1", 742: "teal2", 748: "teal3", 754: "teal2", 760: "teal4",
-802: "teal1", 806: "teal1", 810: "teal2", 814: "teal3", 818: "teal3", 822: "teal2", 826: "teal3", 834: "teal4", 838: "teal2", 842: "blue4", 850: "teal2", 854: "teal1",
-858: "blue1",
-902: "teal3", 906: "teal4", 914: "teal4", 918: "teal4", 922: "teal4", 926: "teal3", 930: "teal4", 938: "teal2"};
+let ge2022 = {104: "caq3", 110: "caq2", 116: "qs1", 120: "caq3", 126: "caq4", 132: "caq3", 138: "caq4", 144: "caq3", 150: "caq3",
+204: "caq3", 206: "caq4", 210: "caq4", 212: "caq4", 216: "caq4", 218: "caq4", 220: "caq3", 224: "plq1", 226: "caq2", 230: "caq4", 232: "caq4",
+236: "plq1", 238: "caq4", 240: "caq3", 244: "caq1", 246: "caq1", 250: "caq3", 252: "caq3", 256: "caq4", 258: "caq4", 260: "caq4", 264: "caq4",
+300: "qs1", 304: "plq3", 306: "plq3", 310: "plq4", 312: "plq4", 316: "plq4", 318: "plq4", 320: "plq3", 324: "plq4", 326: "plq1",
+330: "qs4", 332: "plq4", 336: "plq2", 338: "plq3", 340: "qs1", 344: "qs3", 346: "qs4", 350: "qs4", 352: "qs4", 356: "qs2",
+358: "plq1", 360: "plq2", 364: "plq4", 366: "caq1", 370: "pq1", 380: "caq3", 390: "plq4",
+454: "caq1", 460: "plq1", 466: "caq1", 470: "caq2", 476: "caq1", 482: "plq1",
+502: "caq4", 508: "caq3", 514: "caq4", 520: "caq3", 526: "caq4", 530: "caq4", 536: "caq4", 542: "caq4", 548: "caq4", 554: "caq4",
+560: "caq4", 566: "caq4", 570: "caq2", 576: "caq4", 582: "caq3", 588: "caq3", 594: "caq4",
+602: "caq1", 608: "plq2", 614: "caq3", 620: "caq4", 626: "caq4", 636: "caq2", 642: "caq3", 648: "caq4", 660: "caq4", 666: "caq4", 670: "caq4", 676: "caq4",
+702: "caq1", 708: "caq4", 714: "caq2", 720: "caq2", 726: "caq3", 730: "qs2", 736: "qs1", 742: "caq2", 748: "caq3", 754: "caq2", 760: "caq4",
+802: "caq1", 806: "caq1", 810: "caq2", 814: "caq3", 818: "caq3", 822: "caq2", 826: "caq3", 834: "caq4", 838: "caq2", 842: "pq4", 850: "caq2", 854: "caq1",
+858: "pq1",
+902: "caq3", 906: "caq4", 914: "caq4", 918: "caq4", 922: "caq4", 926: "caq3", 930: "caq4", 938: "caq2"};
 
 let ridingNames = {104: "Mégantic", 110: "Saint-François", 116: "Sherbrooke", 120: "Orford", 126: "Johnson", 132: "Richmond", 138: "Drummond–Bois-Francs", 144: "Arthabaska", 150: "Nicolet-Bécancour",
 204: "Brome-Missisquoi", 206: "Granby", 210: "Iberville", 212: "Saint-Jean", 216: "Huntingdon", 218: "Beauharnois", 220: "Soulanges", 224: "Vaudreuil", 226: "Châteauguay", 230: "Sanguinet", 232: "La Prairie",
@@ -38,15 +38,7 @@ let ridingNames = {104: "Mégantic", 110: "Saint-François", 116: "Sherbrooke", 
 858: "Îles-de-la-Madeleine",
 902: "Duplessis", 906: "René-Lévesque", 914: "Dubuc", 918: "Chicoutimi", 922: "Jonquière", 926: "Lac-Saint-Jean", 930: "Roberval", 938: "Ungava"};
 
-let sortOrder = ["orange", "blue", "red", "blank", "teal", "purple"];
-
-const paletteInfo = [
-    {name: "Coalition Avenir Québec", colour: "teal", angle: "-45"},
-    {name: "Parti libéral", colour: "red", angle: "90"},
-    {name: "Québec solidaire", colour: "orange", angle: "45"},
-    {name: "Parti Québécois", colour: "blue", angle: "0"},
-    {name: "Parti conservateur", colour: "purple", angle: "-45"},
-]
+let sortOrder = ["qs", "pq", "plq", "extra", "blank", "caq", "pcq"];
 
 function Diy({size}) {
 
@@ -56,9 +48,8 @@ function Diy({size}) {
 
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
-    const [palette, setPalette] = useState(paletteInfo);
     const [caption, setCaption] = useState("");
-
+    
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
             setColours({...colours, [e.target.id]: "blank0"});
@@ -67,25 +58,69 @@ function Diy({size}) {
         } 
     }
 
-    const setElection22 = () => {
-        setColours(ge2022);
-    } 
-
     const handleHover = (e) => {
         setCaption(ridingNames[e.target.id])
     }
 
+    const setElection22 = () => {
+        setColours(ge2022);
+        setPalette(paletteInfo);
+    } 
+
     const setBlank = () => {
         setColours(blank);
+        setPalette(paletteInfo);
     }
+
+    const addParty = () => {
+        if (Object.keys(palette).includes("extra")) {
+            let newColours = {...colours};
+            for (let x in newColours) {
+                if (newColours[x].includes("extra")) {
+                    newColours[x] = "blank0";
+                }
+            }
+            setColours(newColours);
+            let newPalette = {...palette};
+            delete newPalette.extra;
+            setPalette(newPalette);
+        } else {
+            let newPalette = {...palette, ...{extra : {name: "New Party", colour: "gray", pattern: "solid"}}};
+            setPalette(newPalette);
+        }
+    }
+
+    const deleteParty = (id) => {
+        let newPalette = {...palette};
+        delete newPalette[id];
+        setPalette(newPalette);
+        let newColours = {...colours};
+        for (let x in newColours) {
+            if (newColours[x].includes(id)) {
+                newColours[x] = "blank0";
+            }
+        }
+        setColours(newColours);
+    }
+
+    const paletteInfo = {
+        "caq": {name: "Coalition Avenir Québec", colour: "teal", pattern: "right"},
+        "plq": {name: "Parti libéral", colour: "red", pattern: "hor"},
+        "qs": {name: "Québec solidaire", colour: "orange", pattern: "left"},
+        "pq": {name: "Parti Québécois", colour: "blue", pattern: "vert"},
+        "pcq": {name: "Parti conservateur", colour: "purple", pattern: "spots"},
+    }
+
+    const [palette, setPalette] = useState(paletteInfo);
 
     return(
         <div className="diy">
-            <Palette paint={paint} setPaint={setPaint} palette={palette} />
+            <Palette paint={paint} setPaint={setPaint} palette={palette} setPalette={setPalette} deleteParty={deleteParty} />
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection22} label={"2022 election"} />
+                <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">

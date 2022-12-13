@@ -831,6 +831,7 @@ input {
 
 .palette {
     display: flex;
+    align-items: center;
     margin: 1rem;
     gap: 0.25rem;
 }
@@ -851,6 +852,19 @@ input {
     align-items: center;
     justify-content: space-evenly;
     gap: 0.5rem;
+    background-color: white;
+    margin-top: 0.5rem;
+}
+
+.paletteRow.edit {
+    background-color: #f0f0f0;
+    border: 1px solid #808080;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.paletteRow.normal .controlPanel {
+    display: none;
 }
 
 .paletteSwatch {
@@ -867,6 +881,7 @@ input {
 }
 
 .paletteColour {
+    cursor: pointer;
     width: 1.75rem;
 }
 
@@ -881,6 +896,90 @@ input {
     color: black;
     border: none;
     font-size: 10pt;
+}
+
+.colourPicks {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.colourPicks * {
+    cursor: pointer;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 0.75rem;
+}
+
+.colourPicks .selected {
+    border: 2px solid black;
+    margin: -2px;
+}
+
+.patternPicks {
+    display: flex;
+    justify-content: center;
+    gap: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+.patternPicks .pattern {
+    cursor: pointer;
+    width: 1rem;
+    border-radius: 0.25rem;
+}
+
+.pattern rect {
+    fill: #808080;
+}
+
+.pattern path {
+    fill: #b0b0b0;
+}
+
+.pattern circle {
+    fill: #b0b0b0;
+}
+
+.pattern.selected {
+    border: 2px solid black;
+}
+
+.controlPanel {
+    position: relative;
+}
+
+.controlPanel .delete {
+    cursor: pointer;
+    color: #808080;
+    font-weight: 700;
+    margin: 0.25rem auto 0 auto;
+    width: fit-content;
+    font-size: 10pt;
+    text-transform: uppercase;
+}
+
+.controlPanel .delete:hover {
+    color: #C94141;
+}
+
+.controlPanel .close {
+    cursor: pointer;
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    line-height: 1rem;
+    border-radius: 1rem;
+    font-size: 8pt;
+    font-weight: 700;
+    text-align: center;
+    color: #f0f0f0;
+    background-color: #808080;
+    bottom: 0;
+    right: 0;
+}
+
+.controlPanel .close:hover {
+    background-color: #C94141;
 }
 
 .diyMap {
@@ -957,15 +1056,21 @@ input {
     margin: 2rem;
     gap: 1rem;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .diyButton {
+    cursor: pointer;
     margin-left: 0;
     margin-right: 0;
     text-transform: uppercase;
     font-family: Inter;
-    font-weight: 600;
-    letter-spacing: 2px;
+    font-weight: 700;
+    background-color: #f0f0f0;
+    color: #808080;
+    border: 1px solid #808080;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
 }
 
 /* DIY links */
