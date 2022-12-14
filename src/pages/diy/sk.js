@@ -47,11 +47,11 @@ let ridingNames = {1: "Athabasca", 2: "Batoche", 3: "Cannington", 4: "Canora-Pel
 31: "Regina Northeast", 32: "Regina Pasqua", 33: "Regina Rochdale", 34: "Regina South Albert", 35: "Regina University", 36: "Regina Walsh Acres", 37: "Regina Wascana Plains", 38: "Rosetown-Delisle", 39: "Rosthern-Shellbrook", 40: "Saskatchewan Rivers",
 41: "Saskatoon Centre", 42: "Saskatoon Chief Mistawasis", 43: "Saskatoon Churchill-Wildwood", 44: "Saskatoon Eastview", 45: "Saskatoon Fairview", 46: "Saskatoon Meewasin", 47: "Saskatoon Nutana", 48: "Saskatoon Riversdale", 49: "Saskatoon Silverspring", 50: "Saskatoon Southeast",
 51: "Saskatoon Stonebridge", 52: "Saskatoon University-Sutherland", 53: "Saskatoon Westview", 54: "Saskatoon Willowgrove", 55: "Swift Current", 56: "The Battlefords", 57: "Warman", 58: "Weyburn-Bengough", 59: "White City-Qu'appelle", 60: "Wood River",
-61: "Yorkton"}
+61: "Yorkton"};
 
 let sortOrder = ["sgp", "ndp", "extra", "blank", "slp", "skp", "pcs", "bps"];
 
-function Diy({size}) {
+function Diy({size, elections, ridingNames, sortOrder}) {
 
     let codes = [...Array(size).keys()].map(x => x + 1);
     let blank = {}
@@ -61,6 +61,10 @@ function Diy({size}) {
     const [colours, setColours] = useState(blank);
     const [paint, setPaint] = useState("blank0");
     const [caption, setCaption] = useState("");
+
+    const newestYear = Math.max(...Object.keys(elections).map(Number));
+
+    const paletteInfo = elections[newestYear].palette;
     
     const handlePaintClick = (e) => {
         if (paint === colours[e.target.id]) {
@@ -72,11 +76,6 @@ function Diy({size}) {
 
     const handleHover = (e) => {
         setCaption(ridingNames[e.target.id])
-    }
-
-    const setBlank = () => {
-        setColours(blank);
-        setPalette(paletteInfo);
     }
 
     const addParty = () => {
@@ -110,13 +109,6 @@ function Diy({size}) {
         setColours(newColours);
     }
 
-    const paletteInfo = {
-        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
-        "skp" : {name: "Saskatchewan Party", colour: "darkGreen", pattern: "right"},
-        "bps" : {name: "Buffalo Party", colour: "yellow", pattern: "vert"},
-        "slp" : {name: "Liberal Party", colour: "red", pattern: "hor"},
-    }
-
     const [palette, setPalette] = useState(paletteInfo);
 
     return(
@@ -128,7 +120,7 @@ function Diy({size}) {
                 {Object.keys(elections).map(x => 
                     <Button electionFunction={() => {setColours(elections[x]["election"]); setPalette(elections[x]["palette"])}} label={`${x} election`} />)}
                 <Button electionFunction={addParty} label={"Extra party"} />
-                <Button electionFunction={setBlank} label={"Reset map"} />
+                <Button electionFunction={() => {setColours(blank); setPalette(elections[newestYear]["palette"])}} label={"Reset map"} />
             </div>
             <svg viewBox="0 0 0 0" height="0" width="0">
                 <pattern id="blank0" viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse">
@@ -264,7 +256,7 @@ const sk = () => (
   <Layout>
     <Seo title="DIY: Saskatchewan" description="Colour a map of the Saskatchewan provincial legislature" />
     <h1>PC DIY: Saskatchewan</h1>
-    <Diy size={61}/>
+    <Diy size={61} elections={elections} ridingNames={ridingNames} sortOrder={sortOrder} />
   </Layout>
 )
 
