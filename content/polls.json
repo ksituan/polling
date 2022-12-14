@@ -79125,5 +79125,252 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1267,
+        "moe": 2.8,
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.6
+            },
+            {
+                "party": "CPC",
+                "score": 37.9
+            },
+            {
+                "party": "NDP",
+                "score": 16.4
+            },
+            {
+                "party": "BQ",
+                "score": 5.1
+            },
+            {
+                "party": "GPC",
+                "score": 3.6
+            },
+            {
+                "party": "PPC",
+                "score": 2.4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "n": 174,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32.7
+            },
+            {
+                "party": "CPC",
+                "score": 41.1
+            },
+            {
+                "party": "NDP",
+                "score": 21.8
+            },
+            {
+                "party": "PPC",
+                "score": 0.2
+            },
+            {
+                "party": "GPC",
+                "score": 3.6
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "n": 141,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 46.8
+            },
+            {
+                "party": "NDP",
+                "score": 18.1
+            },
+            {
+                "party": "PPC",
+                "score": 2.1
+            },
+            {
+                "party": "GPC",
+                "score": 2.8
+            },
+            {
+                "party": "Others",
+                "score": 3.2
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "n": 75,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 13.2
+            },
+            {
+                "party": "CPC",
+                "score": 60.1
+            },
+            {
+                "party": "NDP",
+                "score": 25.4
+            },
+            {
+                "party": "PPC",
+                "score": 0.3
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "n": 434,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35.1
+            },
+            {
+                "party": "CPC",
+                "score": 38.1
+            },
+            {
+                "party": "NDP",
+                "score": 18.3
+            },
+            {
+                "party": "PPC",
+                "score": 2.9
+            },
+            {
+                "party": "GPC",
+                "score": 4.8
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "n": 327,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40.5
+            },
+            {
+                "party": "CPC",
+                "score": 23.8
+            },
+            {
+                "party": "NDP",
+                "score": 8.8
+            },
+            {
+                "party": "BQ",
+                "score": 21.9
+            },
+            {
+                "party": "PPC",
+                "score": 1.6
+            },
+            {
+                "party": "GPC",
+                "score": 2.9
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "December 6-8, 2022",
+        "field": "2022-12-08",
+        "method": "IVR",
+        "n": 57,
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34.7
+            },
+            {
+                "party": "CPC",
+                "score": 44.7
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 13.3
+            },
+            {
+                "party": "GPC",
+                "score": 3.3
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
     }
 ]
