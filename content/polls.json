@@ -79402,5 +79402,31 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "December 6-10, 2022",
+        "field": "2022-12-10",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
