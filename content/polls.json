@@ -79428,5 +79428,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1002,
+        "company": "Léger",
+        "date": "December 7-10, 2022",
+        "field": "2022-12-10",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 41
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 10
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PQ",
+                "score": 18
+            }
+        ]
     }
 ]
