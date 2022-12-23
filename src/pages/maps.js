@@ -11,6 +11,7 @@ import MB_flag from '../images/flags/MB.png'
 import QC_flag from '../images/flags/QC.png'
 import PE_flag from '../images/flags/PE.png'
 import NS_flag from '../images/flags/NS.png'
+import NL_flag from '../images/flags/NL.png'
 
 const maps = () => (
   <Layout>
@@ -26,6 +27,7 @@ const maps = () => (
       <Link className="diyLink" to="/diy/qc" style={{backgroundColor: "#003DA5b0"}}><img className="flag" src={QC_flag} alt="" width="25" /><p>Quebec provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/pe" style={{backgroundColor: "#D23B3Eb0"}}><img className="flag" src={PE_flag} alt="" width="25" /><p>P.E.I. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/ns" style={{backgroundColor: "#0047B6b0"}}><img className="flag" src={NS_flag} alt="" width="25" /><p>Nova Scotia provincial legislature</p></Link>
+      <Link className="diyLink" to="/diy/nl" style={{backgroundColor: "#003361b0"}}><img className="flag" src={NL_flag} alt="" width="25" /><p>Nfld. provincial legislature</p></Link>
     </div>
     <h2>Federal Elections</h2>
     <p>Even in the world's largest democracy, land doesn't vote. Ever wonder why federal campaigns mostly revolve around suburban Toronto? These innovative "cartograms" provide a detailed and unbiased look into every riding.</p>
