@@ -26,7 +26,7 @@ let elections = {
         {election:
             {1: "lp1", 2: "pc1", 3: "lp3", 4: "lp3", 5: "pc4", 6: "lp4", 7: "lp4", 8: "pc3", 9: "pc3", 10: "lp4",
             11: "pc1", 12: "pc1", 13: "lp3", 14: "lp4", 15: "lp4", 16: "pc3", 17: "lp4", 18: "pc2", 19: "ind4", 20: "lp4",
-            21: "ndp3", 22: "ind3", 23: "lp3", 24: "ind4", 25: "lp1", 26: "lp2", 27: "lp1", 28: "pc2", 29: "lp1", 30: "lp3",
+            21: "ndp3", 22: "ind3", 23: "lp3", 24: "lp1", 25: "ind4", 26: "lp2", 27: "pc2", 28: "lp1", 29: "lp1", 30: "lp3",
             31: "ndp2", 32: "lp1", 33: "lp3", 34: "pc3", 35: "pc1", 36: "pc1", 37: "pc4", 38: "lp4", 39: "lp4", 40: "lp2"},
         palette: {
             "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
@@ -38,7 +38,7 @@ let elections = {
 
 let ridingNames = {1: "Baie Verte - Green Bay", 2: "Bonavista", 3: "Burgeo - La Poile", 4: "Burin - Grand Bank", 5: "Cape St. Francis", 6: "Carbonear - Trinity - Bay de Verde", 7: "Cartwright - L'Anse au Clair", 8: "Conception Bay East - Bell Island", 9: "Conception Bay South", 10: "Corner Brook",
 11: "Exploits", 12: "Ferryland", 13: "Fogo Island - Cape Freels", 14: "Fortune Bay - Cape La Hune", 15: "Gander", 16: "Grand Falls - Windsor - Buchans", 17: "Harbour Grace - Port de Grave", 18: "Harbour Main", 19: "Humber - Bay of Islands", 20: "Humber - Gros Morne",
-21: "Labrador West", 22: "Lake Melville", 23: "Lewisporte - Twillingate", 24: "Mount Pearl - Southlands", 25: "Mount Pearl North", 26: "Mount Scio", 27: "Placentia - St. Mary's", 28: "Placentia West - Bellevue", 29: "St. Barbe - L'anse aux Meadows", 30: "St. George's - Humber",
+21: "Labrador West", 22: "Lake Melville", 23: "Lewisporte - Twillingate", 24: "Mount Pearl North", 25: "Mount Pearl - Southlands", 26: "Mount Scio", 27: "Placentia West - Bellevue", 28: "Placentia - St. Mary's", 29: "St. Barbe - L'anse aux Meadows", 30: "St. George's - Humber",
 31: "St. John's Centre", 32: "St. John's East - Quidi Vidi", 33: "St. John's West", 34: "Stephenville - Port Au Port", 35: "Terra Nova", 36: "Topsail - Paradise", 37: "Torngat Mountains", 38: "Virginia Waters - Pleasantville", 39: "Waterford Valley", 40: "Windsor Lake"};
 
 let sortOrder = ["ndp", "extra", "lp", "blank", "ind", "pc"];
