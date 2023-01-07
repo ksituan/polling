@@ -19,7 +19,7 @@ let ridingNames = {1: "Brandon East", 2: "Turtle Mountain", 3: "Borderland", 4: 
 11: "Dauphin", 12: "Morden-Winkler", 13: "Brandon West", 14: "Seine River", 15: "Transcona", 16: "Radisson", 17: "Kildonan-River East", 18: "St. Johns", 19: "McPhillips", 20: "The Maples",
 21: "St. James", 22: "Burrows", 23: "Notre Dame", 24: "Assiniboia", 25: "Wolseley", 26: "Tuxedo", 27: "Roblin", 28: "River Heights", 29: "Fort Rouge", 30: "Fort Garry",
 31: "Fort Richmond", 32: "Riel", 33: "Elmwood", 34: "Concordia", 35: "Point Douglas", 36: "Union Station", 37: "St. Boniface", 38: "Fort Whyte", 39: "Waverley", 40: "Southdale",
-41: "Lagimodière", 42: "St. Vital", 43: "Tyndall Park", 44: "Kirkfield Park", 45: "Thompson", 46: "Flin Flon", 47: "Keewatinook", 48: "Lac du Bonnet", 49: "mlp River North", 50: "La Vérendrye",
+41: "Lagimodière", 42: "St. Vital", 43: "Tyndall Park", 44: "Kirkfield Park", 45: "Thompson", 46: "Flin Flon", 47: "Keewatinook", 48: "Lac du Bonnet", 49: "Red River North", 50: "La Vérendrye",
 51: "Steinbach", 52: "Selkirk", 53: "Dawson Trail", 54: "Springfield-Ritchot", 55: "Rossmere", 56: "Swan River", 57: "The Pas-Kameesak"};
 
 let sortOrder = ["gpm", "ndp", "mlp", "blank", "extra", "pc"];
