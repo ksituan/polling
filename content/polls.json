@@ -80313,5 +80313,36 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 646,
+        "moe": 3.9,
+        "company": "Mainstreet",
+        "date": "January 19-20, 2023",
+        "field": "2023-01-20",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 45.6
+            },
+            {
+                "party": "NDP",
+                "score": 41.3
+            },
+            {
+                "party": "ABP",
+                "score": 5.9
+            },
+            {
+                "party": "WIP",
+                "score": 3.6
+            },
+            {
+                "party": "Others",
+                "score": 3.6
+            }
+        ]
     }
 ]
