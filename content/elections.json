@@ -92,6 +92,37 @@
         ],
         "jurisdiction": "Canada"
     },
+    {
+        "date": "1953-08-10",
+        "nextWrit": "1957-04-12",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 48.4
+            },
+            {
+                "party": "CCF",
+                "score": 11.3
+            },
+            {
+                "party": "SCP",
+                "score": 5.4
+            },
+            {
+                "party": "LPP",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 2.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
 
     {
         "date": "1980-02-18",
