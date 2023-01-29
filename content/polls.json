@@ -82400,5 +82400,1098 @@
                 "score": 1.1
             }
         ]
+    },
+    {
+        "n": 524,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "September 1, 1962",
+        "field": "1962-09-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 32.8
+            },
+            {
+                "party": "LPC",
+                "score": 48.5
+            },
+            {
+                "party": "NDP",
+                "score": 7.4
+            },
+            {
+                "party": "SCP",
+                "score": 10.7
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 538,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1962",
+        "field": "1962-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 39.4
+            },
+            {
+                "party": "LPC",
+                "score": 43.7
+            },
+            {
+                "party": "NDP",
+                "score": 7.1
+            },
+            {
+                "party": "SCP",
+                "score": 9.3
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 60,
+        "moe": 12.0,
+        "company": "Gallup",
+        "date": "January 1, 1963",
+        "field": "1963-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 78.0
+            },
+            {
+                "party": "LPC",
+                "score": 16.9
+            },
+            {
+                "party": "NDP",
+                "score": 1.7
+            },
+            {
+                "party": "SCP",
+                "score": 3.4
+            }
+        ]
+    },
+    {
+        "n": 1713,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "March 1, 1963",
+        "field": "1963-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 33.8
+            },
+            {
+                "party": "LPC",
+                "score": 40.0
+            },
+            {
+                "party": "NDP",
+                "score": 9.0
+            },
+            {
+                "party": "SCP",
+                "score": 16.3
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 2311,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "April 1, 1963",
+        "field": "1963-04-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 32.2
+            },
+            {
+                "party": "LPC",
+                "score": 41.8
+            },
+            {
+                "party": "NDP",
+                "score": 12.2
+            },
+            {
+                "party": "SCP",
+                "score": 13.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.1
+            }
+        ]
+    },
+    {
+        "n": 471,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "June 1, 1963",
+        "field": "1963-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.7
+            },
+            {
+                "party": "PCPC",
+                "score": 35.2
+            },
+            {
+                "party": "NDP",
+                "score": 12.7
+            },
+            {
+                "party": "SCP",
+                "score": 7.2
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 517,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "August 1, 1963",
+        "field": "1963-08-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42.4
+            },
+            {
+                "party": "PCPC",
+                "score": 38.3
+            },
+            {
+                "party": "NDP",
+                "score": 9.3
+            },
+            {
+                "party": "SCP",
+                "score": 8.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 482,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1963",
+        "field": "1963-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.8
+            },
+            {
+                "party": "PCPC",
+                "score": 36.0
+            },
+            {
+                "party": "NDP",
+                "score": 9.5
+            },
+            {
+                "party": "SCP",
+                "score": 7.5
+            }
+        ]
+    },
+    {
+        "n": 518,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "February 1, 1964",
+        "field": "1964-02-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.8
+            },
+            {
+                "party": "PCPC",
+                "score": 35.5
+            },
+            {
+                "party": "NDP",
+                "score": 10.6
+            },
+            {
+                "party": "SCP",
+                "score": 9.2
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 502,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "April 1, 1964",
+        "field": "1964-04-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48.0
+            },
+            {
+                "party": "PCPC",
+                "score": 34.7
+            },
+            {
+                "party": "NDP",
+                "score": 10.2
+            },
+            {
+                "party": "SCP",
+                "score": 6.4
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 541,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "August 1, 1964",
+        "field": "1964-08-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49.2
+            },
+            {
+                "party": "PCPC",
+                "score": 35.5
+            },
+            {
+                "party": "NDP",
+                "score": 9.4
+            },
+            {
+                "party": "SCP",
+                "score": 4.6
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 481,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1964",
+        "field": "1964-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53.2
+            },
+            {
+                "party": "PCPC",
+                "score": 31.8
+            },
+            {
+                "party": "NDP",
+                "score": 7.4
+            },
+            {
+                "party": "SCP",
+                "score": 6.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            }
+        ]
+    },
+    {
+        "n": 451,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "January 1, 1965",
+        "field": "1965-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.3
+            },
+            {
+                "party": "PCPC",
+                "score": 30.2
+            },
+            {
+                "party": "NDP",
+                "score": 13.1
+            },
+            {
+                "party": "SCP",
+                "score": 9.8
+            },
+            {
+                "party": "LPP",
+                "score": 0.7
+            }
+        ]
+    },
+    {
+        "n": 447,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "June 1, 1965",
+        "field": "1965-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48.5
+            },
+            {
+                "party": "PCPC",
+                "score": 28.0
+            },
+            {
+                "party": "NDP",
+                "score": 14.5
+            },
+            {
+                "party": "SCP",
+                "score": 7.4
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 1.3
+            }
+        ]
+    },
+    {
+        "n": 448,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "September 1, 1965",
+        "field": "1965-09-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53.8
+            },
+            {
+                "party": "PCPC",
+                "score": 26.3
+            },
+            {
+                "party": "NDP",
+                "score": 13.8
+            },
+            {
+                "party": "SCP",
+                "score": 3.3
+            },
+            {
+                "party": "LPP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 2.0
+            }
+        ]
+    },
+    {
+        "n": 1403,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "October 1, 1965",
+        "field": "1965-10-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45.1
+            },
+            {
+                "party": "PCPC",
+                "score": 29.6
+            },
+            {
+                "party": "NDP",
+                "score": 16.4
+            },
+            {
+                "party": "SCP",
+                "score": 7.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "RCC",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 1690,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "November 1, 1965",
+        "field": "1965-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.3
+            },
+            {
+                "party": "PCPC",
+                "score": 28.9
+            },
+            {
+                "party": "NDP",
+                "score": 18.4
+            },
+            {
+                "party": "SCP",
+                "score": 6.4
+            },
+            {
+                "party": "LPP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 1.3
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 466,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "January 1, 1966",
+        "field": "1966-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48.7
+            },
+            {
+                "party": "PCPC",
+                "score": 24.7
+            },
+            {
+                "party": "NDP",
+                "score": 20.6
+            },
+            {
+                "party": "SCP",
+                "score": 3.9
+            },
+            {
+                "party": "RCC",
+                "score": 1.5
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 503,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "April 1, 1966",
+        "field": "1966-04-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.1
+            },
+            {
+                "party": "PCPC",
+                "score": 29.0
+            },
+            {
+                "party": "NDP",
+                "score": 20.1
+            },
+            {
+                "party": "SCP",
+                "score": 6.0
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 1.6
+            }
+        ]
+    },
+    {
+        "n": 404,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "June 1, 1966",
+        "field": "1966-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42.4
+            },
+            {
+                "party": "PCPC",
+                "score": 29.9
+            },
+            {
+                "party": "NDP",
+                "score": 17.9
+            },
+            {
+                "party": "SCP",
+                "score": 7.2
+            },
+            {
+                "party": "LPP",
+                "score": 1.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 508,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "August 1, 1966",
+        "field": "1966-08-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.3
+            },
+            {
+                "party": "PCPC",
+                "score": 30.1
+            },
+            {
+                "party": "NDP",
+                "score": 18.5
+            },
+            {
+                "party": "SCP",
+                "score": 5.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 1.4
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 468,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "October 1, 1966",
+        "field": "1966-10-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.2
+            },
+            {
+                "party": "PCPC",
+                "score": 25.9
+            },
+            {
+                "party": "NDP",
+                "score": 22.4
+            },
+            {
+                "party": "SCP",
+                "score": 6.0
+            },
+            {
+                "party": "RCC",
+                "score": 1.5
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {
+        "n": 490,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "January 1, 1967",
+        "field": "1967-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.3
+            },
+            {
+                "party": "PCPC",
+                "score": 21.6
+            },
+            {
+                "party": "NDP",
+                "score": 27.1
+            },
+            {
+                "party": "SCP",
+                "score": 5.7
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 1.0
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "n": 424,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "March 3, 1967",
+        "field": "1967-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39.2
+            },
+            {
+                "party": "PCPC",
+                "score": 33.0
+            },
+            {
+                "party": "NDP",
+                "score": 21.9
+            },
+            {
+                "party": "SCP",
+                "score": 4.7
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {
+        "n": 494,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "June 1, 1967",
+        "field": "1967-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.6
+            },
+            {
+                "party": "PCPC",
+                "score": 31.2
+            },
+            {
+                "party": "NDP",
+                "score": 15.2
+            },
+            {
+                "party": "SCP",
+                "score": 5.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 467,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "September 1, 1967",
+        "field": "1967-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35.8
+            },
+            {
+                "party": "PCPC",
+                "score": 46.9
+            },
+            {
+                "party": "NDP",
+                "score": 12.6
+            },
+            {
+                "party": "SCP",
+                "score": 3.6
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 538,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1967",
+        "field": "1967-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37.7
+            },
+            {
+                "party": "PCPC",
+                "score": 37.3
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "SCP",
+                "score": 5.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {
+        "n": 432,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "February 1, 1968",
+        "field": "1968-02-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45.6
+            },
+            {
+                "party": "PCPC",
+                "score": 33.2
+            },
+            {
+                "party": "NDP",
+                "score": 15.6
+            },
+            {
+                "party": "SCP",
+                "score": 4.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {
+        "n": 556,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "May 1, 1968",
+        "field": "1968-05-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 52.2
+            },
+            {
+                "party": "PCPC",
+                "score": 30.9
+            },
+            {
+                "party": "NDP",
+                "score": 11.9
+            },
+            {
+                "party": "SCP",
+                "score": 3.6
+            },
+            {
+                "party": "RCC",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 1371,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "May 15, 1968",
+        "field": "1968-05-15",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "PCPC",
+                "score": 26.6
+            },
+            {
+                "party": "NDP",
+                "score": 14.2
+            },
+            {
+                "party": "SCP",
+                "score": 7.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {
+        "n": 1371,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "May 30, 1968",
+        "field": "1968-05-30",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.9
+            },
+            {
+                "party": "PCPC",
+                "score": 27.7
+            },
+            {
+                "party": "NDP",
+                "score": 17.7
+            },
+            {
+                "party": "SCP",
+                "score": 6.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
     }
 ]
