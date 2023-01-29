@@ -81654,5 +81654,751 @@
                 "score": 0.1
             }
         ]
+    },
+    {
+        "n": 995,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "June 1, 1958",
+        "field": "1958-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 63.8
+            },
+            {
+                "party": "LPC",
+                "score": 28.0
+            },
+            {
+                "party": "CCF",
+                "score": 6.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 623,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "August 1, 1958",
+        "field": "1958-08-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 65.3
+            },
+            {
+                "party": "LPC",
+                "score": 30.3
+            },
+            {
+                "party": "CCF",
+                "score": 2.6
+            },
+            {
+                "party": "SCP",
+                "score": 1.0
+            },
+            {
+                "party": "LPP",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ]
+    },
+    {
+        "n": 502,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "January 1, 1959",
+        "field": "1959-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 53.0
+            },
+            {
+                "party": "LPC",
+                "score": 33.9
+            },
+            {
+                "party": "CCF",
+                "score": 7.6
+            },
+            {
+                "party": "SCP",
+                "score": 4.9
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 543,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "March 1, 1959",
+        "field": "1959-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 47.3
+            },
+            {
+                "party": "LPC",
+                "score": 39.0
+            },
+            {
+                "party": "CCF",
+                "score": 9.9
+            },
+            {
+                "party": "SCP",
+                "score": 3.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 523,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "May 1, 1959",
+        "field": "1959-05-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 45.3
+            },
+            {
+                "party": "LPC",
+                "score": 39.0
+            },
+            {
+                "party": "CCF",
+                "score": 11.7
+            },
+            {
+                "party": "SCP",
+                "score": 3.3
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ]
+    },
+    {
+        "n": 499,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "July 1, 1959",
+        "field": "1959-07-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 47.7
+            },
+            {
+                "party": "LPC",
+                "score": 36.9
+            },
+            {
+                "party": "CCF",
+                "score": 11.4
+            },
+            {
+                "party": "SCP",
+                "score": 3.6
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 275,
+        "moe": 6.0,
+        "company": "Gallup",
+        "date": "September 1, 1959",
+        "field": "1959-09-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 45.6
+            },
+            {
+                "party": "LPC",
+                "score": 36.3
+            },
+            {
+                "party": "CCF",
+                "score": 11.9
+            },
+            {
+                "party": "SCP",
+                "score": 4.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 515,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "November 1, 1959",
+        "field": "1959-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 45.6
+            },
+            {
+                "party": "LPC",
+                "score": 37.2
+            },
+            {
+                "party": "CCF",
+                "score": 9.3
+            },
+            {
+                "party": "SCP",
+                "score": 7.4
+            },
+            {
+                "party": "LPP",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ]
+    },
+    {
+        "n": 156,
+        "moe": 8.0,
+        "company": "Gallup",
+        "date": "January 1, 1960",
+        "field": "1960-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 41.1
+            },
+            {
+                "party": "LPC",
+                "score": 42.9
+            },
+            {
+                "party": "CCF",
+                "score": 10.9
+            },
+            {
+                "party": "SCP",
+                "score": 2.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 2.0
+            }
+        ]
+    },
+    {
+        "n": 492,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "March 1, 1960",
+        "field": "1960-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 48.3
+            },
+            {
+                "party": "LPC",
+                "score": 37.5
+            },
+            {
+                "party": "CCF",
+                "score": 8.8
+            },
+            {
+                "party": "SCP",
+                "score": 4.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {
+        "n": 503,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "May 1, 1960",
+        "field": "1960-05-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 37.6
+            },
+            {
+                "party": "LPC",
+                "score": 42.3
+            },
+            {
+                "party": "CCF",
+                "score": 12.3
+            },
+            {
+                "party": "SCP",
+                "score": 5.8
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "n": 597,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "July 1, 1960",
+        "field": "1960-07-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 38.7
+            },
+            {
+                "party": "LPC",
+                "score": 43.7
+            },
+            {
+                "party": "CCF",
+                "score": 12.3
+            },
+            {
+                "party": "SCP",
+                "score": 4.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 508,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1960",
+        "field": "1960-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 36.4
+            },
+            {
+                "party": "LPC",
+                "score": 44.2
+            },
+            {
+                "party": "CCF",
+                "score": 7.7
+            },
+            {
+                "party": "SCP",
+                "score": 6.5
+            },
+            {
+                "party": "LPP",
+                "score": 1.6
+            },
+            {
+                "party": "Others",
+                "score": 3.6
+            }
+        ]
+    },
+    {
+        "n": 577,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "January 1, 1961",
+        "field": "1961-01-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 37.9
+            },
+            {
+                "party": "LPC",
+                "score": 44.5
+            },
+            {
+                "party": "CCF",
+                "score": 7.1
+            },
+            {
+                "party": "SCP",
+                "score": 7.6
+            },
+            {
+                "party": "LPP",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {
+        "n": 495,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "March 1, 1961",
+        "field": "1961-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 41.9
+            },
+            {
+                "party": "LPC",
+                "score": 38.5
+            },
+            {
+                "party": "CCF",
+                "score": 10.1
+            },
+            {
+                "party": "SCP",
+                "score": 8.7
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 484,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "May 1, 1961",
+        "field": "1961-05-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 42.3
+            },
+            {
+                "party": "LPC",
+                "score": 41.3
+            },
+            {
+                "party": "CCF",
+                "score": 6.5
+            },
+            {
+                "party": "SCP",
+                "score": 9.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 503,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "July 1, 1961",
+        "field": "1961-07-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 38.5
+            },
+            {
+                "party": "LPC",
+                "score": 44.5
+            },
+            {
+                "party": "CCF",
+                "score": 8.9
+            },
+            {
+                "party": "SCP",
+                "score": 7.0
+            },
+            {
+                "party": "LPP",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {
+        "n": 448,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "September 1, 1961",
+        "field": "1961-09-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 42.1
+            },
+            {
+                "party": "LPC",
+                "score": 44.0
+            },
+            {
+                "party": "CCF",
+                "score": 5.0
+            },
+            {
+                "party": "SCP",
+                "score": 8.7
+            },
+            {
+                "party": "LPP",
+                "score": 0.3
+            }
+        ]
+    },
+    {
+        "n": 451,
+        "moe": 5.0,
+        "company": "Gallup",
+        "date": "November 1, 1961",
+        "field": "1961-11-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 39.0
+            },
+            {
+                "party": "LPC",
+                "score": 45.5
+            },
+            {
+                "party": "CCF",
+                "score": 6.2
+            },
+            {
+                "party": "SCP",
+                "score": 8.5
+            },
+            {
+                "party": "LPP",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 2200,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "May 1, 1962",
+        "field": "1962-05-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 34.6
+            },
+            {
+                "party": "LPC",
+                "score": 44.2
+            },
+            {
+                "party": "CCF",
+                "score": 9.6
+            },
+            {
+                "party": "SCP",
+                "score": 10.6
+            },
+            {
+                "party": "LPP",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 1119,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "June 1, 1962",
+        "field": "1962-06-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 31.7
+            },
+            {
+                "party": "LPC",
+                "score": 41.3
+            },
+            {
+                "party": "CCF",
+                "score": 12.9
+            },
+            {
+                "party": "SCP",
+                "score": 13.2
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 2228,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "June 15, 1962",
+        "field": "1962-06-15",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 35.6
+            },
+            {
+                "party": "LPC",
+                "score": 37.1
+            },
+            {
+                "party": "CCF",
+                "score": 11.4
+            },
+            {
+                "party": "SCP",
+                "score": 14.1
+            },
+            {
+                "party": "LPP",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
     }
 ]
