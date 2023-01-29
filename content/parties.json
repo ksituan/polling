@@ -55,6 +55,42 @@
                 "fullName" : "Canadian Alliance",
                 "url" : "https://en.wikipedia.org/wiki/Canadian_Alliance",
                 "logo" : ""
+            },
+            "Con" : {
+                "colour" : "blue",
+                "fullName" : "Conservative Party",
+                "url" : "https://en.wikipedia.org/wiki/Conservative_Party_of_Canada_(1867%E2%80%931942)",
+                "logo" : ""
+            },
+            "CCF" : {
+                "colour" : "orange",
+                "fullName" : "Co-operative Commonwealth Federation",
+                "url" : "https://en.wikipedia.org/wiki/Co-operative_Commonwealth_Federation",
+                "logo" : ""
+            },
+            "ND" : {
+                "colour" : "green",
+                "fullName" : "New Democracy",
+                "url" : "https://en.wikipedia.org/wiki/New_Democracy_(Canada)",
+                "logo" : ""
+            },
+            "SCP" : {
+                "colour" : "green",
+                "fullName" : "Social Credit Party",
+                "url" : "https://en.wikipedia.org/wiki/Social_Credit_Party_of_Canada",
+                "logo" : ""
+            },
+            "BPC" : {
+                "colour" : "teal",
+                "fullName" : "Bloc populaire",
+                "url" : "https://en.wikipedia.org/wiki/Bloc_populaire",
+                "logo" : ""
+            },
+            "LPP" : {
+                "colour" : "red",
+                "fullName" : "Labor-Progressive Party",
+                "url" : "https://en.wikipedia.org/wiki/Labor-Progressive_Party",
+                "logo" : ""
             }
         },
         "BC" : {

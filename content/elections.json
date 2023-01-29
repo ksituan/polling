@@ -1,5 +1,145 @@
 [
     {
+        "date": "1940-03-26",
+        "nextWrit": "1945-04-16",
+        "results": [
+            {
+                "party": "Con",
+                "score": 29.2
+            },
+            {
+                "party": "LPC",
+                "score": 51.3
+            },
+            {
+                "party": "CCF",
+                "score": 8.4
+            },
+            {
+                "party": "ND",
+                "score": 2.6
+            },
+            {
+                "party": "Others",
+                "score": 8.5
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1945-06-11",
+        "nextWrit": "1949-04-30",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 27.6
+            },
+            {
+                "party": "LPC",
+                "score": 39.8
+            },
+            {
+                "party": "CCF",
+                "score": 15.6
+            },
+            {
+                "party": "SCP",
+                "score": 4.1
+            },
+            {
+                "party": "BPC",
+                "score": 3.3
+            },
+            {
+                "party": "LPP",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 7.5
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1949-06-27",
+        "nextWrit": "1953-06-13",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 29.7
+            },
+            {
+                "party": "LPC",
+                "score": 49.2
+            },
+            {
+                "party": "CCF",
+                "score": 13.4
+            },
+            {
+                "party": "SCP",
+                "score": 2.3
+            },
+            {
+                "party": "LPP",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 4.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+
+    {
+        "date": "1980-02-18",
+        "nextWrit": "1984-07-09",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 32.5
+            },
+            {
+                "party": "LPC",
+                "score": 44.3
+            },
+            {
+                "party": "NDP",
+                "score": 19.8
+            },
+            {
+                "party": "Others",
+                "score": 3.4
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1984-09-04",
+        "nextWrit": "1988-10-01",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 50
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18.8
+            },
+            {
+                "party": "Others",
+                "score": 3.2
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
         "date": "1988-11-21",
         "nextWrit": "1993-09-08",
         "results": [
