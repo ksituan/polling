@@ -80,6 +80,12 @@
                 "url" : "https://en.wikipedia.org/wiki/Social_Credit_Party_of_Canada",
                 "logo" : ""
             },
+            "RCC" : {
+                "colour" : "green",
+                "fullName" : "Ralliement créditiste",
+                "url" : "https://en.wikipedia.org/wiki/Ralliement_cr%C3%A9ditiste",
+                "logo" : ""
+            },
             "BPC" : {
                 "colour" : "teal",
                 "fullName" : "Bloc populaire",
