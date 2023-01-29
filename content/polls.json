@@ -81460,5 +81460,199 @@
                 "score": 0.2
             }
         ]
+    },
+    {
+        "n": 1743,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "July 1, 1957",
+        "field": "1957-07-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 50.5
+            },
+            {
+                "party": "LPC",
+                "score": 34.7
+            },
+            {
+                "party": "CCF",
+                "score": 7.5
+            },
+            {
+                "party": "SCP",
+                "score": 6.8
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ]
+    },
+    {
+        "n": 916,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "September 1, 1957",
+        "field": "1957-09-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 53.1
+            },
+            {
+                "party": "LPC",
+                "score": 30.8
+            },
+            {
+                "party": "CCF",
+                "score": 8.2
+            },
+            {
+                "party": "SCP",
+                "score": 7.4
+            },
+            {
+                "party": "LPP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.1
+            }
+        ]
+    },
+    {
+        "n": 527,
+        "moe": 4.0,
+        "company": "Gallup",
+        "date": "October 1, 1957",
+        "field": "1957-10-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 55.4
+            },
+            {
+                "party": "LPC",
+                "score": 32.6
+            },
+            {
+                "party": "CCF",
+                "score": 7.2
+            },
+            {
+                "party": "SCP",
+                "score": 3.8
+            },
+            {
+                "party": "LPP",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 1651,
+        "moe": 2.0,
+        "company": "Gallup",
+        "date": "December 1, 1957",
+        "field": "1957-12-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 54.7
+            },
+            {
+                "party": "LPC",
+                "score": 31.5
+            },
+            {
+                "party": "CCF",
+                "score": 8.7
+            },
+            {
+                "party": "SCP",
+                "score": 5.0
+            },
+            {
+                "party": "LPP",
+                "score": 0.1
+            }
+        ]
+    },
+    {
+        "n": 368,
+        "moe": 6.0,
+        "company": "Gallup",
+        "date": "March 1, 1958",
+        "field": "1958-03-01",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 61.1
+            },
+            {
+                "party": "LPC",
+                "score": 21.5
+            },
+            {
+                "party": "CCF",
+                "score": 13.9
+            },
+            {
+                "party": "SCP",
+                "score": 3.5
+            }
+        ]
+    },
+    {
+        "n": 1009,
+        "moe": 3.0,
+        "company": "Gallup",
+        "date": "March 20, 1958",
+        "field": "1958-03-20",
+        "method": "Live Interview",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "PCPC",
+                "score": 58.8
+            },
+            {
+                "party": "LPC",
+                "score": 30.6
+            },
+            {
+                "party": "CCF",
+                "score": 8.2
+            },
+            {
+                "party": "SCP",
+                "score": 2.2
+            },
+            {
+                "party": "LPP",
+                "score": 0.1
+            }
+        ]
     }
 ]
