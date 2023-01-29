@@ -123,7 +123,257 @@
         ],
         "jurisdiction": "Canada"
     },
-
+    {
+        "date": "1957-06-10",
+        "nextWrit": "1958-02-01",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 38.5
+            },
+            {
+                "party": "LPC",
+                "score": 40.5
+            },
+            {
+                "party": "CCF",
+                "score": 10.6
+            },
+            {
+                "party": "SCP",
+                "score": 6.5
+            },
+            {
+                "party": "Others",
+                "score": 3.9
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1958-03-31",
+        "nextWrit": "1962-04-19",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 53.7
+            },
+            {
+                "party": "LPC",
+                "score": 33.8
+            },
+            {
+                "party": "CCF",
+                "score": 9.5
+            },
+            {
+                "party": "SCP",
+                "score": 2.6
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1962-06-18",
+        "nextWrit": "1963-02-06",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 37.2
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 13.6
+            },
+            {
+                "party": "SCP",
+                "score": 11.6
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1963-04-08",
+        "nextWrit": "1965-09-08",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 32.8
+            },
+            {
+                "party": "LPC",
+                "score": 41.5
+            },
+            {
+                "party": "NDP",
+                "score": 13.2
+            },
+            {
+                "party": "SCP",
+                "score": 11.9
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1965-11-08",
+        "nextWrit": "1968-04-23",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 32.4
+            },
+            {
+                "party": "LPC",
+                "score": 40.2
+            },
+            {
+                "party": "NDP",
+                "score": 17.9
+            },
+            {
+                "party": "SCP",
+                "score": 3.7
+            },
+            {
+                "party": "RCC",
+                "score": 4.7
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1968-06-25",
+        "nextWrit": "1972-09-01",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 31.4
+            },
+            {
+                "party": "LPC",
+                "score": 45.4
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 4.4
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1972-10-30",
+        "nextWrit": "1974-05-09",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 38.4
+            },
+            {
+                "party": "NDP",
+                "score": 17.8
+            },
+            {
+                "party": "SCP",
+                "score": 7.6
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1974-07-08",
+        "nextWrit": "1979-03-26",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 35.5
+            },
+            {
+                "party": "LPC",
+                "score": 43.2
+            },
+            {
+                "party": "NDP",
+                "score": 15.4
+            },
+            {
+                "party": "SCP",
+                "score": 5.1
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "1979-05-22",
+        "nextWrit": "1979-12-14",
+        "results": [
+            {
+                "party": "PCPC",
+                "score": 35.9
+            },
+            {
+                "party": "LPC",
+                "score": 40.1
+            },
+            {
+                "party": "NDP",
+                "score": 17.9
+            },
+            {
+                "party": "SCP",
+                "score": 4.6
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
     {
         "date": "1980-02-18",
         "nextWrit": "1984-07-09",
