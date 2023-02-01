@@ -87047,5 +87047,36 @@
                 "score": 0
             }
         ]
+    },
+        {
+        "n": 514,
+        "moe": 4.3,
+        "company": "Mainstreet",
+        "date": "January 24-26, 2023",
+        "field": "2023-01-26",
+        "method": "IVR",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 36.7
+            },
+            {
+                "party": "NDP",
+                "score": 41.5
+            },
+            {
+                "party": "MLP",
+                "score": 14.6
+            },
+            {
+                "party": "GPM",
+                "score": 5.1
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
     }
 ]
