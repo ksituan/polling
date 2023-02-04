@@ -87078,5 +87078,252 @@
                 "score": 2.1
             }
         ]
+    },
+    {
+        "n": 1261,
+        "moe": 2.8,
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.1
+            },
+            {
+                "party": "CPC",
+                "score": 36.9
+            },
+            {
+                "party": "NDP",
+                "score": 13.6
+            },
+            {
+                "party": "BQ",
+                "score": 6.4
+            },
+            {
+                "party": "GPC",
+                "score": 4.8
+            },
+            {
+                "party": "PPC",
+                "score": 2.4
+            },
+            {
+                "party": "Others",
+                "score": 2.8
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "n": 159,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28.8
+            },
+            {
+                "party": "CPC",
+                "score": 36.7
+            },
+            {
+                "party": "NDP",
+                "score": 15.2
+            },
+            {
+                "party": "PPC",
+                "score": 6.2
+            },
+            {
+                "party": "GPC",
+                "score": 8.4
+            },
+            {
+                "party": "Others",
+                "score": 4.7
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "n": 89,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20.1
+            },
+            {
+                "party": "CPC",
+                "score": 63
+            },
+            {
+                "party": "NDP",
+                "score": 9.6
+            },
+            {
+                "party": "PPC",
+                "score": 1.4
+            },
+            {
+                "party": "GPC",
+                "score": 3.8
+            },
+            {
+                "party": "Others",
+                "score": 2.2
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "n": 63,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27.2
+            },
+            {
+                "party": "CPC",
+                "score": 50.2
+            },
+            {
+                "party": "NDP",
+                "score": 15.2
+            },
+            {
+                "party": "PPC",
+                "score": 0.5
+            },
+            {
+                "party": "GPC",
+                "score": 5.7
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "n": 474,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37.6
+            },
+            {
+                "party": "CPC",
+                "score": 36.3
+            },
+            {
+                "party": "NDP",
+                "score": 16.4
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            },
+            {
+                "party": "GPC",
+                "score": 5.9
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "n": 342,
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 33.8
+            },
+            {
+                "party": "CPC",
+                "score": 22.8
+            },
+            {
+                "party": "NDP",
+                "score": 8.9
+            },
+            {
+                "party": "BQ",
+                "score": 27.3
+            },
+            {
+                "party": "PPC",
+                "score": 1.5
+            },
+            {
+                "party": "GPC",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 3.7
+            }
+        ]
+    },
+    {
+        "company": "Mainstreet",
+        "date": "January 25-27, 2023",
+        "field": "2023-01-27",
+        "method": "IVR",
+        "n": 71,
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "CPC",
+                "score": 31.5
+            },
+            {
+                "party": "NDP",
+                "score": 16.8
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            },
+            {
+                "party": "GPC",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 5.1
+            }
+        ]
     }
 ]
