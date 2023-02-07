@@ -86742,7 +86742,7 @@
             }
         ]
     },
-        {
+    {
         "n": 1048,
         "company": "ThinkHQ",
         "date": "January 19-20, 2023",
@@ -86768,7 +86768,7 @@
             }
         ]
     },
-        {
+    {
         "n": 1000,
         "company": "Nanos",
         "date": "January 20-27, 2023",
@@ -86802,7 +86802,7 @@
             }
         ]
     },
-        {
+    {
         "n": 1227,
         "company": "Abacus",
         "date": "January 27-30, 2023",
@@ -87048,7 +87048,7 @@
             }
         ]
     },
-        {
+    {
         "n": 514,
         "moe": 4.3,
         "company": "Mainstreet",
@@ -87354,6 +87354,40 @@
             {
                 "party": "GPO",
                 "score": 11.2
+            }
+        ]
+    },
+    {
+        "n": 3850,
+        "company": "Pollara",
+        "date": "Jan. 23-Feb. 6, 2023",
+        "field": "2023-02-06",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
             }
         ]
     }
