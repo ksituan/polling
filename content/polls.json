@@ -87568,5 +87568,31 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "February 1-6, 2023",
+        "field": "2023-02-06",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
