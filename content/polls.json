@@ -87624,5 +87624,31 @@
                 "score": 2
             }
         ]
+    },
+        {
+        "n": 1003,
+        "company": "Leger",
+        "date": "January 20-23, 2023",
+        "field": "2023-01-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCU",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 12
+            }
+        ]
     }
 ]
