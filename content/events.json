@@ -178,5 +178,11 @@
         "jurisdiction": "MB",
         "type": "leadership",
         "party": "GPM"
+    },
+    {
+        "date": "2023-03-16",
+        "jurisdiction": "ON",
+        "type": "by",
+        "riding": "Hamilton Centre"
     }
 ]
