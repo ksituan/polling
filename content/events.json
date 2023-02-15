@@ -184,5 +184,15 @@
         "jurisdiction": "ON",
         "type": "by",
         "riding": "Hamilton Centre"
+    },
+    {
+        "jurisdiction": "SK",
+        "type": "by",
+        "riding": "Regina Coronation Park"
+    },
+    {
+        "jurisdiction": "ON",
+        "type": "by",
+        "riding": "Kitchener Centre"
     }
 ]

@@ -56,9 +56,10 @@ const jurisdictions = {
 
 function Calendar() {
 
-    let fevents = events.map(function(event) { event.date = new Date(event.date + "T00:00"); return(event) });
-    fevents = fevents.filter(event => (event.date - new Date()) > -24*60*60*1000 && (event.date - new Date() < 365*24*60*60*1000 || event.minority));
+    let fevents = events.filter(event => (!event.date) || (new Date(event.date + "T00:00") - new Date()) > -24*60*60*1000 && (new Date(event.date + "T00:00") - new Date() < 365*24*60*60*1000 || event.minority));
+    fevents = fevents.map(function(event) { event.date = new Date(event.date + "T00:00"); return(event) });
     fevents = fevents.sort((a,b) => a.date - b.date);
+    console.log(fevents);
 
     return(
         <div className="calendar">
@@ -72,8 +73,8 @@ function Calendar() {
                 {event.type === "legislative" && <div className="desc">General election</div>}
                 {event.type === "municipal" && <div className="desc">Municipal elections</div>}
                 {event.type === "by" && <div className="desc">{event.riding + " by-election"}</div>}
-                <div className="date">{event.date.toLocaleDateString('en-CA', {year: "numeric", month: "long", day: "numeric"})}</div>
-                <div className="date">{Math.ceil((event.date - new Date())/(24*60*60*1000)) === 1 ? "1 day" : Math.ceil((event.date - new Date())/(24*60*60*1000)) + " days"}</div>
+                <div className="date">{(!isNaN(event.date)) && event.date.toLocaleDateString('en-CA', {year: "numeric", month: "long", day: "numeric"})}</div>
+                <div className="date">{isNaN(event.date) ? "Date not selected" : (Math.ceil((event.date - new Date())/(24*60*60*1000)) === 1 ? "1 day" : Math.ceil((event.date - new Date())/(24*60*60*1000)) + " days")}</div>
                 {(event.type === "legislative" && event.future) && <div className="warning">{event.minority ? "ⓘ Or earlier (minority government)" : "ⓘ Or earlier"}</div>}
                 {event.note && <div className="note">{event.note}</div>}
             </div>)}
