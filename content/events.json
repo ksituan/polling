@@ -194,5 +194,25 @@
         "jurisdiction": "ON",
         "type": "by",
         "riding": "Kitchener Centre"
+    },
+    {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Winnipeg South Centre"
+    },
+    {
+        "jurisdiction": "BC",
+        "type": "by",
+        "riding": "Langford-Juan de Fuca"
+    },
+    {
+        "jurisdiction": "NS",
+        "type": "by",
+        "riding": "Preston"
+    },
+    {
+        "jurisdiction": "QC",
+        "type": "by",
+        "riding": "Saint-Henri–Sainte-Anne"
     }
 ]
