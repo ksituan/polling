@@ -214,5 +214,11 @@
         "jurisdiction": "QC",
         "type": "by",
         "riding": "Saint-Henri–Sainte-Anne"
+    },
+    {
+        "date": "2023-06-26",
+        "jurisdiction": "ON",
+        "type": "municipal",
+        "note": "Toronto mayoral election"
     }
 ]
