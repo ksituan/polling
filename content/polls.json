@@ -88585,11 +88585,10 @@
     },
     {
         "n": 1044,
-        "moe": 3.1,
         "company": "Léger",
         "date": "February 24-26, 2023",
         "field": "2023-02-26",
-        "method": "IVR",
+        "method": "Online",
         "jurisdiction": "QC",
         "poll": [
             {
@@ -88611,6 +88610,10 @@
             {
                 "party": "PQ",
                 "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 2
             }
         ]
     }
