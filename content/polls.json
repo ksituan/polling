@@ -88582,5 +88582,36 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1044,
+        "moe": 3.1,
+        "company": "Léger",
+        "date": "February 24-26, 2023",
+        "field": "2023-02-26",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 40
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 9
+            },
+            {
+                "party": "QS",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 18
+            }
+        ]
     }
 ]
