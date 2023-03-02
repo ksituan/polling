@@ -88616,5 +88616,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 564,
+        "company": "Pivotal",
+        "date": "February 12, 2023",
+        "field": "2023-02-12",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "ALP",
+                "score": 6
+            },
+            {
+                "party": "WIP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            }
+        ]
     }
 ]
