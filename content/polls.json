@@ -88912,5 +88912,117 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 450,
+        "moe": 4.6,
+        "company": "Narrative",
+        "date": "February 7-25, 2023",
+        "field": "2023-02-25",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 35
+            },
+            {
+                "party": "PCNB",
+                "score": 37
+            },
+            {
+                "party": "GPNB",
+                "score": 17
+            },
+            {
+                "party": "PANB",
+                "score": 2
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 420,
+        "moe": 4.8,
+        "company": "Narrative",
+        "date": "Feb. 13-Mar. 2, 2023",
+        "field": "2023-03-02",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 49
+            },
+            {
+                "party": "LPPEI",
+                "score": 19
+            },
+            {
+                "party": "GPPEI",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 450,
+        "moe": 4.6,
+        "company": "Narrative",
+        "date": "February 8-23, 2023",
+        "field": "2023-02-23",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 46
+            },
+            {
+                "party": "NSL",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 350,
+        "moe": 5.2,
+        "company": "Narrative",
+        "date": "February 7-21, 2023",
+        "field": "2023-02-21",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 46
+            },
+            {
+                "party": "PCNL",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            }
+        ]
     }
 ]
