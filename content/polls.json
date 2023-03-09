@@ -87625,7 +87625,7 @@
             }
         ]
     },
-        {
+    {
         "n": 1003,
         "company": "Leger",
         "date": "January 20-23, 2023",
@@ -89090,6 +89090,33 @@
             {
                 "party": "NBP",
                 "score": 2
+            }
+        ]
+    },
+    {
+        "n": 515,
+        "moe": 4.3,
+        "company": "Mainstreet",
+        "date": "March 6-7, 2023",
+        "field": "2023-03-07",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 58.9
+            },
+            {
+                "party": "LPPEI",
+                "score": 23.2
+            },
+            {
+                "party": "GPPEI",
+                "score": 14.3
+            },
+            {
+                "party": "NDP",
+                "score": 3.6
             }
         ]
     }
