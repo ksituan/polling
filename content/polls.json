@@ -89119,5 +89119,251 @@
                 "score": 3.6
             }
         ]
+    },
+        {
+        "n": 2600,
+        "company": "Abacus",
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 234,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 602,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 16
+            },
+            {
+                "party": "CPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 86,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 12
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 844,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 295,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 17
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 36
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "n": 80,
+        "date": "March 2-4, 2023",
+        "field": "2023-03-04",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
     }
 ]
