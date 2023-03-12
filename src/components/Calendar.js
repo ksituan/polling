@@ -56,15 +56,16 @@ const jurisdictions = {
 
 function Calendar() {
 
-    let fevents = events.filter(event => (!event.date) || (new Date(event.date + "T00:00") - new Date()) > -24*60*60*1000 && (new Date(event.date + "T00:00") - new Date() < 365*24*60*60*1000 || event.minority));
-    fevents = fevents.map(function(event) { event.date = new Date(event.date + "T00:00"); return(event) });
-    fevents = fevents.sort((a,b) => a.date - b.date);
-    console.log(fevents);
+    let fevents = events.filter(event => event.date ? 
+        ((new Date(event.date + "T00:00") - new Date()) > -24*60*60*1000 && (new Date(event.date + "T00:00") - new Date() < 365*24*60*60*1000)) || 
+        event.minority : true);
+    fevents = fevents.map(function(event) { if (event.date) {event.date = new Date(event.date + "T00:00")}; return(event) });
+    fevents = fevents.sort((a,b) => a.date ? a.date - b.date : true);
 
     return(
         <div className="calendar">
         {fevents.map((event, n) =>
-            <div className={n < 10 ? "event" : "event hidden" }>
+            <div key={n.toString()} className={n < 10 ? "event" : "event hidden" }>
                 <div className="jurisdiction">
                     <img className="flag" src={flags[event.jurisdiction]} alt="" width="25" />
                     <div className="desc">{jurisdictions[event.jurisdiction]}</div>
