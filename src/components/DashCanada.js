@@ -30,8 +30,8 @@ function DashCanada({polls, election}) {
         <Link className="dashCanada" to={`/Canada-${election.year}`} style={{textDecoration: "none"}}>
             <DashChart polls={polls} jurisdiction="Canada" election={election} plotWidth={1000} plotHeight={400} className="wideChart" />
             <div className="fedPartyContainer">
-            {majorAverage.map(event =>
-                <div className="dashFedParty">
+            {majorAverage.map((event, n) =>
+                <div className="dashFedParty" key={n}>
                     <svg className="partyLogo" viewBox="0 0 100 100" style={{width: "1.5rem", height: "1.5rem", padding: "0.2rem", border: `2px solid ${brandColours[relevantParties[event.party].colour]}`, borderRadius: "0.25rem"}}><path fill={brandColours[relevantParties[event.party].colour]} d={relevantParties[event.party].logo} /></svg>
                     <div>
                         <div className="dashFedName" style={{color: brandColours[relevantParties[event.party].colour]}}>{event.party}</div>
