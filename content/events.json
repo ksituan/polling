@@ -108,7 +108,7 @@
         "jurisdiction": "PE",
         "type": "legislative",
         "minority": false,
-        "future": true
+        "future": false
     },
     {
         "date": "2023-10-03",
@@ -184,6 +184,11 @@
         "jurisdiction": "ON",
         "type": "by",
         "riding": "Hamilton Centre"
+    },
+    {
+        "jurisdiction": "SK",
+        "type": "by",
+        "riding": "Lumsden-Morse"
     },
     {
         "jurisdiction": "SK",
