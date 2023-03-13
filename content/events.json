@@ -226,5 +226,11 @@
         "jurisdiction": "ON",
         "type": "municipal",
         "note": "Toronto mayoral election"
+    },
+    {
+        "date": "2023-05-28",
+        "jurisdiction": "BC",
+        "type": "leadership",
+        "party": "CPBC"
     }
 ]
