@@ -89611,5 +89611,39 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 970,
+        "company": "Angus Reid",
+        "date": "March 6-13, 2023",
+        "field": "2023-03-13",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38.1
+            },
+            {
+                "party": "CPC",
+                "score": 34.8
+            },
+            {
+                "party": "NDP",
+                "score": 18.7
+            },
+            {
+                "party": "PPC",
+                "score": 2.6
+            },
+            {
+                "party": "GPC",
+                "score": 5.2
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
     }
 ]
