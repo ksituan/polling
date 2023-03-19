@@ -90144,8 +90144,7 @@
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
         "n": 2747,
-        "moe": 1.9,
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada",
         "poll": [
             {
@@ -90183,7 +90182,7 @@
         "n": 306,
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_BC",
         "poll": [
             {
@@ -90217,7 +90216,7 @@
         "n": 289,
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_AB",
         "poll": [
             {
@@ -90230,7 +90229,7 @@
             },
             {
                 "party": "NDP",
-                "score": 32.4
+                "score": 27
             },
             {
                 "party": "GPC",
@@ -90251,7 +90250,7 @@
         "n": 76,
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_SKMB",
         "poll": [
             {
@@ -90285,7 +90284,7 @@
         "n": 947,
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_ON",
         "poll": [
             {
@@ -90318,7 +90317,7 @@
         "company": "EKOS",
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_QC",
         "poll": [
             {
@@ -90356,7 +90355,7 @@
         "n": 180,
         "date": "Feb. 24-Mar. 13, 2023",
         "field": "2023-03-13",
-        "method": "IVR/Online",
+        "method": "Online",
         "jurisdiction": "Canada_ATL",
         "poll": [
             {
