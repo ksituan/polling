@@ -90663,5 +90663,31 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1122,
+        "company": "ThinkHQ",
+        "date": "March 14-16, 2023",
+        "field": "2023-03-16",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            }
+        ]
     }
 ]
