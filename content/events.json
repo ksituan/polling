@@ -232,5 +232,23 @@
         "jurisdiction": "BC",
         "type": "leadership",
         "party": "CPBC"
+    },
+    {
+        "jurisdiction": "NB",
+        "type": "by",
+        "riding": "Bathurst East-Nepisiguit-Saint-Isidore",
+        "date": "2023-04-24"
+    },
+    {
+        "jurisdiction": "NB",
+        "type": "by",
+        "riding": "Dieppe",
+        "date": "2023-04-24"
+    },
+    {
+        "jurisdiction": "NB",
+        "type": "by",
+        "riding": "Restigouche-Chaleur",
+        "date": "2023-04-24"
     }
 ]
