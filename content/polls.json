@@ -90689,5 +90689,36 @@
                 "score": 2
             }
         ]
+    },
+        {
+        "moe": 2.9,
+        "n": 1108,
+        "company": "Mainstreet",
+        "date": "March 21-22, 2023",
+        "field": "2023-03-22",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 45.9
+            },
+            {
+                "party": "ABP",
+                "score": 3.2
+            },
+            {
+                "party": "WIP",
+                "score": 2.2
+            },
+            {
+                "party": "Others",
+                "score": 3.6
+            }
+        ]
     }
 ]
