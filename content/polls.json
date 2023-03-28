@@ -90720,5 +90720,35 @@
                 "score": 3.6
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Probe",
+        "date": "March 8-20, 2023",
+        "field": "2023-03-20",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "MLP",
+                "score": 9
+            },
+            {
+                "party": "GPM",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
