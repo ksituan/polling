@@ -250,5 +250,10 @@
         "type": "by",
         "riding": "Restigouche-Chaleur",
         "date": "2023-04-24"
+    },
+    {
+        "jurisdiction": "ON",
+        "type": "by",
+        "riding": "Scarborough—Guildwood"
     }
 ]
