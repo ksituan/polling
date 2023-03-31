@@ -90814,5 +90814,39 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 404,
+        "company": "Innovative",
+        "date": "March 2-20, 2023",
+        "field": "2023-03-20",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 39
+            },
+            {
+                "party": "ALP",
+                "score": 7
+            },
+            {
+                "party": "GPA",
+                "score": 6
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "WIP",
+                "score": 4
+            }
+        ]
     }
 ]
