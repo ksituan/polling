@@ -90848,5 +90848,32 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 962,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "March 27-28, 2023",
+        "field": "2023-03-28",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 50.4
+            },
+            {
+                "party": "LPPEI",
+                "score": 22.3
+            },
+            {
+                "party": "GPPEI",
+                "score": 21.9
+            },
+            {
+                "party": "NDP",
+                "score": 5.4
+            }
+        ]
     }
 ]
