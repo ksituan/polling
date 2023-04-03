@@ -90875,5 +90875,36 @@
                 "score": 5.4
             }
         ]
+    },
+    {
+        "n": 392,
+        "moe": 4.8,
+        "company": "Forum",
+        "date": "March 31, 2023",
+        "field": "2023-03-31",
+        "method": "IVR",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 47
+            },
+            {
+                "party": "LPPEI",
+                "score": 20
+            },
+            {
+                "party": "GPPEI",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
