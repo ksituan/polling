@@ -2092,6 +2092,32 @@
         "jurisdiction": "PE"
     },
     {
+        "date": "2023-04-03",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 4.5
+            },
+            {
+                "party": "PEIPC",
+                "score": 55.9
+            },
+            {
+                "party": "GPPEI",
+                "score": 21.6
+            },
+            {
+                "party": "LPPEI",
+                "score": 17.2
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "PE"
+    },
+    {
         "date": "2009-06-09",
         "nextWrit": "2013-09-07",
         "results": [
