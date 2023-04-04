@@ -22,7 +22,7 @@ const maps = () => (
     <h2>Do It Yourself</h2>
     <p>Make your own election predictions with PC DIY, our in-house map painting app.</p>
     <div className="diyContainer">
-      <Link className="diyLink" to="/diy/bc" style={{backgroundColor: "#0D3692b0"}}><img className="flag" src={BC_flag} alt="" width="25" /><p>B.C. provincial legislature</p></Link>
+      <Link className="diyLink" to="/diy/bc" style={{backgroundColor: "#D1242Eb0"}}><img className="flag" src={BC_flag} alt="" width="25" /><p>B.C. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/ab" style={{backgroundColor: "#0D3692b0"}}><img className="flag" src={AB_flag} alt="" width="25" /><p>Alberta provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/sk" style={{backgroundColor: "#046A21b0"}}><img className="flag" src={SK_flag} alt="" width="25" /><p>Sask. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/mb" style={{backgroundColor: "#C8102Eb0"}}><img className="flag" src={MB_flag} alt="" width="25" /><p>Manitoba provincial legislature</p></Link>
