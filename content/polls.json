@@ -90906,5 +90906,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 744,
+        "company": "Angus Reid",
+        "date": "March 13, 2023",
+        "field": "2023-03-13",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "OLP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
