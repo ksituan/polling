@@ -90970,5 +90970,39 @@
                 "score": 4.2
             }
         ]
+    },
+    {
+        "n": 862,
+        "company": "Leger",
+        "date": "March 24-27, 2023",
+        "field": "2023-03-27",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "WIP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
