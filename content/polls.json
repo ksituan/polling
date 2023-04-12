@@ -91038,5 +91038,31 @@
                 "score": 3.4
             }
         ]
+    },
+    {
+        "n": 521,
+        "company": "Angus Reid",
+        "date": "March 6-13, 2023",
+        "field": "2023-03-13",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "BCU",
+                "score": 31
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 8
+            }
+        ]
     }
 ]
