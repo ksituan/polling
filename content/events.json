@@ -254,5 +254,11 @@
         "jurisdiction": "ON",
         "type": "by",
         "riding": "Scarborough—Guildwood"
+    },
+    {
+        "date": "2023-12-02",
+        "jurisdiction": "ON",
+        "type": "leadership",
+        "party": "OLP"
     }
 ]
