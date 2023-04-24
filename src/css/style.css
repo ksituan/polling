@@ -1079,12 +1079,7 @@ input {
     display: flex;
     gap: 1rem;
     justify-content: flex-start;
-}
-
-@media (max-width: 800px) {
-    .diyContainer {
-        flex-wrap: wrap;
-    }
+    flex-wrap: wrap;
 }
 
 .diyLink {
@@ -1103,6 +1098,22 @@ input {
     color: white;
     margin-top: 0.2rem;
     line-height: normal;
+}
+
+
+@media (max-width: 800px) {
+    .diyContainer {
+        gap: 0.75rem;
+    }
+
+    .diyLink {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .diyLink p {
+        font-size: 10pt;
+    }
 }
 
 .diyLink:hover {
