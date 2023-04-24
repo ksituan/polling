@@ -91383,5 +91383,43 @@
                 "score": 2.5
             }
         ]
+    },
+    {
+        "n": 803,
+        "company": "Insightrix",
+        "date": "April 11-13, 2023",
+        "field": "2023-04-13",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "GPS",
+                "score": 2
+            },
+            {
+                "party": "SLP",
+                "score": 3
+            },
+            {
+                "party": "PCS",
+                "score": 6
+            },
+            {
+                "party": "SUP",
+                "score": 2
+            },
+            {
+                "party": "BPS",
+                "score": 3
+            }
+        ]
     }
 ]
