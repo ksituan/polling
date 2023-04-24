@@ -124,9 +124,9 @@ function Button({electionFunction, label}) {
 function Map({colours, handlePaintClick, handleHover}) {
 
     return(
-        <svg className="diyMap" viewBox="0 0 1500 910">
+        <svg className="diyMap" viewBox="0 0 1500 930">
 
-            <rect width="1500" height="910" fill="white" onMouseEnter={handleHover} />
+            <rect width="1500" height="930" fill="white" onMouseEnter={handleHover} />
 
             <text x="150" y="800">New Brunswick</text>
 <g id="New Brunswick" transform="translate(20 20)">
