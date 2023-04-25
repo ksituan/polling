@@ -8,11 +8,11 @@ import PartyCount from "../../components/diy/PartyCount"
 import Palette from "../../components/diy/Palette"
 import Hover from "../../components/diy/Hover"
 
-let ge2020 = {1: "Restigouche West", 2: "Restigouche East", 3: "Belle-Baie-Belledune", 4: "Bathurst", 5: "Hautes-Terres-Nepisiguit", 6: "Caraquet", 7: "Shippagan-Les-Îles", 8: "Tracadie", 9: "Miramichi Bay-Neguac", 10: "Miramichi East",
-11: "Miramichi West", 12: "Kent North", 13: "Beausoleil-Grand-Bouctouche-Kent", 14: "Shediac Bay-Dieppe", 15: "Shediac-Cap-Acadie", 16: "Tantramar", 17: "Dieppe-Memramcook", 18: "Moncton East", 19: "Moncton Centre", 20: "Moncton South",
-21: "Moncton Northwest", 22: "Champdoré-Irishtown", 23: "Riverview", 24: "Albert-Riverview", 25: "Arcadia-Butternut Valley-Maple Hills", 26: "Sussex-Three Rivers", 27: "Hampton-Fundy-St Martins", 28: "Quispamsis", 29: "Rothesay", 30: "Saint John East",
-31: "Saint John Portland-Simonds", 32: "Saint John Harbour", 33: "Saint John West-Lancaster", 34: "Kings Centre", 35: "Fundy-The Isles-Saint John Lorneville", 36: "Saint Croix", 37: "Oromocto-Sunbury", 38: "Fredericton-Grand Lake", 39: "Fredericton Lincoln", 40: "Fredericton South-Silverwood",
-41: "Fredericton North", 42: "Fredericton-York", 43: "Hanwell-New Maryland", 44: "Carleton-York", 45: "Woodstock-Hartland", 46: "Carleton-Victoria", 47: "Grand Falls-Saint-Quentin", 48: "Edmundston-Vallée-des-Rivières", 49: "Madawaska Les Lacs-Edmundston"};
+let ge2020 = {1: "nbla4", 2: "nbla4", 3: "nbla4", 4: "nbla2", 5: "nbla4", 6: "nbla4", 7: "nbla4", 8: "nbla4", 9: "nbla2", 10: "panb2",
+11: "pcnb3", 12: "gpnb1", 13: "nbla3", 14: "nbla4", 15: "nbla3", 16: "gpnb3", 17: "nbla4", 18: "nbla1", 19: "pcnb1", 20: "pcnb2",
+21: "pcnb2", 22: "nbla1", 23: "pcnb4", 24: "pcnb4", 25: "pcnb4", 26: "pcnb4", 27: "pcnb4", 28: "pcnb4", 29: "pcnb4", 30: "pcnb4",
+31: "pcnb3", 32: "pcnb3", 33: "pcnb4", 34: "pcnb4", 35: "pcnb4", 36: "pcnb2", 37: "pcnb4", 38: "panb2", 39: "pcnb1", 40: "pcnb1",
+41: "pcnb2", 42: "pcnb2", 43: "pcnb4", 44: "pcnb1", 45: "pcnb3", 46: "pcnb1", 47: "nbla3", 48: "nbla4", 49: "nbla4"};
 
 let ridingNames = {1: "Restigouche West", 2: "Restigouche East", 3: "Belle-Baie-Belledune", 4: "Bathurst", 5: "Hautes-Terres-Nepisiguit", 6: "Caraquet", 7: "Shippagan-Les-Îles", 8: "Tracadie", 9: "Miramichi Bay-Neguac", 10: "Miramichi East",
 11: "Miramichi West", 12: "Kent North", 13: "Beausoleil-Grand-Bouctouche-Kent", 14: "Shediac Bay-Dieppe", 15: "Shediac-Cap-Acadie", 16: "Tantramar", 17: "Dieppe-Memramcook", 18: "Moncton East", 19: "Moncton Centre", 20: "Moncton South",
@@ -101,7 +101,7 @@ function Diy({size}) {
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
-                {/*<Button electionFunction={setElection20} label={"2020 election"} />*/}
+                <Button electionFunction={setElection20} label={"2020 election"} />
                 <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
