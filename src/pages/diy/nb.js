@@ -12,7 +12,7 @@ let ge2020 = {1: "nbla4", 2: "nbla4", 3: "nbla4", 4: "nbla2", 5: "nbla4", 6: "nb
 11: "pcnb3", 12: "gpnb1", 13: "nbla3", 14: "nbla4", 15: "nbla3", 16: "gpnb3", 17: "nbla4", 18: "nbla1", 19: "pcnb1", 20: "pcnb2",
 21: "pcnb2", 22: "nbla1", 23: "pcnb4", 24: "pcnb4", 25: "pcnb4", 26: "pcnb4", 27: "pcnb4", 28: "pcnb4", 29: "pcnb4", 30: "pcnb4",
 31: "pcnb3", 32: "pcnb3", 33: "pcnb4", 34: "pcnb4", 35: "pcnb4", 36: "pcnb2", 37: "pcnb4", 38: "panb2", 39: "pcnb1", 40: "pcnb1",
-41: "pcnb2", 42: "pcnb2", 43: "pcnb4", 44: "pcnb1", 45: "pcnb3", 46: "pcnb1", 47: "nbla3", 48: "nbla4", 49: "nbla4"};
+41: "pcnb2", 42: "pcnb2", 43: "pcnb4", 44: "pcnb4", 45: "pcnb3", 46: "pcnb1", 47: "nbla3", 48: "nbla4", 49: "nbla4"};
 
 let ridingNames = {1: "Restigouche West", 2: "Restigouche East", 3: "Belle-Baie-Belledune", 4: "Bathurst", 5: "Hautes-Terres-Nepisiguit", 6: "Caraquet", 7: "Shippagan-Les-Îles", 8: "Tracadie", 9: "Miramichi Bay-Neguac", 10: "Miramichi East",
 11: "Miramichi West", 12: "Kent North", 13: "Beausoleil-Grand-Bouctouche-Kent", 14: "Shediac Bay-Dieppe", 15: "Shediac-Cap-Acadie", 16: "Tantramar", 17: "Dieppe-Memramcook", 18: "Moncton East", 19: "Moncton Centre", 20: "Moncton South",
