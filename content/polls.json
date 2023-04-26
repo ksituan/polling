@@ -91421,5 +91421,40 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Oracle",
+        "date": "April 17-20, 2023",
+        "field": "2023-04-20",
+        "method": "Telephone",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "GPA",
+                "score": 5
+            },
+            {
+                "party": "WIP",
+                "score": 1
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
