@@ -91456,5 +91456,31 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "April 21-25, 2023",
+        "field": "2023-04-25",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
