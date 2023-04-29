@@ -91550,5 +91550,43 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1515,
+        "company": "Leger",
+        "date": "April 21-23, 2023",
+        "field": "2023-04-23",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
