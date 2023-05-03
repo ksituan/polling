@@ -91679,5 +91679,39 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1201,
+        "company": "Léger",
+        "date": "April 28-30, 2023",
+        "field": "2023-04-30",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 36
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 10
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PQ",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
