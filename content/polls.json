@@ -91649,5 +91649,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1385,
+        "company": "ThinkHQ",
+        "date": "April 25-29, 2023",
+        "field": "2023-04-29",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
