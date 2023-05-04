@@ -91953,5 +91953,35 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Leger",
+        "date": "Apr. 28-May 1, 2023",
+        "field": "2023-05-01",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
     }
 ]
