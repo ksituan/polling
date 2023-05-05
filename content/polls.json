@@ -91955,7 +91955,7 @@
         ]
     },
     {
-        "n": 1000,
+        "n": 847,
         "company": "Leger",
         "date": "Apr. 28-May 1, 2023",
         "field": "2023-05-01",
@@ -91979,8 +91979,12 @@
                 "score": 4
             },
             {
+                "party": "WIP",
+                "score": 1
+            },
+            {
                 "party": "Others",
-                "score": 5
+                "score": 3
             }
         ]
     }
