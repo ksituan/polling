@@ -92018,5 +92018,69 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Nanos",
+        "date": "May 5, 2023",
+        "field": "2023-05-05",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27.7
+            },
+            {
+                "party": "CPC",
+                "score": 35.2
+            },
+            {
+                "party": "NDP",
+                "score": 21.7
+            },
+            {
+                "party": "BQ",
+                "score": 7.7
+            },
+            {
+                "party": "GPC",
+                "score": 4.3
+            },
+            {
+                "party": "PPC",
+                "score": 3.4
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "company": "Research Co.",
+        "date": "May 1-3, 2023",
+        "field": "2023-05-03",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "BCU",
+                "score": 33
+            },
+            {
+                "party": "GPBC",
+                "score": 16
+            },
+            {
+                "party": "CPBC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
