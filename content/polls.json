@@ -92328,5 +92328,44 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1272,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "May 3-6, 2023",
+        "field": "2023-05-06",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30.4
+            },
+            {
+                "party": "CPC",
+                "score": 36.4
+            },
+            {
+                "party": "NDP",
+                "score": 17.3
+            },
+            {
+                "party": "BQ",
+                "score": 5.9
+            },
+            {
+                "party": "GPC",
+                "score": 4.4
+            },
+            {
+                "party": "PPC",
+                "score": 3.2
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
     }
 ]
