@@ -92393,5 +92393,40 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "moe": 2.7,
+        "n": 1280,
+        "company": "Mainstreet",
+        "date": "May 9-12, 2023",
+        "field": "2023-05-12",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49.9
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "ABP",
+                "score": 2.1
+            },
+            {
+                "party": "GPA",
+                "score": 1.2
+            },
+            {
+                "party": "WIP",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ]
     }
 ]
