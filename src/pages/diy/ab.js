@@ -39,7 +39,7 @@ let ge2019 = {1: "ucp2", 2: "ucp2", 3: "ucp3", 4: "ndp1", 5: "ucp2", 6: "ucp1", 
 81: "ucp1", 82: "ucp3", 83: "ndp1", 84: "ucp3", 85: "ucp4", 86: "ucp4", 87: "ucp4"};
 
 let ridingNames = {1: "Calgary-Acadia", 2: "Calgary-Beddington", 3: "Calgary-Bow", 4: "Calgary-Buffalo", 5: "Calgary-Cross", 6: "Calgary-Currie", 7: "Calgary-East", 8: "Calgary-Edgemont", 9: "Calgary-Elbow", 10: "Calgary-Falconridge",
-11: "Calgary-Fish Creek", 12: "Calgary-Foothills", 13: "Calgary-Glenmore", 14: "Calgary-Hays", 15: "Calgary-Klein", 16: "Calgary-Lougheed", 17: "Calgary-McCall", 18: "Calgary-Mountain View", 19: "Calgary-North", 20: "Calgary-North East",
+11: "Calgary-Fish Creek", 12: "Calgary-Foothills", 13: "Calgary-Glenmore", 14: "Calgary-Hays", 15: "Calgary-Klein", 16: "Calgary-Lougheed", 17: "Calgary-Bhullar-McCall", 18: "Calgary-Mountain View", 19: "Calgary-North", 20: "Calgary-North East",
 21: "Calgary-North West", 22: "Calgary-Peigan", 23: "Calgary-Shaw", 24: "Calgary-South East", 25: "Calgary-Varsity", 26: "Calgary-West", 27: "Edmonton-Beverly-Clareview", 28: "Edmonton-Castle Downs", 29: "Edmonton-City Centre", 30: "Edmonton-Decore",
 31: "Edmonton-Ellerslie", 32: "Edmonton-Glenora", 33: "Edmonton-Gold Bar", 34: "Edmonton-Highlands-Norwood", 35: "Edmonton-Manning", 36: "Edmonton-McClung", 37: "Edmonton-Meadows", 38: "Edmonton-Mill Woods", 39: "Edmonton-North West", 40: "Edmonton-Riverview",
 41: "Edmonton-Rutherford", 42: "Edmonton-South", 43: "Edmonton-South West", 44: "Edmonton-Strathcona", 45: "Edmonton-West Henday", 46: "Edmonton-Whitemud", 47: "Airdrie-Cochrane", 48: "Airdrie-East", 49: "Athabasca-Barrhead-Westlock", 50: "Banff-Kananaskis",
