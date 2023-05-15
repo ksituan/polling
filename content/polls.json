@@ -92498,5 +92498,28 @@
                 "score": 1.3
             }
         ]
+    },
+    {
+        "n": 900,
+        "moe": 3.3,
+        "company": "Janet Brown",
+        "date": "May 1-11, 2023",
+        "field": "2023-05-11",
+        "method": "Telephone/Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
     }
 ]
