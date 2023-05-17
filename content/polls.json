@@ -92590,5 +92590,35 @@
                 "score": 0.9
             }
         ]
-    }
+    },
+    {
+        "n": 1219,
+        "company": "Counsel",
+        "date": "May 12-14, 2023",
+        "field": "2023-05-14",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "UCP",
+                "score": 38
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    }    
 ]
