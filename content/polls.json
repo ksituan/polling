@@ -92620,5 +92620,35 @@
                 "score": 5
             }
         ]
-    }    
+    },
+    {
+        "n": 1202,
+        "company": "Angus Reid",
+        "date": "May 12-16, 2023",
+        "field": "2023-05-16",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    }
 ]
