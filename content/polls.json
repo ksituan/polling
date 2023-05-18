@@ -92942,5 +92942,35 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 529,
+        "company": "Research Co.",
+        "date": "May 16-17, 2023",
+        "field": "2023-05-17",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 49
+            },
+            {
+                "party": "UCP",
+                "score": 47
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
+                "party": "SMA",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]

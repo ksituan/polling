@@ -15,7 +15,7 @@ function SinglePollingAverage(polls, endDate, parties) {
   partyList = new Set(partyList);
   partyList.delete("Others") // Drop others
 
-  let shitlist = ['AIP', 'PVQ', 'WIP']
+  let shitlist = ['AIP', 'PVQ', 'WIP', 'SMA']
   shitlist.map(party => partyList.delete(party));
 
   partyList = [...partyList]
