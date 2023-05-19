@@ -208,7 +208,8 @@
     {
         "jurisdiction": "Canada",
         "type": "by",
-        "riding": "Winnipeg South Centre"
+        "riding": "Winnipeg South Centre",
+        "date": "2023-06-19"
     },
     {
         "jurisdiction": "BC",
@@ -260,5 +261,23 @@
         "jurisdiction": "ON",
         "type": "leadership",
         "party": "OLP"
+    },
+    {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Oxford",
+        "date": "2023-06-19"
+    },
+        {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Notre-Dame-de-Grâce—Westmount",
+        "date": "2023-06-19"
+    },
+        {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Portage—Lisgar",
+        "date": "2023-06-19"
     }
 ]
