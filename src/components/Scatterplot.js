@@ -141,6 +141,10 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
           positions = positions.filter(sample => sample <= xMap(new Date("2017-07-22")));
         }
 
+        if (['SMA','WIP'].includes(party)) { // Shitlist
+          positions = []
+        }
+
         for (let sample of positions) {
 
             let weightedPolls = weightPolls(sample, partyPolls);
