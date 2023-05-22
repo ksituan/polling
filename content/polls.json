@@ -93112,5 +93112,31 @@
                 "score": 1.1
             }
         ]
+    },
+    {
+        "n": 1507,
+        "company": "Abacus",
+        "date": "May 19-22, 2023",
+        "field": "2023-05-22",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "ABP",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
