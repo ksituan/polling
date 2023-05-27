@@ -93402,7 +93402,7 @@
             }
         ]
     },
-        {
+    {
         "moe": 2.4,
         "n": 1662,
         "company": "Mainstreet",
@@ -93437,7 +93437,7 @@
             }
         ]
     },
-        {
+    {
         "moe": 2.3,
         "n": 1700,
         "company": "Mainstreet",
@@ -93472,7 +93472,7 @@
             }
         ]
     },
-        {
+    {
         "n": 1200,
         "moe": 2.8,
         "company": "Janet Brown",
@@ -93499,6 +93499,55 @@
             },
             {
                 "party": "ALP",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1011,
+        "company": "Leger",
+        "date": "May 23-25, 2023",
+        "field": "2023-05-25",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "moe": 2.5,
+        "n": 1507,
+        "company": "EKOS",
+        "date": "May 26, 2023",
+        "field": "2023-05-26",
+        "method": "IVR/Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "ABP",
+                "score": 1
+            },
+            {
+                "party": "Others",
                 "score": 1
             }
         ]
