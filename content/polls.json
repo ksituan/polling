@@ -93520,8 +93520,16 @@
                 "score": 46
             },
             {
+                "party": "ABP",
+                "score": 1
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
                 "party": "Others",
-                "score": 4
+                "score": 2
             }
         ]
     },
@@ -93549,6 +93557,66 @@
             {
                 "party": "Others",
                 "score": 1
+            }
+        ]
+    },
+    {
+        "n": 571,
+        "company": "Research Co.",
+        "date": "May 26-27, 2023",
+        "field": "2023-05-27",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
+                "party": "SMA",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1232,
+        "company": "Counsel",
+        "date": "May 25-26, 2023",
+        "field": "2023-05-26",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "UCP",
+                "score": 41
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "ALP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 4
             }
         ]
     }
