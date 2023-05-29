@@ -93619,5 +93619,198 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Forum",
+        "date": "May 28, 2023",
+        "field": "2023-05-28",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44.3
+            },
+            {
+                "party": "UCP",
+                "score": 50.4
+            },
+            {
+                "party": "GPA",
+                "score": 1.6
+            },
+            {
+                "party": "Others",
+                "score": 3.7
+            }
+        ]
+    },
+    {
+        "n": 1200,
+        "company": "Abacus",
+        "date": "May 26-28, 2023",
+        "field": "2023-05-28",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "ABP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "moe": 2.3,
+        "n": 1734,
+        "company": "Mainstreet",
+        "date": "May 22-25, 2023",
+        "field": "2023-05-25",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 48.4
+            },
+            {
+                "party": "NDP",
+                "score": 46.3
+            },
+            {
+                "party": "ABP",
+                "score": 1.9
+            },
+            {
+                "party": "GPA",
+                "score": 1.5
+            },
+            {
+                "party": "WIP",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "moe": 2.3,
+        "n": 1841,
+        "company": "Mainstreet",
+        "date": "May 23-26, 2023",
+        "field": "2023-05-26",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 48.7
+            },
+            {
+                "party": "NDP",
+                "score": 46.5
+            },
+            {
+                "party": "ABP",
+                "score": 2.1
+            },
+            {
+                "party": "GPA",
+                "score": 1.2
+            },
+            {
+                "party": "WIP",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {
+        "moe": 2.2,
+        "n": 1922,
+        "company": "Mainstreet",
+        "date": "May 24-27, 2023",
+        "field": "2023-05-27",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 46.9
+            },
+            {
+                "party": "ABP",
+                "score": 1.8
+            },
+            {
+                "party": "GPA",
+                "score": 1.1
+            },
+            {
+                "party": "WIP",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "moe": 2.5,
+        "n": 1504,
+        "company": "Mainstreet",
+        "date": "May 26-28, 2023",
+        "field": "2023-05-28",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49.8
+            },
+            {
+                "party": "NDP",
+                "score": 47.8
+            },
+            {
+                "party": "ABP",
+                "score": 0.5
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
+                "party": "WIP",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
     }
 ]
