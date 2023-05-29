@@ -93834,5 +93834,32 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 800,
+        "moe": 3.5,
+        "company": "Oracle",
+        "date": "May 22-25, 2023",
+        "field": "2023-05-25",
+        "method": "Telephonse",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "GPA",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 2
+            }
+        ]
     }
 ]

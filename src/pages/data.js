@@ -9,7 +9,7 @@ const data = () => (
     <h1>Data Downloads</h1>
     <h2>Polling Canada database</h2>
     <p><Link to="/polls.zip">polls.json</Link> (107 KB)</p>
-    <p>The complete Polling Canada database, in JSON format. This is the same file used to generate all the content on this site. Contains information about polling company, methodology, field date, sample size, and margin of error. Updated May 28, 2023.</p>
+    <p>The complete Polling Canada database, in JSON format. This is the same file used to generate all the content on this site. Contains information about polling company, methodology, field date, sample size, and margin of error. Updated May 29, 2023.</p>
     <h2>2021 election results by polling division</h2>
     <p><Link to="/2021_polls.zip">2021_polls.csv</Link> (1.07 MB)</p>
     <p>This .csv file is designed for mapping, and can be easily joined to Elections Canada shapefiles. Some polling places are duplicated, so this file should <strong>not</strong> be used to calculate sums. Pairs with <a href="https://open.canada.ca/data/en/dataset/0ed37cd6-d831-4183-bf43-b05e29570298" target="_blank" rel="noreferrer">Polling Division Boundaries (2021)</a> and <a href="https://open.canada.ca/data/en/dataset/34a8484d-5a00-4e34-a235-75881141385e" target="_blank" rel="noreferrer">Advance Polling District Boundaries (2021)</a>.</p>
