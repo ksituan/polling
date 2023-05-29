@@ -93812,5 +93812,27 @@
                 "score": 0.5
             }
         ]
+    },
+    {
+        "n": 1300,
+        "company": "Ipsos",
+        "date": "May 27, 2023",
+        "field": "2023-05-27",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
