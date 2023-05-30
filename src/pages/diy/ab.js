@@ -38,6 +38,16 @@ let ge2019 = {1: "ucp2", 2: "ucp2", 3: "ucp3", 4: "ndp1", 5: "ucp2", 6: "ucp1", 
 71: "ucp2", 72: "ndp1", 73: "ucp4", 74: "ucp4", 75: "ucp2", 76: "ucp4", 77: "ucp4", 78: "ucp4", 79: "ucp4", 80: "ucp4",
 81: "ucp1", 82: "ucp3", 83: "ndp1", 84: "ucp3", 85: "ucp4", 86: "ucp4", 87: "ucp4"};
 
+let ge2023 = {1: "ndp1", 2: "ndp1", 3: "ucp1", 4: "ndp3", 5: "ucp1", 6: "ndp2", 7: "ucp1", 8: "ndp1", 9: "ndp1", 10: "ndp2",
+11: "ucp1", 12: "ndp1", 13: "ndp1", 14: "ucp2", 15: "ndp1", 16: "ucp2", 17: "ndp2", 18: "ndp4", 19: "ucp1", 20: "ndp2",
+21: "ucp1", 22: "ucp2", 23: "ucp2", 24: "ucp2", 25: "ndp2", 26: "ucp2", 27: "ndp2", 28: "ndp2", 29: "ndp4", 30: "ndp2",
+31: "ndp3", 32: "ndp4", 33: "ndp4", 34: "ndp4", 35: "ndp3", 36: "ndp3", 37: "ndp3", 38: "ndp3", 39: "ndp3", 40: "ndp4",
+41: "ndp4", 42: "ndp2", 43: "ndp2", 44: "ndp4", 45: "ndp2", 46: "ndp3", 47: "ucp3", 48: "ucp3", 49: "ucp4", 50: "ndp1",
+51: "ucp4", 52: "ucp4", 53: "ucp4", 54: "ucp4", 55: "ucp4", 56: "ucp4", 57: "ucp3", 58: "ucp4", 59: "ucp4", 60: "ucp4",
+61: "ucp4", 62: "ucp3", 63: "ucp4", 64: "ucp4", 65: "ucp4", 66: "ucp4", 67: "ucp4", 68: "ucp4", 69: "ucp2", 70: "ucp4",
+71: "ucp1", 72: "ndp2", 73: "ucp4", 74: "ucp4", 75: "ucp1", 76: "ucp4", 77: "ucp4", 78: "ucp2", 79: "ucp2", 80: "ucp4",
+81: "ndp1", 82: "ucp2", 83: "ndp2", 84: "ucp1", 85: "ucp4", 86: "ucp4", 87: "ucp4"};
+
 let ridingNames = {1: "Calgary-Acadia", 2: "Calgary-Beddington", 3: "Calgary-Bow", 4: "Calgary-Buffalo", 5: "Calgary-Cross", 6: "Calgary-Currie", 7: "Calgary-East", 8: "Calgary-Edgemont", 9: "Calgary-Elbow", 10: "Calgary-Falconridge",
 11: "Calgary-Fish Creek", 12: "Calgary-Foothills", 13: "Calgary-Glenmore", 14: "Calgary-Hays", 15: "Calgary-Klein", 16: "Calgary-Lougheed", 17: "Calgary-Bhullar-McCall", 18: "Calgary-Mountain View", 19: "Calgary-North", 20: "Calgary-North East",
 21: "Calgary-North West", 22: "Calgary-Peigan", 23: "Calgary-Shaw", 24: "Calgary-South East", 25: "Calgary-Varsity", 26: "Calgary-West", 27: "Edmonton-Beverly-Clareview", 28: "Edmonton-Castle Downs", 29: "Edmonton-City Centre", 30: "Edmonton-Decore",
@@ -80,6 +90,11 @@ function Diy({size}) {
     const setElection19 = () => {
         setColours(ge2019);
         setPalette(paletteInfo);
+    } 
+
+    const setElection23 = () => {
+        setColours(ge2023);
+        setPalette(paletteInfo23);
     } 
 
     const setBlank = () => {
@@ -133,6 +148,13 @@ function Diy({size}) {
         "abp" : {name: "Alberta Party", colour: "teal", pattern: "hor"},
     };
 
+    const paletteInfo23 = {
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "ucp" : {name: "United Conservatives", colour: "blue", pattern: "right"},
+        "gpa" : {name: "Green Party", colour: "green", pattern: "vert"},
+        "abp" : {name: "Alberta Party", colour: "teal", pattern: "hor"},
+    };
+
     const [palette, setPalette] = useState(paletteInfo);
 
     return(
@@ -143,6 +165,7 @@ function Diy({size}) {
             <div className="buttonBar">
                 <Button electionFunction={setElection15} label={"2015 election"} />
                 <Button electionFunction={setElection19} label={"2019 election"} />
+                <Button electionFunction={setElection23} label={"2023 election"} />
                 <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>

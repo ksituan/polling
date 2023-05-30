@@ -1283,6 +1283,36 @@
         "jurisdiction": "AB"
     },
     {
+        "date": "2023-05-29",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "UCP",
+                "score": 52.6
+            },
+            {
+                "party": "ABP",
+                "score": 0.7
+            },
+            {
+                "party": "ALP",
+                "score": 0.2
+            },
+            {
+                "party": "GPA",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ],
+        "jurisdiction": "AB"
+    },
+    {
         "date": "2003-11-05",
         "nextWrit": "2007-10-10",
         "results": [
