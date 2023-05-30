@@ -12,6 +12,10 @@ let ge2019 = {1: "peipc2", 2: "peipc3", 3: "peipc3", 4: "peipc3", 5: "gppei1", 6
 11: "gppei1", 12: "gppei2", 13: "gppei1", 14: "lppei1", 15: "peipc2", 16: "lppei2", 17: "gppei3", 18: "peipc4", 19: "peipc2", 20: "peipc4",
 21: "gppei1", 22: "gppei2", 23: "gppei1", 24: "lppei2", 25: "lppei1", 26: "peipc1", 27: "lppei3"};
 
+let ge2023 = {1: "peipc3", 2: "peipc4", 3: "peipc4", 4: "peipc4", 5: "peipc1", 6: "peipc3", 7: "peipc4", 8: "peipc4", 9: "peipc4", 10: "peipc4",
+11: "peipc3", 12: "gppei1", 13: "peipc2", 14: "lppei1", 15: "peipc4", 16: "peipc4", 17: "gppei1", 18: "peipc4", 19: "peipc3", 20: "peipc4",
+21: "peipc3", 22: "peipc3", 23: "peipc2", 24: "peipc4", 25: "lppei1", 26: "peipc3", 27: "lppei3"};
+
 let ridingNames = {1: "Souris-Elmira", 2: "Georgetown-Pownal", 3: "Montague-Kilmuir", 4: "Belfast-Murray River", 5: "Mermaid-Stratford", 6: "Stratford-Keppoch", 7: "Morell-Donagh", 8: "Stanhope-Marshfield", 9: "Charlottetown-Hillsborough Park", 10: "Charlottetown-Winsloe",
 11: "Charlottetown-Belvedere", 12: "Charlottetown-Victoria Park", 13: "Charlottetown-Brighton", 14: "Charlottetown-West Royalty", 15: "Brackley-Hunter River", 16: "Cornwall-Meadowbank", 17: "New Haven-Rocky Point", 18: "Rustico-Emerald", 19: "Borden-Kinkora", 20: "Kensington-Malpeque",
 21: "Summerside-Wilmot", 22: "Summerside-South Drive", 23: "Tyne Valley-Sherbrooke", 24: "Evangeline-Miscouche", 25: "O'Leary-Inverness", 26: "Alberton-Bloomfield", 27: "Tignish-Palmer Road"};
@@ -44,6 +48,12 @@ function Diy({size}) {
         setColours(ge2019);
         setPalette(paletteInfo);
     } 
+
+    const setElection23 = () => {
+        setColours(ge2023);
+        setPalette(paletteInfo);
+    } 
+
 
     const setBlank = () => {
         setColours(blank);
@@ -97,6 +107,7 @@ function Diy({size}) {
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
                 <Button electionFunction={setElection19} label={"2019 election"} />
+                <Button electionFunction={setElection23} label={"2023 election"} />
                 <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
