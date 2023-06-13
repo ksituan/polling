@@ -94426,5 +94426,65 @@
                 "score": 2.6
             }
         ]
+    },
+    {
+        "n": 448,
+        "company": "Angus Reid",
+        "date": "May 30-Jun. 3, 2023",
+        "field": "2023-06-03",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "MLP",
+                "score": 10
+            },
+            {
+                "party": "GPM",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 799,
+        "company": "Abacus",
+        "date": "June 6-11, 2023",
+        "field": "2023-06-11",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "OLP",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
