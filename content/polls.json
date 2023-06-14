@@ -94486,5 +94486,69 @@
                 "score": 6
             }
         ]
+    },
+        {
+        "n": 2000,
+        "company": "Abacus",
+        "date": "June 6-11, 2023",
+        "field": "2023-06-11",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+            {
+        "n": 1000,
+        "company": "Nanos",
+        "date": "June 9, 2023",
+        "field": "2023-06-09",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.8
+            },
+            {
+                "party": "CPC",
+                "score": 31.9
+            },
+            {
+                "party": "NDP",
+                "score": 22.5
+            },
+            {
+                "party": "BQ",
+                "score": 6.3
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
