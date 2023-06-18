@@ -67,7 +67,7 @@ function Calendar() {
         {fevents.map((event, n) =>
             <div key={n.toString()} className={n < 10 ? "event" : "event hidden" }>
                 <div className="jurisdiction">
-                    <img className="flag" src={flags[event.jurisdiction]} alt="" width="25" />
+                    {/*<img className="flag" src={flags[event.jurisdiction]} alt="" width="25" /> The woke mob wins this time */}
                     <div className="desc">{jurisdictions[event.jurisdiction]}</div>
                 </div>
                 {event.type === "leadership" && <div className="desc">{parties.content[event.jurisdiction][event.party].fullName + " leadership election"}</div>}

@@ -279,5 +279,16 @@
         "type": "by",
         "riding": "Portage—Lisgar",
         "date": "2023-06-19"
+    },
+    {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Calgary—Heritage",
+        "date": "2023-07-24"
+    },
+    {
+        "jurisdiction": "Canada",
+        "type": "by",
+        "riding": "Durham"
     }
 ]
