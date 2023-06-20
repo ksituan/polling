@@ -94794,5 +94794,39 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Nanos",
+        "date": "June 16, 2023",
+        "field": "2023-06-16",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.5
+            },
+            {
+                "party": "CPC",
+                "score": 34.6
+            },
+            {
+                "party": "NDP",
+                "score": 20.6
+            },
+            {
+                "party": "BQ",
+                "score": 6.7
+            },
+            {
+                "party": "GPC",
+                "score": 4.8
+            },
+            {
+                "party": "PPC",
+                "score": 2.8
+            }
+        ]
     }
 ]
