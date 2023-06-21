@@ -7,6 +7,8 @@ import Seo from "../components/seo"
 import initialMembers from "../../content/members.json";
 import cartogram from "../../content/cartogram.json";
 
+const houseSize = initialMembers.filter(x => x.surname).length;
+
 const startingState = initialMembers.sort((a,b) => a.riding - b.riding);
 
 const provinces = {BC: "British Columbia",
@@ -116,7 +118,7 @@ function Game() {
         void document.getElementById("guessbox").offsetWidth;
         document.getElementById("guessbox").style.animation = null;
 
-        let guess = Object.values(members).filter(o => o.surname.map(stringNormalize).includes(stringNormalize(submission.split(" ").pop())));
+        let guess = Object.values(members).filter(o => o.surname && o.surname.map(stringNormalize).includes(stringNormalize(submission.split(" ").pop())));
 
         if (guess.length > 0) {
             for (let match of guess) {
@@ -133,11 +135,11 @@ function Game() {
     }
 
     function Progress() {
-        let n = members.filter(x => !x.g).length
+        let n = members.filter(x => !x.g).length + houseSize - 338;
         let completions = Object.keys(progress);
         let closest = completions.reduce(function (i, j) { return j <= n ? Math.max(i, j) : i }, 0);
         return(
-            <p>You've named {n} out of 338 members - {progress[closest]}.</p>
+            members.filter(x => !x.g).length === 338 ? <p>You've named the entire House of Commons!</p> : <p>You've named {n} out of {houseSize} members - {progress[closest]}.</p>
         )
     }
 
@@ -147,7 +149,7 @@ function Game() {
                 {members.map(member => 
                     <g>
                         <rect id={member.riding} className={member.g ? member.party : member.party + " correct"} x={10 * cartogram[member.riding].x} y={10 * cartogram[member.riding].y }/>
-                        {!member.g && <text x={10 * cartogram[member.riding].x + 5} y={10 * cartogram[member.riding].y + 7.4}>{member.given[0] + member.surname[0][0]}</text>}
+                        {!member.g && <text x={10 * cartogram[member.riding].x + 5} y={10 * cartogram[member.riding].y + 7.4}>{member.surname ? member.given[0] + member.surname[0][0] : "--"}</text>}
                     </g>)}
                 <path className="cityBorder" d="M 20 70 v 10 h 10 v 20" />
                 <path className="cityBorder" d="M 90 50 h 20 v 30 h -10 v 10 h -20 v -30 h 10 z" />
@@ -226,7 +228,7 @@ function Game() {
                 <h3>{provinces[Object.keys(prov)[0]]}</h3>
                 {Object.values(prov)[0].map(x =>
                 <div className={"member " + x.party}>
-                    <p><span className="surname">{x.surname[0]}</span>, <span className="given">{x.given}</span></p>
+                    {x.surname ? <p><span className="surname">{x.surname[0]}</span>, <span className="given">{x.given}</span></p> : <p>Vacant</p>}
                     <p className="riding">({x.riding})</p>
                 </div>
                     )}

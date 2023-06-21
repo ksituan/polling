@@ -62,12 +62,8 @@
     {
         "province": "AB",
         "riding": "Calgary Heritage",
-        "party": "Conservative",
-        "surname": [
-            "Benzen"
-        ],
-        "given": "Bob",
-        "g": true
+        "party": "Independent",
+        "g": false
     },
     {
         "province": "AB",
@@ -1402,7 +1398,7 @@
     {
         "province": "ON",
         "riding": "Don Valley North",
-        "party": "Liberal",
+        "party": "Independent",
         "surname": [
             "Dong"
         ],

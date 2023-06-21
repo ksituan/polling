@@ -337,6 +337,10 @@ input {
     width: 200px;
 }
 
+.member {
+    break-inside: avoid;
+}
+
 .member .surname {
     text-transform: uppercase;
 }
