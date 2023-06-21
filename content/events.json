@@ -214,7 +214,14 @@
     {
         "jurisdiction": "BC",
         "type": "by",
-        "riding": "Langford-Juan de Fuca"
+        "riding": "Langford-Juan de Fuca",
+        "date": "2023-06-24"
+    },
+    {
+        "jurisdiction": "BC",
+        "type": "by",
+        "riding": "Vancouver-Mount Pleasant",
+        "date": "2023-06-24"
     },
     {
         "jurisdiction": "NS",
