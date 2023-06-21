@@ -94828,5 +94828,35 @@
                 "score": 2.8
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Probe",
+        "date": "May 31-Jun. 13, 2023",
+        "field": "2023-06-13",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "MLP",
+                "score": 10
+            },
+            {
+                "party": "GPM",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
