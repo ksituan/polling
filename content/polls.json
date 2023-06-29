@@ -94892,5 +94892,99 @@
                 "score": 2.8
             }
         ]
+    },
+    {
+        "n": 506,
+        "company": "Angus Reid",
+        "date": "May 30-Jun. 3, 2023",
+        "field": "2023-06-03",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "PLQ",
+                "score": 13
+            },
+            {
+                "party": "PCQ",
+                "score": 12
+            },
+            {
+                "party": "QS",
+                "score": 17
+            },
+            {
+                "party": "CAQ",
+                "score": 33
+            },
+            {
+                "party": "PQ",
+                "score": 22
+            },
+            {
+                "party": "PVQ",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 653,
+        "company": "Angus Reid",
+        "date": "May 30-Jun. 3, 2023",
+        "field": "2023-06-03",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 385,
+        "company": "Angus Reid",
+        "date": "May 30-Jun. 3, 2023",
+        "field": "2023-06-03",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCU",
+                "score": 29
+            },
+            {
+                "party": "GPBC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
     }
 ]
