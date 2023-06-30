@@ -1886,8 +1886,12 @@
                 "score": 14.7
             },
             {
+                "party": "PVQ",
+                "score": 0.8
+            },
+            {
                 "party": "Others",
-                "score": 1.7
+                "score": 0.9
             }
         ],
         "jurisdiction": "QC"
