@@ -95506,5 +95506,36 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 993,
+        "moe": 3.1,
+        "company": "Mainstreet",
+        "date": "June 27-30, 2023",
+        "field": "2023-06-30",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 34.7
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 24.7
+            },
+            {
+                "party": "Others",
+                "score": 4.9
+            },
+            {
+                "party": "GPO",
+                "score": 10.7
+            }
+        ]
     }
 ]
