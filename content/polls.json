@@ -95853,5 +95853,31 @@
                 "score": 2.3
             }
         ]
+    },
+        {
+        "n": 1323,
+        "company": "Counsel",
+        "date": "June 6-8, 2023",
+        "field": "2023-06-08",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "OLP",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
