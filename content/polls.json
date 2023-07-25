@@ -95879,5 +95879,47 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 548,
+        "company": "Insightrix",
+        "date": "July 11-14, 2022",
+        "field": "2023-07-14",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "PCS",
+                "score": 10
+            },
+            {
+                "party": "GPS",
+                "score": 2
+            },
+            {
+                "party": "SLP",
+                "score": 2
+            },
+            {
+                "party": "SUP",
+                "score": 3
+            },
+            {
+                "party": "BPS",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
