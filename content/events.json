@@ -262,7 +262,14 @@
     {
         "jurisdiction": "ON",
         "type": "by",
-        "riding": "Scarborough—Guildwood"
+        "riding": "Scarborough—Guildwood",
+        "date": "2023-07-27"
+    },
+    {
+        "jurisdiction": "ON",
+        "type": "by",
+        "riding": "Kanata-Carleton",
+        "date": "2023-07-27"
     },
     {
         "date": "2023-12-02",
