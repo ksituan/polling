@@ -5,6 +5,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import Canada_flag from '../images/flags/Canada.png'
 import BC_flag from '../images/flags/BC.png'
 import AB_flag from '../images/flags/AB.png'
 import SK_flag from '../images/flags/SK.png'
@@ -23,6 +24,7 @@ const maps = () => (
     <h2>Do It Yourself</h2>
     <p>Make your own election predictions with PC DIY, our in-house map painting app.</p>
     <div className="diyContainer">
+      <Link className="diyLink" to="/diy/canada" style={{backgroundColor: "#d06060b0"}}><img className="flag" src={Canada_flag} alt="" width="25" /><p>House of Commons</p></Link>
       <Link className="diyLink" to="/diy/bc" style={{backgroundColor: "#D1242Eb0"}}><img className="flag" src={BC_flag} alt="" width="25" /><p>B.C. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/ab" style={{backgroundColor: "#0D3692b0"}}><img className="flag" src={AB_flag} alt="" width="25" /><p>Alberta provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/sk" style={{backgroundColor: "#046A21b0"}}><img className="flag" src={SK_flag} alt="" width="25" /><p>Sask. provincial legislature</p></Link>

@@ -3,7 +3,7 @@ import PaletteColour from "./PaletteColour"
 import { useState } from "react";
 import brandColours from "../../../content/brandColours"
 
-function PaletteRow({paint, setPaint, info, id, edit, setEdit, palette, setPalette, deleteParty}) {
+function PaletteRow({paint, setPaint, info, id, edit, setEdit, palette, setPalette, deleteParty, jurisdiction}) {
 
     const name = info["name"]
     const colour = info["colour"]
@@ -39,10 +39,10 @@ function PaletteRow({paint, setPaint, info, id, edit, setEdit, palette, setPalet
         <div id={id} className={(edit === id) ? "paletteRow edit" : "paletteRow normal"}>
             <input id={id} className="paletteLabel" value={name} onClick={makeEditable} onChange={setPartyName} />
             <div className="paletteSwatch">
-                <PaletteColour colour={colour} thickness={"3"} pattern={pattern} id={id + "1"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"5"} pattern={pattern} id={id + "2"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"7"} pattern={pattern} id={id + "3"} paint={paint} setPaint={setPaint} />
-                <PaletteColour colour={colour} thickness={"9"} pattern={pattern} id={id + "4"} paint={paint} setPaint={setPaint} />
+                <PaletteColour colour={colour} thickness={"3"} pattern={pattern} id={id + "1"} paint={paint} setPaint={setPaint} jurisdiction={jurisdiction} />
+                <PaletteColour colour={colour} thickness={"5"} pattern={pattern} id={id + "2"} paint={paint} setPaint={setPaint} jurisdiction={jurisdiction} />
+                <PaletteColour colour={colour} thickness={"7"} pattern={pattern} id={id + "3"} paint={paint} setPaint={setPaint} jurisdiction={jurisdiction} />
+                <PaletteColour colour={colour} thickness={"9"} pattern={pattern} id={id + "4"} paint={paint} setPaint={setPaint} jurisdiction={jurisdiction} />
             </div>
             <div className="controlPanel">
                 <div className="colourPicks">

@@ -990,9 +990,47 @@ input {
     margin: 0.5rem 0;
 }
 
+.houseOfCommons {
+    max-width: min(1000px, 95vw);
+}
+
+.houseOfCommons * {
+    max-width: min(1000px, 95vw);
+}
+
+.houseOfCommons .diyMap path {
+    stroke-width: 0.5;
+}
+
+.houseOfCommons .diyMap .outline {
+    stroke-width: 1;
+}
+
+.houseOfCommons .diyMap text {
+    font-size: 12pt;
+    text-anchor: middle;
+}
+
+.houseOfCommons .diyMap .regionText {
+    font-size: 12pt;
+    font-weight: 200;
+    text-anchor: middle;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
+
+.houseOfCommons .partyCountLabels {
+    max-width: min(800px, 95vw);
+}
+
 .diyMap path {
     stroke: white;
     stroke-width: 1;
+}
+
+.diyMap .regions rect {
+    stroke: black;
+    fill: none;
 }
 
 .diyMap .outline {
