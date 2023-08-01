@@ -188,17 +188,20 @@
     {
         "jurisdiction": "SK",
         "type": "by",
-        "riding": "Lumsden-Morse"
+        "riding": "Lumsden-Morse",
+        "date": "2023-08-10"
     },
     {
         "jurisdiction": "SK",
         "type": "by",
-        "riding": "Regina Coronation Park"
+        "riding": "Regina Coronation Park",
+        "date": "2023-08-10"
     },
     {
         "jurisdiction": "SK",
         "type": "by",
-        "riding": "Regina Walsh Acres"
+        "riding": "Regina Walsh Acres",
+        "date": "2023-08-10"
     },
     {
         "jurisdiction": "ON",
