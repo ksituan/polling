@@ -17,7 +17,7 @@ const work = () => (
     <h2>Experience</h2>
     <p className="dateText">2017-present</p>
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
-    <p className="dateText">2020-present</p>
+    <p className="dateText">2020-2023</p>
     <p><span className="colourfulText">Mainstreet Research</span> Social Media Manager & Digital Analyst</p>
     <p className="dateText">2022</p>
     <p><span className="colourfulText">MPP Chris Glover</span> Social Media Co-ordinator</p>
