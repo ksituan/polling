@@ -1950,9 +1950,10 @@ function Diy({ ridings, size }) {
   let blank = {}
   codes.forEach(x => (blank[x] = "blank0"))
 
-  const [colours, setColours] = useState(blank)
-  const [paint, setPaint] = useState("blank0")
-  const [caption, setCaption] = useState("")
+  const [colours, setColours] = useState(blank);
+  const [paint, setPaint] = useState("blank0");
+  const [caption, setCaption] = useState("");
+  const [squares, setSquares] = useState(true);
 
   const handlePaintClick = e => {
     if (paint === colours[e.target.id]) {
@@ -1974,6 +1975,10 @@ function Diy({ ridings, size }) {
   const setBlank = () => {
     setColours(blank)
     setPalette(paletteInfo)
+  }
+
+  const toggleSquares = () => {
+    setSquares(!squares)
   }
 
   const addParty = () => {
@@ -2037,12 +2042,14 @@ function Diy({ ridings, size }) {
         colours={colours}
         handlePaintClick={handlePaintClick}
         handleHover={handleHover}
+        squares={squares}
       />
       <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
       <div className="buttonBar">
         <Button electionFunction={setElection21} label={"2021 election"} />
         <Button electionFunction={addParty} label={"Extra party"} />
         <Button electionFunction={setBlank} label={"Reset map"} />
+        <Button electionFunction={toggleSquares} label="Toggle squares" />
       </div>
       <svg viewBox="0 0 0 0" height="0" width="0">
         <pattern
@@ -2074,6 +2081,7 @@ function Map({
   colours,
   handlePaintClick,
   handleHover,
+  squares
 }) {
   function MapInset({ region, x, y }) {
     let pathdict = ridings[region]
@@ -2087,7 +2095,7 @@ function Map({
             <path className="outline" d={pathdict[riding]} />
           ) : (
             <path
-              opacity="0.8"
+              opacity={squares ? "0.8" : "1"}
               id={riding}
               key={riding}
               d={pathdict[riding]}
@@ -2099,8 +2107,7 @@ function Map({
         )}
         {keys.map(
           riding =>
-            riding < 70000 &&
-            centdict && (
+            riding < 70000 && centdict && squares && (
                 <g key={riding} id={riding} onClick={handlePaintClick} onMouseEnter={handleHover}>
                     <rect
                      id={riding} onClick={handlePaintClick} onMouseEnter={handleHover}
