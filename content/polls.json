@@ -96614,5 +96614,217 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1497,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 182,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 168,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 18
+            },
+            {
+                "party": "CPC",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 0
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 231,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25.5
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 2.5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 4.5
+            }
+        ]
+    },
+    {
+        "n": 457,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 357,
+        "company": "Angus Reid",
+        "date": "August 8-11, 2023",
+        "field": "2023-08-11",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 29
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
     }
 ]
