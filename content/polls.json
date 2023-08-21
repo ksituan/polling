@@ -96860,5 +96860,40 @@
                 "score": 1.8
             }
         ]
+    },
+        {
+        "n": 1021,
+        "moe": 3.1,
+        "company": "Pallas",
+        "date": "August 16-17, 2023",
+        "field": "2023-08-17",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
