@@ -96929,5 +96929,155 @@
                 "score": 2.4
             }
         ]
+    },
+    {
+        "n": 1040,
+        "company": "Abacus",
+        "date": "August 18-23, 2023",
+        "field": "2023-08-23",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38
+            },
+            {
+                "party": "OLP",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 271,
+        "moe": 6,
+        "company": "Narrative",
+        "date": "August 1-14, 2023",
+        "field": "2023-08-14",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 47
+            },
+            {
+                "party": "NSL",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 265,
+        "moe": 6,
+        "company": "Narrative",
+        "date": "August 2-21, 2023",
+        "field": "2023-08-21",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 38
+            },
+            {
+                "party": "PCNB",
+                "score": 36
+            },
+            {
+                "party": "GPNB",
+                "score": 16
+            },
+            {
+                "party": "PANB",
+                "score": 1
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 208,
+        "moe": 6.8,
+        "company": "Narrative",
+        "date": "August 2-15, 2023",
+        "field": "2023-08-15",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 53
+            },
+            {
+                "party": "LPPEI",
+                "score": 18
+            },
+            {
+                "party": "GPPEI",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 208,
+        "moe": 6.4,
+        "company": "Narrative",
+        "date": "August 1-11, 2023",
+        "field": "2023-08-11",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 40
+            },
+            {
+                "party": "PCNL",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            }
+        ]
     }
 ]
