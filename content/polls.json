@@ -97743,5 +97743,35 @@
                 "score": 2.5
             }
         ]
+    },
+    {
+        "n": 1552,
+        "company": "Abacus",
+        "date": "Aug. 29-Sep. 4, 2023",
+        "field": "2023-09-04",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 34
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
