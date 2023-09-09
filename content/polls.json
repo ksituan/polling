@@ -98508,5 +98508,36 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 601,
+        "moe": 4,
+        "company": "Mainstreet",
+        "date": "August 29-31, 2023",
+        "field": "2023-08-31",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 34.8
+            },
+            {
+                "party": "BCU",
+                "score": 21.5
+            },
+            {
+                "party": "GPBC",
+                "score": 12.7
+            },
+            {
+                "party": "CPBC",
+                "score": 26.6
+            },
+            {
+                "party": "Others",
+                "score": 4.3
+            }
+        ]
     }
 ]
