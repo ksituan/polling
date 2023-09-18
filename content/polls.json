@@ -98797,5 +98797,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 600,
+        "company": "Research Co.",
+        "date": "September 15-17, 2023",
+        "field": "2023-09-17",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "MLP",
+                "score": 14
+            },
+            {
+                "party": "GPM",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
