@@ -98891,5 +98891,35 @@
                 "score": 1
             }
         ]
+    },
+        {
+        "n": 1000,
+        "company": "Probe",
+        "date": "September 7-18, 2023",
+        "field": "2023-09-18",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 49
+            },
+            {
+                "party": "MLP",
+                "score": 9
+            },
+            {
+                "party": "GPM",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
