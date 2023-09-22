@@ -115,7 +115,7 @@
         "jurisdiction": "MB",
         "type": "legislative",
         "minority": false,
-        "future": true
+        "future": false
     },
     {
         "date": "2024-10-19",
@@ -308,5 +308,16 @@
         "jurisdiction": "Canada",
         "type": "by",
         "riding": "Durham"
+    },
+    {
+        "jurisdiction": "QC",
+        "type": "by",
+        "riding": "Jean-Talon",
+        "date": "2023-10-02"
+    },
+    {
+        "jurisdiction": "ON",
+        "type": "by",
+        "riding": "Lambton—Kent—Middlesex"
     }
 ]
