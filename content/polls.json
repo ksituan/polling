@@ -99720,5 +99720,39 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1056,
+        "company": "Léger",
+        "date": "September 22-25, 2023",
+        "field": "2023-09-25",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 34
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 12
+            },
+            {
+                "party": "QS",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
