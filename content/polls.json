@@ -99170,40 +99170,40 @@
     },
     {
         "company": "EKOS",
-        "date": "September 19-21, 2023",
-        "field": "2023-09-21",
-        "n": 608,
-        "moe": 4,
+        "date": "September 19-24, 2023",
+        "field": "2023-09-24",
+        "n": 1025,
+        "moe": 3.1,
         "method": "IVR",
         "jurisdiction": "Canada",
         "poll": [
             {
                 "party": "LPC",
-                "score": 21.9
+                "score": 23
             },
             {
                 "party": "CPC",
-                "score": 42.2
+                "score": 42
             },
             {
                 "party": "NDP",
-                "score": 17.2
+                "score": 18
             },
             {
                 "party": "BQ",
-                "score": 6.9
+                "score": 6
             },
             {
                 "party": "PPC",
-                "score": 3.5
+                "score": 3
             },
             {
                 "party": "GPC",
-                "score": 6.2
+                "score": 7
             },
             {
                 "party": "Others",
-                "score": 2
+                "score": 1
             }
         ]
     },
@@ -99444,5 +99444,6 @@
                 "score": 19
             }
         ]
-    }
+    },
+
 ]
