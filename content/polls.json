@@ -99690,5 +99690,35 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 363,
+        "company": "Counsel",
+        "date": "September 11-16, 2023",
+        "field": "2023-09-16",
+        "method": "Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "MLP",
+                "score": 13
+            },
+            {
+                "party": "GPM",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
