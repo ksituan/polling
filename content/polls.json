@@ -99754,5 +99754,40 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1095,
+        "company": "Pallas",
+        "date": "September 26-27, 2023",
+        "field": "2023-09-27",
+        "method": "IVR",
+        "moe": 3,
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 34
+            },
+            {
+                "party": "PLQ",
+                "score": 15
+            },
+            {
+                "party": "PCQ",
+                "score": 15
+            },
+            {
+                "party": "QS",
+                "score": 15
+            },
+            {
+                "party": "PQ",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
