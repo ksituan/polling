@@ -99907,5 +99907,36 @@
                 "score": 0.7
             }
         ]
+    },
+    {
+        "n": 910,
+        "moe": 3.3,
+        "company": "Forum",
+        "date": "October 2, 2023",
+        "field": "2023-10-02",
+        "method": "IVR",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 41.3
+            },
+            {
+                "party": "NDP",
+                "score": 44.7
+            },
+            {
+                "party": "MLP",
+                "score": 12.3
+            },
+            {
+                "party": "GPM",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
     }
 ]
