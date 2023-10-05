@@ -1582,6 +1582,32 @@
         "jurisdiction": "MB"
     },
     {
+        "date": "2023-10-03",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 45.4
+            },
+            {
+                "party": "PCPM",
+                "score": 42.1
+            },
+            {
+                "party": "GPM",
+                "score": 0.7
+            },
+            {
+                "party": "MLP",
+                "score": 10.6
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ],
+        "jurisdiction": "MB"
+    },
+    {
         "date": "2007-10-10",
         "nextWrit": "2011-09-07",
         "results": [
