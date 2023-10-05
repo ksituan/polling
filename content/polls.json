@@ -100040,5 +100040,44 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1095,
+        "company": "Pallas",
+        "date": "September 26-27, 2023",
+        "field": "2023-09-27",
+        "method": "IVR",
+        "moe": 3,
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 28
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
