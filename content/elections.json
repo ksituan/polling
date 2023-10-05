@@ -1306,8 +1306,12 @@
                 "score": 0.8
             },
             {
+                "party": "WLC",
+                "score": 0.2
+            },
+            {
                 "party": "Others",
-                "score": 1.7
+                "score": 1.5
             }
         ],
         "jurisdiction": "AB"
