@@ -100002,5 +100002,43 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1001,
+        "company": "Leger",
+        "date": "September 15-18, 2023",
+        "field": "2023-09-18",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "GPA",
+                "score": 2
+            },
+            {
+                "party": "WLC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
