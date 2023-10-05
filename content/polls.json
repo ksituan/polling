@@ -99972,5 +99972,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 722,
+        "company": "Leger",
+        "date": "September 15-18, 2023",
+        "field": "2023-09-18",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCU",
+                "score": 19
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
