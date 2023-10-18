@@ -100462,5 +100462,207 @@
                 "score": 3
             }
         ]
+    },
+            {
+        "n": 1683,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 243,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 196,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 16
+            },
+            {
+                "party": "CPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 260,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17
+            },
+            {
+                "party": "CPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 26.5
+            },
+            {
+                "party": "Others",
+                "score": 2.5
+            }
+        ]
+    },
+    {
+        "n": 476,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 343,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+        {
+        "n": 177,
+        "company": "Angus Reid",
+        "date": "October 9-13, 2023",
+        "field": "2023-10-13",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
     }
 ]
