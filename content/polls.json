@@ -95883,7 +95883,7 @@
     {
         "n": 548,
         "company": "Insightrix",
-        "date": "July 11-14, 2022",
+        "date": "July 11-14, 2023",
         "field": "2023-07-14",
         "method": "Online",
         "jurisdiction": "SK",
@@ -100662,6 +100662,28 @@
             {
                 "party": "Others",
                 "score": 6
+            }
+        ]
+    },
+    {
+        "n": 801,
+        "company": "Insightrix",
+        "date": "October 4-6, 2023",
+        "field": "2023-10-06",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 4
             }
         ]
     }
