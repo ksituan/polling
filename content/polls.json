@@ -100956,5 +100956,40 @@
                 "score": 4.5
             }
         ]
+    },
+    {
+        "n": 1484,
+        "moe": 2.5,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
