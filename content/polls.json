@@ -100968,27 +100968,273 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 27
+                "score": 26.5
             },
             {
                 "party": "CPC",
-                "score": 43
+                "score": 42.5
             },
             {
                 "party": "NDP",
-                "score": 16
+                "score": 16.1
             },
             {
                 "party": "BQ",
-                "score": 7
+                "score": 6.8
             },
             {
                 "party": "GPC",
-                "score": 3
+                "score": 3.2
             },
             {
                 "party": "PPC",
-                "score": 3
+                "score": 3.4
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ]
+    },
+    {
+        "n": 175,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21.5
+            },
+            {
+                "party": "CPC",
+                "score": 40.1
+            },
+            {
+                "party": "NDP",
+                "score": 24.2
+            },
+            {
+                "party": "GPC",
+                "score": 6.2
+            },
+            {
+                "party": "PPC",
+                "score": 7.5
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {
+        "n": 121,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15.7
+            },
+            {
+                "party": "CPC",
+                "score": 71.4
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 0.3
+            },
+            {
+                "party": "PPC",
+                "score": 1.9
+            },
+            {
+                "party": "Others",
+                "score": 1.8
+            }
+        ]
+    },
+    {
+        "n": 68,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 14.7
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 23.8
+            },
+            {
+                "party": "GPC",
+                "score": 2.9
+            },
+            {
+                "party": "PPC",
+                "score": 14.7
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "n": 524,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.7
+            },
+            {
+                "party": "CPC",
+                "score": 41.4
+            },
+            {
+                "party": "NDP",
+                "score": 18.5
+            },
+            {
+                "party": "GPC",
+                "score": 3.9
+            },
+            {
+                "party": "PPC",
+                "score": 1.8
+            },
+            {
+                "party": "Others",
+                "score": 2.6
+            }
+        ]
+    },
+    {
+        "n": 334,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27.6
+            },
+            {
+                "party": "CPC",
+                "score": 32.3
+            },
+            {
+                "party": "NDP",
+                "score": 7.2
+            },
+            {
+                "party": "BQ",
+                "score": 29.5
+            },
+            {
+                "party": "GPC",
+                "score": 0.9
+            },
+            {
+                "party": "PPC",
+                "score": 1.9
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {
+        "n": 221,
+        "company": "Pallas",
+        "date": "October 21-22, 2023",
+        "field": "2023-10-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.8
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 20.4
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 2.5
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "company": "Nanos",
+        "date": "October 27, 2023",
+        "field": "2023-10-27",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37.7
+            },
+            {
+                "party": "LPC",
+                "score": 25.4
+            },
+            {
+                "party": "NDP",
+                "score": 19.9
+            },
+            {
+                "party": "BQ",
+                "score": 5.5
+            },
+            {
+                "party": "GPC",
+                "score": 7.9
+            },
+            {
+                "party": "PPC",
+                "score": 3.4
             }
         ]
     }
