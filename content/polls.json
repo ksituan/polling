@@ -102044,5 +102044,31 @@
                 "score": 1.2
             }
         ]
+    },
+    {
+        "n": 855,
+        "company": "Leger",
+        "date": "October 27-30, 2023",
+        "field": "2023-10-30",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
