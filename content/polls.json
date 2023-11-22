@@ -102626,5 +102626,40 @@
                 "score": 2.5
             }
         ]
+    },
+    {
+        "n": 1178,
+        "company": "Pallas",
+        "date": "November 17-18, 2023",
+        "field": "2023-11-18",
+        "method": "IVR",
+        "moe": 3,
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 16
+            },
+            {
+                "party": "PCQ",
+                "score": 11
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
