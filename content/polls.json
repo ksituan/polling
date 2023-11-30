@@ -103667,5 +103667,35 @@
                 "score": 0
             }
         ]
+    },
+    {
+        "n": 1500,
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "OLP",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
