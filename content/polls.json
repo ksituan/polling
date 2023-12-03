@@ -103697,5 +103697,275 @@
                 "score": 7
             }
         ]
+    },
+            {
+        "n": 2417,
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 12
+            },
+            {
+                "party": "CPC",
+                "score": 61
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 12
+            },
+            {
+                "party": "CPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 32
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "November 23-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 0
+            }
+        ]
+    },
+        {
+        "n": 1000,
+        "company": "Research Co.",
+        "date": "November 22-28, 2023",
+        "field": "2023-11-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "BCU",
+                "score": 17
+            },
+            {
+                "party": "GPBC",
+                "score": 9
+            },
+            {
+                "party": "CPBC",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
