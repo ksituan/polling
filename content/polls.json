@@ -103967,5 +103967,227 @@
                 "score": 3
             }
         ]
+    },
+            {
+        "company": "Innovative",
+        "n": 3509,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 427,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 347,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 14
+            },
+            {
+                "party": "CPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 185,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 18
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 1181,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 710,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 32
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Innovative",
+        "n": 208,
+        "date": "October 5-31, 2023",
+        "field": "2023-10-31",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
     }
 ]
