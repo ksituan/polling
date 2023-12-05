@@ -104343,5 +104343,36 @@
                 "score": 2
             }
         ]
+    },
+        {
+        "n": 926,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "December 3-4, 2023",
+        "field": "2023-12-04",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36.3
+            },
+            {
+                "party": "OLP",
+                "score": 34.3
+            },
+            {
+                "party": "NDP",
+                "score": 18.7
+            },
+            {
+                "party": "Others",
+                "score": 4.8
+            },
+            {
+                "party": "GPO",
+                "score": 5.9
+            }
+        ]
     }
 ]
