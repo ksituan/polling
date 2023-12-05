@@ -104223,5 +104223,125 @@
                 "score": 1.9
             }
         ]
+    },
+    {
+        "n": 236,
+        "moe": 6.4,
+        "company": "Narrative",
+        "date": "November 1-21, 2023",
+        "field": "2023-11-21",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 52
+            },
+            {
+                "party": "NSL",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPNS",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 237,
+        "moe": 6.4,
+        "company": "Narrative",
+        "date": "November 1-27, 2023",
+        "field": "2023-11-27",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 41
+            },
+            {
+                "party": "PCNB",
+                "score": 35
+            },
+            {
+                "party": "GPNB",
+                "score": 10
+            },
+            {
+                "party": "PANB",
+                "score": 1
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "n": 184,
+        "moe": 7.2,
+        "company": "Narrative",
+        "date": "November 8-26, 2023",
+        "field": "2023-11-26",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 56
+            },
+            {
+                "party": "LPPEI",
+                "score": 17
+            },
+            {
+                "party": "GPPEI",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 261,
+        "moe": 6.1,
+        "company": "Narrative",
+        "date": "November 2-26, 2023",
+        "field": "2023-11-26",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 44
+            },
+            {
+                "party": "PCNL",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
