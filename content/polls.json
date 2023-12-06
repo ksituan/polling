@@ -104374,5 +104374,39 @@
                 "score": 5.9
             }
         ]
+    },
+    {
+        "n": 1004,
+        "company": "Léger",
+        "date": "December 1-4, 2023",
+        "field": "2023-12-04",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 25
+            },
+            {
+                "party": "PLQ",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 11
+            },
+            {
+                "party": "QS",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
