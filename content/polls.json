@@ -132,7 +132,7 @@
                 "score": 2
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 1
             }
         ]
@@ -159,7 +159,7 @@
                 "score": 10
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             },
             {
@@ -190,7 +190,7 @@
                 "score": 9
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             },
             {
@@ -225,7 +225,7 @@
                 "score": 3
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             }
         ]
@@ -251,7 +251,7 @@
                 "score": 7.3
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 6.2
             },
             {
@@ -12535,7 +12535,7 @@
                 "score": 6
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             },
             {
@@ -64982,7 +64982,7 @@
                 "score": 6
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             },
             {
@@ -91405,7 +91405,7 @@
                 "score": 2
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 3
             },
             {
@@ -95905,7 +95905,7 @@
                 "score": 2
             },
             {
-                "party": "SLP",
+                "party": "SPP",
                 "score": 2
             },
             {
@@ -104406,6 +104406,32 @@
             {
                 "party": "Others",
                 "score": 2
+            }
+        ]
+    },
+    {
+        "n": 312,
+        "company": "Angus Reid",
+        "date": "Nov. 24-Dec. 1, 2023",
+        "field": "2023-12-01",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "SPP",
+                "score": 3
             }
         ]
     }
