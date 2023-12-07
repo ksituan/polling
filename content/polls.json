@@ -104510,5 +104510,35 @@
                 "score": 2
             }
         ]
+    },
+        {
+        "n": 348,
+        "company": "Angus Reid",
+        "date": "Nov. 24-Dec. 1, 2023",
+        "field": "2023-12-01",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 53
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "ABP",
+                "score": 3
+            },
+            {
+                "party": "ALP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
