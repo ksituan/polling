@@ -104817,10 +104817,11 @@
     },
     {
         "n": 1000,
+        "moe": 3.1,
         "company": "Probe",
         "date": "Nov. 22-Dec. 1, 2023",
         "field": "2023-12-01",
-        "method": "Online",
+        "method": "Telephone",
         "jurisdiction": "MB",
         "poll": [
             {
