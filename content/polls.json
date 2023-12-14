@@ -107109,5 +107109,4506 @@
                 "score": 1.3
             }
         ]
+    },
+    {"n": 1612,
+    "moe": 2.0,
+    "company": "Gallup",
+    "date": "June 1, 1979",
+    "field": "1979-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 39.7
+            },
+            {
+                "party": "PCPC",
+                "score": 37.7
+            },
+            {
+                "party": "NDP",
+                "score": 18.5
+            },
+            {
+                "party": "SCP",
+                "score": 1.2
+            },
+            {
+                "party": "RCC",
+                "score": 1.9
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 2389,
+    "moe": 2.0,
+    "company": "Gallup",
+    "date": "July 1, 1979",
+    "field": "1979-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 42.9
+            },
+            {
+                "party": "PCPC",
+                "score": 34.8
+            },
+            {
+                "party": "NDP",
+                "score": 19.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 1.0
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 806,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "July 15, 1979",
+    "field": "1979-07-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 42.3
+            },
+            {
+                "party": "PCPC",
+                "score": 34.5
+            },
+            {
+                "party": "NDP",
+                "score": 20.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 1.3
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {"n": 1028,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 1, 1979",
+    "field": "1979-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 39.8
+            },
+            {
+                "party": "PCPC",
+                "score": 37.3
+            },
+            {
+                "party": "NDP",
+                "score": 19.6
+            },
+            {
+                "party": "SCP",
+                "score": 1.9
+            },
+            {
+                "party": "RCC",
+                "score": 1.0
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {"n": 708,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 1, 1979",
+    "field": "1979-10-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41.8
+            },
+            {
+                "party": "PCPC",
+                "score": 36.7
+            },
+            {
+                "party": "NDP",
+                "score": 18.6
+            },
+            {
+                "party": "SCP",
+                "score": 0.6
+            },
+            {
+                "party": "RCC",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 787,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 1, 1979",
+    "field": "1979-11-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.7
+            },
+            {
+                "party": "PCPC",
+                "score": 27.6
+            },
+            {
+                "party": "NDP",
+                "score": 22.8
+            },
+            {
+                "party": "SCP",
+                "score": 1.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ]
+    },
+    {"n": 731,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "December 1, 1979",
+    "field": "1979-12-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 47.0
+            },
+            {
+                "party": "PCPC",
+                "score": 26.7
+            },
+            {
+                "party": "NDP",
+                "score": 23.0
+            },
+            {
+                "party": "SCP",
+                "score": 1.4
+            },
+            {
+                "party": "RCC",
+                "score": 1.0
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {"n": 819,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 1, 1980",
+    "field": "1980-01-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.3
+            },
+            {
+                "party": "PCPC",
+                "score": 27.2
+            },
+            {
+                "party": "NDP",
+                "score": 19.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 1892,
+    "moe": 2.0,
+    "company": "Gallup",
+    "date": "February 1, 1980",
+    "field": "1980-02-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.7
+            },
+            {
+                "party": "PCPC",
+                "score": 30.7
+            },
+            {
+                "party": "NDP",
+                "score": 19.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.4
+            },
+            {
+                "party": "RCC",
+                "score": 1.6
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {"n": 793,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 7, 1980",
+    "field": "1980-02-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 47.5
+            },
+            {
+                "party": "PCPC",
+                "score": 28.4
+            },
+            {
+                "party": "NDP",
+                "score": 19.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 1844,
+    "moe": 2.0,
+    "company": "Gallup",
+    "date": "February 14, 1980",
+    "field": "1980-02-14",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.9
+            },
+            {
+                "party": "PCPC",
+                "score": 27.3
+            },
+            {
+                "party": "NDP",
+                "score": 22.3
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {"n": 819,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 1, 1980",
+    "field": "1980-03-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 47.3
+            },
+            {
+                "party": "PCPC",
+                "score": 28.4
+            },
+            {
+                "party": "NDP",
+                "score": 21.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ]
+    },
+    {"n": 755,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "April 1, 1980",
+    "field": "1980-04-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.1
+            },
+            {
+                "party": "PCPC",
+                "score": 27.7
+            },
+            {
+                "party": "NDP",
+                "score": 20.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 813,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "May 1, 1980",
+    "field": "1980-05-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 43.9
+            },
+            {
+                "party": "PCPC",
+                "score": 30.3
+            },
+            {
+                "party": "NDP",
+                "score": 21.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {"n": 814,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "June 1, 1980",
+    "field": "1980-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.7
+            },
+            {
+                "party": "PCPC",
+                "score": 32.2
+            },
+            {
+                "party": "NDP",
+                "score": 19.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 793,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "July 1, 1980",
+    "field": "1980-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 50.9
+            },
+            {
+                "party": "PCPC",
+                "score": 29.4
+            },
+            {
+                "party": "NDP",
+                "score": 18.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ]
+    },
+    {"n": 745,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 1, 1980",
+    "field": "1980-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.6
+            },
+            {
+                "party": "PCPC",
+                "score": 28.4
+            },
+            {
+                "party": "NDP",
+                "score": 20.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {"n": 818,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "September 1, 1980",
+    "field": "1980-09-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 50.7
+            },
+            {
+                "party": "PCPC",
+                "score": 29.2
+            },
+            {
+                "party": "NDP",
+                "score": 18.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ]
+    },
+    {"n": 781,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 1, 1980",
+    "field": "1980-10-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 48.6
+            },
+            {
+                "party": "PCPC",
+                "score": 29.7
+            },
+            {
+                "party": "NDP",
+                "score": 19.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {"n": 741,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 15, 1980",
+    "field": "1980-10-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.6
+            },
+            {
+                "party": "PCPC",
+                "score": 29.6
+            },
+            {
+                "party": "NDP",
+                "score": 18.0
+            },
+            {
+                "party": "SCP",
+                "score": 1.4
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 1, 1980",
+    "field": "1980-11-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 44.3
+            },
+            {
+                "party": "PCPC",
+                "score": 34.7
+            },
+            {
+                "party": "NDP",
+                "score": 19.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {"n": 779,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 1, 1981",
+    "field": "1981-01-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41.0
+            },
+            {
+                "party": "PCPC",
+                "score": 34.4
+            },
+            {
+                "party": "NDP",
+                "score": 22.0
+            },
+            {
+                "party": "SCP",
+                "score": 1.1
+            },
+            {
+                "party": "RCC",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ]
+    },
+    {"n": 725,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 1, 1981",
+    "field": "1981-02-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 43.4
+            },
+            {
+                "party": "PCPC",
+                "score": 37.6
+            },
+            {
+                "party": "NDP",
+                "score": 17.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {"n": 825,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 1, 1981",
+    "field": "1981-03-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.4
+            },
+            {
+                "party": "PCPC",
+                "score": 34.8
+            },
+            {
+                "party": "NDP",
+                "score": 15.6
+            },
+            {
+                "party": "SCP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 772,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "April 1, 1981",
+    "field": "1981-04-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 42.3
+            },
+            {
+                "party": "PCPC",
+                "score": 37.7
+            },
+            {
+                "party": "NDP",
+                "score": 18.2
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 757,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "May 1, 1981",
+    "field": "1981-05-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 42.6
+            },
+            {
+                "party": "PCPC",
+                "score": 37.0
+            },
+            {
+                "party": "NDP",
+                "score": 17.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 2.6
+            }
+        ]
+    },
+    {"n": 700,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "June 1, 1981",
+    "field": "1981-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 43.3
+            },
+            {
+                "party": "PCPC",
+                "score": 36.0
+            },
+            {
+                "party": "NDP",
+                "score": 19.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.6
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 742,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "July 1, 1981",
+    "field": "1981-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 43.8
+            },
+            {
+                "party": "PCPC",
+                "score": 36.8
+            },
+            {
+                "party": "NDP",
+                "score": 17.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.1
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 765,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 1, 1981",
+    "field": "1981-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41.3
+            },
+            {
+                "party": "PCPC",
+                "score": 38.9
+            },
+            {
+                "party": "NDP",
+                "score": 15.8
+            },
+            {
+                "party": "SCP",
+                "score": 1.4
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {"n": 770,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "September 1, 1981",
+    "field": "1981-09-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 37.6
+            },
+            {
+                "party": "PCPC",
+                "score": 38.9
+            },
+            {
+                "party": "NDP",
+                "score": 20.3
+            },
+            {
+                "party": "SCP",
+                "score": 1.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {"n": 716,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 1, 1981",
+    "field": "1981-10-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 40.1
+            },
+            {
+                "party": "PCPC",
+                "score": 39.5
+            },
+            {
+                "party": "NDP",
+                "score": 17.7
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.8
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 1, 1982",
+    "field": "1982-01-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 38.7
+            },
+            {
+                "party": "PCPC",
+                "score": 38.9
+            },
+            {
+                "party": "NDP",
+                "score": 20.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 1, 1982",
+    "field": "1982-02-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 35.0
+            },
+            {
+                "party": "PCPC",
+                "score": 36.6
+            },
+            {
+                "party": "NDP",
+                "score": 25.5
+            },
+            {
+                "party": "SCP",
+                "score": 1.0
+            },
+            {
+                "party": "RCC",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {"n": 725,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 1, 1982",
+    "field": "1982-03-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 31.3
+            },
+            {
+                "party": "PCPC",
+                "score": 42.1
+            },
+            {
+                "party": "NDP",
+                "score": 23.7
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.8
+            }
+        ]
+    },
+    {"n": 672,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "April 1, 1982",
+    "field": "1982-04-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 45.9
+            },
+            {
+                "party": "PCPC",
+                "score": 34.4
+            },
+            {
+                "party": "NDP",
+                "score": 17.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {"n": 746,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "May 1, 1982",
+    "field": "1982-05-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "PCPC",
+                "score": 44.2
+            },
+            {
+                "party": "NDP",
+                "score": 20.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.6
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ]
+    },
+    {"n": 753,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "June 1, 1982",
+    "field": "1982-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.3
+            },
+            {
+                "party": "PCPC",
+                "score": 43.3
+            },
+            {
+                "party": "NDP",
+                "score": 23.2
+            },
+            {
+                "party": "SCP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {"n": 722,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "July 1, 1982",
+    "field": "1982-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 28.2
+            },
+            {
+                "party": "PCPC",
+                "score": 46.7
+            },
+            {
+                "party": "NDP",
+                "score": 23.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "July 16, 1982",
+    "field": "1982-07-16",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 28.2
+            },
+            {
+                "party": "PCPC",
+                "score": 48.1
+            },
+            {
+                "party": "NDP",
+                "score": 21.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "August 1, 1982",
+    "field": "1982-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 22.8
+            },
+            {
+                "party": "PCPC",
+                "score": 50.1
+            },
+            {
+                "party": "NDP",
+                "score": 25.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 721,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "September 1, 1982",
+    "field": "1982-09-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 30.1
+            },
+            {
+                "party": "PCPC",
+                "score": 45.9
+            },
+            {
+                "party": "NDP",
+                "score": 20.8
+            },
+            {
+                "party": "SCP",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {"n": 718,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "September 16, 1982",
+    "field": "1982-09-16",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.0
+            },
+            {
+                "party": "PCPC",
+                "score": 47.1
+            },
+            {
+                "party": "NDP",
+                "score": 20.6
+            },
+            {
+                "party": "SCP",
+                "score": 1.1
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {"n": 711,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "November 1, 1982",
+    "field": "1982-11-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 30.3
+            },
+            {
+                "party": "PCPC",
+                "score": 47.6
+            },
+            {
+                "party": "NDP",
+                "score": 19.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {"n": 795,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "December 1, 1982",
+    "field": "1982-12-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 30.7
+            },
+            {
+                "party": "PCPC",
+                "score": 46.5
+            },
+            {
+                "party": "NDP",
+                "score": 20.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {"n": 784,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 1, 1983",
+    "field": "1983-01-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.4
+            },
+            {
+                "party": "PCPC",
+                "score": 49.9
+            },
+            {
+                "party": "NDP",
+                "score": 19.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {"n": 747,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "February 1, 1983",
+    "field": "1983-02-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.5
+            },
+            {
+                "party": "PCPC",
+                "score": 45.7
+            },
+            {
+                "party": "NDP",
+                "score": 18.4
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.6
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {"n": 777,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 1, 1983",
+    "field": "1983-03-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.6
+            },
+            {
+                "party": "PCPC",
+                "score": 51.3
+            },
+            {
+                "party": "NDP",
+                "score": 17.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 746,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "March 15, 1983",
+    "field": "1983-03-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 26.5
+            },
+            {
+                "party": "PCPC",
+                "score": 54.4
+            },
+            {
+                "party": "NDP",
+                "score": 17.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 756,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "May 1, 1983",
+    "field": "1983-05-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 31.4
+            },
+            {
+                "party": "PCPC",
+                "score": 52.0
+            },
+            {
+                "party": "NDP",
+                "score": 14.6
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 724,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "June 1, 1983",
+    "field": "1983-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.7
+            },
+            {
+                "party": "PCPC",
+                "score": 51.0
+            },
+            {
+                "party": "NDP",
+                "score": 13.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {"n": 820,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "July 1, 1983",
+    "field": "1983-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 26.4
+            },
+            {
+                "party": "PCPC",
+                "score": 57.2
+            },
+            {
+                "party": "NDP",
+                "score": 14.2
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 781,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 1, 1983",
+    "field": "1983-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.7
+            },
+            {
+                "party": "PCPC",
+                "score": 50.1
+            },
+            {
+                "party": "NDP",
+                "score": 18.1
+            },
+            {
+                "party": "SCP",
+                "score": 1.1
+            },
+            {
+                "party": "RCC",
+                "score": 0.2
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ]
+    },
+    {"n": 690,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "September 1, 1983",
+    "field": "1983-09-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 23.2
+            },
+            {
+                "party": "PCPC",
+                "score": 62.8
+            },
+            {
+                "party": "NDP",
+                "score": 13.0
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ]
+    },
+    {"n": 708,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "September 15, 1983",
+    "field": "1983-09-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 27.4
+            },
+            {
+                "party": "PCPC",
+                "score": 57.1
+            },
+            {
+                "party": "NDP",
+                "score": 13.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {"n": 778,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 1, 1983",
+    "field": "1983-10-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 26.4
+            },
+            {
+                "party": "PCPC",
+                "score": 60.2
+            },
+            {
+                "party": "NDP",
+                "score": 11.5
+            },
+            {
+                "party": "SCP",
+                "score": 1.1
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {"n": 780,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 15, 1983",
+    "field": "1983-10-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 26.7
+            },
+            {
+                "party": "PCPC",
+                "score": 58.1
+            },
+            {
+                "party": "NDP",
+                "score": 13.2
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 1, 1983",
+    "field": "1983-11-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.3
+            },
+            {
+                "party": "PCPC",
+                "score": 52.5
+            },
+            {
+                "party": "NDP",
+                "score": 13.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 1.0
+            }
+        ]
+    },
+    {"n": 780,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "December 1, 1983",
+    "field": "1983-12-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.3
+            },
+            {
+                "party": "PCPC",
+                "score": 54.9
+            },
+            {
+                "party": "NDP",
+                "score": 13.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 825,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 1, 1984",
+    "field": "1984-01-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.5
+            },
+            {
+                "party": "PCPC",
+                "score": 52.9
+            },
+            {
+                "party": "NDP",
+                "score": 12.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 786,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 1, 1984",
+    "field": "1984-02-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36.8
+            },
+            {
+                "party": "PCPC",
+                "score": 50.2
+            },
+            {
+                "party": "NDP",
+                "score": 10.9
+            },
+            {
+                "party": "SCP",
+                "score": 1.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {"n": 788,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 1, 1984",
+    "field": "1984-03-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 31.6
+            },
+            {
+                "party": "PCPC",
+                "score": 54.9
+            },
+            {
+                "party": "NDP",
+                "score": 11.3
+            },
+            {
+                "party": "SCP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ]
+    },
+    {"n": 775,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "March 15, 1984",
+    "field": "1984-03-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.8
+            },
+            {
+                "party": "PCPC",
+                "score": 39.1
+            },
+            {
+                "party": "NDP",
+                "score": 12.6
+            },
+            {
+                "party": "SCP",
+                "score": 0.5
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 810,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "May 1, 1984",
+    "field": "1984-05-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 46.0
+            },
+            {
+                "party": "PCPC",
+                "score": 40.1
+            },
+            {
+                "party": "NDP",
+                "score": 11.1
+            },
+            {
+                "party": "SCP",
+                "score": 0.8
+            },
+            {
+                "party": "RCC",
+                "score": 0.4
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ]
+    },
+    {"n": 720,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "May 15, 1984",
+    "field": "1984-05-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 45.9
+            },
+            {
+                "party": "PCPC",
+                "score": 42.2
+            },
+            {
+                "party": "NDP",
+                "score": 10.8
+            },
+            {
+                "party": "SCP",
+                "score": 0.3
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.6
+            }
+        ]
+    },
+    {"n": 738,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "June 1, 1984",
+    "field": "1984-06-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 50.5
+            },
+            {
+                "party": "PCPC",
+                "score": 37.6
+            },
+            {
+                "party": "NDP",
+                "score": 11.1
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ]
+    },
+    {"n": 802,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "June 15, 1984",
+    "field": "1984-06-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.8
+            },
+            {
+                "party": "PCPC",
+                "score": 35.5
+            },
+            {
+                "party": "NDP",
+                "score": 12.6
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 653,
+    "moe": 4.0,
+    "company": "Gallup",
+    "date": "July 1, 1984",
+    "field": "1984-07-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 49.0
+            },
+            {
+                "party": "PCPC",
+                "score": 37.8
+            },
+            {
+                "party": "NDP",
+                "score": 10.9
+            },
+            {
+                "party": "SCP",
+                "score": 0.9
+            },
+            {
+                "party": "RCC",
+                "score": 0.3
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ]
+    },
+    {"n": 918,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 1, 1984",
+    "field": "1984-08-01",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32.4
+            },
+            {
+                "party": "PCPC",
+                "score": 45.4
+            },
+            {
+                "party": "NDP",
+                "score": 18.3
+            },
+            {
+                "party": "SCP",
+                "score": 1.2
+            },
+            {
+                "party": "Others",
+                "score": 2.7
+            }
+        ]
+    },
+    {"n": 1754,
+    "moe": 2.0,
+    "company": "Gallup",
+    "date": "August 21, 1984",
+    "field": "1984-08-13",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 29.2
+            },
+            {
+                "party": "PCPC",
+                "score": 48.8
+            },
+            {
+                "party": "NDP",
+                "score": 18.7
+            },
+            {
+                "party": "SCP",
+                "score": 1.3
+            },
+            {
+                "party": "Others",
+                "score": 2.0
+            }
+        ]
+    },
+    {"n": 818,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 13, 1984",
+    "field": "1984-10-13",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 59.7
+            },
+            {
+                "party": "LPC",
+                "score": 21.1
+            },
+            {
+                "party": "NDP",
+                "score": 16.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
+    },
+    {"n": 832,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 3, 1984",
+    "field": "1984-11-03",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 55.3
+            },
+            {
+                "party": "LPC",
+                "score": 22.6
+            },
+            {
+                "party": "NDP",
+                "score": 20.2
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 1971,
+    "moe": 2.0,
+    "company": "CROP",
+    "date": "November 30, 1984",
+    "field": "1984-11-30",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 59.7
+            },
+            {
+                "party": "LPC",
+                "score": 21.1
+            },
+            {
+                "party": "NDP",
+                "score": 16.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.2
+            },
+            {
+                "party": "RCC",
+                "score": 0.1
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
+    },
+    {"n": 800,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "December 8, 1984",
+    "field": "1984-12-08",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 53.8
+            },
+            {
+                "party": "LPC",
+                "score": 24.6
+            },
+            {
+                "party": "NDP",
+                "score": 19.9
+            },
+            {
+                "party": "Others",
+                "score": 1.7
+            }
+        ]
+    },
+    {"n": 825,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "January 3, 1985",
+    "field": "1985-01-03",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 52.5
+            },
+            {
+                "party": "LPC",
+                "score": 25.1
+            },
+            {
+                "party": "NDP",
+                "score": 21.5
+            },
+            {
+                "party": "SCP",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 0.9
+            }
+        ]
+    },
+    {"n": 766,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 2, 1985",
+    "field": "1985-02-02",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 53.4
+            },
+            {
+                "party": "LPC",
+                "score": 24.3
+            },
+            {
+                "party": "NDP",
+                "score": 21.2
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
+    },
+    {"n": 743,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 23, 1985",
+    "field": "1985-02-23",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 55.5
+            },
+            {
+                "party": "LPC",
+                "score": 25.7
+            },
+            {
+                "party": "NDP",
+                "score": 17.3
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {"n": 756,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "April 6, 1985",
+    "field": "1985-04-06",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 54.5
+            },
+            {
+                "party": "LPC",
+                "score": 22.9
+            },
+            {
+                "party": "NDP",
+                "score": 21.2
+            },
+            {
+                "party": "Others",
+                "score": 1.4
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "May 18, 1985",
+    "field": "1985-05-18",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 45
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 8, 1985",
+    "field": "1985-06-08",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 44
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "July 13, 1985",
+    "field": "1985-07-13",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1037,
+    "company": "Gallup",
+    "date": "August 10, 1985",
+    "field": "1985-08-10",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 46
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Angus Reid",
+    "date": "August 27, 1985",
+    "field": "1985-08-27",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 46
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 7, 1985",
+    "field": "1985-09-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 48
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "October 5, 1985",
+    "field": "1985-10-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 43
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "November 9, 1985",
+    "field": "1985-11-09",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "December 7, 1985",
+    "field": "1985-12-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "February 8, 1986",
+    "field": "1986-02-08",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "March 15, 1986",
+    "field": "1986-03-15",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "April 5, 1986",
+    "field": "1986-04-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "May 3, 1986",
+    "field": "1986-05-03",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1063,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "May 13, 1986",
+    "field": "1986-02-08",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 7, 1986",
+    "field": "1986-06-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 2040,
+    "moe": 2.0,
+    "company": "CROP-Environics",
+    "date": "June 15, 1986",
+    "field": "1986-06-15",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {"n": 1673,
+    "moe": 2.0,
+    "company": "Angus Reid",
+    "date": "June 24, 1986",
+    "field": "1986-06-24",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "July 5, 1986",
+    "field": "1986-07-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "August 9, 1986",
+    "field": "1986-08-09",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "August 16, 1986",
+    "field": "1986-08-16",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "September 13, 1986",
+    "field": "1986-09-13",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "October 4, 1986",
+    "field": "1986-10-04",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "November 8, 1986",
+    "field": "1986-11-08",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "December 6, 1986",
+    "field": "1986-12-06",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 10, 1987",
+    "field": "1987-01-10",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "February 14, 1987",
+    "field": "1987-02-14",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1666,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "March 6, 1987",
+    "field": "1987-03-06",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "March 14, 1987",
+    "field": "1987-03-14",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1008,
+    "company": "Gallup",
+    "date": "April 11, 1987",
+    "field": "1987-04-11",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1014,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "May 9, 1987",
+    "field": "1987-05-09",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1670,
+    "moe": 2.0,
+    "company": "Angus Reid",
+    "date": "May 11, 1987",
+    "field": "1987-05-11",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            }
+        ]
+    },
+    {"n": 1521,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "May 25, 1987",
+    "field": "1987-05-25",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 6, 1987",
+    "field": "1987-06-06",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Environics",
+    "date": "June 10, 1987",
+    "field": "1987-06-10",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            }
+        ]
+    },
+    {"n": 1504,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "June 24, 1987",
+    "field": "1987-06-24",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "July 11, 1987",
+    "field": "1987-07-11",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "August 8, 1987",
+    "field": "1987-08-8",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 5, 1987",
+    "field": "1987-09-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "October 10, 1987",
+    "field": "1987-10-10",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "November 7, 1987",
+    "field": "1987-11-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1507,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "January 4, 1987",
+    "field": "1987-12-04",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 32
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "December 5, 1987",
+    "field": "1987-12-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 9, 1988",
+    "field": "1988-01-09",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1022,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "February 06, 1988",
+    "field": "1988-02-06",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 27
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1521,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "February 23, 1988",
+    "field": "1988-02-23",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "March 5, 1988",
+    "field": "1988-03-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1517,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "March 21, 1988",
+    "field": "1988-03-21",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1983,
+    "moe": 2.0,
+    "company": "Environics",
+    "date": "March 24, 1988",
+    "field": "1988-03-24",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "April 9, 1988",
+    "field": "1988-04-09",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "May 7, 1988",
+    "field": "1988-05-07",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Angus Reid",
+    "date": "May 18, 1988",
+    "field": "1988-05-18",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 4, 1988",
+    "field": "1988-06-04",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1506,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "June 21, 1988",
+    "field": "1988-06-21",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1992,
+    "moe": 2.0,
+    "company": "Environics",
+    "date": "June 27, 1988",
+    "field": "1988-06-27",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "July 11, 1988",
+    "field": "1988-07-11",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "July 25, 1988",
+    "field": "1988-07-25",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            }
+        ]
+    },
+    {"n": 1503,
+    "moe": 2.5,
+    "company": "Environics",
+    "date": "July 26, 1988",
+    "field": "1988-07-26",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1036,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "August 6, 1988",
+    "field": "1988-08-06",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 30
+            }
+        ]
+    },
+    {"n": 1032,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "September 10, 1988",
+    "field": "1988-09-10",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            }
+        ]
+    },
+    {"n": 1061,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 3, 1988",
+    "field": "1988-10-03",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 43
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1512,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "October 3, 1988",
+    "field": "1988-10-03",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 45
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1515,
+    "moe": 2.0,
+    "company": "Environics",
+    "date": "October 10, 1988",
+    "field": "1988-10-10",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 42
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1027,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 15, 1988",
+    "field": "1988-10-015",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 811,
+    "company": "Environics",
+    "date": "October 26, 1988",
+    "field": "1988-10-26",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1502,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "October 27, 1988",
+    "field": "1988-10-27",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1034,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "October 29, 1988",
+    "field": "1988-10-29",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 727,
+    "company": "Environics",
+    "date": "October 30, 1988",
+    "field": "1988-10-30",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {"n": 1101,
+    "moe": 3.2,
+    "company": "Insight Canada Research",
+    "date": "November 3, 1988",
+    "field": "1988-11-03",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1041,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 5, 1988",
+    "field": "1988-11-05",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            }
+        ]
+    },
+    {"n": 1275,
+    "moe": 3.0,
+    "company": "Environics",
+    "date": "November 8, 1988",
+    "field": "1988-11-08",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1501,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "November 8, 1988",
+    "field": "1988-11-08",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            }
+        ]
+    },
+    {"n": 2200,
+    "moe": 2.2,
+    "company": "Canadian Facts",
+    "date": "November 8, 1988",
+    "field": "1988-11-08",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            }
+        ]
+    },
+    {"n": 1026,
+    "moe": 3.0,
+    "company": "Gallup",
+    "date": "November 12, 1988",
+    "field": "1988-11-12",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1512,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "November 17, 1988",
+    "field": "1988-11-17",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"company": "Insight Canada Research",
+    "date": "November 18, 1988",
+    "field": "1988-11-18",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 43
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "November 5, 1988",
+    "field": "1988-11-19",
+    "method": "Live Interview",
+    "jurisdiction": "Federal",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
