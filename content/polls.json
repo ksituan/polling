@@ -121453,5 +121453,179 @@
                 "score": 3
             }
         ]
+    },
+    {"company": "Gallup",
+    "date": "November 15, 1945",
+    "field": "1945-11-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "CCF",
+                "score": 17
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 15, 1946",
+    "field": "1946-01-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "PCPC",
+                "score": 24
+            },
+            {
+                "party": "CCF",
+                "score": 16
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "May 15, 1946",
+    "field": "1946-05-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "CCF",
+                "score": 16
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 15, 1946",
+    "field": "1946-09-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "PCPC",
+                "score": 27
+            },
+            {
+                "party": "CCF",
+                "score": 17
+            },
+            {
+                "party": "SCP",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "December 15, 1946",
+    "field": "1946-12-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "PCPC",
+                "score": 26
+            },
+            {
+                "party": "CCF",
+                "score": 18
+            },
+            {
+                "party": "SCP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "February 15, 1947",
+    "field": "1947-02-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "PCPC",
+                "score": 27
+            },
+            {
+                "party": "CCF",
+                "score": 18
+            },
+            {
+                "party": "SCP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
     }
 ]
