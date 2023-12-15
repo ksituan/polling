@@ -111994,8 +111994,7 @@
             }
         ]
     },
-    {
-    "company": "Angus Reid",
+    {"company": "Angus Reid",
     "date": "January 15, 2009",
     "field": "2009-01-15",
     "method": "Online",
@@ -118776,7 +118775,7 @@
                 "score": 8.7
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.5
             }
         ]
@@ -119013,7 +119012,7 @@
                 "score": 9.3
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.9
             }
         ]
@@ -119191,7 +119190,7 @@
                 "score": 8.5
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.8
             }
         ]
@@ -119515,7 +119514,7 @@
                 "score": 9.0
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.5
             }
         ]
@@ -119606,7 +119605,7 @@
                 "score": 9.6
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.1
             }
         ]
@@ -119874,7 +119873,7 @@
                 "score": 8.4
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.5
             }
         ]
@@ -119909,7 +119908,7 @@
                 "score": 6
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1
             }
         ]
@@ -119943,7 +119942,7 @@
                 "score": 6
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1
             }
         ]
@@ -120038,7 +120037,7 @@
                 "score": 7.8
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.9
             }
         ]
@@ -120195,7 +120194,7 @@
                 "score": 6
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1
             }
         ]
@@ -120290,7 +120289,7 @@
                 "score": 7.2
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.2
             }
         ]
@@ -120353,7 +120352,7 @@
                 "score": 9.9
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.4
             }
         ]
@@ -120387,7 +120386,7 @@
                 "score": 5
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1
             }
         ]
@@ -120482,7 +120481,7 @@
                 "score": 6.5
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.9
             }
         ]
@@ -120546,7 +120545,7 @@
                 "score": 6.8
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.5
             }
         ]
@@ -120641,7 +120640,7 @@
                 "score": 6.9
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 2.7
             }
         ]
@@ -120917,7 +120916,7 @@
                 "score": 9.9
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.8
             }
         ]
@@ -120983,7 +120982,7 @@
                 "score": 3.8
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.4
             }
         ]
@@ -121016,7 +121015,7 @@
                 "score": 6.0
             },
             {
-                "party": "Other",
+                "party": "Others",
                 "score": 1.5
             }
         ]
