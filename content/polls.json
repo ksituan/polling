@@ -119897,7 +119897,7 @@
             },
             {
                 "party": "NDP",
-                "score": 12
+                "score": 22
             },
             {
                 "party": "BQ",
@@ -120333,23 +120333,23 @@
         [
             {
                 "party": "CPC",
-                "score": 38.4
+                "score": 33.9
             },
             {
                 "party": "LPC",
-                "score": 26.8
+                "score": 24
             },
             {
                 "party": "NDP",
-                "score": 16.7
+                "score": 27.9
             },
             {
                 "party": "BQ",
-                "score": 8.2
+                "score": 6.0
             },
             {
                 "party": "GPC",
-                "score": 9.9
+                "score": 6.8
             },
             {
                 "party": "Others",
@@ -120897,23 +120897,23 @@
         [
             {
                 "party": "CPC",
-                "score": 38.4
+                "score": 34.6
             },
             {
                 "party": "LPC",
-                "score": 26.8
+                "score": 20.4
             },
             {
                 "party": "NDP",
-                "score": 16.7
+                "score": 31.4
             },
             {
                 "party": "BQ",
-                "score": 8.2
+                "score": 5.4
             },
             {
                 "party": "GPC",
-                "score": 9.9
+                "score": 6.3
             },
             {
                 "party": "Others",
@@ -120987,10 +120987,10 @@
             }
         ]
     },
-    {"company": "Nanos Research",
+    {"company": "EKOS",
     "date": "May 1, 2011",
     "field": "2011-05-01",
-    "method": "Telephone",
+    "method": "IVR",
     "jurisdiction": "Canada",
     "poll":
         [
