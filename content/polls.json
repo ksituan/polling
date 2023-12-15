@@ -121050,5 +121050,408 @@
                 "score": 6
             }
         ]
+    },
+    {"company": "Gallup",
+    "date": "April 15, 1945",
+    "field": "1945-04-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 29
+            },
+            {
+                "party": "CCF",
+                "score": 20
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 15, 1945",
+    "field": "1945-01-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 28
+            },
+            {
+                "party": "CCF",
+                "score": 22
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "November 15, 1944",
+    "field": "1944-11-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 28
+            },
+            {
+                "party": "CCF",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 13
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 15, 1944",
+    "field": "1944-09-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 27
+            },
+            {
+                "party": "CCF",
+                "score": 24
+            },
+            {
+                "party": "SCP",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 15, 1944",
+    "field": "1944-06-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "PC",
+                "score": 30
+            },
+            {
+                "party": "CCF",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 14
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "March 15, 1944",
+    "field": "1944-03-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "PC",
+                "score": 30
+            },
+            {
+                "party": "CCF",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 14
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 15, 1944",
+    "field": "1944-01-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "PC",
+                "score": 29
+            },
+            {
+                "party": "CCF",
+                "score": 24
+            },
+            {
+                "party": "SCP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 13
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "December 15, 1943",
+    "field": "1943-12-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "PC",
+                "score": 29
+            },
+            {
+                "party": "CCF",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 14
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 15, 1943",
+    "field": "1943-09-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "PC",
+                "score": 28
+            },
+            {
+                "party": "CCF",
+                "score": 29
+            },
+            {
+                "party": "SCP",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 12
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "June 15, 1943",
+    "field": "1943-06-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "PC",
+                "score": 31
+            },
+            {
+                "party": "CCF",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 13
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "May 15, 1943",
+    "field": "1943-05-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 28
+            },
+            {
+                "party": "CCF",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 15
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "February 15, 1943",
+    "field": "1943-02-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "PC",
+                "score": 27
+            },
+            {
+                "party": "CCF",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 18
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "December 15, 1942",
+    "field": "1942-12-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "PC",
+                "score": 24
+            },
+            {
+                "party": "CCF",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "September 15, 1942",
+    "field": "1942-09-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "PC",
+                "score": 23
+            },
+            {
+                "party": "CCF",
+                "score": 21
+            },
+            {
+                "party": "SCP",
+                "score": 6
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {"company": "Gallup",
+    "date": "January 15, 1942",
+    "field": "1942-01-15",
+    "method": "Live Interview",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "PC",
+                "score": 30
+            },
+            {
+                "party": "CCF",
+                "score": 10
+            },
+            {
+                "party": "SCP",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
