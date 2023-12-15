@@ -118985,8 +118985,8 @@
         ]
     },
     {"company": "EKOS",
-    "date": "April 1, 2011",
-    "field": "2011-04-01",
+    "date": "April 5, 2011",
+    "field": "2011-04-05",
     "method": "IVR",
     "jurisdiction": "Canada",
     "poll":
@@ -119340,8 +119340,8 @@
         ]
     },
     {"company": "Harris-Decima",
-    "date": "April 1, 2011",
-    "field": "2011-04-01",
+    "date": "April 17, 2011",
+    "field": "2011-04-17",
     "method": "Telephone",
     "jurisdiction": "Canada",
     "poll":
@@ -119429,8 +119429,8 @@
     {"n": 2151,
     "moe": 2.1,
     "company": "Compas",
-    "date": "April 1, 2011",
-    "field": "2011-04-01",
+    "date": "April 11, 2011",
+    "field": "2011-04-11",
     "method": "Telephone",
     "jurisdiction": "Canada",
     "poll":
@@ -119917,7 +119917,7 @@
     "company": "Innovative Research",
     "date": "April 17, 2011",
     "field": "2011-04-17",
-    "method": "Online",
+    "method": "Telephone",
     "jurisdiction": "Canada",
     "poll":
         [
