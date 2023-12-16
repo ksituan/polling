@@ -121661,5 +121661,1832 @@
                 "score": 4
             }
         ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "December 14, 1993",
+    "field": "1993-12-14",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1001,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "Janaury 14, 1994",
+    "field": "1994-01-17",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1005,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "February 14, 1994",
+    "field": "1994-02-14",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 7
+            },
+            {
+                "party": "LPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1465,
+    "company": "Angus Reid",
+    "date": "February 24, 1994",
+    "field": "1994-02-24",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 5
+            },
+            {
+                "party": "LPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "RPC",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "March 13, 1994",
+    "field": "1994-03-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1508,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "March 22, 1994",
+    "field": "1994-03-22",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 7
+            },
+            {
+                "party": "LPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1014,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "April 11, 1994",
+    "field": "1994-04-11",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 9
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "RPC",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 1506,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "April 27, 1994",
+    "field": "1994-04-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 6
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 15
+            }
+        ]
+    },
+    {"n": 1009,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "May 9, 1994",
+    "field": "1994-05-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 58
+            },
+            {
+                "party": "LPC",
+                "score": 10
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1508,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "June 1, 1994",
+    "field": "1994-06-01",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1009,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "June 13, 1994",
+    "field": "1994-06-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 10
+            },
+            {
+                "party": "LPC",
+                "score": 59
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1012,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "September 7, 1994",
+    "field": "1994-09-07",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "LPC",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"company": "Angus Reid",
+    "date": "October 1, 1994",
+    "field": "1994-10-01",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 6
+            },
+            {
+                "party": "LPC",
+                "score": 62
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
+    },
+    {"n": 1011,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "November 7, 1994",
+    "field": "1994-11-07",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 63
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1003,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "January 15, 1995",
+    "field": "1995-01-15",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 14
+            }
+        ]
+    },
+    {"n": 1500,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "January 23, 1995",
+    "field": "1995-01-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 9
+            },
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1005,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "February 12, 1995",
+    "field": "1995-02-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 15
+            }
+        ]
+    },
+    {"n": 1005,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "March 12, 1995",
+    "field": "1995-03-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 8
+            },
+            {
+                "party": "LPC",
+                "score": 62
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1500,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "May 30, 1995",
+    "field": "1995-05-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1005,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "July 10, 1995",
+    "field": "1995-07-10",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1501,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "July 26, 1995",
+    "field": "1995-07-26",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1004,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "September 11, 1995",
+    "field": "1995-09-11",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 1506,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "September 24, 1995",
+    "field": "1995-09-24",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "LPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1503,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "November 1, 1995",
+    "field": "1995-11-01",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1506,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "November 26, 1995",
+    "field": "1995-11-26",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1002,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "December 11, 1995",
+    "field": "1995-12-11",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1506,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "December 13, 1995",
+    "field": "1995-12-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1511,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "January 26, 1996",
+    "field": "1996-01-26",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 53
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1007,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "February 13, 1996",
+    "field": "1996-02-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 1520,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "March 25, 1996",
+    "field": "1996-03-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "April 15, 1996",
+    "field": "1996-04-15",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1516,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "June 2, 1996",
+    "field": "1996-06-02",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 53
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 18
+            }
+        ]
+    },
+    {"n": 1516,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "July 28, 1996",
+    "field": "1996-07-28",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "LPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1001,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "September 9, 1996",
+    "field": "1996-09-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1516,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "September 29, 1996",
+    "field": "1996-09-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "LPC",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 3000,
+    "moe": 1.8,
+    "company": "Angus Reid",
+    "date": "October 10, 1996",
+    "field": "1996-10-10",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1516,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "October 28, 1996",
+    "field": "1996-10-28",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 2015,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "November 1, 1996",
+    "field": "1996-11-01",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1520,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "December 2, 1996",
+    "field": "1996-12-02",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1519,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "January 27, 1997",
+    "field": "1997-01-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "RPC",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1002,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "March 16, 1997",
+    "field": "1997-03-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 20
+            }
+        ]
+    },
+    {"company": "Environics",
+    "date": "March 31, 1997",
+    "field": "1997-03-31",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1500,
+    "moe": 2.5,
+    "company": "Angus Reid",
+    "date": "March 31, 1997",
+    "field": "1997-03-31",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "RPC",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 2541,
+    "moe": 2,
+    "company": "CROP",
+    "date": "April 22, 1997",
+    "field": "1997-04-22",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 2600,
+    "moe": 1.9,
+    "company": "Compass",
+    "date": "April 25, 1997",
+    "field": "1997-04-25",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "RPC",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 1005,
+    "moe": 3.2,
+    "company": "Zogby",
+    "date": "May 4, 1997",
+    "field": "1997-05-04",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "RPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 3208,
+    "moe": 2.3,
+    "company": "Angus Reid",
+    "date": "May 8, 1997",
+    "field": "1997-05-08",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 1004,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "May 12, 1997",
+    "field": "1997-05-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1200,
+    "company": "Strategic",
+    "date": "May 14, 1997",
+    "field": "1997-05-14",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1912,
+    "company": "Environics",
+    "date": "May 15, 1997",
+    "field": "1997-05-15",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1009,
+    "moe": 3.2,
+    "company": "Zogby",
+    "date": "May 16, 1997",
+    "field": "1997-05-16",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 3000,
+    "moe": 1.8,
+    "company": "EKOS",
+    "date": "May 25, 1997",
+    "field": "1997-05-25",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 21
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"company": "Strategic",
+    "date": "May 26, 1997",
+    "field": "1997-05-26",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 3200,
+    "company": "Angus Reid",
+    "date": "May 27, 1997",
+    "field": "1997-05-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 2000,
+    "moe": 2.3,
+    "company": "Environics",
+    "date": "May 28, 1997",
+    "field": "1997-05-28",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1507,
+    "moe": 2.5,
+    "company": "Gallup",
+    "date": "May 4, 1997",
+    "field": "1997-05-28",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 22
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "RPC",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
     }
 ]
