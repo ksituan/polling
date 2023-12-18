@@ -125797,5 +125797,35 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 417,
+        "company": "Angus Reid",
+        "date": "Nov 24-Dec 1, 2023",
+        "field": "2023-12-01",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCU",
+                "score": 20
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 25
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
