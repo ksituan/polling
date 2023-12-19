@@ -126079,5 +126079,3162 @@
                 "score": 6
             }
         ]
+    },
+    {"n": 2114,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "January 15, 2001",
+    "field": "2001-01-15",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 11
+            },
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 23
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1491,
+    "company": "EKOS",
+    "date": "January 31, 2001",
+    "field": "2001-01-31",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "CRCA",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 803,
+    "moe": 3.5,
+    "company": "Ipsos",
+    "date": "March 3, 2001",
+    "field": "2001-03-10",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1003,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "March 29, 2001",
+    "field": "2001-03-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "CRCA",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1966,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "April 24, 2001",
+    "field": "2001-04-24",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "April 26, 2001",
+    "field": "2001-04-26",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "May 27, 2001",
+    "field": "2001-05-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1017,
+    "moe": 3.1,
+    "company": "Gallup",
+    "date": "May 30, 2001",
+    "field": "2001-05-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "CRCA",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1504,
+    "moe": 2.6,
+    "company": "Leger",
+    "date": "May 31, 2001",
+    "field": "2001-05-31",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 1003,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 8, 2001",
+    "field": "2001-06-08",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 21
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1970,
+    "moe": 2.3,
+    "company": "Environics",
+    "date": "June 10, 2001",
+    "field": "2001-06-10",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1508,
+    "moe": 2.6,
+    "company": "Leger",
+    "date": "July 13, 2001",
+    "field": "2001-07-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.2,
+    "company": "Ipsos",
+    "date": "July 23, 2001",
+    "field": "2001-07-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 20
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 3004,
+    "moe": 1.8,
+    "company": "EKOS",
+    "date": "July 29, 2001",
+    "field": "2001-07-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1200,
+    "moe": 2.8,
+    "company": "EKOS",
+    "date": "December 12, 2001",
+    "field": "2001-12-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "February 21, 2002",
+    "field": "2002-02-21",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1503,
+    "moe": 2.6,
+    "company": "Leger",
+    "date": "March 24, 2002",
+    "field": "2002-03-24",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "March 28, 2002",
+    "field": "2002-03-28",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "April 24, 2002",
+    "field": "2002-04-24",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            }
+        ]
+    },
+    {"n": 1217,
+    "moe": 2.8,
+    "company": "EKOS",
+    "date": "May 29, 2002",
+    "field": "2002-05-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "CRCA",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 2000,
+    "moe": 2.2,
+    "company": "Ipsos",
+    "date": "May 30, 2002",
+    "field": "2002-05-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "CRCA",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1225,
+    "moe": 2.8,
+    "company": "EKOS",
+    "date": "June 6, 2002",
+    "field": "2002-06-06",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1500,
+    "moe": 2.5,
+    "company": "Leger",
+    "date": "June 9, 2002",
+    "field": "2002-06-09",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "CRCA",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 2000,
+    "moe": 2.2,
+    "company": "Ipsos",
+    "date": "June 20, 2002",
+    "field": "2002-06-20",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 10
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 18, 2002",
+    "field": "2002-06-18",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "July 2, 2002",
+    "field": "2002-07-02",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 12
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "CRCA",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 971,
+    "moe": 3.2,
+    "company": "Ipsos",
+    "date": "July 14, 2002",
+    "field": "2002-02-21",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "CRCA",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "September 30, 2002",
+    "field": "2002-09-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "CRCA",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "November 3, 2002",
+    "field": "2002-11-03",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "CRCA",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1205,
+    "moe": 2.8,
+    "company": "EKOS",
+    "date": "December 4, 2002",
+    "field": "2002-12-04",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "December 12, 2002",
+    "field": "2002-12-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "CRCA",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {"n": 3879,
+    "moe": 1.6,
+    "company": "Environics",
+    "date": "January 14, 2003",
+    "field": "2003-01-14",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "CRCA",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1001,
+    "moe": 3.1,
+    "company": "EKOS",
+    "date": "January 16, 2003",
+    "field": "2003-01-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "February 11, 2003",
+    "field": "2003-02-11",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1006,
+    "moe": 3.1,
+    "company": "EKOS",
+    "date": "February 20, 2003",
+    "field": "2003-02-20",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1943,
+    "moe": 2.3,
+    "company": "Environics",
+    "date": "March 27, 2003",
+    "field": "2003-03-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1009,
+    "company": "Ipsos",
+    "date": "April 17, 2003",
+    "field": "2003-04-21",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 13
+            },
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "May 23, 2003",
+    "field": "2003-05-23",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 18
+            },
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            }
+        ]
+    },
+    {"n": 1181,
+    "moe": 2.5,
+    "company": "Leger",
+    "date": "May 25, 2003",
+    "field": "2003-05-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1006,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 5, 2003",
+    "field": "2003-06-05",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1926,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "June 6, 2003",
+    "field": "2003-06-06",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "CRCA",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"n": 1501,
+    "moe": 2.5,
+    "company": "EKOS",
+    "date": "June 9, 2003",
+    "field": "2003-06-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 17
+            },
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "September 2, 2003",
+    "field": "2003-09-02",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "CRCA",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {"company": "Ipsos",
+    "date": "October 23, 2003",
+    "field": "2003-10-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 15
+            },
+            {
+                "party": "LPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "CRCA",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {	"party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "November 9, 2003",
+    "field": "2003-11-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 16
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "CRCA",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {"n": 1057,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "November 27, 2003",
+    "field": "2003-11-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "PCPC",
+                "score": 14
+            },
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "CRCA",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 1936,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "December 29, 2003",
+    "field": "2003-12-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1055,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "January 15, 2004",
+    "field": "2004-01-15",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 19
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {"n": 1115,
+    "moe": 2.5,
+    "company": "Leger",
+    "date": "January 27, 2004",
+    "field": "2004-01-27",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 21
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "SES",
+    "date": "January 29, 2004",
+    "field": "2004-01-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 944,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "February 12, 2004",
+    "field": "2004-02-12",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {"n": 1200,
+    "moe": 3.1,
+    "company": "EKOS",
+    "date": "February 25, 2004",
+    "field": "2004-02-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 2111,
+    "company": "Ipsos",
+    "date": "March 7, 2004",
+    "field": "2004-03-07",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1500,
+    "moe": 2.5,
+    "company": "Leger",
+    "date": "March 25, 2004",
+    "field": "2004-03-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "March 25, 2004",
+    "field": "2004-03-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 27
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "April 8, 2004",
+    "field": "2004-04-08",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1940,
+    "moe": 2.2,
+    "company": "Environics",
+    "date": "April 18, 2004",
+    "field": "2004-04-18",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {"n": 1136,
+    "moe": 2.5,
+    "company": "Leger",
+    "date": "April 24, 2004",
+    "field": "2004-04-24",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 946,
+    "moe": 3.2,
+    "company": "Ipsos",
+    "date": "April 28, 2004",
+    "field": "2004-04-28",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "May 6, 2004",
+    "field": "2004-05-06",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 26
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {"n": 2000,
+    "moe": 2.2,
+    "company": "Ipsos",
+    "date": "May 13, 2004",
+    "field": "2004-05-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 25, 2004",
+    "field": "2004-05-25",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 26, 2004",
+    "field": "2004-05-26",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 27, 2004",
+    "field": "2004-05-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1306,
+    "moe": 2.7,
+    "company": "EKOS",
+    "date": "May 27, 2004",
+    "field": "2004-05-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 29, 2004",
+    "field": "2004-05-29",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "May 30, 2004",
+    "field": "2004-05-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 30, 2004",
+    "field": "2004-05-30",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "May 31, 2004",
+    "field": "2004-05-31",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 25
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 2411,
+    "moe": 1.8,
+    "company": "Leger",
+    "date": "May 31, 2004",
+    "field": "2004-05-31",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 1, 2004",
+    "field": "2004-06-01",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 2, 2004",
+    "field": "2004-06-02",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 3, 2004",
+    "field": "2004-06-03",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 3, 2004",
+    "field": "2004-06-03",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"company": "Nanos",
+    "date": "June 7, 2004",
+    "field": "2004-06-07",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 7, 2004",
+    "field": "2004-06-07",
+    "method": "Leger",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 2003,
+    "moe": 2.2,
+    "company": "Ipsos",
+    "date": "June 8, 2004",
+    "field": "2004-06-08",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 8, 2004",
+    "field": "2004-06-08",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 2117,
+    "moe": 2.1,
+    "company": "EKOS",
+    "date": "June 9, 2004",
+    "field": "2004-06-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 9, 2004",
+    "field": "2004-06-09",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 10, 2004",
+    "field": "2004-06-10",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 13, 2004",
+    "field": "2004-06-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 13, 2004",
+    "field": "2004-06-13",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4,
+    "company": "Compass",
+    "date": "June 16, 2004",
+    "field": "2004-06-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 612,
+    "moe": 3.3,
+    "company": "Leger",
+    "date": "June 16, 2004",
+    "field": "2004-06-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"company": "Nanos",
+    "date": "June 16, 2004",
+    "field": "2004-06-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 16, 2004",
+    "field": "2004-06-16",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 17, 2004",
+    "field": "2004-06-17",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"company": "Nanos",
+    "date": "June 18, 2004",
+    "field": "2004-06-18",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 20, 2004",
+    "field": "2004-06-20",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 1000,
+    "moe": 3.1,
+    "company": "Ipsos",
+    "date": "June 20, 2004",
+    "field": "2004-06-20",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 21, 2004",
+    "field": "2004-06-21",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {"n": 1444,
+    "moe": 2.5,
+    "company": "Environics",
+    "date": "June 22, 2004",
+    "field": "2004-06-22",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 22, 2004",
+    "field": "2004-06-22",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 23, 2004",
+    "field": "2004-06-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 800,
+    "company": "Compass",
+    "date": "June 23, 2004",
+    "field": "2004-06-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
+    },
+    {"n": 2000,
+    "moe": 2.2,
+    "company": "Ipsos",
+    "date": "June 23, 2004",
+    "field": "2004-06-23",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 4159,
+    "moe": 1.4,
+    "company": "EKOS",
+    "date": "June 27, 2004",
+    "field": "2004-06-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 31.8
+            },
+            {
+                "party": "LPC",
+                "score": 32.6
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 4.9
+            },
+            {
+                "party": "BQ",
+                "score": 11.2
+            }
+        ]
+    },
+    {"n": 600,
+    "moe": 4.1,
+    "company": "SES",
+    "date": "June 24, 2004",
+    "field": "2004-06-24",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            }
+        ]
+    },
+    {"n": 2407,
+    "moe": 2,
+    "company": "Leger",
+    "date": "June 24, 2004",
+    "field": "2004-06-24",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll":
+        [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            }
+        ]
     }
 ]
