@@ -1612,6 +1612,29 @@
         "jurisdiction": "MB"
     },
     {
+        "date": "1987-09-10",
+        "nextWrit": "1990-07-30",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 37.6
+            },
+            {
+                "party": "PCPO",
+                "score": 23.5
+            },
+            {
+                "party": "OLP",
+                "score": 32.4
+            },
+            {
+                "party": "Others",
+                "score": 6.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
         "date": "2007-10-10",
         "nextWrit": "2011-09-07",
         "results": [

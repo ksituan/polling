@@ -129536,5 +129536,362 @@
                 "score": 2
             }
         ]
-    }
+    },
+    {"n": 1008,
+"moe": 3.2,
+"company": "Environics",
+"date": "November 22, 1987",
+"field": "1987-11-22",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 23
+		},
+		{
+			"party": "NDP",
+			"score": 24
+		},
+		{
+			"party": "OLP",
+			"score": 52
+		}
+	]
+},
+{"n": 1003,
+"moe": 3.2,
+"company": "Environics",
+"date": "February 15, 1988",
+"field": "1988-02-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 21
+		},
+		{
+			"party": "NDP",
+			"score": 24
+		},
+		{
+			"party": "OLP",
+			"score": 54
+		}
+	]
+},
+{"n": 571,
+"moe": 5,
+"company": "Gallup",
+"date": "May 14, 1988",
+"field": "1988-05-14",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 24
+		},
+		{
+			"party": "NDP",
+			"score": 25
+		},
+		{
+			"party": "OLP",
+			"score": 50
+		}
+	]
+},
+{"n": 1003,
+"moe": 3.2,
+"company": "Environics",
+"date": "May 1, 1988",
+"field": "1988-05-01",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 28
+		},
+		{
+			"party": "NDP",
+			"score": 25
+		},
+		{
+			"party": "OLP",
+			"score": 45
+		},
+		{
+			"party": "Others",
+			"score": 1
+		}
+	]
+},
+{"n": 1003,
+"moe": 3.2,
+"company": "Environics",
+"date": "May 25, 1988",
+"field": "1988-05-25",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 28
+		},
+		{
+			"party": "NDP",
+			"score": 25
+		},
+		{
+			"party": "OLP",
+			"score": 45
+		},
+		{
+			"party": "Others",
+			"score": 1
+		}
+	]
+},
+{"company": "Angus Reid",
+"date": "October 15, 1988",
+"field": "1988-10-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 25
+		},
+		{
+			"party": "NDP",
+			"score": 20
+		},
+		{
+			"party": "OLP",
+			"score": 53
+		}
+	]
+},
+{"n": 1025,
+"company": "Environics",
+"date": "December 13, 1988",
+"field": "1988-12-13",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 34
+		},
+		{
+			"party": "NDP",
+			"score": 21
+		},
+		{
+			"party": "OLP",
+			"score": 43
+		}
+	]
+},
+{"n": 1012,
+"moe": 3.2,
+"company": "Environics",
+"date": "July 6, 1989",
+"field": "1989-07-06",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 29
+		},
+		{
+			"party": "NDP",
+			"score": 25
+		},
+		{
+			"party": "OLP",
+			"score": 45
+		}
+	]
+},
+{"n": 1000,
+"moe": 3.2,
+"company": "Environics",
+"date": "September 15, 1989",
+"field": "1989-09-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 23
+		},
+		{
+			"party": "NDP",
+			"score": 23
+		},
+		{
+			"party": "OLP",
+			"score": 23
+		},
+		{
+			"party": "Others",
+			"score": 23
+		}
+	]
+},
+{"company": "Environics",
+"date": "December 15, 1989",
+"field": "1989-12-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 30
+		},
+		{
+			"party": "NDP",
+			"score": 26
+		},
+		{
+			"party": "OLP",
+			"score": 42
+		}
+	]
+},
+{"company": "Environics",
+"date": "April 15, 1990",
+"field": "1990-04-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 23
+		},
+		{
+			"party": "NDP",
+			"score": 28
+		},
+		{
+			"party": "OLP",
+			"score": 47
+		}
+	]
+},
+{"n": 1000,
+"moe": 3.2,
+"company": "Environics",
+"date": "July 8, 1990",
+"field": "1990-07-08",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 23
+		},
+		{
+			"party": "NDP",
+			"score": 23
+		},
+		{
+			"party": "OLP",
+			"score": 23
+		}
+	]
+},
+{"company": "Gallup",
+"date": "July 15, 1990",
+"field": "1990-07-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 26
+		},
+		{
+			"party": "NDP",
+			"score": 24
+		},
+		{
+			"party": "OLP",
+			"score": 43
+		}
+	]
+},
+{"company": "Decima",
+"date": "August 13, 1990",
+"field": "1990-08-15",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 28
+		},
+		{
+			"party": "NDP",
+			"score": 30
+		},
+		{
+			"party": "OLP",
+			"score": 40
+		}
+	]
+},
+{"n": 1008,
+"moe": 3.1,
+"company": "Environics",
+"date": "August 21, 1990",
+"field": "1990-08-21",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 23
+		},
+		{
+			"party": "NDP",
+			"score": 34
+		},
+		{
+			"party": "OLP",
+			"score": 40
+		}
+	]
+},
+{"n": 804,
+"moe": 3.3,
+"company": "Angus Reid",
+"date": "August 30, 1990",
+"field": "1990-07-30",
+"jurisdiction": "ON",
+"poll": 
+	[
+		{
+			"party": "PCPO",
+			"score": 24
+		},
+		{
+			"party": "NDP",
+			"score": 38
+		},
+		{
+			"party": "OLP",
+			"score": 34
+		},
+		{
+			"party": "Others",
+			"score": 4
+		}
+	]
+}
 ]
