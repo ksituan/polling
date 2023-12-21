@@ -1613,7 +1613,7 @@
     },
     {
         "date": "1985-05-03",
-        "nextWrit": "1987-09-10",
+        "nextWrit": "1987-08-01",
         "results": [
             {
                 "party": "NDP",
@@ -1635,7 +1635,7 @@
         "jurisdiction": "ON"
     },
     {
-        "date": "1987-10-10",
+        "date": "1987-09-11",
         "nextWrit": "1990-07-30",
         "results": [
             {
@@ -1658,8 +1658,8 @@
         "jurisdiction": "ON"
     },
     {
-        "date": "1990-10-07",
-        "nextWrit": "1995-07-30",
+        "date": "1990-09-07",
+        "nextWrit": "1995-04-28",
         "results": [
             {
                 "party": "NDP",
@@ -1681,7 +1681,7 @@
         "jurisdiction": "ON"
     },
     {
-        "date": "1995-09-09",
+        "date": "1995-06-09",
         "nextWrit": "1999-05-07",
         "results": [
             {
