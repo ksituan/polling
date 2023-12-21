@@ -129891,11 +129891,10 @@
 },
 {
     "n": 1116,
-    "moe": 2.9,
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada",
     "poll": [
         {
@@ -129929,7 +129928,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_BC",
     "poll": [
         {
@@ -129955,7 +129954,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_AB",
     "poll": [
         {
@@ -129981,7 +129980,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_SKMB",
     "poll": [
         {
@@ -130011,7 +130010,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_ON",
     "poll": [
         {
@@ -130041,7 +130040,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_QC",
     "poll": [
         {
@@ -130075,7 +130074,7 @@
     "company": "Pallas",
     "date": "December 13-15, 2023",
     "field": "2023-12-15",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada_ATL",
     "poll": [
         {
