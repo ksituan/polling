@@ -1635,7 +1635,7 @@
         "jurisdiction": "ON"
     },
     {
-        "date": "1987-09-10",
+        "date": "1987-09-11",
         "nextWrit": "1990-07-30",
         "results": [
             {
@@ -1653,6 +1653,29 @@
             {
                 "party": "Others",
                 "score": 6.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1990-09-07",
+        "nextWrit": "1995-07-30",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 20.6
+            },
+            {
+                "party": "PCPO",
+                "score": 44.8
+            },
+            {
+                "party": "OLP",
+                "score": 31.1
+            },
+            {
+                "party": "Others",
+                "score": 3.5
             }
         ],
         "jurisdiction": "ON"

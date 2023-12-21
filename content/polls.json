@@ -129728,19 +129728,15 @@
 	[
 		{
 			"party": "PCPO",
-			"score": 23
+			"score": 28
 		},
 		{
 			"party": "NDP",
-			"score": 23
+			"score": 26
 		},
 		{
 			"party": "OLP",
-			"score": 23
-		},
-		{
-			"party": "Others",
-			"score": 23
+			"score": 45
 		}
 	]
 },
@@ -129794,15 +129790,15 @@
 	[
 		{
 			"party": "PCPO",
-			"score": 23
+			"score": 22
 		},
 		{
 			"party": "NDP",
-			"score": 23
+			"score": 26
 		},
 		{
 			"party": "OLP",
-			"score": 23
+			"score": 50
 		}
 	]
 },
