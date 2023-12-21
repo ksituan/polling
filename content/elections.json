@@ -1635,6 +1635,56 @@
         "jurisdiction": "ON"
     },
     {
+        "date": "1995-06-09",
+        "nextWrit": "1999-05-07",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 12.6
+            },
+            {
+                "party": "PCPO",
+                "score": 45.1
+            },
+            {
+                "party": "OLP",
+                "score": 39.9
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1999-05-08",
+        "nextWrit": "2003-09-02",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 14.7
+            },
+            {
+                "party": "PCPO",
+                "score": 34.6
+            },
+            {
+                "party": "OLP",
+                "score": 46.4
+            },
+            {
+                "party": "GPO",
+                "score": 2.8
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
         "date": "2007-10-10",
         "nextWrit": "2011-09-07",
         "results": [
