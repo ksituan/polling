@@ -130168,5 +130168,187 @@
             "score": 1.9
         }
     ]
+},{
+    "n": 2175,
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 26
+        },
+        {
+            "party": "CPC",
+            "score": 40
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "BQ",
+            "score": 8
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 40
+        },
+        {
+            "party": "NDP",
+            "score": 30
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 13
+        },
+        {
+            "party": "CPC",
+            "score": 59
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "PPC",
+            "score": 6
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 31
+        },
+        {
+            "party": "CPC",
+            "score": 41
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 26
+        },
+        {
+            "party": "CPC",
+            "score": 25
+        },
+        {
+            "party": "NDP",
+            "score": 10
+        },
+        {
+            "party": "BQ",
+            "score": 32
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "company": "Spark Insights",
+    "date": "December 27, 2023",
+    "field": "2023-12-27",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 33
+        },
+        {
+            "party": "CPC",
+            "score": 46
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
 }
 ]
