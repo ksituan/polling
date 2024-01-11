@@ -130385,5 +130385,27 @@
             "score": 2.1
         }
     ]
+},
+{
+    "n": 1500,
+    "company": "Abacus",
+    "date": "January 4-9, 2024",
+    "field": "2024-01-09",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 41
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        }
+    ]
 }
 ]
