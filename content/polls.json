@@ -130650,5 +130650,27 @@
             "score": 2
         }
     ]
-}
+},
+{
+        "n": 1012,
+        "company": "Leger",
+        "date": "Jan 12-15, 2024",
+        "field": "2024-01-15",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
+    }
 ]
