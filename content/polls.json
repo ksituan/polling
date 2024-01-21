@@ -130668,8 +130668,12 @@
                 "score": 50
             },
             {
+                "party": "ABP",
+                "score": 3
+            },
+            {
                 "party": "Others",
-                "score": 7
+                "score": 4
             }
         ]
     }
