@@ -130676,5 +130676,239 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1443,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 195,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 19
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 163,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 11
+            },
+            {
+                "party": "CPC",
+                "score": 63
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 205,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 10.5
+            },
+            {
+                "party": "CPC",
+                "score": 54.5
+            },
+            {
+                "party": "NDP",
+                "score": 30.5
+            },
+            {
+                "party": "GPC",
+                "score": 1.5
+            },
+            {
+                "party": "PPC",
+                "score": 2.5
+            }
+        ]
+    },
+    {
+        "n": 398,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 337,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 19
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 36
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 130,
+        "company": "Angus Reid",
+        "date": "January 16-17, 2024",
+        "field": "2024-01-17",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 52
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }, 
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
