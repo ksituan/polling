@@ -131239,5 +131239,40 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1133,
+        "moe": 3,
+        "company": "Pallas",
+        "date": "January 24, 2024",
+        "field": "2024-01-24",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 21.1
+            },
+            {
+                "party": "PLQ",
+                "score": 15.4
+            },
+            {
+                "party": "PQ",
+                "score": 31.7
+            },
+            {
+                "party": "QS",
+                "score": 17
+            },
+            {
+                "party": "PCQ",
+                "score": 11.5
+            },
+            {
+                "party": "Others",
+                "score": 3.2
+            }
+        ]
     }
 ]
