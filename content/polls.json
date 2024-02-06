@@ -131900,5 +131900,39 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1032,
+        "company": "Leger",
+        "date": "February 2-5, 2024",
+        "field": "2024-02-05",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 25
+            },
+            {
+                "party": "PLQ",
+                "score": 15
+            },
+            {
+                "party": "PQ",
+                "score": 32
+            },
+            {
+                "party": "QS",
+                "score": 16
+            },
+            {
+                "party": "PCQ",
+                "score": 11
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
