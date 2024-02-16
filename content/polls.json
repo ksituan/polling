@@ -132213,5 +132213,28 @@
                 "score": 1.4
             }
         ]
+    },
+    {
+        "n": 500,
+        "company": "Leger",
+        "date": "January 10-24, 2024",
+        "field": "2024-01-24",
+        "method": "Telephone",
+        "note": "Commissioned by Yukon Party",
+        "jurisdiction": "YT",
+        "poll": [
+            {
+                "party": "YP",
+                "score": 44
+            },
+            {
+                "party": "YLP",
+                "score": 20
+            },
+            {
+                "party": "NDP",
+                "score": 35
+            }
+        ]
     }
 ]
