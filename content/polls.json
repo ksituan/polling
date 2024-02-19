@@ -132236,5 +132236,36 @@
                 "score": 35
             }
         ]
+    },
+    {
+        "n": 1121,
+        "moe": 2.9,
+        "company": "Pallas",
+        "date": "February 10-11, 2024",
+        "field": "2024-02-11",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
