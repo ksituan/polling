@@ -62,8 +62,12 @@
     {
         "province": "AB",
         "riding": "Calgary Heritage",
-        "party": "Independent",
-        "g": false
+        "party": "Conservative",
+        "surname": [
+            "Majumdar"
+        ],
+        "given": "Shuvaloy",
+        "g": true
     },
     {
         "province": "AB",
@@ -1428,12 +1432,8 @@
     {
         "province": "ON",
         "riding": "Durham",
-        "party": "Conservative",
-        "surname": [
-            "O'Toole"
-        ],
-        "given": "Erin",
-        "g": true
+        "party": "Independent",
+        "g": false
     },
     {
         "province": "ON",
