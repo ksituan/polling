@@ -133245,5 +133245,39 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1500,
+        "company": "Abacus Data",
+        "date": "Feb 29-March 6, 2024",
+        "field": "2024-03-06",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
