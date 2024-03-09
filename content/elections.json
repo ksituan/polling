@@ -1858,16 +1858,8 @@
                 "score": 23.9
             },
             {
-                "party": "NBP",
-                "score": 2.7
-            },
-            {
-                "party": "TOP",
-                "score": 1.8
-            },
-            {
                 "party": "Others",
-                "score": 1.1
+                "score": 5.6
             }
         ],
         "jurisdiction": "ON"
