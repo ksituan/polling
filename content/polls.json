@@ -61617,11 +61617,7 @@
             },
             {
                 "party": "Others",
-                "score": 2
-            },
-            {
-                "party": "NBP",
-                "score": 4.4
+                "score": 6.6
             },
             {
                 "party": "GPO",
@@ -61650,20 +61646,12 @@
                 "score": 26
             },
             {
-                "party": "NBP",
-                "score": 3
-            },
-            {
-                "party": "TOP",
-                "score": 1
-            },
-            {
                 "party": "GPO",
                 "score": 6
             },
             {
                 "party": "Others",
-                "score": 1
+                "score": 5
             }
         ]
     },
@@ -64295,15 +64283,7 @@
             },
             {
                 "party": "Others",
-                "score": 2.6
-            },
-            {
-                "party": "NBP",
-                "score": 5.2
-            },
-            {
-                "party": "TOP",
-                "score": 2.4
+                "score": 10.2
             },
             {
                 "party": "GPO",
@@ -89081,15 +89061,11 @@
             },
             {
                 "party": "Others",
-                "score": 2
+                "score": 4
             },
             {
                 "party": "GPO",
                 "score": 5
-            },
-            {
-                "party": "NBP",
-                "score": 2
             }
         ]
     },
