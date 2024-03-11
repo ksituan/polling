@@ -133474,5 +133474,44 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1274,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "March 7-9, 2024",
+        "field": "2024-03-09",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24.9
+            },
+            {
+                "party": "CPC",
+                "score": 45.6
+            },
+            {
+                "party": "NDP",
+                "score": 15.4
+            },
+            {
+                "party": "BQ",
+                "score": 6.1
+            },
+            {
+                "party": "GPC",
+                "score": 3.6
+            },
+            {
+                "party": "PPC",
+                "score": 2.1
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
     }
 ]
