@@ -132505,7 +132505,7 @@
     },
     {
         "n": 1000,
-        "company": "Abacus Data",
+        "company": "Abacus",
         "date": "February 15-21, 2024",
         "field": "2024-02-21",
         "method": "Online",
@@ -133441,6 +133441,37 @@
             {
                 "party": "Others",
                 "score": 1
+            }
+        ]
+    },
+    {
+        "n": 1283,
+        "Moe": 2.7,
+        "company": "Liaison",
+        "date": "March 8-9, 2024",
+        "field": "2024-03-09",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
             }
         ]
     }
