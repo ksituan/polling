@@ -133576,7 +133576,7 @@
         ]
     },
     {
-        "n": 1001,
+        "n": 830,
         "company": "Leger",
         "date": "March 8-11, 2024",
         "field": "2024-03-11",
@@ -133592,8 +133592,12 @@
                 "score": 49
             },
             {
+                "party": "ABP",
+                "score": 6
+            },
+            {
                 "party": "Others",
-                "score": 10
+                "score": 4
             }
         ]
     }
