@@ -133548,5 +133548,31 @@
                 "score": 1.7
             }
         ]
+    },
+    {
+        "n": 444,
+        "company": "Angus Reid",
+        "date": "Feb 28-March 12, 2024",
+        "field": "2024-03-12",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "SUP",
+                "score": 6
+            }
+        ]
     }
 ]
