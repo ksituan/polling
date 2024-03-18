@@ -133630,5 +133630,28 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 868,
+        "moe": 3,
+        "company": "Pallas",
+        "date": "March 12-13, 2024",
+        "field": "2024-03-13",
+        "method": "IVR",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "UCP",
+                "score": 52
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
