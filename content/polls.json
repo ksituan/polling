@@ -133756,5 +133756,67 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1015,
+        "moe": 3,
+        "company": "Mainstreet",
+        "date": "March 18-19, 2024",
+        "field": "2024-03-19",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39.6
+            },
+            {
+                "party": "BCU",
+                "score": 14.5
+            },
+            {
+                "party": "GPBC",
+                "score": 9.6
+            },
+            {
+                "party": "CPBC",
+                "score": 34.2
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {
+        "n": 1034,
+        "moe": 3,
+        "company": "Mainstreet",
+        "date": "March 18-19, 2024",
+        "field": "2024-03-19",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 22.8
+            },
+            {
+                "party": "CPC",
+                "score": 49.6
+            },
+            {
+                "party": "NDP",
+                "score": 19.4
+            },
+            {
+                "party": "GPC",
+                "score": 5.8
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
     }
 ]
