@@ -134101,5 +134101,31 @@
                 "score": 1.5
             }
         ]
-    }
+    },
+    {
+        "n": 779,
+        "company": "Abacus",
+        "date": "March 14-21, 2024",
+        "field": "2024-03-21",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 56
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 2
+            }
+        ]
+    },
 ]
