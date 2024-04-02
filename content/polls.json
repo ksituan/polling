@@ -134637,5 +134637,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 777,
+        "company": "Angus Reid",
+        "date": "Feb 28-March 6, 2024",
+        "field": "2024-03-06",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "OLP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
