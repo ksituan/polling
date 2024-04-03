@@ -1612,6 +1612,125 @@
         "jurisdiction": "MB"
     },
     {
+        "date": "1985-05-03",
+        "nextWrit": "1987-08-01",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 25.7
+            },
+            {
+                "party": "PCPO",
+                "score": 24.7
+            },
+            {
+                "party": "OLP",
+                "score": 47.3
+            },
+            {
+                "party": "Others",
+                "score": 2.3
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1987-09-11",
+        "nextWrit": "1990-07-30",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 37.6
+            },
+            {
+                "party": "PCPO",
+                "score": 23.5
+            },
+            {
+                "party": "OLP",
+                "score": 32.4
+            },
+            {
+                "party": "Others",
+                "score": 6.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1990-09-07",
+        "nextWrit": "1995-04-28",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 20.6
+            },
+            {
+                "party": "PCPO",
+                "score": 44.8
+            },
+            {
+                "party": "OLP",
+                "score": 31.1
+            },
+            {
+                "party": "Others",
+                "score": 3.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1995-06-09",
+        "nextWrit": "1999-05-07",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 12.6
+            },
+            {
+                "party": "PCPO",
+                "score": 45.1
+            },
+            {
+                "party": "OLP",
+                "score": 39.9
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
+        "date": "1999-06-08",
+        "nextWrit": "2003-09-02",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 14.7
+            },
+            {
+                "party": "PCPO",
+                "score": 34.6
+            },
+            {
+                "party": "OLP",
+                "score": 46.4
+            },
+            {
+                "party": "GPO",
+                "score": 2.8
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
         "date": "2007-10-10",
         "nextWrit": "2011-09-07",
         "results": [
@@ -1739,12 +1858,12 @@
                 "score": 23.9
             },
             {
-                "party": "NBP",
-                "score": 2.7
-            },
-            {
                 "party": "TOP",
                 "score": 1.8
+            },
+            {
+                "party": "NBP",
+                "score": 2.7
             },
             {
                 "party": "Others",
