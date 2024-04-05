@@ -134667,5 +134667,99 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 825,
+        "company": "Leger",
+        "date": "March 22-26, 2024",
+        "field": "2024-03-26",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 14
+            },
+            {
+                "party": "CPC",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 726,
+        "company": "Leger",
+        "date": "March 22-24 2024",
+        "field": "2024-03-24",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "BCU",
+                "score": 18
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 26
+            }
+        ]
+    },
+    {
+        "n": 770,
+        "company": "Leger",
+        "date": "March 22-24, 2024",
+        "field": "2024-03-24",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "ALP",
+                "score": 1
+            },
+            {
+                "party": "GPA",
+                "score": 1
+            },
+            {
+                "party": "WLC",
+                "score": 1
+            }
+        ]
     }
 ]
