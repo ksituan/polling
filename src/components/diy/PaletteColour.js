@@ -28,7 +28,7 @@ function PaletteColour({colour, pattern, thickness, id, paint, setPaint, jurisdi
                 <rect height="12" width="12" x="-1" y="-1" fill={brandColours[colour] + (thickness * 32 - 33).toString(16)} />
             </pattern>}
             {["left", "right", "hor", "vert"].includes(pattern) &&
-            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={`rotate(${patternAngle[pattern]}) ${jurisdiction === "Canada" && "scale(0.5)"}`}>
+            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={(jurisdiction === "Canada" ? `rotate(${patternAngle[pattern]}) scale(0.5)` : `rotate(${patternAngle[pattern]})`)}>
                 <path d="M -1,5 H 12" stroke={brandColours[colour]} strokeWidth={`${thickness}px`} />
             </pattern>}
 
