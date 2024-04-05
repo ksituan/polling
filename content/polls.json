@@ -134721,6 +134721,10 @@
             {
                 "party": "CPBC",
                 "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 2
             }
         ]
     },
