@@ -135022,5 +135022,36 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 1280,
+        "moe": 2.7,
+        "company": "Liaison",
+        "date": "April 6-7, 2024",
+        "field": "2024-04-07",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
