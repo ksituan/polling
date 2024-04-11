@@ -135016,6 +135016,10 @@
             {
                 "party": "PPC",
                 "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 7
             }
         ]
     }
