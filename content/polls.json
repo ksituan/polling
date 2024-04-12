@@ -135270,5 +135270,36 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1105,
+        "moe": 2.9,
+        "company": "Liaison",
+        "date": "April 2-3 2024",
+        "field": "2024-04-03",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCU",
+                "score": 16
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 34
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
