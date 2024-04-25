@@ -136414,5 +136414,39 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 849,
+        "company": "Leger",
+        "date": "April 19-21, 2024",
+        "field": "2024-04-21",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 15
+            },
+            {
+                "party": "PQ",
+                "score": 34
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 10
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
