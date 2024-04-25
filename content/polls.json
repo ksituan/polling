@@ -136448,5 +136448,39 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 816,
+        "company": "Leger",
+        "date": "April 19-21, 2024",
+        "field": "2024-04-21",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 35
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
