@@ -136250,10 +136250,6 @@
             {
                 "party": "PPC",
                 "score": 2
-            },
-            {
-                "party": "GPC",
-                "score": 3
             }
         ]
     },
@@ -136511,6 +136507,216 @@
             {
                 "party": "Others",
                 "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1033,
+        "moe": 3.1,
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25.9
+            },
+            {
+                "party": "CPC",
+                "score": 36.9
+            },
+            {
+                "party": "NDP",
+                "score": 22.9
+            },
+            {
+                "party": "BQ",
+                "score": 6.4
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 16
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 34
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 53
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 253,
+        "company": "Angus Reid",
+        "date": "April 19-23, 2024",
+        "field": "2024-04-23",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "PPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "April 18-22, 2024",
+        "field": "2024-04-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 7
             }
         ]
     }
