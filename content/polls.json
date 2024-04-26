@@ -136482,5 +136482,36 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 475,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "April 23-24 2024",
+        "field": "2024-04-24",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "BCU",
+                "score": 15
+            },
+            {
+                "party": "GPBC",
+                "score": 6
+            },
+            {
+                "party": "CPBC",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
