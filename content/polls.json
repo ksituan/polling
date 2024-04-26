@@ -136490,23 +136490,54 @@
         "poll": [
             {
                 "party": "NDP",
-                "score": 38
+                "score": 37.7
             },
             {
                 "party": "BCU",
-                "score": 15
+                "score": 14.9
             },
             {
                 "party": "GPBC",
-                "score": 6
+                "score": 5.8
             },
             {
                 "party": "CPBC",
-                "score": 38
+                "score": 38.5
             },
             {
                 "party": "Others",
-                "score": 3
+                "score": 3.2
+            }
+        ]
+    },
+    {
+        "n": 929,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "April 23-24 2024",
+        "field": "2024-04-24",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17.8
+            },
+            {
+                "party": "CPC",
+                "score": 55.8
+            },
+            {
+                "party": "NDP",
+                "score": 15.8
+            },
+            {
+                "party": "GPC",
+                "score": 6.9
+            },
+            {
+                "party": "Others",
+                "score": 3.7
             }
         ]
     },
