@@ -137413,5 +137413,36 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 848,
+        "moe": 3.4,
+        "company": "Pallas",
+        "date": "May 14 2024",
+        "field": "2024-05-14",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "BCU",
+                "score": 13
+            },
+            {
+                "party": "GPBC",
+                "score": 9
+            },
+            {
+                "party": "CPBC",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
