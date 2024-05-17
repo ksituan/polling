@@ -137444,5 +137444,31 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "May 6-8 2024",
+        "field": "2024-05-08",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 18
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 26
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
     }
 ]
