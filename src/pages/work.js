@@ -19,7 +19,7 @@ const work = () => (
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
     <p className="dateText">2023-present</p>
     <p><span className="colourfulText">Decision Desk HQ</span> Data Entry</p>
-    <p className="dateText">2023-present</p>
+    <p className="dateText">2022-2024</p>
     <p><span className="colourfulText">Brock University, Dept. of Labour Studies</span> Research Assistant</p>
     <p className="dateText">2020-2023</p>
     <p><span className="colourfulText">Mainstreet Research</span> Social Media Manager & Digital Analyst</p>
@@ -35,7 +35,7 @@ const work = () => (
     <p><span className="colourfulText">Brock University</span> B.A. (Honours) Political Science</p>
 
     <h2>My Secret</h2>
-    <p>I love tabletop and video games, and am especially interested in gaming community management work!</p>
+    <p>I love tabletop and video games (And of course politics)! It's always been a dream of mine to work in the gaming industry. </p>
 
     <h2>Contact</h2>
     <p>You can reach me at <span className="colourfulText">cfpolling<img className="at" src={at} alt=" at "/>gmail.com</span>.</p>
