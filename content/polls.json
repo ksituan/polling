@@ -138559,5 +138559,66 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "May 31, 2024",
+        "field": "2024-05-31",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26.2
+            },
+            {
+                "party": "CPC",
+                "score": 41.5
+            },
+            {
+                "party": "NDP",
+                "score": 18.2
+            },
+            {
+                "party": "BQ",
+                "score": 7.6
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            }
+        ]
+    },
+    {
+        "n": 840,
+        "company": "Leger",
+        "date": "March 22-25, 2024",
+        "field": "2024-05-25",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "UCP",
+                "score": 47
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "ABP",
+                "score": 6
+            }
+        ]
     }
 ]
