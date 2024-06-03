@@ -138620,5 +138620,125 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "company": "Nanos",
+        "date": "May 31, 2024",
+        "field": "2024-05-31",
+        "method": "Telephone",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 16
+            },
+            {
+                "party": "CPC",
+                "score": 50.2
+            },
+            {
+                "party": "NDP",
+                "score": 27.6
+            },
+            {
+                "party": "GPC",
+                "score": 4.9
+            },
+            {
+                "party": "PPC",
+                "score": 1.5
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "May 31, 2024",
+        "field": "2024-05-31",
+        "method": "Telephone",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.4
+            },
+            {
+                "party": "CPC",
+                "score": 46.4
+            },
+            {
+                "party": "NDP",
+                "score": 14.8
+            },
+            {
+                "party": "GPC",
+                "score": 5.9
+            },
+            {
+                "party": "PPC",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "May 31, 2024",
+        "field": "2024-05-31",
+        "method": "Telephone",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.1
+            },
+            {
+                "party": "CPC",
+                "score": 20.2
+            },
+            {
+                "party": "NDP",
+                "score": 14.1
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "GPC",
+                "score": 5.1
+            },
+            {
+                "party": "PPC",
+                "score": 1.1
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "May 31, 2024",
+        "field": "2024-05-31",
+        "method": "Telephone",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38.3
+            },
+            {
+                "party": "CPC",
+                "score": 38.3
+            },
+            {
+                "party": "NDP",
+                "score": 19.6
+            },
+            {
+                "party": "PPC",
+                "score": 3.3
+            },
+            {
+                "party": "GPC",
+                "score": 0.6
+            }
+        ]
     }
 ]
