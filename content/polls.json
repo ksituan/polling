@@ -138740,5 +138740,125 @@
                 "score": 0.6
             }
         ]
+    },
+    {
+        "n": 219,
+        "moe": 6.6,
+        "company": "Narrative",
+        "date": "May 7-29, 2024",
+        "field": "2024-05-29",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 50
+            },
+            {
+                "party": "NSL",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPNS",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 225,
+        "moe": 6.5,
+        "company": "Narrative",
+        "date": "May 8-30, 2024",
+        "field": "2024-05-30",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 37
+            },
+            {
+                "party": "PCNB",
+                "score": 34
+            },
+            {
+                "party": "GPNB",
+                "score": 13
+            },
+            {
+                "party": "PANB",
+                "score": 1
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "n": 162,
+        "moe": 7.7,
+        "company": "Narrative",
+        "date": "May 5-29, 2024",
+        "field": "2024-05-29",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 42
+            },
+            {
+                "party": "LPPEI",
+                "score": 15
+            },
+            {
+                "party": "GPPEI",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 218,
+        "moe": 6.8,
+        "company": "Narrative",
+        "date": "May 7-29, 2024",
+        "field": "2024-05-29",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 38
+            },
+            {
+                "party": "PCNL",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
