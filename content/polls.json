@@ -138928,5 +138928,35 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1136,
+        "company": "Pallas",
+        "date": "June 4, 2024",
+        "field": "2024-06-04",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "OLP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "GPO",
+                "score": 8
+            }
+        ]
     }
 ]
