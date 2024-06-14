@@ -139028,5 +139028,36 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Probe",
+        "date": "May 28-Jun 9, 2024",
+        "field": "2024-06-06",
+        "method": "Telephone",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 51
+            },
+            {
+                "party": "MLP",
+                "score": 6
+            },
+            {
+                "party": "GPM",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
