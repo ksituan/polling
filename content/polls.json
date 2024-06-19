@@ -139726,5 +139726,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 844,
+        "company": "Navigator",
+        "date": "May 21-25 2024",
+        "field": "2024-05-25",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "BCU",
+                "score": 13
+            },
+            {
+                "party": "GPBC",
+                "score": 7
+            },
+            {
+                "party": "CPBC",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
