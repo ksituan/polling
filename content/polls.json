@@ -139791,5 +139791,35 @@
                 "score": 2.3
             }
         ]
+    },
+    {
+        "n": 800,
+        "company": "Research Co.",
+        "date": "June 19, 2024",
+        "field": "2024-06-19",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "BCU",
+                "score": 11
+            },
+            {
+                "party": "GPBC",
+                "score": 15
+            },
+            {
+                "party": "CPBC",
+                "score": 33
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
