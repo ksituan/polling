@@ -140289,5 +140289,83 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 3006,
+        "moe": 1.8,
+        "company": "EKOS",
+        "date": "May 22-Jun 11, 2024",
+        "field": "2024-06-11",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 818,
+        "moe": 3.4,
+        "company": "EKOS",
+        "date": "June 12-26, 2024",
+        "field": "2024-06-26",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
     }
 ]
