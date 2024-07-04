@@ -140701,5 +140701,27 @@
                 "score": 1.6
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Leger",
+        "date": "June 25-28, 2024",
+        "field": "2024-06-28",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 54
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
     }
 ]
