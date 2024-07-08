@@ -140723,5 +140723,36 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 1097,
+        "moe": 3,
+        "company": "Liaison",
+        "date": "June 26-27, 2024",
+        "field": "2024-06-27",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "BCU",
+                "score": 9
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
