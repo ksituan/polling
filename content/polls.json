@@ -140693,5 +140693,36 @@
                 "score": 2.6
             }
         ]
+    },
+    {
+        "n": 1048,
+        "moe": 3,
+        "company": "Mainstreet",
+        "date": "July 4-6, 2024",
+        "field": "2024-07-06",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "BCU",
+                "score": 10
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 37
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
