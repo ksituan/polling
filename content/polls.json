@@ -140993,5 +140993,57 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 938,
+        "company": "Pollara",
+        "date": "May 1-12, 2024",
+        "field": "2024-05-12",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "UCP",
+                "score": 44
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 972,
+        "company": "Pollara",
+        "date": "May 1-12, 2024",
+        "field": "2024-05-12",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15
+            },
+            {
+                "party": "CPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
     }
 ]
