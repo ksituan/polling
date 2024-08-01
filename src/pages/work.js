@@ -17,7 +17,7 @@ const work = () => (
     <h2>Experience</h2>
     <p className="dateText">2017-present</p>
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
-    <p className="dateText">2023-present</p>
+    <p className="dateText">2023-2024</p>
     <p><span className="colourfulText">Decision Desk HQ</span> Data Entry</p>
     <p className="dateText">2022-2024</p>
     <p><span className="colourfulText">Brock University, Dept. of Labour Studies</span> Research Assistant</p>
