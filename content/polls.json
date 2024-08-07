@@ -141697,5 +141697,27 @@
                 "score": 2.6
             }
         ]
+    },
+    {
+        "n": 596,
+        "company": "Insightrix",
+        "date": "July 23-26, 2024",
+        "field": "2024-06-26",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
     }
 ]
