@@ -141996,5 +141996,39 @@
                 "score": 2.7
             }
         ]
+    },
+    {
+        "n": 1005,
+        "company": "Leger",
+        "date": "August 2-5, 2024",
+        "field": "2024-08-05",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "UCP",
+                "score": 48
+            },
+            {
+                "party": "ALP",
+                "score": 3
+            },
+            {
+                "party": "ABP",
+                "score": 4
+            },
+            {
+                "party": "GPA",
+                "score": 3
+            },
+            {
+                "party": "WLC",
+                "score": 2
+            }
+        ]
     }
 ]
