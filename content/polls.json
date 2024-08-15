@@ -142030,5 +142030,36 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 350,
+        "moe": 5.3,
+        "company": "Narrative",
+        "date": "July 28-31, 2024",
+        "field": "2024-07-31",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 35.9
+            },
+            {
+                "party": "PCNB",
+                "score": 35.9
+            },
+            {
+                "party": "GPNB",
+                "score": 13.5
+            },
+            {
+                "party": "PANB",
+                "score": 4.9
+            },
+            {
+                "party": "NDP",
+                "score": 9.8
+            }
+        ]
     }
 ]
