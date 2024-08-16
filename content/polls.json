@@ -142091,5 +142091,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "August 14-16, 2024",
+        "field": "2024-08-16",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "BCU",
+                "score": 10
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 37
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
