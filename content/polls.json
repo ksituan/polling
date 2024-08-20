@@ -142156,5 +142156,233 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1001,
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17
+            },
+            {
+                "party": "CPC",
+                "score": 55
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 33
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "August 12-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "CPC",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
