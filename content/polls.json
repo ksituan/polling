@@ -142384,5 +142384,36 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 962,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "August 15-17, 2024",
+        "field": "2024-08-17",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "BCU",
+                "score": 12
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 39
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
