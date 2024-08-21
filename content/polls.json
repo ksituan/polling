@@ -142850,5 +142850,36 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 899,
+        "moe": 3.3,
+        "company": "Narrative",
+        "date": "Jul 31-Aug 18, 2024",
+        "field": "2024-08-18",
+        "method": "Telephone",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
     }
 ]
