@@ -142632,5 +142632,223 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1984,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 281,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 224,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15
+            },
+            {
+                "party": "CPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 132,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17
+            },
+            {
+                "party": "CPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+       "n": 773,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 433,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1984,
+        "company": "Abacus",
+        "date": "August 14-18, 2024",
+        "field": "2024-08-18",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
     }
 ]
