@@ -142899,8 +142899,12 @@
                 "score": 42
             },
             {
+                "party": "SUP",
+                "score": 5
+            },
+            {
                 "party": "Others",
-                "score": 8
+                "score": 4
             }
         ]
     }
