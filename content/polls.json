@@ -142881,5 +142881,27 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 715,
+        "company": "Angus Reid",
+        "date": "August 16-20, 2024",
+        "field": "2024-08-20",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "Others",
+                "score": 8
+            }
+        ]
     }
 ]
