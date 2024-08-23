@@ -142907,5 +142907,121 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 269,
+        "moe": 6,
+        "company": "Narrative",
+        "date": "Jul 31-Aug 14, 2024",
+        "field": "2024-08-14",
+        "method": "Telephone",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 53
+            },
+            {
+                "party": "NSL",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPNS",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 266,
+        "moe": 6,
+        "company": "Narrative",
+        "date": "Jul 31-Aug 17, 2024",
+        "field": "2024-08-17",
+        "method": "Telephone",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 44
+            },
+            {
+                "party": "PCNB",
+                "score": 33
+            },
+            {
+                "party": "GPNB",
+                "score": 17
+            },
+            {
+                "party": "PANB",
+                "score": 1
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 193,
+        "moe": 7.1,
+        "company": "Narrative",
+        "date": "August 15, 2024",
+        "field": "2024-08-15",
+        "method": "Telephone",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 45
+            },
+            {
+                "party": "LPPEI",
+                "score": 22
+            },
+            {
+                "party": "GPPEI",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 244,
+        "moe": 6.3,
+        "company": "Narrative",
+        "date": "August 6-16, 2024",
+        "field": "2024-08-16",
+        "method": "Telephone",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 43
+            },
+            {
+                "party": "PCNL",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
