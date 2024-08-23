@@ -143023,5 +143023,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 2008,
+        "company": "Counsel",
+        "date": "August 6-14, 2024",
+        "field": "2024-08-14",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "BCU",
+                "score": 12
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 35
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
