@@ -143088,5 +143088,73 @@
                 "score": 2.3
             }
         ]
+    },
+    {
+        "n": 1041,
+        "company": "Leger",
+        "date": "August 23-25, 2024",
+        "field": "2024-08-25",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 16
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 15
+            },
+            {
+                "party": "PCQ",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1041,
+        "company": "Leger",
+        "date": "August 23-25, 2024",
+        "field": "2024-08-25",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
