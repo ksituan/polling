@@ -143382,5 +143382,36 @@
                 "score": 10
             }
         ]
+    },
+    {
+        "n": 1300,
+        "moe": 2.7,
+        "company": "Liaison",
+        "date": "August 19-20, 2024",
+        "field": "2024-08-20",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "OLP",
+                "score": 27
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
