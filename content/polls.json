@@ -143727,5 +143727,35 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 1028,
+        "company": "Abacus",
+        "date": "August 14-17, 2024",
+        "field": "2024-08-17",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "OLP",
+                "score": 26
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "GPO",
+                "score": 8
+            }
+        ]
     }
 ]
