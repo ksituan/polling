@@ -143501,5 +143501,231 @@
                 "score": 2.4
             }
         ]
+    },
+    {
+        "n": 1237,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 160,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 122,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 12
+            },
+            {
+                "party": "CPC",
+                "score": 64
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 188,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 13.5
+            },
+            {
+                "party": "CPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 0.5
+            }
+        ]
+    },
+    {
+        "n": 339,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 318,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 42
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 105,
+        "company": "Angus Reid",
+        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "field": "2024-09-03",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
     }
 ]
