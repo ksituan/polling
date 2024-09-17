@@ -374,7 +374,7 @@ let brandColours = {
       <div>
         <div>
           <h2>{name + " trendlines"}</h2>
-          <div className="credit">Polling Canada / Prairie Heart{election.credit && " / " + election.credit}</div>
+          <div className="credit">Polling Canada / Alex McPhee{election.credit && " / " + election.credit}</div>
         </div>
         <PartyList todaysAverage={todaysAverage} relevantParties={relevantParties} election={election} />
         <Scatterplot polls={livePolls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />

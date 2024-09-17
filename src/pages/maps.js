@@ -20,7 +20,7 @@ const maps = () => (
   <Layout>
     <Seo title="Maps"  description="Election map gallery" />
     <h1>Election Maps</h1>
-    <p>Can't wait for the next election? Polling Canada is pleased to host a variety of unique election maps designed by our trusty staff cartographer, <a href="https://www.awmcphee.ca" target="_blank" rel="noreferrer">Alex McPhee</a>.</p>
+    <p>Can't wait for the next election? Polling Canada is pleased to host a variety of unique election maps designed by our trusty staff cartographer, <a href="https://pronghornmaps.com" target="_blank" rel="noreferrer">Alex McPhee</a>.</p>
     <h2>Do It Yourself</h2>
     <p>Make your own election predictions with PC DIY, our in-house map painting app.</p>
     <div className="diyContainer">
@@ -57,7 +57,7 @@ const maps = () => (
     </div>
     <h2>Shop</h2>
     <div className="cart">
-    <p>Willing to pay $50 for a 36" satin art print of your favourite election? You may be in luck very soon. <a href="https://forms.gle/eCnu78tenNvY5MjC8" target="_blank" rel="noreferrer">Leave your name on our contact list.</a></p>
+    <p>Has it been a while since you scrolled to the bottom of this page? Prints of these maps are finally for sale <a href="https://pronghornmaps.com/commons" target="_blank" rel="noreferrer">here!!!</a></p>
     </div>
   </Layout>
 )

@@ -92,7 +92,7 @@ const IndexPage = ({pageContext, data}) => (
         <StaticImage src="../images/name_game.png" alt="A screenshot of the MP Name Game" />
         <p>MP Name Game</p>
       </Link>
-      <a className="gameCard" href="https://awmcphee.ca/game" target="_blank" rel="noreferrer">
+      <a className="gameCard" href="https://pronghornmaps.com/census-game" target="_blank" rel="noreferrer">
         <StaticImage src="../images/census_game.png" alt="A screenshot of Alex's Census Game" />
         <p>Alex's Census Game</p>
       </a>
