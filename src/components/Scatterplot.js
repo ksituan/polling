@@ -1,4 +1,5 @@
 import * as React from "react"
+import parties from "../../content/parties.json";
 
 function PollID(poll) {
     let id = poll.company.toLowerCase().replace(" ","-").replace(".","") + "-" + poll.field;
@@ -136,6 +137,10 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
         }
 
         // Also have to manually cut off certain parties
+
+        if (parties[jurisdiction][party].end) {
+          positions = positions.filter(sample => sample <= xMap(new Date(parties[jurisdiction][party].end)));
+        }
 
         if (['PCA','WRP'].includes(party)) {
           positions = positions.filter(sample => sample <= xMap(new Date("2017-07-22")));
