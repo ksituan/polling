@@ -78,8 +78,8 @@ const IndexPage = ({pageContext, data}) => (
     {/* <h1>Sovereignty</h1>
     <Sovereignty polls={data[`pollsSovereignty`]} election={data[`electionSovereignty`].nodes[0]} /> */}
 
-    <h1>Election Calendar</h1>
-    <Calendar />
+    {/* <h1>Election Calendar</h1>
+    <Calendar /> */}
 
     <h1>About</h1>
     <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. now enjoys 80,000 followers across multiple platforms, with millions of views every month.</p>
