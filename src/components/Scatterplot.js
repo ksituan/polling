@@ -138,16 +138,8 @@ function Scatterplot({polls, jurisdiction, election, nextElection, validParties,
 
         // Also have to manually cut off certain parties
 
-        if (parties[jurisdiction][party].end) {
-          positions = positions.filter(sample => sample <= xMap(new Date(parties[jurisdiction][party].end)));
-        }
-
-        if (['PCA','WRP'].includes(party)) {
-          positions = positions.filter(sample => sample <= xMap(new Date("2017-07-22")));
-        }
-
-        if (['SMA','WIP'].includes(party)) { // Shitlist
-          positions = []
+        if (parties.content[jurisdiction][party].end) {
+          positions = positions.filter(sample => sample <= xMap(new Date(parties.content[jurisdiction][party].end)));
         }
 
         for (let sample of positions) {
