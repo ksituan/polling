@@ -142841,5 +142841,28 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 729,
+        "moe": 3.3,
+        "company": "Mainstreet",
+        "date": "September 14-17, 2024",
+        "field": "2024-09-17",
+        "method": "IVR",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "Others",
+                "score": 11
+            }
+        ]
     }
 ]
