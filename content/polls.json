@@ -142864,5 +142864,36 @@
                 "score": 10
             }
         ]
+    },
+    {
+        "n": 764,
+        "moe": 3.5,
+        "company": "Mainstreet",
+        "date": "Sepetember 16-17, 2024",
+        "field": "2024-09-17",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
