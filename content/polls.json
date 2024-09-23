@@ -143050,5 +143050,31 @@
                 "score": 1.2
             }
         ]
+    },
+    {
+        "n": 2008,
+        "company": "Counsel",
+        "date": "September 4-9, 2024",
+        "field": "2024-09-09",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 40
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
