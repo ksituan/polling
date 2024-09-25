@@ -143538,5 +143538,31 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1215,
+        "company": "Angus Reid",
+        "date": "September 20-22, 2024",
+        "field": "2024-09-22",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 44
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
