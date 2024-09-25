@@ -143513,7 +143513,29 @@
             },
             {
                 "party": "Others",
-                "score": 4.7
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 806,
+        "company": "Insightrix",
+        "date": "September 10-12, 2024",
+        "field": "2024-09-12",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 48
+            },
+            {
+                "party": "Others",
+                "score": 3
             }
         ]
     }
