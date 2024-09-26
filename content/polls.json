@@ -143564,5 +143564,31 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1001,
+        "company": "Leger",
+        "date": "September 20-23, 2024",
+        "field": "2024-09-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
