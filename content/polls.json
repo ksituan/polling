@@ -143893,5 +143893,32 @@
                 "score": 4.9
             }
         ]
+    },
+    {
+        "n": 1247,
+        "moe": 2.6,
+        "company": "Mainstreet",
+        "date": "September 25-27, 2024",
+        "field": "2024-09-27",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41.9
+            },
+            {
+                "party": "GPBC",
+                "score": 9.9
+            },
+            {
+                "party": "CPBC",
+                "score": 44.3
+            },
+            {
+                "party": "Others",
+                "score": 4.9
+            }
+        ]
     }
 ]
