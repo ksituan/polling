@@ -19,6 +19,8 @@ let brandColours = {
     "gray" : "#ddd",
 }
 
+const partylist = parties;
+
 function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, className}) {
 
     let padding = 10;
@@ -115,6 +117,16 @@ function DashChart({polls, jurisdiction, election, plotWidth, plotHeight, classN
             let firstAppearance = Math.min.apply(null, appearances);
 
             positions = positions.filter(sample => sample >= firstAppearance);
+        }
+
+        // Also have to manually cut off certain parties
+
+        const j = jurisdiction.split("_")[0];
+
+        if (partylist.content) {
+        if (Object.hasOwn(partylist?.content[j][party], "end")) {
+            positions = positions.filter(sample => sample <= xMap(new Date(partylist.content[j][party].end)));
+        }
         }
 
         for (const sample of positions) {
