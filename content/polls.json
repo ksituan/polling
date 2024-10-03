@@ -144171,7 +144171,7 @@
         "moe": 2.6,
         "company": "Mainstreet",
         "date": "September 27-29, 2024",
-        "field": "2024-09-28",
+        "field": "2024-09-29",
         "method": "IVR",
         "jurisdiction": "BC",
         "poll": [
@@ -144396,6 +144396,94 @@
             {
                 "party": "CPBC",
                 "score": 44
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 727,
+        "company": "Angus Reid",
+        "date": "September 12-18, 2024",
+        "field": "2024-09-18",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "OLP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 1553,
+        "moe": 2.5,
+        "company": "Cardinal",
+        "date": "September 17-28, 2024",
+        "field": "2024-09-28",
+        "method": "Telephone",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "UCP",
+                "score": 50
+            },
+            {
+                "party": "ABP",
+                "score": 1
+            },
+            {
+                "party": "GPA",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1247,
+        "moe": 2.8,
+        "company": "Mainstreet",
+        "date": "Sept 30-Oct 2, 2024",
+        "field": "2024-10-02",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 43
             },
             {
                 "party": "Others",
