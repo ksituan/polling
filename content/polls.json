@@ -145059,5 +145059,31 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1002,
+        "company": "Leger",
+        "date": "October 3-7, 2024",
+        "field": "2024-10-07",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "GPBC",
+                "score": 9
+            },
+            {
+                "party": "CPBC",
+                "score": 42
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
