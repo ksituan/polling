@@ -145085,5 +145085,66 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1159,
+        "moe": 2.9,
+        "company": "Mainstreet",
+        "date": "October 7-8, 2024",
+        "field": "2024-10-08",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 42
+            },
+            {
+                "party": "GPBC",
+                "score": 9
+            },
+            {
+                "party": "CPBC",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 1036,
+        "company": "Leger",
+        "date": "October 4-6, 2024",
+        "field": "2024-10-06",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 17
+            },
+            {
+                "party": "PQ",
+                "score": 32
+            },
+            {
+                "party": "QS",
+                "score": 14
+            },
+            {
+                "party": "PCQ",
+                "score": 12
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
