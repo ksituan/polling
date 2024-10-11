@@ -145494,5 +145494,31 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 795,
+        "company": "Ipsos",
+        "date": "October 9-10, 2024",
+        "field": "2024-10-10",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 41
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
