@@ -144379,10 +144379,11 @@
         ]
     },
     {
+        "n": 400,
         "company": "Pollara",
         "date": "September 30, 2024",
         "field": "2024-09-30",
-        "method": "Online",
+        "method": "Online/IVR",
         "jurisdiction": "BC",
         "poll": [
             {
@@ -145390,6 +145391,107 @@
             {
                 "party": "PPC",
                 "score": 4
+            }
+        ]
+    },
+    {
+        "n": 2009,
+        "company": "Counsel",
+        "date": "October 1-7, 2024",
+        "field": "2024-10-07",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 47
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 40
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "company": "Research Co",
+        "date": "October 7-9, 2024",
+        "field": "2024-10-09",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 918,
+        "moe": 3.2,
+        "company": "Mainstreet",
+        "date": "October 9-10, 2024",
+        "field": "2024-10-10",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 800,
+        "company": "Pollara",
+        "date": "October 4-7, 2024",
+        "field": "2024-10-07",
+        "method": "Online/IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 41
+            },
+            {
+                "party": "Others",
+                "score": 5
             }
         ]
     }
