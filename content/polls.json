@@ -145281,7 +145281,7 @@
     "moe": 2.8,
     "company": "Mainstreet",
     "date": "October 11-12, 2024",
-    "field": "2024-10-07",
+    "field": "2024-10-12",
     "method": "IVR",
     "jurisdiction": "BC",
     "poll": [
@@ -145300,6 +145300,142 @@
         {
             "party": "Others",
             "score": 5
+        }
+    ]
+},
+{
+
+    "n": 699,
+    "moe": 3.7,
+    "company": "Pallas",
+    "date": "October 12, 2024",
+    "field": "2024-10-12",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 42
+        },
+        {
+            "party": "GPBC",
+            "score": 14
+        },
+        {
+            "party": "CPBC",
+            "score": 41
+        },
+        {
+            "party": "Others",
+            "score": 4
+        }
+    ]
+},
+{
+    "n": 1360,
+    "moe": 2.7,
+    "company": "Mainstreet",
+    "date": "October 10-11, 2024",
+    "field": "2024-10-11",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 40
+        },
+        {
+            "party": "GPBC",
+            "score": 10
+        },
+        {
+            "party": "CPBC",
+            "score": 45
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
+},
+{
+    "n": 918,
+    "moe": 3.2,
+    "company": "Mainstreet",
+    "date": "October 9-10, 2024",
+    "field": "2024-10-10",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 39
+        },
+        {
+            "party": "GPBC",
+            "score": 12
+        },
+        {
+            "party": "CPBC",
+            "score": 45
+        },
+        {
+            "party": "Others",
+            "score": 4
+        }
+    ]
+},
+{
+    "n": 1035,
+    "moe": 3.1,
+    "company": "Mainstreet",
+    "date": "October 8-9, 2024",
+    "field": "2024-10-09",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 41
+        },
+        {
+            "party": "GPBC",
+            "score": 11
+        },
+        {
+            "party": "CPBC",
+            "score": 44
+        },
+        {
+            "party": "Others",
+            "score": 4
+        }
+    ]
+},
+{
+    "n": 1159,
+    "moe": 2.9,
+    "company": "Mainstreet",
+    "date": "October 7-8, 2024",
+    "field": "2024-10-08",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 42
+        },
+        {
+            "party": "GPBC",
+            "score": 9
+        },
+        {
+            "party": "CPBC",
+            "score": 45
+        },
+        {
+            "party": "Others",
+            "score": 4
         }
     ]
 }
