@@ -145464,5 +145464,92 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 5018,
+    "company": "Campaign",
+    "date": "October 9, 2024",
+    "field": "2024-10-09",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 41
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "BQ",
+            "score": 8
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 1038,
+    "moe": 3.1,
+    "company": "Mainstreet",
+    "date": "October 13-14, 2024",
+    "field": "2024-10-14",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 39
+        },
+        {
+            "party": "GPBC",
+            "score": 12
+        },
+        {
+            "party": "CPBC",
+            "score": 44
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
+},
+{
+    "n": 800,
+    "company": "Research Co.",
+    "date": "October 12-14, 2024",
+    "field": "2024-10-14",
+    "method": "Online",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 45
+        },
+        {
+            "party": "GPBC",
+            "score": 1
+        },
+        {
+            "party": "CPBC",
+            "score": 41
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
 }
 ]
