@@ -145732,5 +145732,43 @@
             "score": 7
         }
     ]
+},
+{
+    "n": 800,
+    "company": "Janet Brown",
+    "date": "Sep. 23-Oct. 3, 2024",
+    "field": "2024-10-03",
+    "method": "Telephone",
+    "jurisdiction": "SK",
+    "poll": [
+        {
+            "party": "SKP",
+            "score": 49
+        },
+        {
+            "party": "NDP",
+            "score": 44
+        },
+        {
+            "party": "PCS",
+            "score": 3
+        },
+        {
+            "party": "SGP",
+            "score": 1
+        },
+        {
+            "party": "SLP",
+            "score": 1
+        },
+        {
+            "party": "SUP",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 0
+        }
+    ]
 }
 ]
