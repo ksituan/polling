@@ -145770,5 +145770,59 @@
             "score": 0
         }
     ]
+},
+{
+    "n": 1517,
+    "moe": 2.5,
+    "company": "Mainstreet",
+    "date": "October 15-16, 2024",
+    "field": "2024-10-16",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 40
+        },
+        {
+            "party": "GPBC",
+            "score": 12
+        },
+        {
+            "party": "CPBC",
+            "score": 43
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
+},
+{
+    "n": 1220,
+    "moe": 2.8,
+    "company": "Mainstreet",
+    "date": "October 14-15, 2024",
+    "field": "2024-10-15",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 40
+        },
+        {
+            "party": "GPBC",
+            "score": 11
+        },
+        {
+            "party": "CPBC",
+            "score": 44
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
 }
 ]
