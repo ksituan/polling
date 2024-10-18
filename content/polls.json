@@ -145772,38 +145772,11 @@
     ]
 },
 {
-    "n": 803,
-    "moe": 3.5,
-    "company": "Liaison",
-    "date": "October 16-17, 2024",
-    "field": "2024-10-17",
-    "method": "IVR",
-    "jurisdiction": "BC",
-    "poll": [
-        {
-            "party": "NDP",
-            "score": 43
-        },
-        {
-            "party": "GPBC",
-            "score": 10
-        },
-        {
-            "party": "CPBC",
-            "score": 45
-        },
-        {
-            "party": "Others",
-            "score": 3
-        }
-    ]
-},
-{
-    "n": 1651,
-    "moe": 2.4,
+    "n": 1517,
+    "moe": 2.5,
     "company": "Mainstreet",
-    "date": "October 16-17, 2024",
-    "field": "2024-10-17",
+    "date": "October 15-16, 2024",
+    "field": "2024-10-16",
     "method": "IVR",
     "jurisdiction": "BC",
     "poll": [
@@ -145817,33 +145790,60 @@
         },
         {
             "party": "CPBC",
-            "score": 45
+            "score": 43
         },
         {
             "party": "Others",
-            "score": 4
+            "score": 5
         }
     ]
 },
 {
-    "n": 1330,
-    "company": "Ipsos",
-    "date": "October 16-18, 2024",
-    "field": "2024-10-18",
+    "n": 1220,
+    "moe": 2.8,
+    "company": "Mainstreet",
+    "date": "October 14-15, 2024",
+    "field": "2024-10-15",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 40
+        },
+        {
+            "party": "GPBC",
+            "score": 11
+        },
+        {
+            "party": "CPBC",
+            "score": 44
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
+},
+{
+    "n": 1017,
+    "company": "Leger",
+    "date": "October 14-15, 2024",
+    "field": "2024-10-15",
     "method": "Online",
     "jurisdiction": "BC",
     "poll": [
         {
             "party": "NDP",
-            "score": 44
+            "score": 46
+        },
+        {
+            "party": "GPBC",
+            "score": 9
         },
         {
             "party": "CPBC",
             "score": 42
-        },
-        {
-            "party": "GPBC",
-            "score": 11
         },
         {
             "party": "Others",
