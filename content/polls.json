@@ -145956,5 +145956,31 @@
             "score": 7
         }
     ]
+},
+{
+    "n": 1002,
+    "company": "Abacus",
+    "date": "Jul. 29-Aug. 11, 2024",
+    "field": "2024-08-11",
+    "method": "Online",
+    "jurisdiction": "SK",
+    "poll": [
+        {
+            "party": "SKP",
+            "score": 51
+        },
+        {
+            "party": "NDP",
+            "score": 38
+        },
+        {
+            "party": "SUP",
+            "score": 6
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
 }
 ]
