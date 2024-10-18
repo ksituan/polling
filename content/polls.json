@@ -145930,5 +145930,31 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 400,
+    "company": "Spark",
+    "date": "October 9-14, 2024",
+    "field": "2024-10-14",
+    "method": "Online",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 42
+        },
+        {
+            "party": "CPBC",
+            "score": 40
+        },
+        {
+            "party": "GPBC",
+            "score": 12
+        },
+        {
+            "party": "Others",
+            "score": 7
+        }
+    ]
 }
 ]
