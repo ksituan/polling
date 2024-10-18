@@ -145824,5 +145824,31 @@
             "score": 5
         }
     ]
+},
+{
+    "n": 1017,
+    "company": "Leger",
+    "date": "October 14-15, 2024",
+    "field": "2024-10-15",
+    "method": "Online",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 46
+        },
+        {
+            "party": "GPBC",
+            "score": 9
+        },
+        {
+            "party": "CPBC",
+            "score": 42
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
