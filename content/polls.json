@@ -146036,5 +146036,31 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 753,
+    "company": "Research Co.",
+    "date": "October 17-18, 2024",
+    "field": "2024-10-18",
+    "method": "Online",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 44
+        },
+        {
+            "party": "GPBC",
+            "score": 12
+        },
+        {
+            "party": "CPBC",
+            "score": 41
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
