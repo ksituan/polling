@@ -146062,5 +146062,36 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 724,
+    "moe": 3.6,
+    "company": "Mainstreet",
+    "date": "October 17-19, 2024",
+    "field": "2024-10-19",
+    "method": "IVR",
+    "jurisdiction": "NB",
+    "poll": [
+        {
+            "party": "NBLA",
+            "score": 48
+        },
+        {
+            "party": "PCNB",
+            "score": 38
+        },
+        {
+            "party": "GPNB",
+            "score": 10
+        },
+        {
+            "party": "PANB",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
