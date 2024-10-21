@@ -146093,5 +146093,40 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 2428,
+    "moe": 3,
+    "company": "Forum",
+    "date": "October 18-20, 2024",
+    "field": "2024-10-20",
+    "method": "IVR",
+    "jurisdiction": "NB",
+    "poll": [
+        {
+            "party": "NBLA",
+            "score": 46
+        },
+        {
+            "party": "PCNB",
+            "score": 37
+        },
+        {
+            "party": "GPNB",
+            "score": 11
+        },
+        {
+            "party": "PANB",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 2
+        },
+        {
+            "party": "NDP",
+            "score": 2
+        }
+    ]
 }
 ]
