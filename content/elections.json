@@ -2195,6 +2195,36 @@
         "jurisdiction": "NB"
     },
     {
+        "date": "2024-10-22",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 0.9
+            },
+            {
+                "party": "PCNB",
+                "score": 35
+            },
+            {
+                "party": "GPNB",
+                "score": 13.8
+            },
+            {
+                "party": "NBLA",
+                "score": 48.2
+            },
+            {
+                "party": "PANB",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ],
+        "jurisdiction": "NB"
+    }
+    {
         "date": "2007-05-28",
         "results": [
             {
