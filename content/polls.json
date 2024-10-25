@@ -146328,5 +146328,31 @@
             "score": 8
         }
     ]
+},
+{
+    "n": 413,
+    "company": "Research Co.",
+    "date": "October 7-9, 2024",
+    "field": "2024-10-09",
+    "method": "Online",
+    "jurisdiction": "SK",
+    "poll": [
+        {
+            "party": "SKP",
+            "score": 51
+        },
+        {
+            "party": "NDP",
+            "score": 43
+        },
+        {
+            "party": "Others",
+            "score": 2
+        },
+        {
+            "party": "GPS",
+            "score": 3
+        }
+    ]
 }
 ]
