@@ -146377,5 +146377,28 @@
             "score": 6
         }
     ]
+},
+{
+    "n": 729,
+    "moe": 3.6,
+    "company": "Liaison",
+    "date": "October 24-25, 2024",
+    "field": "2024-10-25",
+    "method": "IVR",
+    "jurisdiction": "SK",
+    "poll": [
+        {
+            "party": "SKP",
+            "score": 46
+        },
+        {
+            "party": "NDP",
+            "score": 49
+        },
+        {
+            "party": "Others",
+            "score": 5
+        }
+    ]
 }
 ]
