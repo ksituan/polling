@@ -145764,10 +145764,6 @@
         {
             "party": "SUP",
             "score": 1
-        },
-        {
-            "party": "Others",
-            "score": 0
         }
     ]
 },
@@ -146398,6 +146394,37 @@
         {
             "party": "Others",
             "score": 5
+        }
+    ]
+},
+{
+    "n": 798,
+    "moe": 3.5,
+    "company": "Cardinal",
+    "date": "October 9-24, 2024",
+    "field": "2024-10-24",
+    "method": "Telephone",
+    "jurisdiction": "SK",
+    "poll": [
+        {
+            "party": "SKP",
+            "score": 49.4
+        },
+        {
+            "party": "NDP",
+            "score": 43.4
+        },
+        {
+            "party": "Others",
+            "score": 2.9
+        },
+        {
+            "party": "SUP",
+            "score": 3
+        },
+        {
+            "party": "BUF",
+            "score": 1.3
         }
     ]
 }
