@@ -141488,7 +141488,7 @@
     {
         "n": 1237,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada",
@@ -141526,7 +141526,7 @@
     {
         "n": 160,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_BC",
@@ -141556,7 +141556,7 @@
     {
         "n": 122,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_AB",
@@ -141586,7 +141586,7 @@
     {
         "n": 188,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_SKMB",
@@ -141616,7 +141616,7 @@
     {
         "n": 339,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_ON",
@@ -141650,7 +141650,7 @@
     {
         "n": 318,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_QC",
@@ -141684,7 +141684,7 @@
     {
         "n": 105,
         "company": "Angus Reid",
-        "date": "Aug 29-Sep. 3, 2024, 2024",
+        "date": "Aug 29-Sep. 3, 2024",
         "field": "2024-09-03",
         "method": "Online",
         "jurisdiction": "Canada_ATL",
@@ -146665,6 +146665,232 @@
         {
             "party": "Others",
             "score": 5
+        }
+    ]
+},
+{
+    "n": 1442,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 43
+        },
+        {
+            "party": "NDP",
+            "score": 20
+        },
+        {
+            "party": "BQ",
+            "score": 10
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 206,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 47
+        },
+        {
+            "party": "NDP",
+            "score": 25
+        },
+        {
+            "party": "GPC",
+            "score": 6
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 122,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 11
+        },
+        {
+            "party": "CPC",
+            "score": 59
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 6
+        }
+    ]
+},
+{
+    "n": 128,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 57.5
+        },
+        {
+            "party": "NDP",
+            "score": 23.5
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 398,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 25
+        },
+        {
+            "party": "CPC",
+            "score": 47
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 311,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 18
+        },
+        {
+            "party": "CPC",
+            "score": 22
+        },
+        {
+            "party": "NDP",
+            "score": 13
+        },
+        {
+            "party": "BQ",
+            "score": 43
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 140,
+    "company": "Angus Reid",
+    "date": "October 24-26, 2024",
+    "field": "2024-10-26",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 37
+        },
+        {
+            "party": "CPC",
+            "score": 42
+        },
+        {
+            "party": "NDP",
+            "score": 16
+        },
+        {
+            "party": "Others",
+            "score": 1
+        },
+        {
+            "party": "GPC",
+            "score": 4
         }
     ]
 }
