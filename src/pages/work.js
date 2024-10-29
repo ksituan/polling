@@ -15,6 +15,8 @@ const work = () => (
     <h2>Background</h2>
     <p>I'm Curtis Fric, a social media manager with data, community, and Canadian politics experience. All over the country, campaigns promote me when they're ahead, and ignore me when they're behind. Perhaps you're looking to hire me?</p>
     <h2>Experience</h2>
+    <p className="dateText">2024-present</p>
+    <p><span className="colourfulText">Cardinal Research</span> Lead Researcher</p>
     <p className="dateText">2017-present</p>
     <p><span className="colourfulText">Polling Canada</span> Owner & Operator</p>
     <p className="dateText">2023-2024</p>

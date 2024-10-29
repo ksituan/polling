@@ -1503,6 +1503,36 @@
         "jurisdiction": "SK"
     },
     {
+        "date": "2024-10-29",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 39.5
+            },
+            {
+                "party": "SKP",
+                "score": 53.0
+            },
+            {
+                "party": "GPS",
+                "score": 1.8
+            },
+            {
+                "party": "SPP",
+                "score": 0.2
+            },
+            {
+                "party": "BPS",
+                "score": 0.8
+            },
+            {
+                "party": "PCS",
+                "score": 1.0
+            }
+        ],
+        "jurisdiction": "SK"
+    },
+    {
         "date": "2007-05-22",
         "results": [
             {
