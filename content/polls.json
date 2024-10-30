@@ -146951,5 +146951,33 @@
             "score": 2.2
         }
     ]
+},
+{
+
+    "n": 712,
+    "moe": 3.7,
+    "company": "Pallas",
+    "date": "October 16-17, 2024",
+    "field": "2024-10-17",
+    "method": "IVR",
+    "jurisdiction": "BC",
+    "poll": [
+        {
+            "party": "NDP",
+            "score": 45
+        },
+        {
+            "party": "GPBC",
+            "score": 9
+        },
+        {
+            "party": "CPBC",
+            "score": 42
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
