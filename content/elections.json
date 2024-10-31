@@ -1507,11 +1507,11 @@
         "results": [
             {
                 "party": "NDP",
-                "score": 39.5
+                "score": 40.2
             },
             {
                 "party": "SKP",
-                "score": 53.0
+                "score": 52.5
             },
             {
                 "party": "GPS",
@@ -1528,6 +1528,10 @@
             {
                 "party": "PCS",
                 "score": 1.0
+            },
+            {
+                "party": "SUP",
+                "score": 3.9
             }
         ],
         "jurisdiction": "SK"
