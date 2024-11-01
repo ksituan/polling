@@ -147010,5 +147010,222 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 1340,
+    "moe": 2.7,
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 25
+        },
+        {
+            "party": "CPC",
+            "score": 37
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "BQ",
+            "score": 9
+        },
+        {
+            "party": "GPC",
+            "score": 6
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 13
+        },
+        {
+            "party": "CPC",
+            "score": 47
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "GPC",
+            "score": 13
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 49
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 43
+        },
+        {
+            "party": "CPC",
+            "score": 34
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 27
+        },
+        {
+            "party": "CPC",
+            "score": 40
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 23
+        },
+        {
+            "party": "NDP",
+            "score": 10
+        },
+        {
+            "party": "BQ",
+            "score": 38
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+   "company": "EKOS",
+    "date": "October 21-30, 2024",
+    "field": "2024-10-30",
+    "method": "IVR",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 32
+        },
+        {
+            "party": "CPC",
+            "score": 31
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "PPC",
+            "score": 6
+        },
+        {
+            "party": "GPC",
+            "score": 9
+        }
+    ]
 }
 ]
