@@ -147404,5 +147404,32 @@
             "score": 0.7
         }
     ]
+},
+{
+    "n": 635,
+    "moe": 3.9,
+    "company": "Mainstreet",
+    "date": "November 1-2, 2024",
+    "field": "2024-11-02",
+    "method": "IVR",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 50
+        },
+        {
+            "party": "NSL",
+            "score": 22
+        },
+        {
+            "party": "NDP",
+            "score": 25
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
