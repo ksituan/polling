@@ -147431,5 +147431,227 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 1284,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 26
+        },
+        {
+            "party": "CPC",
+            "score": 42
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "BQ",
+            "score": 9
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 184,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 49
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "GPC",
+            "score": 6
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 149,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 50
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 79,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 53
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "PPC",
+            "score": 4
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 484,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 28
+        },
+        {
+            "party": "CPC",
+            "score": 48
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "GPC",
+            "score": 6
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 303,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 25
+        },
+        {
+            "party": "NDP",
+            "score": 9
+        },
+        {
+            "party": "BQ",
+            "score": 36
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 87,
+    "company": "Leger",
+    "date": "November 1-3, 2024",
+    "field": "2024-11-03",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 39
+        },
+        {
+            "party": "CPC",
+            "score": 35
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        }
+    ]
 }
 ]
