@@ -1507,11 +1507,11 @@
         "results": [
             {
                 "party": "NDP",
-                "score": 40.2
+                "score": 40.4
             },
             {
                 "party": "SKP",
-                "score": 52.5
+                "score": 52.3
             },
             {
                 "party": "GPS",
@@ -1523,7 +1523,7 @@
             },
             {
                 "party": "BPS",
-                "score": 0.8
+                "score": 0.7
             },
             {
                 "party": "PCS",
