@@ -148056,5 +148056,31 @@
             "score": 0.5
         }
     ]
+},
+{
+    "n": 303,
+    "company": "MQO",
+    "date": "November 3-10, 2024",
+    "field": "2024-11-10",
+    "method": "Online",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 47
+        },
+        {
+            "party": "NSL",
+            "score": 20
+        },
+        {
+            "party": "NDP",
+            "score": 24
+        },
+        {
+            "party": "GPNS",
+            "score": 7
+        }
+    ]
 }
 ]
