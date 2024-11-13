@@ -148295,5 +148295,98 @@
             "score": 9
         }
     ]
+},
+{
+    "company": "Leger",
+    "date": "November 8-11, 2024",
+    "field": "2024-11-11",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 24
+        },
+        {
+            "party": "NDP",
+            "score": 13
+        },
+        {
+            "party": "BQ",
+            "score": 35
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 1010,
+    "company": "Leger",
+    "date": "November 8-11, 2024",
+    "field": "2024-11-11",
+    "method": "Online",
+    "jurisdiction": "QC",
+    "poll": [
+        {
+            "party": "CAQ",
+            "score": 21
+        },
+        {
+            "party": "PLQ",
+            "score": 17
+        },
+        {
+            "party": "PQ",
+            "score": 35
+        },
+        {
+            "party": "QS",
+            "score": 13
+        },
+        {
+            "party": "PCQ",
+            "score": 11
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 600,
+    "company": "Abacus",
+    "date": "November 7-10, 2024",
+    "field": "2024-11-10",
+    "method": "Online",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 47
+        },
+        {
+            "party": "NSL",
+            "score": 25
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPNS",
+            "score": 4
+        }
+    ]
 }
 ]
