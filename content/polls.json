@@ -148457,5 +148457,36 @@
             "score": 1.6
         }
     ]
+},
+{
+    "n": 526,
+    "moe": 4.3,
+    "company": "Narrative",
+    "date": "November 4-17, 2024",
+    "field": "2024-11-17",
+    "method": "Telephone",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 44
+        },
+        {
+            "party": "NSL",
+            "score": 24
+        },
+        {
+            "party": "NDP",
+            "score": 28
+        },
+        {
+            "party": "GPNS",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
 }
 ]
