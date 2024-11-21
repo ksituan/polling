@@ -148706,5 +148706,36 @@
             "score": 1
         }
     ]
+},
+{
+    "n": 799,
+    "moe": 3.5,
+    "company": "Cardinal",
+    "date": "November 7-15, 2024",
+    "field": "2024-11-15",
+    "method": "Telephone",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 48
+        },
+        {
+            "party": "NSL",
+            "score": 26
+        },
+        {
+            "party": "NDP",
+            "score": 20
+        },
+        {
+            "party": "GPNS",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
 }
 ]
