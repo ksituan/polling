@@ -148488,5 +148488,223 @@
             "score": 1
         }
     ]
+},
+{
+    "n": 1662,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 43
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "BQ",
+            "score": 8
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 232,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 15
+        },
+        {
+            "party": "CPC",
+            "score": 42
+        },
+        {
+            "party": "NDP",
+            "score": 33
+        },
+        {
+            "party": "GPC",
+            "score": 10
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 142,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 13
+        },
+        {
+            "party": "CPC",
+            "score": 60
+        },
+        {
+            "party": "NDP",
+            "score": 22
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 107,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 17
+        },
+        {
+            "party": "CPC",
+            "score": 55
+        },
+        {
+            "party": "NDP",
+            "score": 24
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 656,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 47
+        },
+        {
+            "party": "NDP",
+            "score": 20
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        }
+    ]
+},
+{
+    "n": 365,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 23
+        },
+        {
+            "party": "NDP",
+            "score": 12
+        },
+        {
+            "party": "BQ",
+            "score": 36
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 78,
+    "company": "Abacus",
+    "date": "November 14-19, 2024",
+    "field": "2024-11-19",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 29
+        },
+        {
+            "party": "CPC",
+            "score": 40
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
 }
 ]
