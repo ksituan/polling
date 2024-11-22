@@ -148737,5 +148737,31 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 392,
+    "company": "MQO",
+    "date": "November 14-20, 2024",
+    "field": "2024-11-20",
+    "method": "Online/Telephone",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 51
+        },
+        {
+            "party": "NSL",
+            "score": 22
+        },
+        {
+            "party": "NDP",
+            "score": 24
+        },
+        {
+            "party": "GPNS",
+            "score": 2
+        }
+    ]
 }
 ]
