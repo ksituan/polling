@@ -148763,5 +148763,31 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 645,
+    "company": "Abacus",
+    "date": "November 21-23, 2024",
+    "field": "2024-11-23",
+    "method": "Online",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 48
+        },
+        {
+            "party": "NSL",
+            "score": 22
+        },
+        {
+            "party": "NDP",
+            "score": 28
+        },
+        {
+            "party": "GPNS",
+            "score": 1
+        }
+    ]
 }
 ]
