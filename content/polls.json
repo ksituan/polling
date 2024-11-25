@@ -149004,5 +149004,36 @@
             "score": 4
         }
     ]
+},
+{
+    "n": 602,
+    "moe": 4,
+    "company": "Liaison",
+    "date": "November 23-24, 2024",
+    "field": "2024-11-24",
+    "method": "IVR",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 51
+        },
+        {
+            "party": "NSL",
+            "score": 20
+        },
+        {
+            "party": "NDP",
+            "score": 25
+        },
+        {
+            "party": "GPNS",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
 }
 ]
