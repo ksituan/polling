@@ -148792,11 +148792,10 @@
 },
 {
     "n": 1097,
-    "moe": 3,
     "company": "Mainstreet",
     "date": "November 16-24, 2024",
     "field": "2024-11-24",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "Canada",
     "poll": [
         {
@@ -148977,6 +148976,32 @@
         {
             "party": "PPC",
             "score": 2.7
+        }
+    ]
+},
+{
+    "n": 743,
+    "company": "Mainstreet",
+    "date": "November 21-23, 2024",
+    "field": "2024-11-23",
+    "method": "Online",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 54
+        },
+        {
+            "party": "NSL",
+            "score": 18
+        },
+        {
+            "party": "NDP",
+            "score": 25
+        },
+        {
+            "party": "Others",
+            "score": 4
         }
     ]
 }
