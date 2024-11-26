@@ -149066,5 +149066,59 @@
             "score": 1.2
         }
     ]
+},
+{
+    "n": 189,
+    "moe": 7.1,
+    "company": "Narrative",
+    "date": "November 6-19 2024",
+    "field": "2024-11-19",
+    "method": "Telephone",
+    "jurisdiction": "PE",
+    "poll": [
+        {
+            "party": "PEIPC",
+            "score": 48
+        },
+        {
+            "party": "LPPEI",
+            "score": 19
+        },
+        {
+            "party": "GPPEI",
+            "score": 24
+        },
+        {
+            "party": "NDP",
+            "score": 8
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 251,
+    "moe": 6.2,
+    "company": "Narrative",
+    "date": "November 4-19 2024",
+    "field": "2024-11-19",
+    "method": "Telephone",
+    "jurisdiction": "NL",
+    "poll": [
+        {
+            "party": "LPNL",
+            "score": 50
+        },
+        {
+            "party": "PCNL",
+            "score": 40
+        },
+        {
+            "party": "NDP",
+            "score": 10
+        }
+    ]
 }
 ]
