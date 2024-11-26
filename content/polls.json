@@ -149035,5 +149035,36 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 1472,
+    "moe": 3,
+    "company": "Forum",
+    "date": "November 23-25, 2024",
+    "field": "2024-11-25",
+    "method": "IVR",
+    "jurisdiction": "NS",
+    "poll": [
+        {
+            "party": "PCNS",
+            "score": 47.3
+        },
+        {
+            "party": "NSL",
+            "score": 22.6
+        },
+        {
+            "party": "NDP",
+            "score": 26.6
+        },
+        {
+            "party": "GPNS",
+            "score": 2.3
+        },
+        {
+            "party": "Others",
+            "score": 1.2
+        }
+    ]
 }
 ]
