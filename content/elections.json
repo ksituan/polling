@@ -2500,6 +2500,32 @@
         "jurisdiction": "NS"
     },
     {
+        "date": "2024-11-27",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 22.2
+            },
+            {
+                "party": "PCNS",
+                "score": 52.8
+            },
+            {
+                "party": "GPNS",
+                "score": 0.9
+            },
+            {
+                "party": "NSL",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 1.2
+            }
+        ],
+        "jurisdiction": "NS"
+    },
+    {
         "date": "2007-10-09",
         "nextWrit": "2011-09-19",
         "results": [
