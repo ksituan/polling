@@ -149120,5 +149120,36 @@
             "score": 10
         }
     ]
+},
+{
+    "n": 742,
+    "moe": 3.6,
+    "company": "Mainstreet",
+    "date": "Nov 26-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "IVR",
+    "jurisdiction": "ON",
+    "poll": [
+        {
+            "party": "PCPO",
+            "score": 42
+        },
+        {
+            "party": "NDP",
+            "score": 22
+        },
+        {
+            "party": "OLP",
+            "score": 27
+        },
+        {
+            "party": "Others",
+            "score": 3
+        },
+        {
+            "party": "GPO",
+            "score": 6
+        }
+    ]
 }
 ]
