@@ -149361,15 +149361,15 @@
     "poll": [
         {
             "party": "PCPO",
-            "score": 42
+            "score": 42.3
         },
         {
             "party": "NDP",
-            "score": 22
+            "score": 21.7
         },
         {
             "party": "OLP",
-            "score": 27
+            "score": 26.9
         },
         {
             "party": "Others",
@@ -149377,7 +149377,7 @@
         },
         {
             "party": "GPO",
-            "score": 6
+            "score": 6.1
         }
     ]
 }
