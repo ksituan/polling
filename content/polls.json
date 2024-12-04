@@ -149344,11 +149344,10 @@
 },
 { 
     "n": 742,
-    "moe": 3.6,
     "company": "Mainstreet",
     "date": "Nov 26-Dec 2, 2024",
     "field": "2024-12-02",
-    "method": "IVR",
+    "method": "Online",
     "jurisdiction": "ON",
     "poll": [
         {
@@ -149405,6 +149404,275 @@
         {
             "party": "PPC",
             "score": 2.3
+        }
+    ]
+},
+{
+    "n": 1264,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 43
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "BQ",
+            "score": 8
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 173,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 18
+        },
+        {
+            "party": "CPC",
+            "score": 39
+        },
+        {
+            "party": "NDP",
+            "score": 31
+        },
+        {
+            "party": "GPC",
+            "score": 9
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 142,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 15
+        },
+        {
+            "party": "CPC",
+            "score": 61
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 83,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 55
+        },
+        {
+            "party": "NDP",
+            "score": 17
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        }
+    ]
+},
+{
+    "n": 496,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 25
+        },
+        {
+            "party": "CPC",
+            "score": 48
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "GPC",
+            "score": 6
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 288,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 23
+        },
+        {
+            "party": "NDP",
+            "score": 14
+        },
+        {
+            "party": "BQ",
+            "score": 35
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 82,
+    "company": "Leger",
+    "date": "Nov 29-Dec 1, 2024",
+    "field": "2024-12-01",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 19
+        },
+        {
+            "party": "CPC",
+            "score": 52
+        },
+        {
+            "party": "NDP",
+            "score": 18
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 4
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 1093,
+    "moe": 3,
+    "company": "Pallas",
+    "date": "November 26, 2024",
+    "field": "2024-11-26",
+    "method": "IVR",
+    "jurisdiction": "QC",
+    "poll": [
+        {
+            "party": "CAQ",
+            "score": 20
+        },
+        {
+            "party": "PLQ",
+            "score": 18
+        },
+        {
+            "party": "PQ",
+            "score": 35
+        },
+        {
+            "party": "QS",
+            "score": 12
+        },
+        {
+            "party": "PCQ",
+            "score": 13
         }
     ]
 }
