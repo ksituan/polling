@@ -149697,5 +149697,231 @@
             "score": 20
         }
     ]
+},
+{
+    "n": 2655,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 43
+        },
+        {
+            "party": "NDP",
+            "score": 20
+        },
+        {
+            "party": "BQ",
+            "score": 11
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 315,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 19
+        },
+        {
+            "party": "CPC",
+            "score": 45
+        },
+        {
+            "party": "NDP",
+            "score": 26
+        },
+        {
+            "party": "GPC",
+            "score": 7
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "n": 277,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 10
+        },
+        {
+            "party": "CPC",
+            "score": 62
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 441,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 14.5
+        },
+        {
+            "party": "CPC",
+            "score": 58.5
+        },
+        {
+            "party": "NDP",
+            "score": 23.5
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "GPC",
+            "score": 1.5
+        }
+    ]
+},
+{
+    "n": 595,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 49
+        },
+        {
+            "party": "NDP",
+            "score": 23
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 435,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 21
+        },
+        {
+            "party": "NDP",
+            "score": 11
+        },
+        {
+            "party": "BQ",
+            "score": 44
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 528,
+    "company": "Angus Reid",
+    "date": "Nov 29-Dec 2, 2024",
+    "field": "2024-12-02",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 33.3
+        },
+        {
+            "party": "CPC",
+            "score": 43.3
+        },
+        {
+            "party": "NDP",
+            "score": 16.7
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "GPC",
+            "score": 3.3
+        }
+    ]
 }
 ]
