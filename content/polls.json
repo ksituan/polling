@@ -150111,5 +150111,35 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 998,
+    "company": "Abacus",
+    "date": "Oct 31-Nov 5, 2024",
+    "field": "2024-11-05",
+    "method": "Online",
+    "jurisdiction": "ON",
+    "poll": [
+        {
+            "party": "PCPO",
+            "score": 43
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "OLP",
+            "score": 25
+        },
+        {
+            "party": "Others",
+            "score": 5
+        },
+        {
+            "party": "GPO",
+            "score": 6
+        }
+    ]
 }
 ]
