@@ -150298,7 +150298,7 @@
     ]
 },
 {
-    "n": 1001,
+    "n": 786,
     "company": "Ipsos",
     "date": "December 6-10, 2024",
     "field": "2024-12-10",
@@ -150316,6 +150316,226 @@
         {
             "party": "NDP",
             "score": 21
+        },
+        {
+            "party": "BQ",
+            "score": 7
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 126,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 15
+        },
+        {
+            "party": "CPC",
+            "score": 48
+        },
+        {
+            "party": "NDP",
+            "score": 33
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 92,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 14
+        },
+        {
+            "party": "CPC",
+            "score": 66
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 52,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_SKMB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 47
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "PPC",
+            "score": 7
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 3
+        }
+    ]
+},
+{
+    "n": 299,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 22
+        },
+        {
+            "party": "CPC",
+            "score": 45
+        },
+        {
+            "party": "NDP",
+            "score": 25
+        },
+        {
+            "party": "GPC",
+            "score": 2
+        },
+        {
+            "party": "PPC",
+            "score": 5
+        },
+        {
+            "party": "Others",
+            "score": 1
+        }
+    ]
+},
+{
+    "n": 168,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 24
+        },
+        {
+            "party": "CPC",
+            "score": 25
+        },
+        {
+            "party": "NDP",
+            "score": 11
+        },
+        {
+            "party": "BQ",
+            "score": 32
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 4
+        }
+    ]
+},
+{
+    "n": 51,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 33
+        },
+        {
+            "party": "CPC",
+            "score": 44
+        },
+        {
+            "party": "NDP",
+            "score": 16
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        },
+        {
+            "party": "Others",
+            "score": 3
         }
     ]
 }
