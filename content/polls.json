@@ -150296,5 +150296,27 @@
             "score": 3
         }
     ]
+},
+{
+    "n": 1001,
+    "company": "Ipsos",
+    "date": "December 6-10, 2024",
+    "field": "2024-12-10",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21
+        },
+        {
+            "party": "CPC",
+            "score": 44
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        }
+    ]
 }
 ]
