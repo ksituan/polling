@@ -150953,5 +150953,36 @@
             "score": 4
         }
     ]
+},
+{
+    "n": 1000,
+    "moe": 3.1,
+    "company": "Probe",
+    "date": "Nov 26-Dec 10, 2024",
+    "field": "2024-12-10",
+    "method": "Telephone/Online",
+    "jurisdiction": "MB",
+    "poll": [
+        {
+            "party": "PCPM",
+            "score": 34
+        },
+        {
+            "party": "NDP",
+            "score": 53
+        },
+        {
+            "party": "MLP",
+            "score": 6
+        },
+        {
+            "party": "GPM",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 4
+        }
+    ]
 }
 ]
