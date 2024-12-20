@@ -151062,5 +151062,43 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 1163,
+    "company": "Mainstreet",
+    "date": "December 13-18, 2024",
+    "field": "2024-12-18",
+    "method": "Online",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 19
+        },
+        {
+            "party": "CPC",
+            "score": 48
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "BQ",
+            "score": 8
+        },
+        {
+            "party": "GPC",
+            "score": 4
+        },
+        {
+            "party": "PPC",
+            "score": 4
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
 }
 ]
