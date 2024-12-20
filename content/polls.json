@@ -151064,6 +151064,155 @@
     ]
 },
 {
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada_BC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 20
+        },
+        {
+            "party": "CPC",
+            "score": 51
+        },
+        {
+            "party": "NDP",
+            "score": 21
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada_AB",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 10
+        },
+        {
+            "party": "CPC",
+            "score": 68
+        },
+        {
+            "party": "NDP",
+            "score": 14
+        },
+        {
+            "party": "GPC",
+            "score": 1
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada_ON",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 23
+        },
+        {
+            "party": "CPC",
+            "score": 45
+        },
+        {
+            "party": "NDP",
+            "score": 22
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada_QC",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 17
+        },
+        {
+            "party": "CPC",
+            "score": 24
+        },
+        {
+            "party": "NDP",
+            "score": 15
+        },
+        {
+            "party": "BQ",
+            "score": 36
+        },
+        {
+            "party": "GPC",
+            "score": 3
+        },
+        {
+            "party": "PPC",
+            "score": 3
+        }
+    ]
+},
+{
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada_ATL",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 23
+        },
+        {
+            "party": "CPC",
+            "score": 51
+        },
+        {
+            "party": "NDP",
+            "score": 16
+        },
+        {
+            "party": "GPC",
+            "score": 7
+        },
+        {
+            "party": "PPC",
+            "score": 1
+        }
+    ]
+},
+{
     "n": 1163,
     "company": "Mainstreet",
     "date": "December 13-18, 2024",
