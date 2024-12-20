@@ -151023,5 +151023,44 @@
             "score": 2
         }
     ]
+},
+{
+    "n": 758,
+    "moe": 3.6,
+    "company": "EKOS",
+    "date": "December 16-18, 2024",
+    "field": "2024-12-18",
+    "method": "IVR",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 19
+        },
+        {
+            "party": "CPC",
+            "score": 44
+        },
+        {
+            "party": "NDP",
+            "score": 19
+        },
+        {
+            "party": "BQ",
+            "score": 9
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2
+        },
+        {
+            "party": "Others",
+            "score": 2
+        }
+    ]
 }
 ]
