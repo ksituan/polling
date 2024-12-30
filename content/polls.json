@@ -151936,5 +151936,40 @@
             "score": 10
         }
     ]
+},
+{
+    "n": 1000,
+    "moe": 3.1,
+    "company": "Nanos",
+    "date": "December 27, 2024",
+    "field": "2024-12-27",
+    "method": "Telephone",
+    "jurisdiction": "Canada",
+    "poll": [
+        {
+            "party": "LPC",
+            "score": 21.3
+        },
+        {
+            "party": "CPC",
+            "score": 46.6
+        },
+        {
+            "party": "NDP",
+            "score": 16.7
+        },
+        {
+            "party": "BQ",
+            "score": 7.6
+        },
+        {
+            "party": "GPC",
+            "score": 5
+        },
+        {
+            "party": "PPC",
+            "score": 2.7
+        }
+    ]
 }
 ]
