@@ -112178,7 +112178,7 @@
         ]
     },
     {
-        "company": "Angus reid",
+        "company": "Angus Reid",
         "date": "November 16, 2009",
         "field": "2009-11-16",
         "method": "Online",
@@ -153617,7 +153617,7 @@
             },
             {
                 "party": "NDP",
-                "score": 333
+                "score": 33
             },
             {
                 "party": "BQ",
@@ -153814,7 +153814,7 @@
         ]
     },
     {
-        "n": 12.1,
+        "n": 1210,
         "moe": 3.1,
         "company": "Nanos",
         "date": "May 31, 2012",
@@ -153938,7 +153938,7 @@
     },
     {
         "n": 1099,
-        "company": "Ipsos-Reid",
+        "company": "Ipsos Reid",
         "date": "June 21, 2012",
         "field": "2012-06-21",
         "method": "Online",
