@@ -402,11 +402,11 @@
     {
         "province": "BC",
         "riding": "Cloverdale—Langley City",
-        "party": "Liberal",
+        "party": "Conservative",
         "surname": [
-            "Aldag"
+            "Jansen"
         ],
-        "given": "John",
+        "given": "Tamara",
         "g": true
     },
     {
@@ -804,9 +804,9 @@
         "riding": "Elmwood—Transcona",
         "party": "New Democratic",
         "surname": [
-            "Blaikie"
+            "Dance"
         ],
-        "given": "Daniel",
+        "given": "Leila",
         "g": true
     },
     {
@@ -1432,8 +1432,12 @@
     {
         "province": "ON",
         "riding": "Durham",
-        "party": "Independent",
-        "g": false
+        "party": "Conservative",
+        "surname": [
+            "Jivani"
+        ],
+        "given": "Jamil",
+        "g": true
     },
     {
         "province": "ON",
@@ -2288,11 +2292,11 @@
     {
         "province": "ON",
         "riding": "Toronto—St. Paul's",
-        "party": "Liberal",
+        "party": "Conservative",
         "surname": [
-            "Bennett"
+            "Stewart"
         ],
-        "given": "Carolyn",
+        "given": "Don",
         "g": true
     },
     {
@@ -2778,11 +2782,11 @@
     {
         "province": "QC",
         "riding": "LaSalle—Émard—Verdun",
-        "party": "Liberal",
+        "party": "Bloc Québécois",
         "surname": [
-            "Lametti"
+            "Louis-Philippe"
         ],
-        "given": "David",
+        "given": "Sauve",
         "g": true
     },
     {
