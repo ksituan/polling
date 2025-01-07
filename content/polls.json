@@ -152256,6 +152256,192 @@
         ]
     },
     {
+       "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "CPC",
+                "score": 54
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 19
+            },
+            {
+                "party": "CPC",
+                "score": 56
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15
+            },
+            {
+                "party": "CPC",
+                "score": 57
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "BQ",
+                "score": 37
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co.",
+        "date": "January 3-5, 2025",
+        "field": "2025-01-05",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            }
+        ]
+    },
+    {
         "n": 1544,
         "company": "Abacus",
         "date": "May 19, 2011",
@@ -163473,6 +163659,229 @@
             {
                 "party": "GPC",
                 "score": 3.2
+            }
+        ]
+    },
+    {
+        "n": 1328,
+        "moe": 2.7,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 175,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.4
+            },
+            {
+                "party": "CPC",
+                "score": 39.4
+            },
+            {
+                "party": "NDP",
+                "score": 20.3
+            },
+            {
+                "party": "GPC",
+                "score": 9.3
+            },
+            {
+                "party": "PPC",
+                "score": 0.9
+            }
+        ]
+    },
+    {
+        "n": 147,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 17.1
+            },
+            {
+                "party": "CPC",
+                "score": 63.2
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            },
+            {
+                "party": "GPC",
+                "score": 2.7
+            }
+        ]
+    },
+    {
+        "n": 86,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15.4
+            },
+            {
+                "party": "CPC",
+                "score": 58.5
+            },
+            {
+                "party": "NDP",
+                "score": 18.7
+            },
+            {
+                "party": "PPC",
+                "score": 3.1
+            },
+            {
+                "party": "GPC",
+                "score": 1.7
+            }
+        ]
+    },
+    {
+        "n": 478,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29.8
+            },
+            {
+                "party": "CPC",
+                "score": 41.2
+            },
+            {
+                "party": "NDP",
+                "score": 22.8
+            },
+            {
+                "party": "GPC",
+                "score": 2.2
+            },
+            {
+                "party": "PPC",
+                "score": 1.4
+            }
+        ]
+    },
+    {
+        "n": 296,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20.6
+            },
+            {
+                "party": "CPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 10.9
+            },
+            {
+                "party": "BQ",
+                "score": 36.6
+            },
+            {
+                "party": "GPC",
+                "score": 3.8
+            },
+            {
+                "party": "Others",
+                "score": 0.8
+            }
+        ]
+    },
+    {
+        "n": 87,
+        "company": "Pallas",
+        "date": "January 6, 2025",
+        "field": "2025-01-06",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32.4
+            },
+            {
+                "party": "CPC",
+                "score": 49.9
+            },
+            {
+                "party": "NDP",
+                "score": 13.7
+            },
+            {
+                "party": "PPC",
+                "score": 0.9
+            },
+            {
+                "party": "GPC",
+                "score": 1.3
             }
         ]
     }
