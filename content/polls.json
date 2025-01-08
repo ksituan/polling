@@ -169484,8 +169484,16 @@
                 "score": 18
             },
             {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
                 "party": "Others",
-                "score": 15
+                "score": 4
             }
         ]
     }
