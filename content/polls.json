@@ -169462,5 +169462,31 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 2500,
+        "company": "Abacus",
+        "date": "January 6-7, 2025",
+        "field": "2025-01-07",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 15
+            }
+        ]
     }
 ]
