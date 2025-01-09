@@ -169496,5 +169496,8193 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "company": "SES Research",
+        "date": "February 9, 2006",
+        "field": "2006-02-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "February 13, 2006",
+        "field": "2006-02-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "February 21, 2006",
+        "field": "2006-02-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "February 23, 2006",
+        "field": "2006-02-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "February 27, 2006",
+        "field": "2006-02-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 1
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 13, 2006",
+        "field": "2006-03-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 23, 2006",
+        "field": "2006-03-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "March 26, 2006",
+        "field": "2006-03-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "March 31, 2006",
+        "field": "2006-03-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "April 9, 2006",
+        "field": "2006-04-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "April 23, 2006",
+        "field": "2006-04-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "May 3, 2006",
+        "field": "2006-05-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "May 9, 2006",
+        "field": "2006-05-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 18, 2006",
+        "field": "2006-05-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "May 28, 2006",
+        "field": "2006-05-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "June 8, 2006",
+        "field": "2006-06-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "June 18, 2006",
+        "field": "2006-06-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "June 23, 2006",
+        "field": "2006-06-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Strategic",
+        "date": "July 16, 2006",
+        "field": "2006-07-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "July 16, 2006",
+        "field": "2006-07-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "July 23, 2006",
+        "field": "2006-07-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "July 27, 2006",
+        "field": "2006-07-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "July 30, 2006",
+        "field": "2006-07-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "August 31, 2006",
+        "field": "2006-08-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "August 23, 2006",
+        "field": "2006-08-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "August 24, 2006",
+        "field": "2006-08-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "August 28, 2006",
+        "field": "2006-08-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "September 4, 2006",
+        "field": "2006-09-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 14, 2006",
+        "field": "2006-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38.7
+            },
+            {
+                "party": "LPC",
+                "score": 28.8
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8.4
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "September 17, 2006",
+        "field": "2006-09-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "October 12, 2006",
+        "field": "2006-10-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 12, 2006",
+        "field": "2006-10-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 31.7
+            },
+            {
+                "party": "NDP",
+                "score": 16.2
+            },
+            {
+                "party": "BQ",
+                "score": 9.9
+            },
+            {
+                "party": "GPC",
+                "score": 6.2
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "October 15, 2006",
+        "field": "2006-10-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "October 16, 2006",
+        "field": "2006-10-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "November 2, 2006",
+        "field": "2006-11-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "November 5, 2006",
+        "field": "2006-11-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "November 6, 2006",
+        "field": "2006-11-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "November 9, 2006",
+        "field": "2006-11-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "November 13, 2006",
+        "field": "2006-11-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "November 26, 2006",
+        "field": "2006-11-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "December 3, 2006",
+        "field": "2006-12-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "December 3, 2006",
+        "field": "2006-12-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "December 7, 2006",
+        "field": "2006-12-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "December 9, 2006",
+        "field": "2006-12-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "December 13, 2006",
+        "field": "2006-12-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "December 14, 2006",
+        "field": "2006-12-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "December 30, 2006",
+        "field": "2006-12-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "December 30, 2006",
+        "field": "2006-12-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "January 31, 2007",
+        "field": "2007-01-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "January 15, 2007",
+        "field": "2007-01-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "January 18, 2007",
+        "field": "2007-01-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "January 21, 2007",
+        "field": "2007-01-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "January 22, 2007",
+        "field": "2007-01-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 4, 2007",
+        "field": "2007-02-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "February 8 2007",
+        "field": "2007-02-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "February 12, 2007",
+        "field": "2007-02-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "February 18, 2007",
+        "field": "2007-02-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "February 18, 2007",
+        "field": "2007-02-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "February 24, 2007",
+        "field": "2007-02-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "February 26, 2007",
+        "field": "2007-02-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "February 27, 2007",
+        "field": "2007-02-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 3, 2007",
+        "field": "2007-03-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "March 4, 2007",
+        "field": "2007-03-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "March 7, 2007",
+        "field": "2007-03-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "March 13, 2007",
+        "field": "2007-03-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 15, 2007",
+        "field": "2007-03-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "March 21, 2007",
+        "field": "2007-03-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 22, 2007",
+        "field": "2007-03-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "March 25, 2007",
+        "field": "2007-03-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "March 25, 2007",
+        "field": "2007-03-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "March 28, 2007",
+        "field": "2007-03-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 28, 2007",
+        "field": "2007-03-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "April 3, 2007",
+        "field": "2007-04-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "April 5, 2007",
+        "field": "2007-04-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "April 5, 2007",
+        "field": "2007-04-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "April 12, 2007",
+        "field": "2007-04-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "April 15, 2007",
+        "field": "2007-04-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "April 19, 2007",
+        "field": "2007-04-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "April 21, 2007",
+        "field": "2007-04-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "April 24, 2007",
+        "field": "2007-04-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "April 26, 2007",
+        "field": "2007-04-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "April 29, 2007",
+        "field": "2007-04-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 3, 2007",
+        "field": "2007-05-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "May 3, 2007",
+        "field": "2007-05-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 10, 2007",
+        "field": "2007-05-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 17, 2007",
+        "field": "2007-05-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "May 17, 2007",
+        "field": "2007-05-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "May 20, 2007",
+        "field": "2007-05-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "May 23, 2007",
+        "field": "2007-05-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 24, 2007",
+        "field": "2007-05-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "May 27, 2007",
+        "field": "2007-05-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 31, 2007",
+        "field": "2007-05-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Decima",
+        "date": "June 11, 2007",
+        "field": "2007-06-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "June 18, 2007",
+        "field": "2007-06-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "June 30, 2007",
+        "field": "2007-06-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "July 15, 2007",
+        "field": "2007-07-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "July 18, 2007",
+        "field": "2007-07-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "July 27, 2007",
+        "field": "2007-07-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "August 12, 2007",
+        "field": "2007-08-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "August 14, 2007",
+        "field": "2007-08-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "August 23, 2007",
+        "field": "2007-08-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 18, 2007",
+        "field": "2007-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 3, 2007",
+        "field": "2007-10-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 9, 2007",
+        "field": "2007-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "October 13, 2007",
+        "field": "2007-10-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "October 14, 2007",
+        "field": "2007-10-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "October 14, 2007",
+        "field": "2007-10-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October 17, 2007",
+        "field": "2007-10-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "October 18, 2007",
+        "field": "2007-10-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Unimarketing",
+        "date": "October 18, 2007",
+        "field": "2007-10-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "October 25, 2007",
+        "field": "2007-10-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 29, 2007",
+        "field": "2007-10-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "November 1, 2007",
+        "field": "2007-11-01",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "November 8, 2007",
+        "field": "2007-11-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "SES Research",
+        "date": "November 8, 2007",
+        "field": "2007-11-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "November 11, 2007",
+        "field": "2007-11-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "November 12, 2007",
+        "field": "2007-11-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "November 13, 2007",
+        "field": "2007-11-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "November 19, 2007",
+        "field": "2007-11-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "November 22, 2007",
+        "field": "2007-11-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "December 2, 2007",
+        "field": "2007-12-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "December 6, 2007",
+        "field": "2007-12-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "December 9, 2007",
+        "field": "2007-12-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "December 14, 2007",
+        "field": "2007-12-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "December 17, 2007",
+        "field": "2007-12-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "December 20, 2007",
+        "field": "2007-12-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "January 3, 2008",
+        "field": "2008-01-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "January 6, 2008",
+        "field": "2008-01-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "January 10, 2008",
+        "field": "2008-01-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "January 13, 2008",
+        "field": "2008-01-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "January 24, 2008",
+        "field": "2008-01-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "January 24, 2008",
+        "field": "2008-01-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Unimarketing",
+        "date": "January 31, 2008",
+        "field": "2008-01-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 4, 2008",
+        "field": "2008-02-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 10, 2008",
+        "field": "2008-02-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "February 14, 2008",
+        "field": "2008-02-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "February 17, 2008",
+        "field": "2008-02-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "February 17, 2008",
+        "field": "2008-02-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "February 18, 2008",
+        "field": "2008-02-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 20, 2008",
+        "field": "2008-02-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "March 2, 2008",
+        "field": "2008-03-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 6, 2008",
+        "field": "2008-03-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "March 16, 2008",
+        "field": "2008-03-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "March 16, 2008",
+        "field": "2008-03-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "March 20, 2008",
+        "field": "2008-03-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "March 28, 2008",
+        "field": "2008-03-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "March 30, 2008",
+        "field": "2008-03-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "April 6, 2008",
+        "field": "2008-04-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "April 7, 2008",
+        "field": "2008-04-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "April 9, 2008",
+        "field": "2008-04-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Segma",
+        "date": "April 9, 2008",
+        "field": "2008-04-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "April 10, 2008",
+        "field": "2008-04-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "April 13, 2008",
+        "field": "2008-04-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "April 13, 2008",
+        "field": "2008-04-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "April 21, 2008",
+        "field": "2008-04-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "April 23, 2008",
+        "field": "2008-04-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 1, 2008",
+        "field": "2008-05-01",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 8, 2008",
+        "field": "2008-05-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "May 11, 2008",
+        "field": "2008-05-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "May 11, 2008",
+        "field": "2008-05-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "May 19, 2008",
+        "field": "2008-05-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "May 29, 2008",
+        "field": "2008-05-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "June 8, 2008",
+        "field": "2008-06-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "June 9, 2008",
+        "field": "2008-06-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "June 24, 2008",
+        "field": "2008-06-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "June 29, 2008",
+        "field": "2008-06-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "July 5, 2008",
+        "field": "2008-07-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "July 10, 2008",
+        "field": "2008-07-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "July 30, 2008",
+        "field": "2008-07-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "July 31, 2008",
+        "field": "2008-07-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "August 10, 2008",
+        "field": "2008-08-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "August 14, 2008",
+        "field": "2008-08-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "August 24, 2008",
+        "field": "2008-08-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "August 27, 2008",
+        "field": "2008-08-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "August 28, 2008",
+        "field": "2008-08-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "August 28, 2008",
+        "field": "2008-08-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "August 31, 2008",
+        "field": "2008-08-31",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Environics",
+        "date": "September 2, 2008",
+        "field": "2008-09-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 3, 2008",
+        "field": "2008-09-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 4, 2008",
+        "field": "2008-09-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Segma",
+        "date": "September 6, 2008",
+        "field": "2008-09-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 8, 2008",
+        "field": "2008-09-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "September 9, 2008",
+        "field": "2008-09-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 9, 2008",
+        "field": "2008-09-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 10, 2008",
+        "field": "2008-09-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 11, 2008",
+        "field": "2008-09-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 11, 2008",
+        "field": "2008-09-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "September 11, 2008",
+        "field": "2008-09-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 11, 2008",
+        "field": "2008-09-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 12, 2008",
+        "field": "2008-09-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "September 12, 2008",
+        "field": "2008-09-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 13, 2008",
+        "field": "2008-09-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 13, 2008",
+        "field": "2008-09-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "September 13, 2008",
+        "field": "2008-09-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 14, 2008",
+        "field": "2008-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 14, 2008",
+        "field": "2008-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 14, 2008",
+        "field": "2008-09-14",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Segma",
+        "date": "September 15, 2008",
+        "field": "2008-09-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 15, 2008",
+        "field": "2008-09-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 15, 2008",
+        "field": "2008-09-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 15, 2008",
+        "field": "2008-09-15",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 16, 2008",
+        "field": "2008-09-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 16, 2008",
+        "field": "2008-09-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 16, 2008",
+        "field": "2008-09-16",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 17, 2008",
+        "field": "2008-09-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 17, 2008",
+        "field": "2008-09-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 17, 2008",
+        "field": "2008-09-17",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 18, 2008",
+        "field": "2008-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 18, 2008",
+        "field": "2008-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 18, 2008",
+        "field": "2008-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "September 18, 2008",
+        "field": "2008-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "September 18, 2008",
+        "field": "2008-09-18",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 19, 2008",
+        "field": "2008-09-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 19, 2008",
+        "field": "2008-09-19",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 20, 2008",
+        "field": "2008-09-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 20, 2008",
+        "field": "2008-09-20",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 21, 2008",
+        "field": "2008-09-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 21, 2008",
+        "field": "2008-09-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 21, 2008",
+        "field": "2008-09-21",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 22, 2008",
+        "field": "2008-09-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 22, 2008",
+        "field": "2008-09-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 22, 2008",
+        "field": "2008-09-22",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 23, 2008",
+        "field": "2008-09-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 23, 2008",
+        "field": "2008-09-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 23, 2008",
+        "field": "2008-09-23",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 24, 2008",
+        "field": "2008-09-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 24, 2008",
+        "field": "2008-09-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 24, 2008",
+        "field": "2008-09-24",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 25, 2008",
+        "field": "2008-09-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 25, 2008",
+        "field": "2008-09-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 25, 2008",
+        "field": "2008-09-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "September 25, 2008",
+        "field": "2008-09-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "September 25, 2008",
+        "field": "2008-09-25",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 26, 2008",
+        "field": "2008-09-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 26, 2008",
+        "field": "2008-09-26",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 27, 2008",
+        "field": "2008-09-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 27, 2008",
+        "field": "2008-09-27",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 28, 2008",
+        "field": "2008-09-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 28, 2008",
+        "field": "2008-09-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 28, 2008",
+        "field": "2008-09-28",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 29, 2008",
+        "field": "2008-09-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 29, 2008",
+        "field": "2008-09-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 29, 2008",
+        "field": "2008-09-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 29, 2008",
+        "field": "2008-09-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "September 29, 2008",
+        "field": "2008-09-29",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "September 30, 2008",
+        "field": "2008-09-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "September 30, 2008",
+        "field": "2008-09-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "September 30, 2008",
+        "field": "2008-09-30",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 1, 2008",
+        "field": "2008-10-01",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 1, 2008",
+        "field": "2008-10-01",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 1, 2008",
+        "field": "2008-10-01",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 2, 2008",
+        "field": "2008-10-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 2, 2008",
+        "field": "2008-10-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 2, 2008",
+        "field": "2008-10-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "October 2, 2008",
+        "field": "2008-10-02",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 3, 2008",
+        "field": "2008-10-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 3, 2008",
+        "field": "2008-10-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 3, 2008",
+        "field": "2008-10-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October , 2008",
+        "field": "2008-10-03",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 40
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 4, 2008",
+        "field": "2008-10-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 4, 2008",
+        "field": "2008-10-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 4, 2008",
+        "field": "2008-10-04",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 5, 2008",
+        "field": "2008-10-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 5, 2008",
+        "field": "2008-10-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 5, 2008",
+        "field": "2008-10-05",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 6, 2008",
+        "field": "2008-10-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 6, 2008",
+        "field": "2008-10-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 6, 2008",
+        "field": "2008-10-06",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 7, 2008",
+        "field": "2008-10-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 7, 2008",
+        "field": "2008-10-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October 7, 2008",
+        "field": "2008-10-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 7, 2008",
+        "field": "2008-10-07",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 8, 2008",
+        "field": "2008-10-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 8, 2008",
+        "field": "2008-10-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 8, 2008",
+        "field": "2008-10-08",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 9, 2008",
+        "field": "2008-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 9, 2008",
+        "field": "2008-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 9, 2008",
+        "field": "2008-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Segma",
+        "date": "October 9, 2008",
+        "field": "2008-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "company": "Ipsos Reid",
+        "date": "October 9, 2008",
+        "field": "2008-10-09",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 10, 2008",
+        "field": "2008-10-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October 10, 2008",
+        "field": "2008-10-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 10, 2008",
+        "field": "2008-10-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 10, 2008",
+        "field": "2008-10-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "October 10, 2008",
+        "field": "2008-10-10",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 11, 2008",
+        "field": "2008-10-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 11, 2008",
+        "field": "2008-10-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 11, 2008",
+        "field": "2008-10-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "Strategic Counsel",
+        "date": "October 11, 2008",
+        "field": "2008-10-11",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Harris Decima",
+        "date": "October 12, 2008",
+        "field": "2008-10-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 12, 2008",
+        "field": "2008-10-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "LPC",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 12, 2008",
+        "field": "2008-10-12",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34.2
+            },
+            {
+                "party": "LPC",
+                "score": 26.7
+            },
+            {
+                "party": "NDP",
+                "score": 21.4
+            },
+            {
+                "party": "BQ",
+                "score": 9.5
+            },
+            {
+                "party": "GPC",
+                "score": 8.2
+            }
+        ]
+    },
+    {
+        "company": "Angus Reid",
+        "date": "October 13, 2008",
+        "field": "2008-10-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "BQ",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "October 13, 2008",
+        "field": "2008-10-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 34.8
+            },
+            {
+                "party": "LPC",
+                "score": 26.4
+            },
+            {
+                "party": "NDP",
+                "score": 19.4
+            },
+            {
+                "party": "BQ",
+                "score": 9.8
+            },
+            {
+                "party": "GPC",
+                "score": 9.6
+            }
+        ]
+    },
+    {
+        "company": "Asking Canadians",
+        "date": "October 13, 2008",
+        "field": "2008-10-13",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "LPC",
+                "score": 22.6
+            },
+            {
+                "party": "NDP",
+                "score": 22.6
+            },
+            {
+                "party": "BQ",
+                "score": 9.5
+            },
+            {
+                "party": "GPC",
+                "score": 7.1
+            }
+        ]
     }
 ]
