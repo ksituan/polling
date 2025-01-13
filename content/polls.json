@@ -169492,8 +169492,8 @@
                 "score": 3
             },
             {
-                "party": "Others",
-                "score": 4
+                "party": "PPC",
+                "score": 3
             }
         ]
     },
@@ -178052,6 +178052,37 @@
             {
                 "party": "PPC",
                 "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1202,
+        "moe": 2.8,
+        "company": "Liaison",
+        "date": "January 9, 2025",
+        "field": "2025-01-09",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 4
             }
         ]
     }

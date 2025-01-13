@@ -1122,12 +1122,8 @@
     {
         "province": "NS",
         "riding": "Halifax",
-        "party": "Liberal",
-        "surname": [
-            "Fillmore"
-        ],
-        "given": "Andy",
-        "g": true
+        "party": "Independent",
+        "g": false
     },
     {
         "province": "NS",
