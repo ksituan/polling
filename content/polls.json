@@ -178085,5 +178085,40 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "January 10, 2025",
+        "field": "2025-01-10",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 19.6
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 17.9
+            },
+            {
+                "party": "BQ",
+                "score": 7.7
+            },
+            {
+                "party": "GPC",
+                "score": 5.2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
