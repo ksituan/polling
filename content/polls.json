@@ -178346,5 +178346,39 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 1789,
+        "company": "Campaign",
+        "date": "January 13-15, 2025",
+        "field": "2025-01-15",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "GPC",
+                "score": 8
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
