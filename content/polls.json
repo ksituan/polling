@@ -178602,5 +178602,213 @@
                 "score": 1.6
             }
         ]
+    },
+    {
+        "n": 1500,
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 16
+            },
+            {
+                "party": "CPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 28
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 11
+            },
+            {
+                "party": "CPC",
+                "score": 63
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 15
+            },
+            {
+                "party": "CPC",
+                "score": 58
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 20
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 35
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Abacus",
+        "date": "January 9-14, 2025",
+        "field": "2025-01-14",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 23
+            },
+            {
+                "party": "CPC",
+                "score": 53
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
