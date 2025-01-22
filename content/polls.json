@@ -179086,5 +179086,222 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 908,
+        "moe": 3.2,
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.7
+            },
+            {
+                "party": "CPC",
+                "score": 38.5
+            },
+            {
+                "party": "NDP",
+                "score": 14.2
+            },
+            {
+                "party": "BQ",
+                "score": 7.1
+            },
+            {
+                "party": "GPC",
+                "score": 3.2
+            },
+            {
+                "party": "PPC",
+                "score": 3.1
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 25.2
+            },
+            {
+                "party": "CPC",
+                "score": 50.9
+            },
+            {
+                "party": "NDP",
+                "score": 15.6
+            },
+            {
+                "party": "GPC",
+                "score": 2.3
+            },
+            {
+                "party": "PPC",
+                "score": 3.5
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 26.3
+            },
+            {
+                "party": "CPC",
+                "score": 50.1
+            },
+            {
+                "party": "NDP",
+                "score": 19.2
+            },
+            {
+                "party": "GPC",
+                "score": 0.8
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 21
+            },
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 19.9
+            },
+            {
+                "party": "GPC",
+                "score": 3.8
+            },
+            {
+                "party": "PPC",
+                "score": 11.5
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37.8
+            },
+            {
+                "party": "CPC",
+                "score": 42.5
+            },
+            {
+                "party": "NDP",
+                "score": 14.2
+            },
+            {
+                "party": "GPC",
+                "score": 2.3
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30.8
+            },
+            {
+                "party": "CPC",
+                "score": 20.2
+            },
+            {
+                "party": "NDP",
+                "score": 10.2
+            },
+            {
+                "party": "BQ",
+                "score": 31.5
+            },
+            {
+                "party": "GPC",
+                "score": 2.2
+            },
+            {
+                "party": "PPC",
+                "score": 4.2
+            }
+        ]
+    },
+    {
+        "company": "EKOS",
+        "date": "January 17-21, 2025",
+        "field": "2025-01-21",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 30.8
+            },
+            {
+                "party": "CPC",
+                "score": 27.5
+            },
+            {
+                "party": "NDP",
+                "score": 10.7
+            },
+            {
+                "party": "GPC",
+                "score": 18.2
+            },
+            {
+                "party": "PPC",
+                "score": 11.7
+            }
+        ]
     }
 ]
