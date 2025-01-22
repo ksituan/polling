@@ -10,6 +10,7 @@ import BC_flag from '../images/flags/BC.png'
 import AB_flag from '../images/flags/AB.png'
 import SK_flag from '../images/flags/SK.png'
 import MB_flag from '../images/flags/MB.png'
+import ON_flag from '../images/flags/ON.png'
 import QC_flag from '../images/flags/QC.png'
 import NB_flag from '../images/flags/NB.png'
 import PE_flag from '../images/flags/PE.png'
@@ -29,6 +30,7 @@ const maps = () => (
       <Link className="diyLink" to="/diy/ab" style={{backgroundColor: "#0D3692b0"}}><img className="flag" src={AB_flag} alt="" width="25" /><p>Alberta provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/sk" style={{backgroundColor: "#046A21b0"}}><img className="flag" src={SK_flag} alt="" width="25" /><p>Sask. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/mb" style={{backgroundColor: "#C8102Eb0"}}><img className="flag" src={MB_flag} alt="" width="25" /><p>Manitoba provincial legislature</p></Link>
+      <Link className="diyLink" to="/diy/on" style={{backgroundColor: "#C8102Eb0"}}><img className="flag" src={ON_flag} alt="" width="25" /><p>Ontario provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/qc" style={{backgroundColor: "#003DA5b0"}}><img className="flag" src={QC_flag} alt="" width="25" /><p>Quebec provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/nb" style={{backgroundColor: "#F4C600b0"}}><img className="flag" src={NB_flag} alt="" width="25" /><p>N.B. provincial legislature</p></Link>
       <Link className="diyLink" to="/diy/pe" style={{backgroundColor: "#D23B3Eb0"}}><img className="flag" src={PE_flag} alt="" width="25" /><p>P.E.I. provincial legislature</p></Link>
