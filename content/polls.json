@@ -179056,5 +179056,35 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 1007,
+        "company": "Leger",
+        "date": "January 17-19, 2025",
+        "field": "2025-01-19",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "OLP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
