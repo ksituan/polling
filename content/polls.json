@@ -179026,5 +179026,35 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1789,
+        "company": "Campaign",
+        "date": "January 13-15, 2025",
+        "field": "2025-01-15",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "OLP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
