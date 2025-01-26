@@ -179376,5 +179376,260 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Léger",
+        "date": "February 24-26, 2023",
+        "field": "2023-02-26",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 38
+            },
+            {
+                "party": "No",
+                "score": 51
+            }
+        ]
+    },
+    {
+        "n": 1042,
+        "company": "Léger",
+        "date": "June 10-12, 2023",
+        "field": "2023-06-12",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 37
+            },
+            {
+                "party": "No",
+                "score": 52
+            }
+        ]
+    },
+    {
+        "n": 1036,
+        "company": "Léger",
+        "date": "August 20-21, 2023",
+        "field": "2023-09-21",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 36
+            },
+            {
+                "party": "No",
+                "score": 53
+            }
+        ]
+    },
+    {
+        "n": 1095,
+        "company": "Pallas",
+        "date": "September 27-28, 2023",
+        "field": "2023-09-28",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 37
+            },
+            {
+                "party": "No",
+                "score": 49
+            }
+        ]
+    },
+    {
+        "n": 1066,
+        "company": "Léger",
+        "date": "November 1, 2023",
+        "field": "2023-11-01",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 35
+            },
+            {
+                "party": "No",
+                "score": 54
+            }
+        ]
+    },
+    {
+        "n": 1178,
+        "company": "Pallas",
+        "date": "November 18-19, 2023",
+        "field": "2023-11-19",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 38
+            },
+            {
+                "party": "No",
+                "score": 51
+            }
+        ]
+    },
+    {
+        "n": 1066,
+        "company": "Léger",
+        "date": "December 4-6, 2023",
+        "field": "2023-12-06",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 34
+            },
+            {
+                "party": "No",
+                "score": 55
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "company": "Léger",
+        "date": "February 3-5, 2024",
+        "field": "2024-02-05",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 35
+            },
+            {
+                "party": "No",
+                "score": 56
+            }
+        ]
+    },
+    {
+        "n": 1180,
+        "company": "Pallas",
+        "date": "February 5-7, 2024",
+        "field": "2024-02-07",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 41
+            },
+            {
+                "party": "No",
+                "score": 48
+            }
+        ]
+    },
+    {
+        "n": 1033,
+        "company": "Léger",
+        "date": "March 16-18, 2024",
+        "field": "2024-03-18",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 36
+            },
+            {
+                "party": "No",
+                "score": 53
+            }
+        ]
+    },
+    {
+        "n": 1026,
+        "company": "Léger",
+        "date": "April 20-21, 2024",
+        "field": "2024-04-21",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 36
+            },
+            {
+                "party": "No",
+                "score": 53
+            }
+        ]
+    },
+    {
+        "n": 1339,
+        "company": "Pallas",
+        "date": "June 8, 2024",
+        "field": "2024-06-08",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 40
+            },
+            {
+                "party": "No",
+                "score": 52
+            }
+        ]
+    },
+    {
+        "n": 1041,
+        "company": "Léger",
+        "date": "August 23-25, 2024",
+        "field": "2024-08-25",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 35
+            },
+            {
+                "party": "No",
+                "score": 56
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "company": "Léger",
+        "date": "November 10-11, 2024",
+        "field": "2024-11-11",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 37
+            },
+            {
+                "party": "No",
+                "score": 55
+            }
+        ]
+    },
+    {
+        "n": 1003,
+        "company": "Léger",
+        "date": "January 17-18, 2025",
+        "field": "2025-01-18",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 31
+            },
+            {
+                "party": "No",
+                "score": 53
+            }
+        ]
     }
 ]
