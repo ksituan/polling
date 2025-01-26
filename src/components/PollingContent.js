@@ -6,6 +6,8 @@ import parties from "../../content/parties.json"
 import "../css/sandbox.css"
 import { useState } from "react";
 
+import PartyList from "../components/PartyList.js"
+
 import Scatterplot from "../components/Scatterplot.js"
 import SinglePollingAverage from "../components/SinglePollingAverage.js"
 
@@ -283,29 +285,7 @@ let brandColours = {
 
     return(validParties);
   }
-
-  function PartyList({todaysAverage, relevantParties, election}) {
-
-    return(
-        <div className="partyContainer">
-          {todaysAverage.map(event =>
-          <a className="party" href={relevantParties[event.party].url ?? "https://en.wikipedia.org/wiki/Politics_of_Canada"} target="_blank" rel="noreferrer">
-          <svg className="partyLogo" viewBox="0 0 100 100"><path fill={brandColours[relevantParties[event.party].colour]} d={relevantParties[event.party].logo} /></svg>
-          <div className="partyText">
-            <h3 className="partyTitle">{event.party}</h3>
-            <p className="partyScore" style={{color: brandColours[relevantParties[event.party].colour]}}>
-              {event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? "▲" : "▼"}
-              {event.score % 1 === 0 ? String(event.score) + ".0" : event.score}
-              %
-            </p>
-            <p className="partyName">{relevantParties[event.party].fullName}</p>
-          </div>
-          </a>
-          )}
-        </div>
-    );
-  }
-
+  
   function Checkboxes({companies, checked, handleCompanyClick}) {
 
     return(
@@ -376,7 +356,7 @@ let brandColours = {
           <h2>{name + " trendlines"}</h2>
           <div className="credit">Polling Canada / Alex McPhee{election.credit && " / " + election.credit}</div>
         </div>
-        <PartyList todaysAverage={todaysAverage} relevantParties={relevantParties} election={election} />
+        <PartyList todaysAverage={todaysAverage} relevantParties={relevantParties} election={election} brandColours={brandColours} />
         <Scatterplot polls={livePolls} jurisdiction={jurisdiction} election={election} nextElection={nextElection} validParties={validParties} onClickPoll={handleClickPoll} brandColours={brandColours} parties={parties} />
         <Checkboxes companies={companies} checked={checked} handleCompanyClick={handleCompanyClick} />
         <p>Outside of an election, nobody can guarantee that trendlines describe the past or predict the future: they just indicate where market research firms are willing to stake their reputations.</p>
