@@ -68,14 +68,21 @@ function Scatterplot({ polls, jurisdiction, election, nextElection, validParties
   // Generate the date arrays needed for horizontal marker lines + statistical calculations
 
   let tickMonth = new Date(startDate).setDate(0);
+  let timeStep = 3
+
+  if (jurisdiction === 'Sovereignty') {
+    tickMonth = new Date(startDate).setDate(1);
+    timeStep = 3
+  }
 
   let monthArray = [new Date(tickMonth)];
 
   let samplePositions = [...Array(plotWidth).keys()];
   samplePositions = samplePositions.filter(x => x >= xpadding && x < plotWidth - xpadding)
 
+
   while (tickMonth < endDate) {
-    tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + 1);
+    tickMonth = new Date(tickMonth).setMonth(new Date(tickMonth).getMonth() + timeStep);
     monthArray.push(new Date(tickMonth));
   }
 
