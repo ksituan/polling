@@ -194,33 +194,6 @@ svg text {
         justify-content: flex-start;
     }
 
-    .scatter .trendline {
-        stroke-width: 12px;
-    }
-
-    .electionHalo {
-        visibility: hidden;
-    }
-
-    .timeLabel {
-        visibility: hidden;
-    }
-
-    .ticks text {
-        visibility: hidden;
-    }
-
-    .ticks .minor {
-        visibility: hidden;
-    }
-
-    .scatterPoll {
-        visibility: hidden;
-    }
-
-    .scatterElection {
-        visibility: hidden;
-    }
 
     .partyLabel {
         visibility: hidden;
@@ -236,10 +209,6 @@ svg text {
 
     .checkboxes {
         display: none;
-    }
-
-    .mobileAxis {
-        display: inline;
     }
 
 }

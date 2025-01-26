@@ -370,8 +370,6 @@ function Scatterplot({ polls, jurisdiction, election, nextElection, validParties
       {timeLabels.map(label =>
         <text className="timeLabel" fontSize="20pt" textAnchor="middle" x={label.pos} y={plotHeight - ypadding + 35}>{label.label}</text>)}
 
-      <path className="mobileAxis" d={`M ${xpadding} ${ypadding} v ${plotHeight - ypadding * 2} h ${plotWidth - xpadding * 2}`} />
-
     </svg>
   );
 
