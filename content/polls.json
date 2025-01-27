@@ -179752,5 +179752,39 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 1896,
+        "company": "Abacus",
+        "date": "January 22-26, 2025",
+        "field": "2025-01-26",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 22
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
