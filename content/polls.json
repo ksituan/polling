@@ -179631,5 +179631,35 @@
                 "score": 53
             }
         ]
+    },
+    {
+        "n": 862,
+        "company": "Mainstreet",
+        "date": "January 26, 2025",
+        "field": "2025-01-26",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
