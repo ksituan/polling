@@ -179821,5 +179821,35 @@
                 "score": 1.8
             }
         ]
+    },
+    {
+        "n": 1021,
+        "company": "Abacus",
+        "date": "January 22-26, 2025",
+        "field": "2025-01-26",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "OLP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
     }
 ]
