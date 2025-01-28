@@ -180145,5 +180145,35 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 1286,
+        "company": "Innovative",
+        "date": "January 3-27, 2025",
+        "field": "2025-01-27",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 51
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "OLP",
+                "score": 23
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
