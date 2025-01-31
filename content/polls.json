@@ -180676,5 +180676,31 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 800,
+        "company": "Ipsos",
+        "date": "January 29-30, 2025",
+        "field": "2025-01-30",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 50
+            },
+            {
+                "party": "OLP",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
