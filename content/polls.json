@@ -180616,10 +180616,12 @@
         ]
     },
     {
+        "n": 1460,
+        "moe": 2.6,
         "company": "Mainstreet",
-        "date": "January 29, 2025",
+        "date": "January 25-29, 2025",
         "field": "2025-01-29",
-        "method": "Online",
+        "method": "IVR/Online",
         "jurisdiction": "ON",
         "poll": [
             {
@@ -180641,6 +180643,37 @@
             {
                 "party": "GPO",
                 "score": 5.3
+            }
+        ]
+    },
+    {
+        "n": 1502,
+        "moe": 2.4,
+        "company": "Mainstreet",
+        "date": "January 25-30, 2025",
+        "field": "2025-01-29",
+        "method": "IVR/Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 38
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 6
             }
         ]
     }
