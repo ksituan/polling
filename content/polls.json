@@ -180733,5 +180733,36 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1124,
+        "moe": 2.9,
+        "company": "Mainstreet",
+        "date": "Jan 30-Feb 1, 2025",
+        "field": "2025-02-01",
+        "method": "IVR/Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
