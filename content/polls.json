@@ -180764,5 +180764,66 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 695,
+        "company": "Innovative",
+        "date": "January 29-31, 2025",
+        "field": "2025-01-31",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "OLP",
+                "score": 22
+            },
+            {
+                "party": "Others",
+                "score": 1
+            },
+            {
+                "party": "GPO",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 1374,
+        "moe": 2.6,
+        "company": "Mainstreet",
+        "date": "Jan 31-Feb 2, 2025",
+        "field": "2025-02-02",
+        "method": "IVR/Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 43
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
