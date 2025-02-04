@@ -180825,5 +180825,36 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1274,
+        "moe": 2.7,
+        "company": "Liaison",
+        "date": "Jan 31-Feb 1, 2025",
+        "field": "2025-02-01",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
