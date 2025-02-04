@@ -180986,5 +180986,39 @@
                 "score": 1.9
             }
         ]
+    },
+    {
+        "n": 1080,
+        "company": "Mainstreet",
+        "date": "February 1-3, 2025",
+        "field": "2025-02-03",
+        "method": "IVR/Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
