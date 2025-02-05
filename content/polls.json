@@ -181174,5 +181174,67 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1014,
+        "moe": 3.1,
+        "company": "Pallas",
+        "date": "February 1-2, 2025",
+        "field": "2025-02-02",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 45
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1162,
+        "moe": 2.9,
+        "company": "Mainstreet",
+        "date": "February 2-4, 2025",
+        "field": "2025-02-04",
+        "method": "IVR/Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 45
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
