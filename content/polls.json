@@ -181236,5 +181236,35 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1014,
+        "company": "Leger",
+        "date": "Jan 31-Feb 2, 2025",
+        "field": "2025-02-02",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 21
+            },
+            {
+                "party": "PLQ",
+                "score": 21
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 14
+            }
+        ]
     }
 ]
