@@ -181510,5 +181510,43 @@
                 "score": 67
             }
         ]
+    },
+    {
+        "company": "Ipsos",
+        "date": "Jan 30-Feb 3, 2025",
+        "field": "2025-02-03",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "company": "Ipsos",
+        "date": "Jan 30-Feb 3, 2025",
+        "field": "2025-02-03",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            }
+        ]
     }
 ]
