@@ -181266,5 +181266,39 @@
                 "score": 14
             }
         ]
+    },
+    {
+        "n": 1014,
+        "company": "Leger",
+        "date": "Jan 31-Feb 2, 2025",
+        "field": "2025-02-02",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 29
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
