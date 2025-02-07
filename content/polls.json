@@ -181849,23 +181849,23 @@
         "poll": [
             {
                 "party": "PCPO",
-                "score": 39
+                "score": 45.9
             },
             {
                 "party": "OLP",
-                "score": 29
+                "score": 30.1
             },
             {
                 "party": "NDP",
-                "score": 22
+                "score": 15.7
             },
             {
                 "party": "Others",
-                "score": 6
+                "score": 6.5
             },
             {
                 "party": "GPO",
-                "score": 5
+                "score": 1.9
             }
         ]
     }
