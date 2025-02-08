@@ -181868,5 +181868,35 @@
                 "score": 1.9
             }
         ]
+    },
+    {
+        "n": 2000,
+        "company": "Abacus",
+        "date": "February 4-6, 2025",
+        "field": "2025-02-06",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "OLP",
+                "score": 24
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
     }
 ]
