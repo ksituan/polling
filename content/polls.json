@@ -182811,5 +182811,39 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 814,
+        "company": "Leger",
+        "date": "February 7-9, 2025",
+        "field": "2025-02-09",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 47
+            },
+            {
+                "party": "OLP",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            },
+            {
+                "party": "NBP",
+                "score": 2
+            }
+        ]
     }
 ]
