@@ -182845,5 +182845,102 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1301,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 9-10, 2025",
+        "field": "2025-02-10",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 935,
+        "moe": 3.2,
+        "company": "Nanos",
+        "date": "February 9-11, 2025",
+        "field": "2025-02-11",
+        "method": "Telephone",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 44.5
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16.5
+            },
+            {
+                "party": "GPO",
+                "score": 5.1
+            },
+            {
+                "party": "Others",
+                "score": 1.9
+            }
+        ]
+    },
+    {
+        "n": 1301,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 9-10, 2025",
+        "field": "2025-02-10",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.3
+            },
+            {
+                "party": "CPC",
+                "score": 38.8
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 2.2
+            },
+            {
+                "party": "PPC",
+                "score": 2.2
+            },
+            {
+                "party": "Others",
+                "score": 2.2
+            }
+        ]
     }
 ]
