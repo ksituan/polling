@@ -183118,15 +183118,15 @@
             },
             {
                 "party": "CPC",
-                "score": 48
+                "score": 43
             },
             {
                 "party": "NDP",
-                "score": 22
+                "score": 25
             },
             {
                 "party": "GPC",
-                "score": 5
+                "score": 8
             },
             {
                 "party": "PPC",
@@ -183143,19 +183143,23 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 3
+                "score": 9
             },
             {
                 "party": "CPC",
-                "score": 73
+                "score": 74
             },
             {
                 "party": "NDP",
-                "score": 21
+                "score": 14
             },
             {
                 "party": "PPC",
-                "score": 3
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
             }
         ]
     },
@@ -183168,15 +183172,19 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 15
+                "score": 26
             },
             {
                 "party": "CPC",
-                "score": 70
+                "score": 56
             },
             {
                 "party": "NDP",
                 "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 3
             }
         ]
     },
@@ -183193,19 +183201,19 @@
             },
             {
                 "party": "CPC",
-                "score": 48
+                "score": 46
             },
             {
                 "party": "NDP",
-                "score": 13
+                "score": 15
             },
             {
                 "party": "GPC",
-                "score": 3
+                "score": 4
             },
             {
                 "party": "PPC",
-                "score": 4
+                "score": 3
             }
         ]
     },
@@ -183218,19 +183226,19 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 26
+                "score": 28
             },
             {
                 "party": "CPC",
-                "score": 31
+                "score": 29
             },
             {
                 "party": "NDP",
-                "score": 6
+                "score": 5
             },
             {
                 "party": "BQ",
-                "score": 35
+                "score": 34
             },
             {
                 "party": "GPC",
@@ -183238,7 +183246,7 @@
             },
             {
                 "party": "PPC",
-                "score": 1
+                "score": 2
             }
         ]
     },
@@ -183251,19 +183259,19 @@
         "poll": [
             {
                 "party": "LPC",
-                "score": 46
+                "score": 41
             },
             {
                 "party": "CPC",
-                "score": 34
+                "score": 40
             },
             {
                 "party": "NDP",
-                "score": 18
+                "score": 16
             },
             {
                 "party": "GPC",
-                "score": 1
+                "score": 3
             }
         ]
     }
