@@ -182909,41 +182909,6 @@
         ]
     },
     {
-        "n": 1301,
-        "moe": 2.7,
-        "company": "Mainstreet",
-        "date": "February 9-11, 2025",
-        "field": "2025-02-11",
-        "method": "IVR",
-        "jurisdiction": "Canada_ON",
-        "poll": [
-            {
-                "party": "LPC",
-                "score": 43.3
-            },
-            {
-                "party": "CPC",
-                "score": 38.8
-            },
-            {
-                "party": "NDP",
-                "score": 10
-            },
-            {
-                "party": "GPC",
-                "score": 2.2
-            },
-            {
-                "party": "PPC",
-                "score": 2.2
-            },
-            {
-                "party": "Others",
-                "score": 2.2
-            }
-        ]
-    },
-    {
         "n": 1314,
         "moe": 2.7,
         "company": "Mainstreet",
@@ -183002,41 +182967,6 @@
             {
                 "party": "Others",
                 "score": 1.6
-            }
-        ]
-    },
-    {
-        "n": 1314,
-        "moe": 2.7,
-        "company": "Mainstreet",
-        "date": "February 10-12, 2025",
-        "field": "2025-02-12",
-        "method": "IVR",
-        "jurisdiction": "Canada_ON",
-        "poll": [
-            {
-                "party": "LPC",
-                "score": 43.2
-            },
-            {
-                "party": "CPC",
-                "score": 39.7
-            },
-            {
-                "party": "NDP",
-                "score": 10.2
-            },
-            {
-                "party": "GPC",
-                "score": 2.2
-            },
-            {
-                "party": "PPC",
-                "score": 2.2
-            },
-            {
-                "party": "Others",
-                "score": 2.2
             }
         ]
     },
@@ -183272,6 +183202,133 @@
             {
                 "party": "GPC",
                 "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1294,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 11-13, 2025",
+        "field": "2025-02-13",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 44
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 945,
+        "moe": 3.2,
+        "company": "Nanos",
+        "date": "February 11-13, 2025",
+        "field": "2025-02-13",
+        "method": "Telephone",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 43.9
+            },
+            {
+                "party": "OLP",
+                "score": 30.9
+            },
+            {
+                "party": "NDP",
+                "score": 17.1
+            },
+            {
+                "party": "GPO",
+                "score": 5.8
+            },
+            {
+                "party": "Others",
+                "score": 2.3
+            }
+        ]
+    },
+    {
+        "n": 1294,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 11-13, 2025",
+        "field": "2025-02-13",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43.2
+            },
+            {
+                "party": "CPC",
+                "score": 40.9
+            },
+            {
+                "party": "NDP",
+                "score": 7.9
+            },
+            {
+                "party": "GPC",
+                "score": 3.4
+            },
+            {
+                "party": "PPC",
+                "score": 3.4
+            },
+            {
+                "party": "Others",
+                "score": 2.4
+            }
+        ]
+    },
+    {
+        "n": 639,
+        "company": "Research Co",
+        "date": "February 11-13, 2025",
+        "field": "2025-02-13",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 45
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 4
             }
         ]
     }
