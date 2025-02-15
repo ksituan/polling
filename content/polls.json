@@ -183342,27 +183342,27 @@
         "poll": [
             {
                 "party": "CPC",
-                "score": 40.9
+                "score": 39
             },
             {
                 "party": "LPC",
-                "score": 37
+                "score": 36
             },
             {
                 "party": "NDP",
-                "score": 10.6
+                "score": 11
             },
             {
                 "party": "BQ",
-                "score": 7
+                "score": 10
             },
             {
                 "party": "GPC",
-                "score": 2.1
+                "score": 2
             },
             {
                 "party": "PPC",
-                "score": 1.7
+                "score": 2
             }
         ]
     },
