@@ -183835,5 +183835,218 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1278,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 15-17, 2025",
+        "field": "2025-02-16",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "February 14, 2025",
+        "field": "2025-02-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.5
+            },
+            {
+                "party": "CPC",
+                "score": 38.6
+            },
+            {
+                "party": "NDP",
+                "score": 14.9
+            },
+            {
+                "party": "BQ",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 4.4
+            },
+            {
+                "party": "PPC",
+                "score": 2.1
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 14, 2025",
+        "field": "2025-02-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 16.4
+            },
+            {
+                "party": "GPC",
+                "score": 8.8
+            },
+            {
+                "party": "PPC",
+                "score": 1.2
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 14, 2025",
+        "field": "2025-02-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36.6
+            },
+            {
+                "party": "CPC",
+                "score": 46.2
+            },
+            {
+                "party": "NDP",
+                "score": 11.7
+            },
+            {
+                "party": "GPC",
+                "score": 2.8
+            },
+            {
+                "party": "PPC",
+                "score": 2.3
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 14, 2025",
+        "field": "2025-02-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35.4
+            },
+            {
+                "party": "CPC",
+                "score": 15.2
+            },
+            {
+                "party": "NDP",
+                "score": 11.9
+            },
+            {
+                "party": "BQ",
+                "score": 32.7
+            },
+            {
+                "party": "GPC",
+                "score": 2.4
+            },
+            {
+                "party": "PPC",
+                "score": 2.4
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "February 14, 2025",
+        "field": "2025-02-14",
+        "method": "Telephone",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39.8
+            },
+            {
+                "party": "CPC",
+                "score": 37.9
+            },
+            {
+                "party": "NDP",
+                "score": 17.2
+            },
+            {
+                "party": "GPC",
+                "score": 4.5
+            },
+            {
+                "party": "PPC",
+                "score": 0.6
+            }
+        ]
+    },
+    {
+        "n": 677,
+        "moe": 3.8,
+        "company": "Pallas",
+        "date": "February 15, 2025",
+        "field": "2025-02-15",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 49
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "CPBC",
+                "score": 41
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
