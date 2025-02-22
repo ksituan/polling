@@ -185014,5 +185014,67 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 1245,
+        "moe": 2.8,
+        "company": "Mainstreet",
+        "date": "February 19-21, 2025",
+        "field": "2025-02-21",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 918,
+        "moe": 3.3,
+        "company": "Nanos",
+        "date": "February 19-21, 2025",
+        "field": "2025-02-21",
+        "method": "Telephone",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42.6
+            },
+            {
+                "party": "OLP",
+                "score": 30.5
+            },
+            {
+                "party": "NDP",
+                "score": 18.6
+            },
+            {
+                "party": "GPO",
+                "score": 6.2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
