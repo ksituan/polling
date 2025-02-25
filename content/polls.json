@@ -185543,5 +185543,211 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1534,
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 42
+            },
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 28
+            },
+            {
+                "party": "CPC",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 19
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 44
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 25
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "BQ",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            }
+        ]
     }
 ]
