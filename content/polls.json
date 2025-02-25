@@ -185509,5 +185509,39 @@
                 "score": 0.7
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Ipsos",
+        "date": "February 21-24, 2025",
+        "field": "2025-02-24",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
     }
 ]
