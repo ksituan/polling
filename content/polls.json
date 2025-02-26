@@ -185579,6 +185579,7 @@
         ]
     },
     {
+        "company": "Leger",
         "date": "February 21-23, 2025",
         "field": "2025-02-23",
         "method": "Online",
@@ -185603,6 +185604,7 @@
         ]
     },
     {
+        "company": "Leger",
         "date": "February 21-23, 2025",
         "field": "2025-02-23",
         "method": "Online",
@@ -185747,6 +185749,184 @@
             {
                 "party": "PPC",
                 "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1230,
+        "moe": 2.8,
+        "company": "Nanos",
+        "date": "February 23-25, 2025",
+        "field": "2025-02-25",
+        "method": "Telephone",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 45.7
+            },
+            {
+                "party": "OLP",
+                "score": 31.9
+            },
+            {
+                "party": "NDP",
+                "score": 16.5
+            },
+            {
+                "party": "GPO",
+                "score": 3.8
+            },
+            {
+                "party": "Others",
+                "score": 2.1
+            }
+        ]
+    },
+    {
+        "n": 708,
+        "company": "Innovative",
+        "date": "February 19-24, 2025",
+        "field": "2025-02-24",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 1516,
+        "moe": 2.5,
+        "company": "Mainstreet",
+        "date": "February 23-25, 2025",
+        "field": "2025-02-25",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 855,
+        "company": "Leger",
+        "date": "February 21-23, 2025",
+        "field": "2025-02-23",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 892,
+        "company": "Abacus",
+        "date": "February 24-25, 2025",
+        "field": "2025-02-25",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1001,
+        "company": "Ipsos",
+        "date": "February 23-25, 2025",
+        "field": "2025-02-25",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "OLP",
+                "score": 28
+            },
+            {
+                "party": "GPO",
+                "score": 8
             }
         ]
     }
