@@ -185929,5 +185929,189 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 989,
+        "moe": 3.1,
+        "company": "Pallas",
+        "date": "February 25-26, 2025",
+        "field": "2025-02-26",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 46.3
+            },
+            {
+                "party": "OLP",
+                "score": 29.1
+            },
+            {
+                "party": "NDP",
+                "score": 17.3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 5.3
+            }
+        ]
+    },
+    {
+        "n": 1211,
+        "moe": 2.7,
+        "company": "Mainstreet",
+        "date": "February 26, 2025",
+        "field": "2025-02-26",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 44
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "n": 789,
+        "moe": 3.5,
+        "company": "Liaison",
+        "date": "February 26, 2025",
+        "field": "2025-02-26",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 43
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 666,
+        "company": "Research Co",
+        "date": "February 25-26, 2025",
+        "field": "2025-02-26",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 46
+            },
+            {
+                "party": "OLP",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 1013,
+        "moe": 4,
+        "company": "Forum",
+        "date": "February 26, 2025",
+        "field": "2025-02-26",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "GPO",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 610,
+        "company": "Nanos",
+        "date": "February 26, 2025",
+        "field": "2025-02-26",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 48
+            },
+            {
+                "party": "OLP",
+                "score": 26
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "GPO",
+                "score": 6
+            }
+        ]
     }
 ]
