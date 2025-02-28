@@ -1932,6 +1932,40 @@
         "jurisdiction": "ON"
     },
     {
+        "date": "2025-02-28",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 18.6
+            },
+            {
+                "party": "PCPO",
+                "score": 43
+            },
+            {
+                "party": "GPO",
+                "score": 4.8
+            },
+            {
+                "party": "OLP",
+                "score": 29.9
+            },
+            {
+                "party": "TOP",
+                "score": 0.5
+            },
+            {
+                "party": "NBP",
+                "score": 1.6
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ],
+        "jurisdiction": "ON"
+    },
+    {
         "date": "2008-12-08",
         "nextWrit": "2012-08-01",
         "results": [
