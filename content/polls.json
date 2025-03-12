@@ -187771,8 +187771,8 @@
     {
         "n": 1002,
         "company": "Research Co.",
-        "date": "February 18, 2025",
-        "field": "2025-02-18",
+        "date": "March 3-5, 2025",
+        "field": "2025-03-05",
         "method": "Online",
         "jurisdiction": "BC",
         "poll": [
@@ -188039,6 +188039,220 @@
             {
                 "party": "PCQ",
                 "score": 12
+            }
+        ]
+    },
+    {
+        "n": 1272,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 187,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 34
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 144,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 77,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "GPC",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "n": 493,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 39
+            },
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 293,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "BQ",
+                "score": 25
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 78,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 56
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
             }
         ]
     }
