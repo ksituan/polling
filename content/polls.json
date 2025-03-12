@@ -188011,5 +188011,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1007,
+        "company": "Leger",
+        "date": "March 7-10, 2025",
+        "field": "2025-03-10",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 19
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "QS",
+                "score": 12
+            },
+            {
+                "party": "PCQ",
+                "score": 12
+            }
+        ]
     }
 ]
