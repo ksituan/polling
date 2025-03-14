@@ -188516,5 +188516,43 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1016,
+        "company": "Mainstreet",
+        "date": "March 10-13, 2025",
+        "field": "2025-03-13",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "CPC",
+                "score": 39
+            },
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
