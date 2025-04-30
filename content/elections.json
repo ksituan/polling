@@ -928,6 +928,251 @@
         "jurisdiction": "Canada_ATL"
     },
     {
+        "date": "2019-10-21",
+        "nextWrit": "2021-08-15",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 34.3
+            },
+            {
+                "party": "LPC",
+                "score": 33.1
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "BQ",
+                "score": 7.6
+            },
+            {
+                "party": "GPC",
+                "score": 6.6
+            },
+            {
+                "party": "PPC",
+                "score": 1.6
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 41.3
+            },
+            {
+                "party": "LPC",
+                "score": 43.7
+            },
+            {
+                "party": "NDP",
+                "score": 6.3
+            },
+            {
+                "party": "BQ",
+                "score": 6.3
+            },
+            {
+                "party": "GPC",
+                "score": 1.2
+            },
+            {
+                "party": "PPC",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 0.5
+            }
+        ],
+        "jurisdiction": "Canada"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 41
+            },
+            {
+                "party": "LPC",
+                "score": 41.8
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 0.5
+            },
+            {
+                "party": "Others",
+                "score": 0.7
+            }
+        ],
+        "jurisdiction": "Canada_BC"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 63.5
+            },
+            {
+                "party": "LPC",
+                "score": 27.9
+            },
+            {
+                "party": "NDP",
+                "score": 6.3
+            },
+            {
+                "party": "GPC",
+                "score": 0.4
+            },
+            {
+                "party": "PPC",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ],
+        "jurisdiction": "Canada_AB"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 54.9
+            },
+            {
+                "party": "LPC",
+                "score": 34.2
+            },
+            {
+                "party": "NDP",
+                "score": 9.4
+            },
+            {
+                "party": "GPC",
+                "score": 0.7
+            },
+            {
+                "party": "PPC",
+                "score": 0.8
+            }
+        ],
+        "jurisdiction": "Canada_SKMB"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 43.8
+            },
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "NDP",
+                "score": 4.9
+            },
+            {
+                "party": "GPC",
+                "score": 1.2
+            },
+            {
+                "party": "PPC",
+                "score": 0.7
+            },
+            {
+                "party": "Others",
+                "score": 0.4
+            }
+        ],
+        "jurisdiction": "Canada_ON"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 23.3
+            },
+            {
+                "party": "LPC",
+                "score": 42.6
+            },
+            {
+                "party": "NDP",
+                "score": 4.5
+            },
+            {
+                "party": "BQ",
+                "score": 27.7
+            },
+            {
+                "party": "GPC",
+                "score": 0.9
+            },
+            {
+                "party": "PPC",
+                "score": 0.8
+            },
+            {
+                "party": "Others",
+                "score": 0.2
+            }
+        ],
+        "jurisdiction": "Canada_QC"
+    },
+    {
+        "date": "2025-04-29",
+        "results": [
+            {
+                "party": "CPC",
+                "score": 38.1
+            },
+            {
+                "party": "LPC",
+                "score": 55.6
+            },
+            {
+                "party": "NDP",
+                "score": 4.3
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            },
+            {
+                "party": "PPC",
+                "score": 0.9
+            },
+            {
+                "party": "Others",
+                "score": 0.3
+            }
+        ],
+        "jurisdiction": "Canada_ATL"
+    },
+    {
         "date": "1991-10-17",
         "nextWrit": "1996-04-30",
         "results": [
