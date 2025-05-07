@@ -199,9 +199,9 @@ svg text {
         visibility: hidden;
     }
 
-    .wideChart svg path {
+/*     .wideChart svg path {
         stroke-width: 5px;
-    }
+    } */
 
     .credit {
         visibility: hidden;

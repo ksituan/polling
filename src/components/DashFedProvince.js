@@ -3,20 +3,20 @@ import DashChart from "./DashChart.js"
 import SinglePollingAverage from "../components/SinglePollingAverage.js"
 import MarkLastPolls from "../components/MarkLastPolls"
 import parties from "../../content/parties.json"
-import {Link} from "gatsby"
+import { Link } from "gatsby"
 
 let brandColours = {
-    "maroon" : "#8b4943",
-    "red" : "#c94141",
-    "orange" : "#e69f4a",
-    "yellow" : "#ebc53f",
-    "green" : "#85ab53",
-    "darkGreen" : "#5f7b3b",
-    "teal" : "#88c9c3",
-    "blue" : "#598dab",
-    "darkBlue" : "#52709e",
-    "purple" : "#af7ac8",
-    "gray" : "#ddd",
+    "maroon": "#8b4943",
+    "red": "#c94141",
+    "orange": "#e69f4a",
+    "yellow": "#ebc53f",
+    "green": "#85ab53",
+    "darkGreen": "#5f7b3b",
+    "teal": "#88c9c3",
+    "blue": "#598dab",
+    "darkBlue": "#52709e",
+    "purple": "#af7ac8",
+    "gray": "#ddd",
 }
 
 let title = {
@@ -40,31 +40,36 @@ let title = {
     Canada: "Canada"
 }
 
-function DashFedProvince({polls, jurisdiction, election}) {
+function DashFedProvince({ polls, jurisdiction, election }) {
 
     const relevantParties = parties.content[jurisdiction.split("_")[0]];
     let todaysAverage = SinglePollingAverage(MarkLastPolls(polls), new Date(), relevantParties);
 
     let majorAverage = todaysAverage.filter(party => party.score >= 10); // Only parties over 10%
-    
+
     if (majorAverage.length > 3) { // Only the top 3 parties
-        majorAverage = majorAverage.slice(0,3);
+        majorAverage = majorAverage.slice(0, 3);
     }
 
     return (
-        <Link className="dashProvince" to={`/${jurisdiction.replace("_","-")}-${election.year}`} style={{textDecoration: "none"}}>
-            <DashChart polls={polls} jurisdiction={jurisdiction} election={election} plotWidth={400} plotHeight={350} className="dashChart" /> 
+        <Link className="dashProvince" to={`/${jurisdiction.replace("_", "-")}-${election.year}`} style={{ textDecoration: "none" }}>
+            <DashChart polls={polls} jurisdiction={jurisdiction} election={election} plotWidth={400} plotHeight={350} className="dashChart" />
             <div className="dashPartyContainer">
-            {majorAverage.map((event, n) =>
-                <div className="dashParty" key={n}>
-                        <div className="dashName" style={{color: brandColours[relevantParties[event.party].colour]}}>{event.party}</div>
-                        <div className="dashScore" style={{color: event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? brandColours["green"] : brandColours["red"]}}>
+                {majorAverage.length > 0 ? majorAverage.map((event, n) =>
+                    <div className="dashParty" key={n}>
+                        <div className="dashName" style={{ color: brandColours[relevantParties[event.party].colour] }}>{event.party}</div>
+                        <div className="dashScore" style={{ color: event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? brandColours["green"] : brandColours["red"] }}>
                             {event.score > (election.results.filter(x => x.party === event.party)[0]?.score || 0) ? "▲" : "▼"}
                             {event.score % 1 === 0 ? String(event.score) + ".0" : event.score}
                         </div>
-                </div>
-            )}
-            </div> 
+                    </div>
+                ) :
+                    <div className="dashParty">
+                        <div className="dashName" style={{ color: "#B0B0B0" }}>Gone fishing</div>
+                        <div className="dashScore" style={{ color: "#B0B0B0" }}>No new polls yet</div>
+                    </div>
+                }
+            </div>
             <div className="dashTitle">{title[jurisdiction]}</div>
         </Link>
     )
