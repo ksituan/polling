@@ -2932,6 +2932,28 @@
         "jurisdiction": "NL"
     },
     {
+        "date": "2025-10-14",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 8.3
+            },
+            {
+                "party": "PCNL",
+                "score": 44.3
+            },
+            {
+                "party": "LPNL",
+                "score": 43.5
+            },
+            {
+                "party": "Others",
+                "score": 3.9
+            }
+        ],
+        "jurisdiction": "NL"
+    }
+    {
         "date": "2021-04-12",
         "results": [
             {
