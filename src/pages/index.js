@@ -82,7 +82,7 @@ const IndexPage = ({pageContext, data}) => (
     <Calendar /> */}
 
     <h1>About</h1>
-    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. & Co. now enjoys 204,000 followers across multiple platforms, with millions of views every month.</p>
+    <p>My name is Curtis Fric, and I've been running Polling Canada since 2017.  I was a bored university student in my second year, and figured there had to be a better way to gather public polling from around the country. From humble beginnings, P.C. & Co. now enjoys 290,000 followers across multiple platforms, with millions of views every month.</p>
     <p>My message to campaigns: If you misrepresent publicly available numbers, I will find you.</p>
     <p>Follow me on <a href="https://twitter.com/CanadianPolling" target="_blank" rel="noreferrer">Twitter</a>, <a href="https://bsky.app/profile/canadianpolling.bsky.social" target="_blank" rel="noreferrer">Bluesky</a>, <a href="https://www.facebook.com/CanadianPolling" target="_blank" rel="noreferrer">Facebook</a>, and <a href="https://canadianpolling.substack.com/" target="_blank" rel="noreferrer">Substack</a> or help me keep this site ad-free by <a href="https://ko-fi.com/polling" target="_blank" rel="noreferrer">sending me money</a>.</p>
     
