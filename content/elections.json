@@ -2954,6 +2954,24 @@
         "jurisdiction": "NL"
     },
     {
+        "date": "2025-11-04",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 37.8
+            },
+            {
+                "party": "YP",
+                "score": 51.9
+            },
+            {
+                "party": "YLP",
+                "score": 10.2
+            }
+        ],
+        "jurisdiction": "YT"
+    },
+    {
         "date": "2021-04-12",
         "results": [
             {
