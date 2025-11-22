@@ -21,7 +21,7 @@ const faq = () => (
     <h2>What about this Twitter poll with 50,000 responses?</h2>
     <p>In a scientific poll, every demographic is specially weighted relative to its share of the population. Social media polls are unscientific (and dominated by people who spend all day on social media), making them useless for understanding the general public.</p>
     <h2>Who decides if a company is "reputable"? Is it you?</h2>
-    <p>Nope. It's a professional body, the <a href="https://www.canadianresearchinsightscouncil.ca" target="_blank" rel="noreferrer">Canadian Research Insights Council</a>. In particular, a reputable firm needs to adhere to the <a href="https://www.canadianresearchinsightscouncil.ca/standards/por/" target="_blank" rel="noreferrer">Standards and Disclosure Requirements</a>.</p>
+    <p>Nope. It's a professional body, the <a href="https://www.canadianresearchinsightscouncil.ca" target="_blank" rel="noreferrer">Canadian Research Insights Council</a>. In particular, a reputable firm needs to adhere to the <a href="https://www.canadianresearchinsightscouncil.ca/standards/por/" target="_blank" rel="noreferrer">Standards and Disclosure Requirements</a>. Companies can also submit their full methodologies for review, using CRIC standards as a guideline for compliance and transparency.</p>
     <h2>Aren't polls always wrong?</h2>
     <p>Some pollsters certainly suck, but the majority who remain in business are actually quite good at predicting Canadian elections. Most races in the last 10 years have been called correctly.</p>
     <h2>Aren't polls sometimes wrong?</h2>
