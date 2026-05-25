@@ -1,167 +1,179 @@
 {
-    "Banff—Airdrie": {
-        "x": 7,
-        "y": 7
+    "Airdrie—Cochrane": {
+        "x": 8,
+        "y": 6
     },
     "Battle River—Crowfoot": {
         "x": 10,
-        "y": 4
+        "y": 5
     },
     "Bow River": {
-        "x": 10,
-        "y": 8
+        "x": 9,
+        "y": 10
     },
     "Calgary Centre": {
         "x": 9,
-        "y": 7
+        "y": 8
     },
     "Calgary Confederation": {
         "x": 9,
-        "y": 6
+        "y": 7
     },
-    "Calgary Forest Lawn": {
+    "Calgary Crowfoot": {
+        "x": 8,
+        "y": 7
+    },
+    "Calgary East": {
         "x": 10,
-        "y": 6
+        "y": 8
     },
     "Calgary Heritage": {
         "x": 8,
-        "y": 8
+        "y": 9
+    },
+    "Calgary McKnight": {
+        "x": 10,
+        "y": 7
     },
     "Calgary Midnapore": {
         "x": 9,
-        "y": 8
+        "y": 9
     },
     "Calgary Nose Hill": {
         "x": 9,
-        "y": 5
-    },
-    "Calgary Rocky Ridge": {
-        "x": 8,
         "y": 6
     },
     "Calgary Shepard": {
         "x": 10,
-        "y": 7
+        "y": 9
     },
     "Calgary Signal Hill": {
         "x": 8,
-        "y": 7
+        "y": 8
     },
     "Calgary Skyview": {
         "x": 10,
-        "y": 5
+        "y": 6
     },
     "Edmonton Centre": {
         "x": 7,
-        "y": 3
+        "y": 4
+    },
+    "Edmonton Gateway": {
+        "x": 7,
+        "y": 5
     },
     "Edmonton Griesbach": {
         "x": 7,
-        "y": 2
+        "y": 3
     },
     "Edmonton Manning": {
         "x": 8,
-        "y": 2
+        "y": 3
     },
-    "Edmonton Mill Woods": {
-        "x": 8,
-        "y": 4
+    "Edmonton Northwest": {
+        "x": 6,
+        "y": 3
     },
     "Edmonton Riverbend": {
         "x": 6,
-        "y": 4
+        "y": 5
+    },
+    "Edmonton Southeast": {
+        "x": 8,
+        "y": 5
     },
     "Edmonton Strathcona": {
-        "x": 7,
+        "x": 8,
         "y": 4
     },
     "Edmonton West": {
         "x": 6,
-        "y": 3
-    },
-    "Edmonton—Wetaskiwin": {
-        "x": 7,
-        "y": 5
+        "y": 4
     },
     "Foothills": {
-        "x": 8,
-        "y": 9
+        "x": 7,
+        "y": 8
     },
     "Fort McMurray—Cold Lake": {
         "x": 10,
         "y": 3
     },
-    "Grande Prairie—Mackenzie": {
-        "x": 9,
+    "Grande Prairie": {
+        "x": 7,
         "y": 2
     },
     "Lakeland": {
         "x": 9,
-        "y": 4
-    },
-    "Lethbridge": {
-        "x": 9,
-        "y": 9
-    },
-    "Medicine Hat—Cardston—Warner": {
-        "x": 10,
-        "y": 9
-    },
-    "Peace River—Westlock": {
-        "x": 9,
         "y": 3
     },
-    "Red Deer—Lacombe": {
-        "x": 8,
-        "y": 5
-    },
-    "Red Deer—Mountain View": {
+    "Leduc—Wetaskiwin": {
         "x": 7,
         "y": 6
     },
-    "Sherwood Park—Fort Saskatchewan": {
+    "Lethbridge": {
         "x": 8,
-        "y": 3
+        "y": 10
     },
-    "St. Albert—Edmonton": {
-        "x": 6,
-        "y": 2
+    "Medicine Hat—Cardston—Warner": {
+        "x": 10,
+        "y": 10
     },
-    "Sturgeon River—Parkland": {
-        "x": 6,
-        "y": 5
-    },
-    "Yellowhead": {
+    "Parkland": {
         "x": 6,
         "y": 6
     },
-    "Abbotsford": {
-        "x": 5,
-        "y": 8
+    "Peace River—Westlock": {
+        "x": 8,
+        "y": 2
     },
-    "Burnaby North—Seymour": {
-        "x": 4,
+    "Ponoka—Didsbury": {
+        "x": 10,
         "y": 4
     },
-    "Burnaby South": {
+    "Red Deer": {
+        "x": 9,
+        "y": 5
+    },
+    "Sherwood Park—Fort Saskatchewan": {
+        "x": 9,
+        "y": 4
+    },
+    "St. Albert—Sturgeon River": {
+        "x": 6,
+        "y": 2
+    },
+    "Yellowhead": {
+        "x": 7,
+        "y": 7
+    },
+    "Abbotsford—South Langley": {
+        "x": 4,
+        "y": 10
+    },
+    "Burnaby Central": {
+        "x": 4,
+        "y": 6
+    },
+    "Burnaby North—Seymour": {
         "x": 4,
         "y": 5
     },
     "Cariboo—Prince George": {
         "x": 5,
-        "y": 3
-    },
-    "Central Okanagan—Similkameen—Nicola": {
-        "x": 6,
-        "y": 9
+        "y": 4
     },
     "Chilliwack—Hope": {
         "x": 5,
-        "y": 9
+        "y": 10
     },
     "Cloverdale—Langley City": {
         "x": 4,
-        "y": 8
+        "y": 9
+    },
+    "Columbia—Kootenay—Southern Rockies": {
+        "x": 7,
+        "y": 10
     },
     "Coquitlam—Port Coquitlam": {
         "x": 5,
@@ -169,815 +181,823 @@
     },
     "Courtenay—Alberni": {
         "x": 1,
-        "y": 8
+        "y": 9
     },
     "Cowichan—Malahat—Langford": {
         "x": 1,
-        "y": 9
+        "y": 10
     },
     "Delta": {
         "x": 2,
-        "y": 7
+        "y": 8
     },
     "Esquimalt—Saanich—Sooke": {
         "x": 1,
-        "y": 10
+        "y": 11
     },
     "Fleetwood—Port Kells": {
-        "x": 4,
+        "x": 5,
         "y": 7
     },
-    "Kamloops—Thompson—Cariboo" : {
-        "x": 4,
-        "y": 3
-    },
-    "Kelowna—Lake Country": {
+    "Kamloops—Shuswap—Central Rockies": {
         "x": 6,
         "y": 8
     },
-    "Kootenay—Columbia": {
-        "x": 7,
+    "Kamloops—Thompson—Nicola": {
+        "x": 5,
         "y": 8
     },
-    "Langley—Aldergrove": {
-        "x": 4,
+    "Kelowna": {
+        "x": 6,
         "y": 9
     },
-    "Mission—Matsqui—Fraser Canyon": {
-        "x": 5,
+    "Langley Township—Fraser Heights": {
+        "x": 4,
+        "y": 8
+    },
+    "Mission—Matsqui—Abbotsford": {
+        "x": 6,
         "y": 7
     },
     "Nanaimo—Ladysmith": {
         "x": 2,
-        "y": 8
+        "y": 9
     },
-    "New Westminster—Burnaby": {
+    "New Westminster—Burnaby—Maillardville": {
         "x": 4,
-        "y": 6
+        "y": 7
     },
     "North Island—Powell River": {
         "x": 1,
-        "y": 7
+        "y": 8
     },
-    "North Okanagan—Shuswap": {
-        "x": 6,
-        "y": 7
-    },
-    "North Vancouver": {
+    "North Vancouver—Capilano": {
         "x": 3,
-        "y": 3
+        "y": 4
+    },
+    "Okanagan Lake West—South Kelowna": {
+        "x": 6,
+        "y": 10
     },
     "Pitt Meadows—Maple Ridge": {
         "x": 5,
-        "y": 4
+        "y": 6
     },
     "Port Moody—Coquitlam": {
-        "x": 5,
-        "y": 6
+        "x": 4,
+        "y": 4
     },
     "Prince George—Peace River—Northern Rockies": {
         "x": 5,
-        "y": 2
+        "y": 3
     },
-    "Richmond Centre": {
+    "Richmond Centre—Marpole": {
         "x": 1,
-        "y": 5
+        "y": 6
+    },
+    "Richmond East—Steveston": {
+        "x": 2,
+        "y": 7
     },
     "Saanich—Gulf Islands": {
         "x": 2,
+        "y": 10
+    },
+    "Similkameen—South Okanagan—West Kootenay": {
+        "x": 5,
         "y": 9
     },
     "Skeena—Bulkley Valley": {
         "x": 4,
-        "y": 2
-    },
-    "South Okanagan—West Kootenay": {
-        "x": 7,
-        "y": 9
+        "y": 3
     },
     "South Surrey—White Rock": {
         "x": 3,
-        "y": 9
-    },
-    "Steveston—Richmond East": {
-        "x": 2,
-        "y": 6
+        "y": 10
     },
     "Surrey Centre": {
         "x": 3,
-        "y": 7
-    },
-    "Surrey—Newton": {
-        "x": 3,
         "y": 8
+    },
+    "Surrey Newton": {
+        "x": 3,
+        "y": 9
     },
     "Vancouver Centre": {
         "x": 2,
-        "y": 4
+        "y": 5
     },
     "Vancouver East": {
         "x": 3,
-        "y": 4
+        "y": 5
+    },
+    "Vancouver Fraserview—South Burnaby": {
+        "x": 3,
+        "y": 7
     },
     "Vancouver Granville": {
         "x": 2,
-        "y": 5
+        "y": 6
     },
     "Vancouver Kingsway": {
         "x": 3,
-        "y": 5
+        "y": 6
     },
     "Vancouver Quadra": {
         "x": 1,
-        "y": 4
+        "y": 5
     },
-    "Vancouver South": {
-        "x": 3,
-        "y": 6
+    "Vernon—Lake Country—Monashee": {
+        "x": 7,
+        "y": 9
     },
     "Victoria": {
         "x": 2,
-        "y": 10
+        "y": 11
     },
     "West Vancouver—Sunshine Coast—Sea to Sky Country": {
         "x": 2,
-        "y": 3
+        "y": 4
     },
     "Brandon—Souris": {
         "x": 14,
-        "y": 10
-    },
-    "Charleswood—St. James—Assiniboia—Headingley": {
-        "x": 14,
-        "y": 8
+        "y": 11
     },
     "Churchill—Keewatinook Aski": {
         "x": 16,
-        "y": 6
-    },
-    "Dauphin—Swan River—Neepawa": {
-        "x": 14,
-        "y": 9
+        "y": 7
     },
     "Elmwood—Transcona": {
         "x": 16,
-        "y": 7
+        "y": 8
     },
     "Kildonan—St. Paul": {
         "x": 15,
-        "y": 7
+        "y": 8
     },
     "Portage—Lisgar": {
         "x": 15,
-        "y": 10
+        "y": 11
     },
     "Provencher": {
         "x": 16,
-        "y": 10
+        "y": 11
     },
-    "Saint Boniface—Saint Vital": {
-        "x": 16,
-        "y": 8
+    "Riding Mountain": {
+        "x": 14,
+        "y": 10
     },
     "Selkirk—Interlake—Eastman": {
         "x": 15,
-        "y": 6
-    },
-    "Winnipeg Centre": {
-        "x": 15,
-        "y": 8
-    },
-    "Winnipeg North": {
-        "x": 14,
         "y": 7
     },
-    "Winnipeg South": {
+    "St. Boniface—St. Vital": {
         "x": 16,
         "y": 9
     },
+    "Winnipeg Centre": {
+        "x": 15,
+        "y": 9
+    },
+    "Winnipeg North": {
+        "x": 14,
+        "y": 8
+    },
+    "Winnipeg South": {
+        "x": 16,
+        "y": 10
+    },
     "Winnipeg South Centre": {
         "x": 15,
+        "y": 10
+    },
+    "Winnipeg West": {
+        "x": 14,
         "y": 9
     },
     "Acadie—Bathurst": {
         "x": 38,
-        "y": 6
+        "y": 7
     },
     "Beauséjour": {
         "x": 40,
-        "y": 7
+        "y": 8
     },
-    "Fredericton": {
+    "Fredericton—Oromocto": {
         "x": 38,
-        "y": 7
+        "y": 8
     },
     "Fundy Royal": {
         "x": 39,
-        "y": 8
+        "y": 9
     },
     "Madawaska—Restigouche": {
         "x": 37,
-        "y": 6
+        "y": 7
     },
     "Miramichi—Grand Lake": {
         "x": 39,
-        "y": 6
-    },
-    "Moncton—Riverview—Dieppe": {
-        "x": 39,
         "y": 7
     },
-    "New Brunswick Southwest": {
-        "x": 37,
+    "Moncton—Dieppe": {
+        "x": 39,
         "y": 8
     },
-    "Saint John—Rothesay": {
+    "Saint John—Kennebecasis": {
         "x": 38,
-        "y": 8
+        "y": 9
+    },
+    "Saint John—St. Croix": {
+        "x": 37,
+        "y": 9
     },
     "Tobique—Mactaquac": {
         "x": 37,
-        "y": 7
+        "y": 8
     },
     "Avalon": {
         "x": 42,
-        "y": 3
+        "y": 4
     },
-    "Bonavista—Burin—Trinity": {
+    "Cape Spear": {
+        "x": 41,
+        "y": 4
+    },
+    "Central Newfoundland": {
         "x": 40,
         "y": 3
-    },
-    "Coast of Bays—Central—Notre Dame": {
-        "x": 40,
-        "y": 2
     },
     "Labrador": {
-        "x": 37,
-        "y": 2
+        "x": 36,
+        "y": 3
     },
     "Long Range Mountains": {
         "x": 40,
-        "y": 1
+        "y": 2
     },
     "St. John's East": {
         "x": 41,
-        "y": 2
-    },
-    "St. John's South—Mount Pearl": {
-        "x": 41,
         "y": 3
     },
+    "Terra Nova—The Peninsulas": {
+        "x": 40,
+        "y": 4
+    },
     "Northwest Territories": {
-        "x": 6,
+        "x": 7,
         "y": 1
     },
-    "Cape Breton—Canso": {
+    "Acadie—Annapolis": {
+        "x": 40,
+        "y": 10
+    },
+    "Cape Breton—Canso—Antigonish": {
         "x": 42,
-        "y": 5
+        "y": 6
     },
     "Central Nova": {
         "x": 43,
-        "y": 6
+        "y": 7
     },
     "Cumberland—Colchester": {
         "x": 42,
-        "y": 6
+        "y": 7
     },
     "Dartmouth—Cole Harbour": {
         "x": 42,
-        "y": 7
+        "y": 8
     },
     "Halifax": {
         "x": 42,
-        "y": 8
+        "y": 9
     },
     "Halifax West": {
         "x": 41,
-        "y": 8
+        "y": 9
     },
     "Kings—Hants": {
         "x": 40,
-        "y": 8
+        "y": 9
     },
-    "Sackville—Preston—Chezzetcook": {
+    "Sackville—Bedford—Preston": {
         "x": 41,
-        "y": 7
+        "y": 8
     },
     "South Shore—St. Margarets": {
         "x": 41,
-        "y": 9
+        "y": 10
     },
-    "Sydney—Victoria": {
+    "Sydney—Glace Bay": {
         "x": 43,
-        "y": 5
-    },
-    "West Nova": {
-        "x": 40,
-        "y": 9
+        "y": 6
     },
     "Nunavut": {
-        "x": 7,
+        "x": 8,
         "y": 1
     },
     "Ajax": {
         "x": 23,
-        "y": 13
+        "y": 14
     },
-    "Algoma—Manitoulin—Kapuskasing": {
-        "x": 18,
-        "y": 9
+    "Algonquin—Renfrew—Pembroke": {
+        "x": 23,
+        "y": 11
     },
     "Aurora—Oak Ridges—Richmond Hill": {
         "x": 20,
-        "y": 12
+        "y": 13
     },
-    "Barrie—Innisfil": {
+    "Barrie South—Innisfil": {
         "x": 18,
-        "y": 11
+        "y": 12
     },
     "Barrie—Springwater—Oro-Medonte": {
         "x": 17,
-        "y": 11
+        "y": 12
     },
     "Bay of Quinte": {
         "x": 25,
-        "y": 14
+        "y": 15
     },
     "Beaches—East York": {
         "x": 20,
-        "y": 15
+        "y": 16
+    },
+    "Bowmanville—Oshawa North": {
+        "x": 24,
+        "y": 14
     },
     "Brampton Centre": {
         "x": 15,
-        "y": 14
+        "y": 15
     },
     "Brampton East": {
         "x": 15,
-        "y": 12
+        "y": 13
     },
-    "Brampton North": {
-        "x": 15,
+    "Brampton North—Caledon": {
+        "x": 14,
         "y": 13
     },
     "Brampton South": {
         "x": 14,
-        "y": 14
+        "y": 15
     },
     "Brampton West": {
         "x": 14,
-        "y": 13
+        "y": 14
     },
-    "Brantford—Brant": {
+    "Brampton—Chinguacousy Park": {
+        "x": 15,
+        "y": 14
+    },
+    "Brantford—Brant South—Six Nations": {
         "x": 12,
-        "y": 19
+        "y": 20
     },
     "Bruce—Grey—Owen Sound": {
         "x": 15,
-        "y": 11
+        "y": 12
     },
     "Burlington": {
         "x": 12,
-        "y": 18
+        "y": 19
+    },
+    "Burlington North—Milton West": {
+        "x": 12,
+        "y": 17
     },
     "Cambridge": {
         "x": 11,
-        "y": 18
+        "y": 19
     },
     "Carleton": {
         "x": 25,
-        "y": 12
+        "y": 13
     },
     "Chatham-Kent—Leamington": {
         "x": 9,
-        "y": 17
+        "y": 18
     },
     "Davenport": {
         "x": 17,
-        "y": 15
-    },
-    "Don Valley East": {
-        "x": 20,
-        "y": 14
+        "y": 16
     },
     "Don Valley North": {
         "x": 20,
-        "y": 13
+        "y": 14
     },
     "Don Valley West": {
         "x": 19,
-        "y": 14
+        "y": 15
     },
     "Dufferin—Caledon": {
-        "x": 14,
-        "y": 12
-    },
-    "Durham": {
-        "x": 23,
-        "y": 11
+        "x": 13,
+        "y": 13
     },
     "Eglinton—Lawrence": {
         "x": 18,
-        "y": 14
+        "y": 15
     },
-    "Elgin—Middlesex—London": {
+    "Elgin—St. Thomas—London South": {
         "x": 10,
-        "y": 19
+        "y": 20
     },
     "Essex": {
         "x": 8,
-        "y": 17
+        "y": 18
     },
     "Etobicoke Centre": {
         "x": 16,
-        "y": 14
+        "y": 15
     },
     "Etobicoke North": {
         "x": 16,
-        "y": 13
+        "y": 14
     },
     "Etobicoke—Lakeshore": {
         "x": 16,
-        "y": 15
-    },
-    "Flamborough—Glanbrook": {
-        "x": 15,
-        "y": 19
-    },
-    "Glengarry—Prescott—Russell": {
-        "x": 27,
-        "y": 10
-    },
-    "Guelph": {
-        "x": 12,
         "y": 16
     },
-    "Haldimand—Norfolk": {
+    "Flamborough—Glanbrook—Brant North": {
         "x": 13,
-        "y": 19
+        "y": 20
     },
-    "Haliburton—Kawartha Lakes—Brock": {
+    "Guelph": {
+        "x": 13,
+        "y": 15
+    },
+    "Haldimand—Norfolk": {
+        "x": 15,
+        "y": 20
+    },
+    "Haliburton—Kawartha Lakes": {
         "x": 22,
-        "y": 11
+        "y": 12
     },
     "Hamilton Centre": {
         "x": 14,
-        "y": 18
+        "y": 19
     },
     "Hamilton East—Stoney Creek": {
         "x": 15,
-        "y": 18
+        "y": 19
     },
     "Hamilton Mountain": {
         "x": 14,
-        "y": 19
+        "y": 20
     },
     "Hamilton West—Ancaster—Dundas": {
         "x": 13,
-        "y": 18
+        "y": 19
     },
-    "Hastings—Lennox and Addington": {
+    "Hastings—Lennox and Addington—Tyendinaga": {
         "x": 27,
-        "y": 13
+        "y": 14
     },
     "Humber River—Black Creek": {
         "x": 17,
-        "y": 13
+        "y": 14
     },
     "Huron—Bruce": {
         "x": 13,
+        "y": 14
+    },
+    "Kanata": {
+        "x": 24,
         "y": 13
     },
-    "Kanata—Carleton": {
-        "x": 24,
-        "y": 12
+    "Kapuskasing—Timmins—Mushkegowuk": {
+        "x": 18,
+        "y": 10
     },
-    "Kenora": {
+    "Kenora—Kiiwetinoong": {
         "x": 17,
-        "y": 8
+        "y": 9
     },
     "King—Vaughan": {
         "x": 17,
-        "y": 12
+        "y": 13
     },
     "Kingston and the Islands": {
         "x": 26,
-        "y": 14
+        "y": 15
     },
     "Kitchener Centre": {
         "x": 11,
-        "y": 16
+        "y": 17
     },
     "Kitchener South—Hespeler": {
         "x": 11,
-        "y": 17
+        "y": 18
     },
     "Kitchener—Conestoga": {
         "x": 12,
-        "y": 15
-    },
-    "Lambton—Kent—Middlesex": {
-        "x": 9,
         "y": 16
     },
-    "Lanark—Frontenac—Kingston": {
+    "Lanark—Frontenac": {
         "x": 26,
-        "y": 12
+        "y": 13
     },
-    "Leeds—Grenville—Thousand Islands and Rideau Lakes": {
+    "Leeds—Grenville—Thousand Islands—Rideau Lakes": {
         "x": 27,
-        "y": 12
+        "y": 13
     },
-    "London North Centre": {
+    "London Centre": {
         "x": 10,
-        "y": 17
+        "y": 18
     },
     "London West": {
         "x": 10,
-        "y": 16
+        "y": 17
     },
     "London—Fanshawe": {
         "x": 10,
-        "y": 18
+        "y": 19
     },
     "Markham—Stouffville": {
         "x": 22,
-        "y": 12
+        "y": 13
     },
     "Markham—Thornhill": {
         "x": 21,
-        "y": 12
+        "y": 13
     },
     "Markham—Unionville": {
         "x": 21,
-        "y": 11
+        "y": 12
     },
-    "Milton": {
+    "Middlesex—London": {
+        "x": 9,
+        "y": 17
+    },
+    "Milton East—Halton Hills South": {
         "x": 13,
-        "y": 16
+        "y": 17
     },
     "Mississauga Centre": {
         "x": 14,
-        "y": 16
+        "y": 17
     },
     "Mississauga East—Cooksville": {
         "x": 15,
-        "y": 16
+        "y": 17
     },
     "Mississauga—Erin Mills": {
         "x": 14,
-        "y": 17
+        "y": 18
     },
     "Mississauga—Lakeshore": {
         "x": 15,
-        "y": 17
+        "y": 18
     },
     "Mississauga—Malton": {
         "x": 15,
-        "y": 15
+        "y": 16
     },
     "Mississauga—Streetsville": {
         "x": 14,
-        "y": 15
+        "y": 16
     },
     "Nepean": {
         "x": 24,
-        "y": 11
+        "y": 12
+    },
+    "New Tecumseth—Gwillimbury": {
+        "x": 19,
+        "y": 12
     },
     "Newmarket—Aurora": {
         "x": 20,
-        "y": 11
+        "y": 12
     },
-    "Niagara Centre": {
+    "Niagara Falls—Niagara-on-the-Lake": {
         "x": 17,
         "y": 19
     },
-    "Niagara Falls": {
+    "Niagara South": {
         "x": 17,
-        "y": 18
+        "y": 20
     },
     "Niagara West": {
         "x": 16,
-        "y": 19
-    },
-    "Nickel Belt": {
-        "x": 19,
-        "y": 9
+        "y": 20
     },
     "Nipissing—Timiskaming": {
         "x": 20,
-        "y": 10
+        "y": 11
     },
-    "Northumberland—Peterborough South": {
+    "Northumberland—Clarke": {
         "x": 25,
-        "y": 13
+        "y": 14
     },
-    "Oakville": {
+    "Oakville East": {
         "x": 13,
-        "y": 17
+        "y": 18
     },
-    "Oakville North—Burlington": {
+    "Oakville West": {
         "x": 12,
-        "y": 17
+        "y": 18
     },
     "Orléans": {
         "x": 26,
-        "y": 11
+        "y": 12
     },
     "Oshawa": {
         "x": 24,
-        "y": 14
+        "y": 15
     },
     "Ottawa Centre": {
         "x": 25,
-        "y": 10
+        "y": 11
     },
     "Ottawa South": {
         "x": 25,
-        "y": 11
+        "y": 12
     },
     "Ottawa West—Nepean": {
         "x": 24,
-        "y": 10
+        "y": 11
     },
-    "Ottawa—Vanier": {
+    "Ottawa—Vanier—Gloucester": {
         "x": 26,
-        "y": 10
+        "y": 11
     },
     "Oxford": {
         "x": 11,
-        "y": 19
-    },
-    "Parkdale—High Park": {
-        "x": 16,
-        "y": 16
+        "y": 20
     },
     "Parry Sound—Muskoka": {
         "x": 21,
-        "y": 10
-    },
-    "Perth—Wellington": {
-        "x": 13,
-        "y": 14
-    },
-    "Peterborough—Kawartha": {
-        "x": 26,
-        "y": 13
-    },
-    "Pickering—Uxbridge": {
-        "x": 23,
-        "y": 12
-    },
-    "Renfrew—Nipissing—Pembroke": {
-        "x": 23,
-        "y": 10
-    },
-    "Richmond Hill": {
-        "x": 19,
-        "y": 12
-    },
-    "Sarnia—Lambton": {
-        "x": 8,
-        "y": 16
-    },
-    "Sault Ste. Marie": {
-        "x": 18,
-        "y": 10
-    },
-    "Scarborough Centre": {
-        "x": 21,
-        "y": 14
-    },
-    "Scarborough North": {
-        "x": 22,
-        "y": 13
-    },
-    "Scarborough Southwest": {
-        "x": 21,
-        "y": 15
-    },
-    "Scarborough—Agincourt": {
-        "x": 21,
-        "y": 13
-    },
-    "Scarborough—Guildwood": {
-        "x": 22,
-        "y": 14
-    },
-    "Scarborough—Rouge Park": {
-        "x": 23,
-        "y": 14
-    },
-    "Simcoe North": {
-        "x": 22,
-        "y": 10
-    },
-    "Simcoe—Grey": {
-        "x": 16,
         "y": 11
     },
-    "Spadina—Fort York": {
-        "x": 18,
-        "y": 16
+    "Perth—Wellington": {
+        "x": 12,
+        "y": 15
     },
-    "St. Catharines": {
-        "x": 16,
-        "y": 18
+    "Peterborough": {
+        "x": 26,
+        "y": 14
     },
-    "Stormont—Dundas—South Glengarry": {
+    "Pickering—Brooklin": {
+        "x": 23,
+        "y": 15
+    },
+    "Prescott—Russell—Cumberland": {
         "x": 27,
         "y": 11
     },
-    "Sudbury": {
+    "Richmond Hill South": {
         "x": 19,
-        "y": 10
+        "y": 13
     },
-    "Thornhill": {
+    "Sarnia—Lambton—Bkejwanong": {
+        "x": 8,
+        "y": 17
+    },
+    "Sault Ste. Marie—Algoma": {
         "x": 18,
-        "y": 12
+        "y": 11
     },
-    "Thunder Bay—Rainy River": {
-        "x": 17,
-        "y": 10
-    },
-    "Thunder Bay—Superior North": {
-        "x": 17,
-        "y": 9
-    },
-    "Timmins—James Bay": {
-        "x": 18,
-        "y": 8
-    },
-    "Toronto Centre": {
-        "x": 19,
-        "y": 16
-    },
-    "Toronto—Danforth": {
-        "x": 19,
+    "Scarborough Centre—Don Valley East": {
+        "x": 20,
         "y": 15
     },
-    "Toronto—St. Paul's": {
-        "x": 18,
-        "y": 15
+    "Scarborough North": {
+        "x": 22,
+        "y": 14
     },
-    "University—Rosedale": {
-        "x": 17,
+    "Scarborough Southwest": {
+        "x": 21,
         "y": 16
     },
-    "Vaughan—Woodbridge": {
+    "Scarborough—Agincourt": {
+        "x": 21,
+        "y": 14
+    },
+    "Scarborough—Guildwood—Rouge Park": {
+        "x": 22,
+        "y": 15
+    },
+    "Scarborough—Woburn": {
+        "x": 21,
+        "y": 15
+    },
+    "Simcoe North": {
+        "x": 22,
+        "y": 11
+    },
+    "Simcoe—Grey": {
         "x": 16,
         "y": 12
     },
+    "Spadina—Harbourfront": {
+        "x": 18,
+        "y": 17
+    },
+    "St. Catharines": {
+        "x": 16,
+        "y": 19
+    },
+    "Stormont—Dundas—Glengarry": {
+        "x": 27,
+        "y": 12
+    },
+    "Sudbury": {
+        "x": 19,
+        "y": 11
+    },
+    "Sudbury East—Manitoulin—Nickel Belt": {
+        "x": 19,
+        "y": 10
+    },
+    "Taiaiako'n—Parkdale—High Park": {
+        "x": 16,
+        "y": 17
+    },
+    "Thornhill": {
+        "x": 18,
+        "y": 13
+    },
+    "Thunder Bay—Rainy River": {
+        "x": 17,
+        "y": 11
+    },
+    "Thunder Bay—Superior North": {
+        "x": 17,
+        "y": 10
+    },
+    "Toronto Centre": {
+        "x": 19,
+        "y": 17
+    },
+    "Toronto—Danforth": {
+        "x": 19,
+        "y": 16
+    },
+    "Toronto—St. Paul's": {
+        "x": 18,
+        "y": 16
+    },
+    "University—Rosedale": {
+        "x": 17,
+        "y": 17
+    },
+    "Vaughan—Woodbridge": {
+        "x": 16,
+        "y": 13
+    },
     "Waterloo": {
         "x": 11,
-        "y": 15
+        "y": 16
     },
-    "Wellington—Halton Hills": {
+    "Wellington—Halton Hills North": {
         "x": 13,
-        "y": 15
+        "y": 16
     },
     "Whitby": {
-        "x": 24,
+        "x": 23,
         "y": 13
     },
     "Willowdale": {
         "x": 19,
-        "y": 13
+        "y": 14
     },
     "Windsor West": {
         "x": 8,
-        "y": 18
+        "y": 19
     },
-    "Windsor—Tecumseh": {
+    "Windsor—Tecumseh—Lakeshore": {
         "x": 9,
-        "y": 18
+        "y": 19
     },
     "York Centre": {
         "x": 18,
-        "y": 13
-    },
-    "York South—Weston": {
-        "x": 17,
         "y": 14
     },
-    "York—Simcoe": {
-        "x": 19,
-        "y": 11
+    "York South—Weston—Etobicoke": {
+        "x": 17,
+        "y": 15
+    },
+    "York—Durham": {
+        "x": 23,
+        "y": 12
     },
     "Cardigan": {
         "x": 41,
-        "y": 5
+        "y": 6
     },
     "Charlottetown": {
         "x": 41,
-        "y": 6
+        "y": 7
     },
     "Egmont": {
         "x": 40,
-        "y": 6
+        "y": 7
     },
     "Malpeque": {
         "x": 40,
-        "y": 5
+        "y": 6
     },
     "Abitibi—Baie-James—Nunavik—Eeyou": {
         "x": 27,
@@ -989,131 +1009,135 @@
     },
     "Ahuntsic-Cartierville": {
         "x": 30,
-        "y": 7
+        "y": 8
     },
     "Alfred-Pellan": {
         "x": 29,
-        "y": 6
+        "y": 7
     },
     "Argenteuil—La Petite-Nation": {
         "x": 27,
-        "y": 9
-    },
-    "Avignon—La Mitis—Matane—Matapédia": {
-        "x": 37,
-        "y": 4
+        "y": 10
     },
     "Beauce": {
         "x": 36,
-        "y": 6
+        "y": 7
     },
-    "Beauport—Côte-de-Beaupré—Île D’Orléans—Charlevoix": {
-        "x": 36,
-        "y": 4
+    "Beauharnois—Salaberry—Soulanges—Huntingdon": {
+        "x": 28,
+        "y": 12
     },
     "Beauport—Limoilou": {
         "x": 35,
-        "y": 5
-    },
-    "Bécancour—Nicolet—Saurel": {
-        "x": 33,
         "y": 6
+    },
+    "Bécancour—Nicolet—Saurel—Alnôbak": {
+        "x": 33,
+        "y": 7
     },
     "Bellechasse—Les Etchemins—Lévis": {
         "x": 36,
-        "y": 5
+        "y": 6
     },
     "Beloeil—Chambly": {
         "x": 34,
-        "y": 8
+        "y": 9
     },
     "Berthier—Maskinongé": {
         "x": 30,
-        "y": 4
+        "y": 5
     },
     "Bourassa": {
         "x": 30,
-        "y": 6
+        "y": 7
     },
     "Brome—Missisquoi": {
         "x": 32,
-        "y": 11
+        "y": 12
     },
     "Brossard—Saint-Lambert": {
         "x": 32,
-        "y": 10
+        "y": 11
     },
     "Charlesbourg—Haute-Saint-Charles": {
         "x": 35,
-        "y": 4
+        "y": 5
     },
-    "Châteauguay—Lacolle": {
+    "Châteauguay—Les Jardins-de-Napierville": {
         "x": 29,
-        "y": 11
+        "y": 12
     },
     "Chicoutimi—Le Fjord": {
         "x": 35,
-        "y": 3
+        "y": 4
     },
     "Compton—Stanstead": {
         "x": 33,
-        "y": 11
+        "y": 12
+    },
+    "Côte-du-Sud-Rivière-du-Loup-Kataskomiq-Témiscouata": {
+        "x": 37,
+        "y": 6
+    },
+    "Côte-Nord—Kawawachikamach—Nitassinan": {
+        "x": 36,
+        "y": 4
     },
     "Dorval—Lachine—LaSalle": {
         "x": 30,
-        "y": 10
+        "y": 11
     },
     "Drummond": {
         "x": 35,
-        "y": 7
+        "y": 8
     },
-    "Gaspésie—Les Îles-de-la-Madeleine": {
+    "Gaspésie—Les Îles-de-la-Madeleine—Listuguj": {
         "x": 38,
-        "y": 4
+        "y": 5
     },
     "Gatineau": {
         "x": 26,
-        "y": 8
+        "y": 9
     },
-    "Hochelaga": {
+    "Hochelaga—Rosemont-Est": {
         "x": 32,
-        "y": 6
+        "y": 7
     },
     "Honoré-Mercier": {
         "x": 31,
-        "y": 5
+        "y": 6
     },
     "Hull—Aylmer": {
         "x": 26,
-        "y": 9
+        "y": 10
     },
-    "Joliette": {
+    "Joliette—Manawan": {
         "x": 29,
-        "y": 4
+        "y": 5
     },
     "Jonquière": {
         "x": 34,
-        "y": 3
+        "y": 4
     },
     "La Pointe-de-l'Île": {
         "x": 32,
-        "y": 5
+        "y": 6
     },
-    "La Prairie": {
+    "La Prairie—Atateken": {
         "x": 30,
-        "y": 11
+        "y": 12
     },
     "Lac-Saint-Jean": {
         "x": 33,
-        "y": 3
+        "y": 4
     },
     "Lac-Saint-Louis": {
         "x": 29,
-        "y": 10
+        "y": 11
     },
     "LaSalle—Émard—Verdun": {
         "x": 31,
-        "y": 10
+        "y": 11
     },
     "Laurentides—Labelle": {
         "x": 27,
@@ -1121,234 +1145,230 @@
     },
     "Laurier—Sainte-Marie": {
         "x": 32,
-        "y": 8
+        "y": 9
     },
     "Laval—Les Îles": {
         "x": 29,
+        "y": 9
+    },
+    "Les Pays-d'en-Haut": {
+        "x": 27,
         "y": 8
     },
     "Lévis—Lotbinière": {
         "x": 34,
-        "y": 6
+        "y": 7
     },
     "Longueuil—Charles-LeMoyne": {
         "x": 33,
-        "y": 10
+        "y": 11
     },
     "Longueuil—Saint-Hubert": {
         "x": 33,
-        "y": 9
+        "y": 10
     },
     "Louis-Hébert": {
         "x": 33,
-        "y": 5
+        "y": 6
     },
-    "Louis-Saint-Laurent": {
+    "Louis-Saint-Laurent—Akiawenhrahk": {
         "x": 34,
-        "y": 4
-    },
-    "Manicouagan": {
-        "x": 36,
-        "y": 3
+        "y": 5
     },
     "Marc-Aurèle-Fortin": {
         "x": 28,
-        "y": 7
+        "y": 8
     },
-    "Mégantic—L'Érable": {
+    "Mégantic—L'Érable—Lotbinière": {
         "x": 35,
-        "y": 6
+        "y": 7
     },
     "Mirabel": {
         "x": 28,
-        "y": 9
+        "y": 10
     },
-    "Montarville": {
+    "Mont-Saint-Bruno—L'Acadie": {
         "x": 33,
-        "y": 8
+        "y": 9
     },
     "Montcalm": {
         "x": 29,
-        "y": 5
+        "y": 6
     },
-    "Montmagny—L’Islet—Kamouraska—Rivière-du-Loup": {
-        "x": 37,
+    "Montmorency—Charlevoix": {
+        "x": 36,
         "y": 5
     },
     "Mount Royal": {
         "x": 30,
-        "y": 9
+        "y": 10
     },
     "Notre-Dame-de-Grâce—Westmount": {
         "x": 31,
-        "y": 9
+        "y": 10
     },
     "Outremont": {
         "x": 31,
-        "y": 8
+        "y": 9
     },
     "Papineau": {
         "x": 31,
-        "y": 7
+        "y": 8
     },
     "Pierre-Boucher—Les Patriotes—Verchères": {
         "x": 33,
-        "y": 7
+        "y": 8
     },
     "Pierrefonds—Dollard": {
         "x": 29,
-        "y": 9
+        "y": 10
     },
-    "Pontiac": {
+    "Pontiac—Kitigan Zibi": {
         "x": 26,
-        "y": 7
+        "y": 8
     },
     "Portneuf—Jacques-Cartier": {
         "x": 33,
-        "y": 4
-    },
-    "Québec": {
-        "x": 34,
         "y": 5
+    },
+    "Québec Centre": {
+        "x": 34,
+        "y": 6
     },
     "Repentigny": {
         "x": 30,
-        "y": 5
+        "y": 6
     },
     "Richmond—Arthabaska": {
         "x": 36,
-        "y": 7
+        "y": 8
     },
-    "Rimouski-Neigette—Témiscouata—Les Basques": {
-        "x": 38,
+    "Rimouski—La Matapédia": {
+        "x": 37,
         "y": 5
     },
     "Rivière-des-Mille-Îles": {
         "x": 28,
-        "y": 8
+        "y": 9
     },
     "Rivière-du-Nord": {
         "x": 27,
-        "y": 8
+        "y": 9
     },
     "Rosemont—La Petite-Patrie": {
         "x": 32,
-        "y": 7
+        "y": 8
     },
-    "Saint-Hyacinthe—Bagot": {
+    "Saint-Hyacinthe—Bagot—Acton": {
         "x": 34,
-        "y": 7
+        "y": 8
     },
     "Saint-Jean": {
         "x": 31,
-        "y": 11
+        "y": 12
     },
     "Saint-Laurent": {
         "x": 30,
-        "y": 8
+        "y": 9
     },
     "Saint-Léonard—Saint-Michel": {
         "x": 31,
-        "y": 6
+        "y": 7
     },
     "Saint-Maurice—Champlain": {
         "x": 32,
-        "y": 4
-    },
-    "Salaberry—Suroît": {
-        "x": 28,
-        "y": 11
+        "y": 5
     },
     "Shefford": {
         "x": 35,
-        "y": 8
+        "y": 9
     },
     "Sherbrooke": {
         "x": 34,
-        "y": 9
+        "y": 10
     },
     "Terrebonne": {
         "x": 28,
-        "y": 5
+        "y": 6
     },
     "Thérèse-De Blainville": {
         "x": 28,
-        "y": 6
+        "y": 7
     },
     "Trois-Rivières": {
         "x": 31,
-        "y": 4
+        "y": 5
     },
-    "Vaudreuil—Soulanges": {
+    "Vaudreuil": {
         "x": 28,
-        "y": 10
+        "y": 11
     },
     "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs": {
         "x": 32,
-        "y": 9
+        "y": 10
     },
     "Vimy": {
         "x": 29,
-        "y": 7
-    },
-    "Battlefords—Lloydminster": {
-        "x": 11,
         "y": 8
+    },
+    "Battlefords—Lloydminster—Meadow Lake": {
+        "x": 11,
+        "y": 9
     },
     "Carlton Trail—Eagle Creek": {
         "x": 12,
-        "y": 8
-    },
-    "Cypress Hills—Grasslands": {
-        "x": 11,
-        "y": 10
+        "y": 9
     },
     "Desnethé—Missinippi—Churchill River": {
         "x": 11,
-        "y": 6
+        "y": 7
     },
     "Moose Jaw—Lake Centre—Lanigan": {
         "x": 12,
-        "y": 10
+        "y": 11
     },
     "Prince Albert": {
         "x": 12,
-        "y": 6
+        "y": 7
     },
     "Regina—Lewvan": {
         "x": 11,
-        "y": 9
+        "y": 10
     },
     "Regina—Qu'Appelle": {
-        "x": 13,
-        "y": 9
+        "x": 12,
+        "y": 10
     },
     "Regina—Wascana": {
-        "x": 12,
-        "y": 9
-    },
-    "Saskatoon West": {
-        "x": 11,
-        "y": 7
-    },
-    "Saskatoon—Grasswood": {
-        "x": 13,
-        "y": 7
-    },
-    "Saskatoon—University":{
-        "x": 12,
-        "y": 7
-    },
-    "Souris—Moose Mountain": {
         "x": 13,
         "y": 10
     },
-    "Yorkton—Melville" : {
+    "Saskatoon South": {
+        "x": 12,
+        "y": 8
+    },
+    "Saskatoon West": {
+        "x": 11,
+        "y": 8
+    },
+    "Saskatoon—University": {
         "x": 13,
         "y": 8
     },
-    "Yukon" : {
-        "x": 5,
+    "Souris—Moose Mountain": {
+        "x": 13,
+        "y": 11
+    },
+    "Swift Current—Grasslands—Kindersley": {
+        "x": 11,
+        "y": 11
+    },
+    "Yorkton—Melville": {
+        "x": 13,
+        "y": 9
+    },
+    "Yukon": {
+        "x": 6,
         "y": 1
     }
 }

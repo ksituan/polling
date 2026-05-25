@@ -1,8 +1,8 @@
 [
     {
-        "province": "AB",
-        "riding": "Banff—Airdrie",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Airdrie—Cochrane",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Richards"
         ],
@@ -10,1355 +10,9 @@
         "g": true
     },
     {
-        "province": "AB",
+        "province": "Alberta",
         "riding": "Battle River—Crowfoot",
-        "party": "Conservative",
-        "surname": [
-            "Kurek"
-        ],
-        "given": "Damien C.",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Bow River",
-        "party": "Conservative",
-        "surname": [
-            "Shields"
-        ],
-        "given": "Martin",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Centre",
-        "party": "Conservative",
-        "surname": [
-            "McLean"
-        ],
-        "given": "Greg",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Confederation",
-        "party": "Conservative",
-        "surname": [
-            "Webber"
-        ],
-        "given": "Len",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Forest Lawn",
-        "party": "Conservative",
-        "surname": [
-            "Hallan"
-        ],
-        "given": "Jasraj Singh",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Heritage",
-        "party": "Conservative",
-        "surname": [
-            "Majumdar"
-        ],
-        "given": "Shuvaloy",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Midnapore",
-        "party": "Conservative",
-        "surname": [
-            "Kusie"
-        ],
-        "given": "Stephanie",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Nose Hill",
-        "party": "Conservative",
-        "surname": [
-            "Rempel Garner","Rempel","Garner"
-        ],
-        "given": "Michelle",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Rocky Ridge",
-        "party": "Conservative",
-        "surname": [
-            "Kelly"
-        ],
-        "given": "Pat",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Shepard",
-        "party": "Conservative",
-        "surname": [
-            "Kmiec"
-        ],
-        "given": "Tom",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Signal Hill",
-        "party": "Conservative",
-        "surname": [
-            "Liepert"
-        ],
-        "given": "Ron",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Calgary Skyview",
-        "party": "Liberal",
-        "surname": [
-            "Chahal"
-        ],
-        "given": "George",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Centre",
-        "party": "Liberal",
-        "surname": [
-            "Boissonnault"
-        ],
-        "given": "Randy",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Griesbach",
-        "party": "New Democratic",
-        "surname": [
-            "Desjarlais"
-        ],
-        "given": "Blake",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Manning",
-        "party": "Conservative",
-        "surname": [
-            "Aboultaif"
-        ],
-        "given": "Ziad",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Mill Woods",
-        "party": "Conservative",
-        "surname": [
-            "Uppal"
-        ],
-        "given": "Tim",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Riverbend",
-        "party": "Conservative",
-        "surname": [
-            "Jeneroux"
-        ],
-        "given": "Matt",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton Strathcona",
-        "party": "New Democratic",
-        "surname": [
-            "McPherson"
-        ],
-        "given": "Heather",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton West",
-        "party": "Conservative",
-        "surname": [
-            "McCauley"
-        ],
-        "given": "Kelly",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Edmonton—Wetaskiwin",
-        "party": "Conservative",
-        "surname": [
-            "Lake"
-        ],
-        "given": "Mike",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Foothills",
-        "party": "Conservative",
-        "surname": [
-            "Barlow"
-        ],
-        "given": "John",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Fort McMurray—Cold Lake",
-        "party": "Conservative",
-        "surname": [
-            "Goodridge"
-        ],
-        "given": "Laila",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Grande Prairie—Mackenzie",
-        "party": "Conservative",
-        "surname": [
-            "Warkentin"
-        ],
-        "given": "Chris",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Lakeland",
-        "party": "Conservative",
-        "surname": [
-            "Stubbs"
-        ],
-        "given": "Shannon",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Lethbridge",
-        "party": "Conservative",
-        "surname": [
-            "Thomas"
-        ],
-        "given": "Rachael",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Medicine Hat—Cardston—Warner",
-        "party": "Conservative",
-        "surname": [
-            "Motz"
-        ],
-        "given": "Glen",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Peace River—Westlock",
-        "party": "Conservative",
-        "surname": [
-            "Viersen"
-        ],
-        "given": "Arnold",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Red Deer—Lacombe",
-        "party": "Conservative",
-        "surname": [
-            "Calkins"
-        ],
-        "given": "Blaine",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Red Deer—Mountain View",
-        "party": "Conservative",
-        "surname": [
-            "Dreeshen"
-        ],
-        "given": "Earl",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Sherwood Park—Fort Saskatchewan",
-        "party": "Conservative",
-        "surname": [
-            "Genuis"
-        ],
-        "given": "Garnett",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "St. Albert—Edmonton",
-        "party": "Conservative",
-        "surname": [
-            "Cooper"
-        ],
-        "given": "Michael",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Sturgeon River—Parkland",
-        "party": "Conservative",
-        "surname": [
-            "Lloyd"
-        ],
-        "given": "Dane",
-        "g": true
-    },
-    {
-        "province": "AB",
-        "riding": "Yellowhead",
-        "party": "Conservative",
-        "surname": [
-            "Soroka"
-        ],
-        "given": "Gerald",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Abbotsford",
-        "party": "Conservative",
-        "surname": [
-            "Fast"
-        ],
-        "given": "Ed",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Burnaby North—Seymour",
-        "party": "Liberal",
-        "surname": [
-            "Beech"
-        ],
-        "given": "Terry",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Burnaby South",
-        "party": "New Democratic",
-        "surname": [
-            "Singh"
-        ],
-        "given": "Jagmeet",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Cariboo—Prince George",
-        "party": "Conservative",
-        "surname": [
-            "Doherty"
-        ],
-        "given": "Todd",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Central Okanagan—Similkameen—Nicola",
-        "party": "Conservative",
-        "surname": [
-            "Albas"
-        ],
-        "given": "Dan",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Chilliwack—Hope",
-        "party": "Conservative",
-        "surname": [
-            "Strahl"
-        ],
-        "given": "Mark",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Cloverdale—Langley City",
-        "party": "Conservative",
-        "surname": [
-            "Jansen"
-        ],
-        "given": "Tamara",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Coquitlam—Port Coquitlam",
-        "party": "Liberal",
-        "surname": [
-            "McKinnon"
-        ],
-        "given": "Ron",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Courtenay—Alberni",
-        "party": "New Democratic",
-        "surname": [
-            "Johns"
-        ],
-        "given": "Gord",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Cowichan—Malahat—Langford",
-        "party": "New Democratic",
-        "surname": [
-            "MacGregor"
-        ],
-        "given": "Alistair",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Delta",
-        "party": "Liberal",
-        "surname": [
-            "Qualtrough"
-        ],
-        "given": "Carla",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Esquimalt—Saanich—Sooke",
-        "party": "New Democratic",
-        "surname": [
-            "Garrison"
-        ],
-        "given": "Randall",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Fleetwood—Port Kells",
-        "party": "Liberal",
-        "surname": [
-            "Hardie"
-        ],
-        "given": "Ken",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Kamloops—Thompson—Cariboo",
-        "party": "Conservative",
-        "surname": [
-            "Caputo"
-        ],
-        "given": "Frank",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Kelowna—Lake Country",
-        "party": "Conservative",
-        "surname": [
-            "Gray"
-        ],
-        "given": "Tracy",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Kootenay—Columbia",
-        "party": "Conservative",
-        "surname": [
-            "Morrison"
-        ],
-        "given": "Rob",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Langley—Aldergrove",
-        "party": "Conservative",
-        "surname": [
-            "Van Popta","Popta"
-        ],
-        "given": "Tako",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Mission—Matsqui—Fraser Canyon",
-        "party": "Conservative",
-        "surname": [
-            "Vis"
-        ],
-        "given": "Brad",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Nanaimo—Ladysmith",
-        "party": "New Democratic",
-        "surname": [
-            "Barron"
-        ],
-        "given": "Lisa Marie",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "New Westminster—Burnaby",
-        "party": "New Democratic",
-        "surname": [
-            "Julian"
-        ],
-        "given": "Peter",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "North Island—Powell River",
-        "party": "New Democratic",
-        "surname": [
-            "Blaney"
-        ],
-        "given": "Rachel",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "North Okanagan—Shuswap",
-        "party": "Conservative",
-        "surname": [
-            "Arnold"
-        ],
-        "given": "Mel",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "North Vancouver",
-        "party": "Liberal",
-        "surname": [
-            "Wilkinson"
-        ],
-        "given": "Jonathan",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Pitt Meadows—Maple Ridge",
-        "party": "Conservative",
-        "surname": [
-            "Dalton"
-        ],
-        "given": "Marc",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Port Moody—Coquitlam",
-        "party": "New Democratic",
-        "surname": [
-            "Zarrillo"
-        ],
-        "given": "Bonita",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Prince George—Peace River—Northern Rockies",
-        "party": "Conservative",
-        "surname": [
-            "Zimmer"
-        ],
-        "given": "Bob",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Richmond Centre",
-        "party": "Liberal",
-        "surname": [
-            "Miao"
-        ],
-        "given": "Chung An Wilson",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Saanich—Gulf Islands",
-        "party": "Green",
-        "surname": [
-            "May"
-        ],
-        "given": "Elizabeth",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Skeena—Bulkley Valley",
-        "party": "New Democratic",
-        "surname": [
-            "Bachrach"
-        ],
-        "given": "Taylor",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "South Okanagan—West Kootenay",
-        "party": "New Democratic",
-        "surname": [
-            "Cannings"
-        ],
-        "given": "Richard",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "South Surrey—White Rock",
-        "party": "Conservative",
-        "surname": [
-            "Findlay"
-        ],
-        "given": "Kerry-Lynne D.",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Steveston—Richmond East",
-        "party": "Liberal",
-        "surname": [
-            "Bains"
-        ],
-        "given": "Parm",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Surrey Centre",
-        "party": "Liberal",
-        "surname": [
-            "Sarai"
-        ],
-        "given": "Randeep",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Surrey—Newton",
-        "party": "Liberal",
-        "surname": [
-            "Dhaliwal"
-        ],
-        "given": "Sukh",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver Centre",
-        "party": "Liberal",
-        "surname": [
-            "Fry"
-        ],
-        "given": "Hedy",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver East",
-        "party": "New Democratic",
-        "surname": [
-            "Kwan"
-        ],
-        "given": "Jenny Wai Ching",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver Granville",
-        "party": "Liberal",
-        "surname": [
-            "Noormohamed"
-        ],
-        "given": "Taleeb",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver Kingsway",
-        "party": "New Democratic",
-        "surname": [
-            "Davies"
-        ],
-        "given": "Don",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver Quadra",
-        "party": "Liberal",
-        "surname": [
-            "Murray"
-        ],
-        "given": "Joyce",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Vancouver South",
-        "party": "Liberal",
-        "surname": [
-            "Sajjan"
-        ],
-        "given": "Harjit Singh",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "Victoria",
-        "party": "New Democratic",
-        "surname": [
-            "Collins"
-        ],
-        "given": "Laurel",
-        "g": true
-    },
-    {
-        "province": "BC",
-        "riding": "West Vancouver—Sunshine Coast—Sea to Sky Country",
-        "party": "Liberal",
-        "surname": [
-            "Weiler"
-        ],
-        "given": "Patrick",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Brandon—Souris",
-        "party": "Conservative",
-        "surname": [
-            "Maguire"
-        ],
-        "given": "Larry",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Charleswood—St. James—Assiniboia—Headingley",
-        "party": "Conservative",
-        "surname": [
-            "Morantz"
-        ],
-        "given": "Marty",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Churchill—Keewatinook Aski",
-        "party": "New Democratic",
-        "surname": [
-            "Ashton"
-        ],
-        "given": "Niki",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Dauphin—Swan River—Neepawa",
-        "party": "Conservative",
-        "surname": [
-            "Mazier"
-        ],
-        "given": "Dan",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Elmwood—Transcona",
-        "party": "New Democratic",
-        "surname": [
-            "Dance"
-        ],
-        "given": "Leila",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Kildonan—St. Paul",
-        "party": "Conservative",
-        "surname": [
-            "Dancho"
-        ],
-        "given": "Raquel",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Portage—Lisgar",
-        "party": "Conservative",
-        "surname": [
-            "Leslie"
-        ],
-        "given": "Branden",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Provencher",
-        "party": "Conservative",
-        "surname": [
-            "Falk"
-        ],
-        "given": "Ted",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Saint Boniface—Saint Vital",
-        "party": "Liberal",
-        "surname": [
-            "Vandal"
-        ],
-        "given": "Daniel",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Selkirk—Interlake—Eastman",
-        "party": "Conservative",
-        "surname": [
-            "Bezan"
-        ],
-        "given": "James",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Winnipeg Centre",
-        "party": "New Democratic",
-        "surname": [
-            "Gazan"
-        ],
-        "given": "Leah",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Winnipeg North",
-        "party": "Liberal",
-        "surname": [
-            "Lamoureux"
-        ],
-        "given": "Kevin",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Winnipeg South",
-        "party": "Liberal",
-        "surname": [
-            "Duguid"
-        ],
-        "given": "Terry",
-        "g": true
-    },
-    {
-        "province": "MB",
-        "riding": "Winnipeg South Centre",
-        "party": "Liberal",
-        "surname": [
-            "Carr"
-        ],
-        "given": "Ben",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Acadie—Bathurst",
-        "party": "Liberal",
-        "surname": [
-            "Cormier"
-        ],
-        "given": "Serge",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Beauséjour",
-        "party": "Liberal",
-        "surname": [
-            "LeBlanc"
-        ],
-        "given": "Dominic",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Fredericton",
-        "party": "Liberal",
-        "surname": [
-            "Atwin"
-        ],
-        "given": "Jenica",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Fundy Royal",
-        "party": "Conservative",
-        "surname": [
-            "Moore"
-        ],
-        "given": "Rob",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Madawaska—Restigouche",
-        "party": "Liberal",
-        "surname": [
-            "Arseneault"
-        ],
-        "given": "René",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Miramichi—Grand Lake",
-        "party": "Conservative",
-        "surname": [
-            "Stewart"
-        ],
-        "given": "Jake",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Moncton—Riverview—Dieppe",
-        "party": "Liberal",
-        "surname": [
-            "Petitpas Taylor","Petitpas","Taylor"
-        ],
-        "given": "Ginette",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "New Brunswick Southwest",
-        "party": "Conservative",
-        "surname": [
-            "Williamson"
-        ],
-        "given": "John",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Saint John—Rothesay",
-        "party": "Liberal",
-        "surname": [
-            "Long"
-        ],
-        "given": "Wayne",
-        "g": true
-    },
-    {
-        "province": "NB",
-        "riding": "Tobique—Mactaquac",
-        "party": "Conservative",
-        "surname": [
-            "Bragdon"
-        ],
-        "given": "Richard",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "Avalon",
-        "party": "Liberal",
-        "surname": [
-            "McDonald"
-        ],
-        "given": "Ken",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "Bonavista—Burin—Trinity",
-        "party": "Liberal",
-        "surname": [
-            "Rogers"
-        ],
-        "given": "Churence",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "Coast of Bays—Central—Notre Dame",
-        "party": "Conservative",
-        "surname": [
-            "Small"
-        ],
-        "given": "Clifford",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "Labrador",
-        "party": "Liberal",
-        "surname": [
-            "Jones"
-        ],
-        "given": "Yvonne",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "Long Range Mountains",
-        "party": "Liberal",
-        "surname": [
-            "Hutchings"
-        ],
-        "given": "Gudie",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "St. John's East",
-        "party": "Liberal",
-        "surname": [
-            "Thompson"
-        ],
-        "given": "Joanne",
-        "g": true
-    },
-    {
-        "province": "NL",
-        "riding": "St. John's South—Mount Pearl",
-        "party": "Liberal",
-        "surname": [
-            "O'Regan"
-        ],
-        "given": "Seamus",
-        "g": true
-    },
-    {
-        "province": "NT",
-        "riding": "Northwest Territories",
-        "party": "Liberal",
-        "surname": [
-            "McLeod"
-        ],
-        "given": "Michael",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Cape Breton—Canso",
-        "party": "Liberal",
-        "surname": [
-            "Kelloway"
-        ],
-        "given": "Mike",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Central Nova",
-        "party": "Liberal",
-        "surname": [
-            "Fraser"
-        ],
-        "given": "Sean",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Cumberland—Colchester",
-        "party": "Conservative",
-        "surname": [
-            "Ellis"
-        ],
-        "given": "Stephen",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Dartmouth—Cole Harbour",
-        "party": "Liberal",
-        "surname": [
-            "Fisher"
-        ],
-        "given": "Darren",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Halifax",
-        "party": "Independent",
-        "g": false
-    },
-    {
-        "province": "NS",
-        "riding": "Halifax West",
-        "party": "Liberal",
-        "surname": [
-            "Diab"
-        ],
-        "given": "Lena Metlege",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Kings—Hants",
-        "party": "Liberal",
-        "surname": [
-            "Blois"
-        ],
-        "given": "Kody",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Sackville—Preston—Chezzetcook",
-        "party": "Liberal",
-        "surname": [
-            "Samson"
-        ],
-        "given": "Darrell",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "South Shore—St. Margarets",
-        "party": "Conservative",
-        "surname": [
-            "Perkins"
-        ],
-        "given": "Rick",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "Sydney—Victoria",
-        "party": "Liberal",
-        "surname": [
-            "Battiste"
-        ],
-        "given": "Jaime",
-        "g": true
-    },
-    {
-        "province": "NS",
-        "riding": "West Nova",
-        "party": "Conservative",
-        "surname": [
-            "d'Entremont"
-        ],
-        "given": "Chris",
-        "g": true
-    },
-    {
-        "province": "NU",
-        "riding": "Nunavut",
-        "party": "New Democratic",
-        "surname": [
-            "Idlout ᐃᓪᓚᐅᖅ", "Idlout"
-        ],
-        "given": "Lori ᓘᕆ",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Ajax",
-        "party": "Liberal",
-        "surname": [
-            "Holland"
-        ],
-        "given": "Mark",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Algoma—Manitoulin—Kapuskasing",
-        "party": "New Democratic",
-        "surname": [
-            "Hughes"
-        ],
-        "given": "Carol",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Aurora—Oak Ridges—Richmond Hill",
-        "party": "Liberal",
-        "surname": [
-            "Taylor Roy","Taylor","Roy"
-        ],
-        "given": "Leah",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Barrie—Innisfil",
-        "party": "Conservative",
-        "surname": [
-            "Brassard"
-        ],
-        "given": "John",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Barrie—Springwater—Oro-Medonte",
-        "party": "Conservative",
-        "surname": [
-            "Shipley"
-        ],
-        "given": "Doug",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Bay of Quinte",
-        "party": "Conservative",
-        "surname": [
-            "Williams"
-        ],
-        "given": "Ryan",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Beaches—East York",
-        "party": "Liberal",
-        "surname": [
-            "Erskine-Smith", "Erskine", "Smith"
-        ],
-        "given": "Nathaniel",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brampton Centre",
-        "party": "Liberal",
-        "surname": [
-            "Ali"
-        ],
-        "given": "Shafqat",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brampton East",
-        "party": "Liberal",
-        "surname": [
-            "Sidhu"
-        ],
-        "given": "Maninder",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brampton North",
-        "party": "Liberal",
-        "surname": [
-            "Sahota"
-        ],
-        "given": "Ruby",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brampton South",
-        "party": "Liberal",
-        "surname": [
-            "Sidhu"
-        ],
-        "given": "Sonia",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brampton West",
-        "party": "Liberal",
-        "surname": [
-            "Khera"
-        ],
-        "given": "Kamal",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Brantford—Brant",
-        "party": "Conservative",
-        "surname": [
-            "Brock"
-        ],
-        "given": "Larry",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Bruce—Grey—Owen Sound",
-        "party": "Conservative",
-        "surname": [
-            "Ruff"
-        ],
-        "given": "Alex",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Burlington",
-        "party": "Liberal",
-        "surname": [
-            "Gould"
-        ],
-        "given": "Karina",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Cambridge",
-        "party": "Liberal",
-        "surname": [
-            "May"
-        ],
-        "given": "Bryan",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Carleton",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Poilievre"
         ],
@@ -1366,709 +20,1239 @@
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Chatham-Kent—Leamington",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Bow River",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Epp"
-        ],
-        "given": "Dave",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Davenport",
-        "party": "Liberal",
-        "surname": [
-            "Dzerowicz"
-        ],
-        "given": "Julie",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Don Valley East",
-        "party": "Liberal",
-        "surname": [
-            "Coteau"
-        ],
-        "given": "Michael",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Don Valley North",
-        "party": "Independent",
-        "surname": [
-            "Dong"
-        ],
-        "given": "Han",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Don Valley West",
-        "party": "Liberal",
-        "surname": [
-            "Oliphant"
-        ],
-        "given": "Robert",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Dufferin—Caledon",
-        "party": "Conservative",
-        "surname": [
-            "Seeback"
-        ],
-        "given": "Kyle",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Durham",
-        "party": "Conservative",
-        "surname": [
-            "Jivani"
-        ],
-        "given": "Jamil",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Eglinton—Lawrence",
-        "party": "Liberal",
-        "surname": [
-            "Mendicino"
-        ],
-        "given": "Marco",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Elgin—Middlesex—London",
-        "party": "Conservative",
-        "surname": [
-            "Vecchio"
-        ],
-        "given": "Karen",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Essex",
-        "party": "Conservative",
-        "surname": [
-            "Lewis"
-        ],
-        "given": "Chris",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Etobicoke Centre",
-        "party": "Liberal",
-        "surname": [
-            "Baker"
-        ],
-        "given": "Yvan",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Etobicoke North",
-        "party": "Liberal",
-        "surname": [
-            "Duncan"
-        ],
-        "given": "Kirsty",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Etobicoke—Lakeshore",
-        "party": "Liberal",
-        "surname": [
-            "Maloney"
-        ],
-        "given": "James",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Flamborough—Glanbrook",
-        "party": "Conservative",
-        "surname": [
-            "Muys"
-        ],
-        "given": "Dan",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Glengarry—Prescott—Russell",
-        "party": "Liberal",
-        "surname": [
-            "Drouin"
-        ],
-        "given": "Francis",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Guelph",
-        "party": "Liberal",
-        "surname": [
-            "Longfield"
-        ],
-        "given": "Lloyd",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Haldimand—Norfolk",
-        "party": "Conservative",
-        "surname": [
-            "Lewis"
-        ],
-        "given": "Leslyn",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Haliburton—Kawartha Lakes—Brock",
-        "party": "Conservative",
-        "surname": [
-            "Schmale"
-        ],
-        "given": "Jamie",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Hamilton Centre",
-        "party": "New Democratic",
-        "surname": [
-            "Green"
-        ],
-        "given": "Matthew",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Hamilton East—Stoney Creek",
-        "party": "Liberal",
-        "surname": [
-            "Collins"
-        ],
-        "given": "Chad",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Hamilton Mountain",
-        "party": "Liberal",
-        "surname": [
-            "Hepfner"
-        ],
-        "given": "Lisa",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Hamilton West—Ancaster—Dundas",
-        "party": "Liberal",
-        "surname": [
-            "Tassi"
-        ],
-        "given": "Filomena",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Hastings—Lennox and Addington",
-        "party": "Conservative",
-        "surname": [
-            "Kramp-Neuman","Kramp","Neuman"
-        ],
-        "given": "Shelby",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Humber River—Black Creek",
-        "party": "Liberal",
-        "surname": [
-            "Sgro"
-        ],
-        "given": "Judy",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Huron—Bruce",
-        "party": "Conservative",
-        "surname": [
-            "Lobb"
-        ],
-        "given": "Ben",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kanata—Carleton",
-        "party": "Liberal",
-        "surname": [
-            "Sudds"
-        ],
-        "given": "Jenna",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kenora",
-        "party": "Conservative",
-        "surname": [
-            "Melillo"
-        ],
-        "given": "Eric",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "King—Vaughan",
-        "party": "Conservative",
-        "surname": [
-            "Roberts"
-        ],
-        "given": "Anna",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kingston and the Islands",
-        "party": "Liberal",
-        "surname": [
-            "Gerretsen"
-        ],
-        "given": "Mark",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kitchener Centre",
-        "party": "Green",
-        "surname": [
-            "Morrice"
-        ],
-        "given": "Mike",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kitchener South—Hespeler",
-        "party": "Liberal",
-        "surname": [
-            "Bradford"
-        ],
-        "given": "Valerie",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Kitchener—Conestoga",
-        "party": "Liberal",
-        "surname": [
-            "Louis"
-        ],
-        "given": "Tim",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Lambton—Kent—Middlesex",
-        "party": "Conservative",
-        "surname": [
-            "Rood"
-        ],
-        "given": "Lianne",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Lanark—Frontenac—Kingston",
-        "party": "Conservative",
-        "surname": [
-            "Reid"
-        ],
-        "given": "Scott",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Leeds—Grenville—Thousand Islands and Rideau Lakes",
-        "party": "Conservative",
-        "surname": [
-            "Barrett"
-        ],
-        "given": "Michael",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "London North Centre",
-        "party": "Liberal",
-        "surname": [
-            "Fragiskatos"
-        ],
-        "given": "Peter",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "London West",
-        "party": "Liberal",
-        "surname": [
-            "Kayabaga"
-        ],
-        "given": "Arielle",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "London—Fanshawe",
-        "party": "New Democratic",
-        "surname": [
-            "Mathyssen"
-        ],
-        "given": "Lindsay",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Markham—Stouffville",
-        "party": "Liberal",
-        "surname": [
-            "Jaczek"
-        ],
-        "given": "Helena",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Markham—Thornhill",
-        "party": "Liberal",
-        "surname": [
-            "Ng"
-        ],
-        "given": "Mary",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Markham—Unionville",
-        "party": "Liberal",
-        "surname": [
-            "Chiang"
-        ],
-        "given": "Paul",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Milton",
-        "party": "Liberal",
-        "surname": [
-            "van Koeverden","Koeverden"
-        ],
-        "given": "Adam",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga Centre",
-        "party": "Liberal",
-        "surname": [
-            "Alghabra"
-        ],
-        "given": "Omar",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga East—Cooksville",
-        "party": "Liberal",
-        "surname": [
-            "Fonseca"
-        ],
-        "given": "Peter",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga—Erin Mills",
-        "party": "Liberal",
-        "surname": [
-            "Khalid"
-        ],
-        "given": "Iqra",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga—Lakeshore",
-        "party": "Liberal",
-        "surname": [
-            "Sousa"
-        ],
-        "given": "Charles",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga—Malton",
-        "party": "Liberal",
-        "surname": [
-            "Gaheer"
-        ],
-        "given": "Iqwinder",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Mississauga—Streetsville",
-        "party": "Liberal",
-        "surname": [
-            "Valdez"
-        ],
-        "given": "Rechie",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Nepean",
-        "party": "Liberal",
-        "surname": [
-            "Arya"
-        ],
-        "given": "Chandra",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Newmarket—Aurora",
-        "party": "Liberal",
-        "surname": [
-            "Van Bynen","Bynen"
-        ],
-        "given": "Tony",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Niagara Centre",
-        "party": "Liberal",
-        "surname": [
-            "Badawey"
-        ],
-        "given": "Vance",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Niagara Falls",
-        "party": "Conservative",
-        "surname": [
-            "Baldinelli"
-        ],
-        "given": "Tony",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Niagara West",
-        "party": "Conservative",
-        "surname": [
-            "Allison"
-        ],
-        "given": "Dean",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Nickel Belt",
-        "party": "Liberal",
-        "surname": [
-            "Serré"
-        ],
-        "given": "Marc G.",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Nipissing—Timiskaming",
-        "party": "Liberal",
-        "surname": [
-            "Rota"
-        ],
-        "given": "Anthony",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Northumberland—Peterborough South",
-        "party": "Conservative",
-        "surname": [
-            "Lawrence"
-        ],
-        "given": "Philip",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Oakville",
-        "party": "Liberal",
-        "surname": [
-            "Anand"
-        ],
-        "given": "Anita",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Oakville North—Burlington",
-        "party": "Liberal",
-        "surname": [
-            "Damoff"
-        ],
-        "given": "Pam",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Orléans",
-        "party": "Liberal",
-        "surname": [
-            "Lalonde"
-        ],
-        "given": "Marie-France",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Oshawa",
-        "party": "Conservative",
-        "surname": [
-            "Carrie"
-        ],
-        "given": "Colin",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Ottawa Centre",
-        "party": "Liberal",
-        "surname": [
-            "Naqvi"
-        ],
-        "given": "Yasir",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Ottawa South",
-        "party": "Liberal",
-        "surname": [
-            "McGuinty"
+            "Bexte"
         ],
         "given": "David",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Ottawa West—Nepean",
-        "party": "Liberal",
+        "province": "Alberta",
+        "riding": "Calgary Centre",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Vandenbeld"
+            "McLean"
         ],
-        "given": "Anita",
+        "given": "Greg",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Ottawa—Vanier",
-        "party": "Liberal",
+        "province": "Alberta",
+        "riding": "Calgary Confederation",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Fortier"
+            "Hogan"
         ],
-        "given": "Mona",
+        "given": "Corey",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Oxford",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Calgary Crowfoot",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Khanna"
+            "Kelly"
         ],
-        "given": "Arpan",
+        "given": "Pat",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Parkdale—High Park",
-        "party": "Liberal",
+        "province": "Alberta",
+        "riding": "Calgary East",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Virani"
+            "Hallan"
         ],
-        "given": "Arif",
+        "given": "Jasraj Singh",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Parry Sound—Muskoka",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Calgary Heritage",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Aitchison"
+            "Majumdar"
         ],
-        "given": "Scott",
+        "given": "Shuvaloy",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Perth—Wellington",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Calgary McKnight",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Nater"
+            "Gill"
         ],
-        "given": "John",
+        "given": "Dalwinder",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Peterborough—Kawartha",
-        "party": "Conservative",
+        "province": "Alberta",
+        "riding": "Calgary Midnapore",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Ferreri"
+            "Kusie"
+        ],
+        "given": "Stephanie",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Calgary Nose Hill",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Rempel Garner", "Rempel"
         ],
         "given": "Michelle",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Pickering—Uxbridge",
-        "party": "Liberal",
+        "province": "Alberta",
+        "riding": "Calgary Shepard",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "O'Connell"
+            "Kmiec"
+        ],
+        "given": "Tom",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Calgary Signal Hill",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "McKenzie"
+        ],
+        "given": "David",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Calgary Skyview",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Gill"
+        ],
+        "given": "Amanpreet S.",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Olszewski"
+        ],
+        "given": "Eleanor",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Gateway",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Uppal"
+        ],
+        "given": "Tim",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Griesbach",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Diotte"
+        ],
+        "given": "Kerry",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Manning",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Aboultaif"
+        ],
+        "given": "Ziad",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Northwest",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Morin"
+        ],
+        "given": "Billy",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Riverbend",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Jeneroux"
+        ],
+        "given": "Matt",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Southeast",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Mahal"
+        ],
+        "given": "Jagsharan Singh",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton Strathcona",
+        "party": "New Democratic Party",
+        "surname": [
+            "McPherson"
+        ],
+        "given": "Heather",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Edmonton West",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "McCauley"
+        ],
+        "given": "Kelly",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Foothills",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Barlow"
+        ],
+        "given": "John",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Fort McMurray—Cold Lake",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Goodridge"
+        ],
+        "given": "Laila",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Grande Prairie",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Warkentin"
+        ],
+        "given": "Chris",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Lakeland",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Stubbs"
+        ],
+        "given": "Shannon",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Leduc—Wetaskiwin",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lake"
+        ],
+        "given": "Mike",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Lethbridge",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Thomas"
+        ],
+        "given": "Rachael",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Medicine Hat—Cardston—Warner",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Motz"
+        ],
+        "given": "Glen",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Parkland",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lloyd"
+        ],
+        "given": "Dane",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Peace River—Westlock",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Viersen"
+        ],
+        "given": "Arnold",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Ponoka—Didsbury",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Calkins"
+        ],
+        "given": "Blaine",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Red Deer",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Bailey"
+        ],
+        "given": "Burton",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Sherwood Park—Fort Saskatchewan",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Genuis"
+        ],
+        "given": "Garnett",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "St. Albert—Sturgeon River",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Cooper"
+        ],
+        "given": "Michael",
+        "g": true
+    },
+    {
+        "province": "Alberta",
+        "riding": "Yellowhead",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Stevenson"
+        ],
+        "given": "William",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Abbotsford—South Langley",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Gill"
+        ],
+        "given": "Sukhman",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Burnaby Central",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Chang"
+        ],
+        "given": "Wade",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Burnaby North—Seymour",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Beech"
+        ],
+        "given": "Terry",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Cariboo—Prince George",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Doherty"
+        ],
+        "given": "Todd",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Chilliwack—Hope",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Strahl"
+        ],
+        "given": "Mark",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Cloverdale—Langley City",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Jansen"
+        ],
+        "given": "Tamara",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Columbia—Kootenay—Southern Rockies",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Morrison"
+        ],
+        "given": "Rob",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Coquitlam—Port Coquitlam",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "McKinnon"
+        ],
+        "given": "Ron",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Courtenay—Alberni",
+        "party": "New Democratic Party",
+        "surname": [
+            "Johns"
+        ],
+        "given": "Gord",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Cowichan—Malahat—Langford",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Kibble"
+        ],
+        "given": "Jeff",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Delta",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "McKnight"
+        ],
+        "given": "Jill",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Esquimalt—Saanich—Sooke",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "McLean"
+        ],
+        "given": "Stephanie",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Fleetwood—Port Kells",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Saini"
+        ],
+        "given": "Gurbux",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Kamloops—Shuswap—Central Rockies",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Arnold"
+        ],
+        "given": "Mel",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Kamloops—Thompson—Nicola",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Caputo"
+        ],
+        "given": "Frank",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Kelowna",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fuhr"
+        ],
+        "given": "Stephen",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Langley Township—Fraser Heights",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Van Popta"
+        ],
+        "given": "Tako",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Mission—Matsqui—Abbotsford",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Vis"
+        ],
+        "given": "Brad",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Nanaimo—Ladysmith",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Kronis"
+        ],
+        "given": "Tamara",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "New Westminster—Burnaby—Maillardville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sawatzky"
+        ],
+        "given": "Jake",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "North Island—Powell River",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Gunn"
+        ],
+        "given": "Aaron",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "North Vancouver—Capilano",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Wilkinson"
+        ],
+        "given": "Jonathan",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Okanagan Lake West—South Kelowna",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Albas"
+        ],
+        "given": "Dan",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Pitt Meadows—Maple Ridge",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Dalton"
+        ],
+        "given": "Marc",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Port Moody—Coquitlam",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Royer"
+        ],
+        "given": "Zoe",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Prince George—Peace River—Northern Rockies",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Zimmer"
+        ],
+        "given": "Bob",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Richmond Centre—Marpole",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Au"
+        ],
+        "given": "Chak",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Richmond East—Steveston",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Bains"
+        ],
+        "given": "Parm",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Saanich—Gulf Islands",
+        "party": "Green Party of Canada",
+        "surname": [
+            "May"
+        ],
+        "given": "Elizabeth",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Similkameen—South Okanagan—West Kootenay",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Konanz"
+        ],
+        "given": "Helena",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Skeena—Bulkley Valley",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Ross"
+        ],
+        "given": "Ellis",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "South Surrey—White Rock",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Klassen"
+        ],
+        "given": "Ernie",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Surrey Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sarai"
+        ],
+        "given": "Randeep",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Surrey Newton",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Dhaliwal"
+        ],
+        "given": "Sukh",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fry"
+        ],
+        "given": "Hedy",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver East",
+        "party": "New Democratic Party",
+        "surname": [
+            "Kwan"
+        ],
+        "given": "Jenny Wai Ching",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver Fraserview—South Burnaby",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Robertson"
+        ],
+        "given": "Gregor",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver Granville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Noormohamed"
+        ],
+        "given": "Taleeb",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver Kingsway",
+        "party": "New Democratic Party",
+        "surname": [
+            "Davies"
+        ],
+        "given": "Don",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vancouver Quadra",
+        "party": "New Democratic Party",
+        "surname": [
+            "Grant"
+        ],
+        "given": "Wade",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Vernon—Lake Country—Monashee",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Anderson"
+        ],
+        "given": "Scott",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "Victoria",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Greaves"
+        ],
+        "given": "Will",
+        "g": true
+    },
+    {
+        "province": "British Columbia",
+        "riding": "West Vancouver—Sunshine Coast—Sea to Sky Country",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Weiler"
+        ],
+        "given": "Patrick",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Brandon—Souris",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Jackson"
+        ],
+        "given": "Grant",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Churchill—Keewatinook Aski",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Chartrand"
+        ],
+        "given": "Rebecca",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Elmwood—Transcona",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Reynolds"
+        ],
+        "given": "Colin",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Kildonan—St. Paul",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Dancho"
+        ],
+        "given": "Raquel",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Portage—Lisgar",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Leslie"
+        ],
+        "given": "Branden",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Provencher",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Falk"
+        ],
+        "given": "Ted",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Riding Mountain",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Mazier"
+        ],
+        "given": "Dan",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Selkirk—Interlake—Eastman",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Bezan"
+        ],
+        "given": "James",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "St. Boniface—St. Vital",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Lavack"
+        ],
+        "given": "Ginette",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Winnipeg Centre",
+        "party": "New Democratic Party",
+        "surname": [
+            "Gazan"
+        ],
+        "given": "Leah",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Winnipeg North",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Lamoureux"
+        ],
+        "given": "Kevin",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Winnipeg South",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Duguid"
+        ],
+        "given": "Terry",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Winnipeg South Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Carr"
+        ],
+        "given": "Ben",
+        "g": true
+    },
+    {
+        "province": "Manitoba",
+        "riding": "Winnipeg West",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Eyolfson"
+        ],
+        "given": "Doug",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Acadie—Bathurst",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Cormier"
+        ],
+        "given": "Serge",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Beauséjour",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "LeBlanc"
+        ],
+        "given": "Dominic",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Fredericton—Oromocto",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Myles"
+        ],
+        "given": "David",
+        "g": true
+    },
+        {
+        "province": "New Brunswick",
+        "riding": "Fundy Royal",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Moore"
+        ],
+        "given": "Rob",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Madawaska—Restigouche",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Deschênes-Thériault", "Deschênes", "Thériault"
+        ],
+        "given": "Guillaume",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Miramichi—Grand Lake",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Dawson"
+        ],
+        "given": "Mike",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Moncton—Dieppe",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Petitpas Taylor", "Petitpas", "Taylor"
+        ],
+        "given": "Ginette",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Saint John—Kennebecasis",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Long"
+        ],
+        "given": "Wayne",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Saint John—St. Croix",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Williamson"
+        ],
+        "given": "John",
+        "g": true
+    },
+    {
+        "province": "New Brunswick",
+        "riding": "Tobique—Mactaquac",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Bragdon"
+        ],
+        "given": "Richard",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Avalon",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Connors"
+        ],
+        "given": "Paul",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Cape Spear",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Osborne"
+        ],
+        "given": "Tom",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Central Newfoundland",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Small"
+        ],
+        "given": "Clifford",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Labrador",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Earle"
+        ],
+        "given": "Philip",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Long Range Mountains",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Anstey"
+        ],
+        "given": "Carol",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "St. John's East",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Thompson"
+        ],
+        "given": "Joanne",
+        "g": true
+    },
+    {
+        "province": "Newfoundland and Labrador",
+        "riding": "Terra Nova—The Peninsulas",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Rowe"
+        ],
+        "given": "Jonathan",
+        "g": true
+    },
+    {
+        "province": "Northwest Territories",
+        "riding": "Northwest Territories",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Alty"
+        ],
+        "given": "Rebecca",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Acadie—Annapolis",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "d'Entremont"
+        ],
+        "given": "Chris",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Cape Breton—Canso—Antigonish",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Battiste"
+        ],
+        "given": "Jaime",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Central Nova",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fraser"
+        ],
+        "given": "Sean",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Cumberland—Colchester",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Hirtle"
+        ],
+        "given": "Alana",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Dartmouth—Cole Harbour",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fisher"
+        ],
+        "given": "Darren",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Halifax",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Miedema"
+        ],
+        "given": "Shannon",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Halifax West",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Diab"
+        ],
+        "given": "Lena Metlege",
+        "g": true
+    },
+        {
+        "province": "Nova Scotia",
+        "riding": "Kings—Hants",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Blois"
+        ],
+        "given": "Kody",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Sackville—Bedford—Preston",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Clark"
+        ],
+        "given": "Braedon",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "South Shore—St. Margarets",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fancy"
+        ],
+        "given": "Jessica",
+        "g": true
+    },
+    {
+        "province": "Nova Scotia",
+        "riding": "Sydney—Glace Bay",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Kelloway"
+        ],
+        "given": "Mike",
+        "g": true
+    },
+    {
+        "province": "Nunavut",
+        "riding": "Nunavut",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Idlout"
+        ],
+        "given": "Lori",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Ajax",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "McKelvie"
         ],
         "given": "Jennifer",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Renfrew—Nipissing—Pembroke",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Algonquin—Renfrew—Pembroke",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Gallant"
         ],
@@ -2076,329 +1260,659 @@
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Richmond Hill",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Aurora—Oak Ridges—Richmond Hill",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Jowhari"
+            "Menegakis"
         ],
-        "given": "Majid",
+        "given": "Costas",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Sarnia—Lambton",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Barrie South—Innisfil",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Gladu"
-        ],
-        "given": "Marilyn",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Sault Ste. Marie",
-        "party": "Liberal",
-        "surname": [
-            "Sheehan"
-        ],
-        "given": "Terry",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Scarborough Centre",
-        "party": "Liberal",
-        "surname": [
-            "Zahid"
-        ],
-        "given": "Salma",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Scarborough North",
-        "party": "Liberal",
-        "surname": [
-            "Chen"
-        ],
-        "given": "Shaun",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Scarborough Southwest",
-        "party": "Liberal",
-        "surname": [
-            "Blair"
-        ],
-        "given": "Bill",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Scarborough—Agincourt",
-        "party": "Liberal",
-        "surname": [
-            "Yip"
-        ],
-        "given": "Jean",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Scarborough—Guildwood",
-        "party": "Liberal",
-        "surname": [
-            "McKay"
+            "Brassard"
         ],
         "given": "John",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Scarborough—Rouge Park",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Barrie—Springwater—Oro-Medonte",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Anandasangaree"
+            "Shipley"
         ],
-        "given": "Gary",
+        "given": "Doug",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Simcoe North",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Bay of Quinte",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Chambers"
-        ],
-        "given": "Adam",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Simcoe—Grey",
-        "party": "Conservative",
-        "surname": [
-            "Dowdall"
-        ],
-        "given": "Terry",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "Spadina—Fort York",
-        "party": "Independent",
-        "surname": [
-            "Vuong"
-        ],
-        "given": "Kevin",
-        "g": true
-    },
-    {
-        "province": "ON",
-        "riding": "St. Catharines",
-        "party": "Liberal",
-        "surname": [
-            "Bittle"
+            "Malette"
         ],
         "given": "Chris",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Stormont—Dundas—South Glengarry",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Beaches—East York",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Duncan"
+            "Erskine-Smith", "Erskine"
         ],
-        "given": "Eric",
+        "given": "Nathaniel",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Sudbury",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Bowmanville—Oshawa North",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "LaPointe"
+            "Jivani"
         ],
-        "given": "Viviane",
+        "given": "Jamil",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Thornhill",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Brampton Centre",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Lantsman"
+            "Sodhi"
         ],
-        "given": "Melissa",
+        "given": "Amandeep",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Thunder Bay—Rainy River",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Brampton East",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Powlowski"
+            "Sidhu"
         ],
-        "given": "Marcus",
+        "given": "Maninder",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Thunder Bay—Superior North",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Brampton North—Caledon",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Hajdu"
+            "Sahota"
         ],
-        "given": "Patricia",
+        "given": "Ruby",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Timmins—James Bay",
-        "party": "New Democratic",
+        "province": "Ontario",
+        "riding": "Brampton South",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Angus"
+            "Sidhu"
         ],
-        "given": "Charlie",
+        "given": "Sonia",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Toronto Centre",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Brampton West",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Ien"
+            "Gill"
         ],
-        "given": "Marci",
+        "given": "Amarjeet",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Toronto—Danforth",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Brampton—Chinguacousy Park",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Dabrusin"
+            "Ali"
+        ],
+        "given": "Shafqat",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Brantford—Brant South—Six Nations",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Brock"
+        ],
+        "given": "Larry",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Bruce—Grey—Owen Sound",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Ruff"
+        ],
+        "given": "Alex",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Burlington",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Gould"
+        ],
+        "given": "Karina",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Burlington North—Milton West",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "van Koeverden", "Koeverden"
+        ],
+        "given": "Adam",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Cambridge",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Cody"
+        ],
+        "given": "Connie",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Carleton",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fanjoy"
+        ],
+        "given": "Bruce",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Chatham-Kent—Leamington",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Epp"
+        ],
+        "given": "Dave",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Davenport",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Dzerowicz"
         ],
         "given": "Julie",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Toronto—St. Paul's",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Don Valley North",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Stewart"
+            "Chi"
         ],
-        "given": "Don",
+        "given": "Maggie",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "University—Rosedale",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Don Valley West",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Freeland"
+            "Oliphant"
         ],
-        "given": "Chrystia",
+        "given": "Robert",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Vaughan—Woodbridge",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Dufferin—Caledon",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Sorbara"
+            "Seeback"
         ],
-        "given": "Francesco",
+        "given": "Kyle",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Waterloo",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Eglinton—Lawrence",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Chagger"
+            "Gasparro"
         ],
-        "given": "Bardish",
+        "given": "Vince",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Wellington—Halton Hills",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Elgin—St. Thomas—London South",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Chong"
+            "Lawton"
         ],
-        "given": "Michael D.",
+        "given": "Andrew",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Whitby",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Essex",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Turnbull"
+            "Lewis"
         ],
-        "given": "Ryan",
+        "given": "Chris",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Willowdale",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Etobicoke Centre",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Ehsassi"
+            "Baker"
         ],
-        "given": "Ali",
+        "given": "Yvan",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Windsor West",
-        "party": "New Democratic",
+        "province": "Ontario",
+        "riding": "Etobicoke North",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Masse"
+            "Zerucelli"
         ],
-        "given": "Brian",
+        "given": "John",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "Windsor—Tecumseh",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Etobicoke—Lakeshore",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Kusmierczyk"
+            "Maloney"
         ],
-        "given": "Irek",
+        "given": "James",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "York Centre",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Flamborough—Glanbrook—Brant North",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Saks"
+            "Muys"
         ],
-        "given": "Ya'ara",
+        "given": "Dan",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "York South—Weston",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Guelph",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Hussen"
+            "O'Rourke"
         ],
-        "given": "Ahmed",
+        "given": "Dominique",
         "g": true
     },
     {
-        "province": "ON",
-        "riding": "York—Simcoe",
-        "party": "Conservative",
+        "province": "Ontario",
+        "riding": "Haldimand—Norfolk",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lewis"
+        ],
+        "given": "Leslyn",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Haliburton—Kawartha Lakes",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Schmale"
+        ],
+        "given": "Jamie",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Hamilton Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Rana"
+        ],
+        "given": "Aslam",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Hamilton East—Stoney Creek",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Kuruc"
+        ],
+        "given": "Nenad",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Hamilton Mountain",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Hepfner"
+        ],
+        "given": "Lisa",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Hamilton West—Ancaster—Dundas",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Danko"
+        ],
+        "given": "John-Paul",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Hastings—Lennox and Addington—Tyendinaga",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Kramp-Neuman", "Kramp", "Neuman"
+        ],
+        "given": "Shelby",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Humber River—Black Creek",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sgro"
+        ],
+        "given": "Judy",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Huron—Bruce",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lobb"
+        ],
+        "given": "Ben",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kanata",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sudds"
+        ],
+        "given": "Jenna",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kapuskasing—Timmins—Mushkegowuk",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Malette"
+        ],
+        "given": "Gaétan",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kenora—Kiiwetinoong",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Melillo"
+        ],
+        "given": "Eric",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "King—Vaughan",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Roberts"
+        ],
+        "given": "Anna",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kingston and the Islands",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Gerretsen"
+        ],
+        "given": "Mark",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kitchener Centre",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "DeRidder"
+        ],
+        "given": "Kelly",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kitchener South—Hespeler",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Strauss"
+        ],
+        "given": "Matt",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Kitchener—Conestoga",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Louis"
+        ],
+        "given": "Tim",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Lanark—Frontenac",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Reid"
+        ],
+        "given": "Scott",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Leeds—Grenville—Thousand Islands—Rideau Lakes",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Barrett"
+        ],
+        "given": "Michael",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "London Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fragiskatos"
+        ],
+        "given": "Peter",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "London West",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Kayabaga"
+        ],
+        "given": "Arielle",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "London—Fanshawe",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Holman"
+        ],
+        "given": "Kurt",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Markham—Stouffville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Jaczek"
+        ],
+        "given": "Helena",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Markham—Thornhill",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Hodgson"
+        ],
+        "given": "Tim",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Markham—Unionville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Ma"
+        ],
+        "given": "Michael",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Middlesex—London",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Rood"
+        ],
+        "given": "Lianne",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Milton East—Halton Hills South",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Tesser Derksen", "Tesser", "Derksen"
+        ],
+        "given": "Kristina",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Al Soud", "Soud"
+        ],
+        "given": "Fares Abu",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga East—Cooksville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fonseca"
+        ],
+        "given": "Peter",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga—Erin Mills",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Khalid"
+        ],
+        "given": "Iqra",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga—Lakeshore",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sousa"
+        ],
+        "given": "Charles",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga—Malton",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Gaheer"
+        ],
+        "given": "Iqwinder",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Mississauga—Streetsville",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Valdez"
+        ],
+        "given": "Rechie",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Nepean",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Carney"
+        ],
+        "given": "Mark",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "New Tecumseth—Gwillimbury",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Davidson"
         ],
@@ -2406,19 +1920,559 @@
         "g": true
     },
     {
-        "province": "PE",
-        "riding": "Cardigan",
-        "party": "Liberal",
+        "province": "Ontario",
+        "riding": "Newmarket—Aurora",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "MacAulay"
+            "Cobena"
         ],
-        "given": "Lawrence",
+        "given": "Sandra",
         "g": true
     },
     {
-        "province": "PE",
+        "province": "Ontario",
+        "riding": "Niagara Falls—Niagara-on-the-Lake",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Baldinelli"
+        ],
+        "given": "Tony",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Niagara South",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Davies"
+        ],
+        "given": "Fred",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Niagara West",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Allison"
+        ],
+        "given": "Dean",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Nipissing—Timiskaming",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Rochefort"
+        ],
+        "given": "Pauline",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Northumberland—Clarke",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lawrence"
+        ],
+        "given": "Philip",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Oakville East",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Anand"
+        ],
+        "given": "Anita",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Oakville West",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Acan"
+        ],
+        "given": "Ilgit Sima",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Orléans",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Lalonde"
+        ],
+        "given": "Marie-France",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Oshawa",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Kirkland"
+        ],
+        "given": "Rhonda",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Ottawa Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Naqvi"
+        ],
+        "given": "Yasir",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Ottawa South",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "McGuinty"
+        ],
+        "given": "David",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Ottawa West—Nepean",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Vandenbeld"
+        ],
+        "given": "Anita",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Ottawa—Vanier—Gloucester",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Fortier"
+        ],
+        "given": "Mona",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Oxford",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Khanna"
+        ],
+        "given": "Arpan",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Parry Sound—Muskoka",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Aitchison"
+        ],
+        "given": "Scott",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Perth—Wellington",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Nater"
+        ],
+        "given": "John",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Peterborough",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Harrison"
+        ],
+        "given": "Emma",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Pickering—Brooklin",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Nathan"
+        ],
+        "given": "Juanita",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Prescott—Russell—Cumberland",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Mingarelli"
+        ],
+        "given": "Giovanna",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Richmond Hill South",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Ho"
+        ],
+        "given": "Vincent Neil",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Sarnia—Lambton—Bkejwanong",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Gladu"
+        ],
+        "given": "Marilyn",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Sault Ste. Marie—Algoma",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Sheehan"
+        ],
+        "given": "Terry",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough Centre—Don Valley East",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Zahid"
+        ],
+        "given": "Salma",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough North",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Chen"
+        ],
+        "given": "Shaun",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough Southwest",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Begum"
+        ],
+        "given": "Doly",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough—Agincourt",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Yip"
+        ],
+        "given": "Jean",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough—Guildwood—Rouge Park",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Anandasangaree"
+        ],
+        "given": "Gary",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Scarborough—Woburn",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Coteau"
+        ],
+        "given": "Michael",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Simcoe North",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Chambers"
+        ],
+        "given": "Adam",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Simcoe—Grey",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Dowdall"
+        ],
+        "given": "Terry",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Spadina—Harbourfront",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Nguyen"
+        ],
+        "given": "Chi",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "St. Catharines",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Bittle"
+        ],
+        "given": "Chris",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Stormont—Dundas—Glengarry",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Duncan"
+        ],
+        "given": "Eric",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Sudbury",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Lapointe"
+        ],
+        "given": "Viviane",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Sudbury East—Manitoulin—Nickel Belt",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Belanger"
+        ],
+        "given": "Jim",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Taiaiako'n—Parkdale—High Park",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Bardeesy"
+        ],
+        "given": "Karim",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Thornhill",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Lantsman"
+        ],
+        "given": "Melissa",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Thunder Bay—Rainy River",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Powlowski"
+        ],
+        "given": "Marcus",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Thunder Bay—Superior North",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Hajdu"
+        ],
+        "given": "Patricia",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Toronto Centre",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Solomon"
+        ],
+        "given": "Evan",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Toronto—Danforth",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Dabrusin"
+        ],
+        "given": "Julie",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Toronto—St. Paul's",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Church"
+        ],
+        "given": "Leslie",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "University—Rosedale",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Martin"
+        ],
+        "given": "Danielle",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Vaughan—Woodbridge",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Guglielmin"
+        ],
+        "given": "Michael",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Waterloo",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Chagger"
+        ],
+        "given": "Bardish",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Wellington—Halton Hills North",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Chong"
+        ],
+        "given": "Michael D.",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Whitby",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Turnbull"
+        ],
+        "given": "Ryan",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Willowdale",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Ehsassi"
+        ],
+        "given": "Ali",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Windsor West",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Gill"
+        ],
+        "given": "Harb",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "Windsor—Tecumseh—Lakeshore",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Borrelli"
+        ],
+        "given": "Kathy",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "York Centre",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Baber"
+        ],
+        "given": "Roman",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "York South—Weston—Etobicoke",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Hussen"
+        ],
+        "given": "Ahmed",
+        "g": true
+    },
+    {
+        "province": "Ontario",
+        "riding": "York—Durham",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Mantle"
+        ],
+        "given": "Jacob",
+        "g": true
+    },
+    {
+        "province": "Prince Edward Island",
+        "riding": "Cardigan",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "MacDonald"
+        ],
+        "given": "Kent",
+        "g": true
+    },
+    {
+        "province": "Prince Edward Island",
         "riding": "Charlottetown",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Casey"
         ],
@@ -2426,9 +2480,9 @@
         "g": true
     },
     {
-        "province": "PE",
+        "province": "Prince Edward Island",
         "riding": "Egmont",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Morrissey"
         ],
@@ -2436,9 +2490,9 @@
         "g": true
     },
     {
-        "province": "PE",
+        "province": "Prince Edward Island",
         "riding": "Malpeque",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "MacDonald"
         ],
@@ -2446,17 +2500,17 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Abitibi—Baie-James—Nunavik—Eeyou",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Bérubé"
+            "Gull-Masty", "Gull", "Masty"
         ],
-        "given": "Sylvie",
+        "given": "Mandy",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Abitibi—Témiscamingue",
         "party": "Bloc Québécois",
         "surname": [
@@ -2466,9 +2520,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Ahuntsic-Cartierville",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Joly"
         ],
@@ -2476,9 +2530,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Alfred-Pellan",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Iacono"
         ],
@@ -2486,9 +2540,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Argenteuil—La Petite-Nation",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Lauzon"
         ],
@@ -2496,48 +2550,38 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Avignon—La Mitis—Matane—Matapédia",
-        "party": "Bloc Québécois",
-        "surname": [
-            "Michaud"
-        ],
-        "given": "Kristina",
-        "g": true
-    },
-    {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Beauce",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Lehoux"
+            "Groleau"
         ],
-        "given": "Richard",
+        "given": "Jason",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Beauport—Côte-de-Beaupré—Île D’Orléans—Charlevoix",
+        "province": "Quebec",
+        "riding": "Beauharnois—Salaberry—Soulanges—Huntingdon",
         "party": "Bloc Québécois",
         "surname": [
-            "Desbiens"
+            "DeBellefeuille"
         ],
-        "given": "Caroline",
+        "given": "Claude",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Beauport—Limoilou",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Vignola"
+            "Lavoie"
         ],
-        "given": "Julie",
+        "given": "Steeve",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Bécancour—Nicolet—Saurel",
+        "province": "Quebec",
+        "riding": "Bécancour—Nicolet—Saurel—Alnôbak",
         "party": "Bloc Québécois",
         "surname": [
             "Plamondon"
@@ -2546,9 +2590,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Bellechasse—Les Etchemins—Lévis",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Vien"
         ],
@@ -2556,7 +2600,7 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Beloeil—Chambly",
         "party": "Bloc Québécois",
         "surname": [
@@ -2566,7 +2610,7 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Berthier—Maskinongé",
         "party": "Bloc Québécois",
         "surname": [
@@ -2576,29 +2620,29 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Bourassa",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Dubourg"
+            "Sari"
         ],
-        "given": "Emmanuel",
+        "given": "Abdelhaq",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Brome—Missisquoi",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "St-Onge"
+            "Villeneuve"
         ],
-        "given": "Pascale",
+        "given": "Louis",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Brossard—Saint-Lambert",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Mendès"
         ],
@@ -2606,29 +2650,29 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Charlesbourg—Haute-Saint-Charles",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Paul-Hus","Paul","Hus"
+            "Paul-Hus", "Paul", "Hus"
         ],
         "given": "Pierre",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Châteauguay—Lacolle",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Châteauguay—Les Jardins-de-Napierville",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Shanahan"
+            "Provost"
         ],
-        "given": "Brenda",
+        "given": "Nathalie",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Chicoutimi—Le Fjord",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Martel"
         ],
@@ -2636,19 +2680,39 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Compton—Stanstead",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Bibeau"
+            "Dandurand"
         ],
-        "given": "Marie-Claude",
+        "given": "Marianne",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
+        "riding": "Côte-du-Sud-Rivière-du-Loup-Kataskomiq-Témiscouata",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Généreux"
+        ],
+        "given": "Bernard",
+        "g": true
+    },
+    {
+        "province": "Quebec",
+        "riding": "Côte-Nord—Kawawachikamach—Nitassinan",
+        "party": "Bloc Québécois",
+        "surname": [
+            "Gill"
+        ],
+        "given": "Marilène",
+        "g": true
+    },
+    {
+        "province": "Quebec",
         "riding": "Dorval—Lachine—LaSalle",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Dhillon"
         ],
@@ -2656,7 +2720,7 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Drummond",
         "party": "Bloc Québécois",
         "surname": [
@@ -2666,19 +2730,19 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Gaspésie—Les Îles-de-la-Madeleine",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Gaspésie—Les Îles-de-la-Madeleine—Listuguj",
+        "party": "Bloc Québécois",
         "surname": [
-            "Lebouthillier"
+            "Deschênes"
         ],
-        "given": "Diane",
+        "given": "Alexis",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Gatineau",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "MacKinnon"
         ],
@@ -2686,29 +2750,29 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Hochelaga",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Hochelaga—Rosemont-Est",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Martinez Ferrada","Martinez","Ferrada"
+            "Ménard"
         ],
-        "given": "Soraya",
+        "given": "Marie-Gabrielle",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Honoré-Mercier",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Rodriguez"
+            "St-Pierre", "Saint-Pierre", "Pierre"
         ],
-        "given": "Pablo",
+        "given": "Eric",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Hull—Aylmer",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Fergus"
         ],
@@ -2716,17 +2780,17 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Joliette",
+        "province": "Quebec",
+        "riding": "Joliette—Manawan",
         "party": "Bloc Québécois",
         "surname": [
-            "Ste-Marie","Sainte-Marie","Marie"
+            "Ste-Marie", "Sainte-Marie", "Marie"
         ],
         "given": "Gabriel",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Jonquière",
         "party": "Bloc Québécois",
         "surname": [
@@ -2736,7 +2800,7 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "La Pointe-de-l'Île",
         "party": "Bloc Québécois",
         "surname": [
@@ -2746,29 +2810,29 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "La Prairie",
-        "party": "Bloc Québécois",
+        "province": "Quebec",
+        "riding": "La Prairie—Atateken",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Therrien"
+            "Ramsay"
         ],
-        "given": "Alain",
+        "given": "Jacques",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Lac-Saint-Jean",
         "party": "Bloc Québécois",
         "surname": [
-            "Brunelle-Duceppe","Brunelle","Duceppe"
+            "Brunelle-Duceppe", "Brunelle", "Duceppe"
         ],
         "given": "Alexis",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Lac-Saint-Louis",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Scarpaleggia"
         ],
@@ -2776,17 +2840,17 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "LaSalle—Émard—Verdun",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Louis-Philippe"
+            "Guay"
         ],
-        "given": "Sauve",
+        "given": "Claude",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Laurentides—Labelle",
         "party": "Bloc Québécois",
         "surname": [
@@ -2796,9 +2860,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Laurier—Sainte-Marie",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Guilbeault"
         ],
@@ -2806,19 +2870,29 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Laval—Les Îles",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "El-Khoury","Khoury"
+            "El-Khoury", "Khoury"
         ],
         "given": "Fayçal",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
+        "riding": "Les Pays-d'en-Haut",
+        "party": "Liberal Party of Canada",
+        "surname": [
+            "Watchorn"
+        ],
+        "given": "Tim",
+        "g": true
+    },
+    {
+        "province": "Quebec",
         "riding": "Lévis—Lotbinière",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Gourde"
         ],
@@ -2826,9 +2900,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Longueuil—Charles-LeMoyne",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Romanado"
         ],
@@ -2836,19 +2910,19 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Longueuil—Saint-Hubert",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Trudel"
+            "Joseph"
         ],
-        "given": "Denis",
+        "given": "Natilien",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Louis-Hébert",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Lightbound"
         ],
@@ -2856,9 +2930,9 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Louis-Saint-Laurent",
-        "party": "Conservative",
+        "province": "Quebec",
+        "riding": "Louis-Saint-Laurent—Akiawenhrahk",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Deltell"
         ],
@@ -2866,29 +2940,19 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Manicouagan",
-        "party": "Bloc Québécois",
-        "surname": [
-            "Gill"
-        ],
-        "given": "Marilène",
-        "g": true
-    },
-    {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Marc-Aurèle-Fortin",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Robillard"
+            "Leitão"
         ],
-        "given": "Yves",
+        "given": "Carlos",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Mégantic—L'Érable",
-        "party": "Conservative",
+        "province": "Quebec",
+        "riding": "Mégantic—L'Érable—Lotbinière",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Berthold"
         ],
@@ -2896,7 +2960,7 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Mirabel",
         "party": "Bloc Québécois",
         "surname": [
@@ -2906,17 +2970,17 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Montarville",
-        "party": "Bloc Québécois",
+        "province": "Quebec",
+        "riding": "Mont-Saint-Bruno—L'Acadie",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Bergeron"
+            "Ntumba"
         ],
-        "given": "Stéphane",
+        "given": "Bienvenu-Olivier",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Montcalm",
         "party": "Bloc Québécois",
         "surname": [
@@ -2926,19 +2990,19 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Montmagny—L’Islet—Kamouraska—Rivière-du-Loup",
-        "party": "Conservative",
+        "province": "Quebec",
+        "riding": "Montmorency—Charlevoix",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Généreux"
+            "Hardy"
         ],
-        "given": "Bernard",
+        "given": "Gabriel",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Mount Royal",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Housefather"
         ],
@@ -2946,9 +3010,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Notre-Dame-de-Grâce—Westmount",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Gainey"
         ],
@@ -2956,9 +3020,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Outremont",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Bendayan"
         ],
@@ -2966,29 +3030,29 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Papineau",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Trudeau"
+            "Michel"
         ],
-        "given": "Justin",
+        "given": "Marjorie",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Pierre-Boucher—Les Patriotes—Verchères",
         "party": "Bloc Québécois",
         "surname": [
-            "Barsalou-Duval","Barsalou","Duval"
+            "Barsalou-Duval", "Barsalou", "Duval"
         ],
         "given": "Xavier",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Pierrefonds—Dollard",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Zuberi"
         ],
@@ -2996,9 +3060,9 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Pontiac",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Pontiac—Kitigan Zibi",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Chatel"
         ],
@@ -3006,9 +3070,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Portneuf—Jacques-Cartier",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Godin"
         ],
@@ -3016,9 +3080,9 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Québec",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Québec Centre",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Duclos"
         ],
@@ -3026,47 +3090,47 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Repentigny",
         "party": "Bloc Québécois",
         "surname": [
-            "Pauzé"
+            "Bonin"
         ],
-        "given": "Monique",
+        "given": "Patrick",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Richmond—Arthabaska",
-        "party": "Independent",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Rayes"
+            "Lefebvre"
         ],
-        "given": "Alain",
+        "given": "Eric",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Rimouski-Neigette—Témiscouata—Les Basques",
+        "province": "Quebec",
+        "riding": "Rimouski—La Matapédia",
         "party": "Bloc Québécois",
         "surname": [
-            "Blanchette-Joncas","Blanchette","Joncas"
+            "Blanchette-Joncas", "Blanchette", "Joncas"
         ],
         "given": "Maxime",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Rivière-des-Mille-Îles",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Desilets"
+            "Lapointe"
         ],
-        "given": "Luc",
+        "given": "Linda",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Rivière-du-Nord",
         "party": "Bloc Québécois",
         "surname": [
@@ -3076,9 +3140,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Rosemont—La Petite-Patrie",
-        "party": "New Democratic",
+        "party": "New Democratic Party",
         "surname": [
             "Boulerice"
         ],
@@ -3086,17 +3150,17 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Saint-Hyacinthe—Bagot",
+        "province": "Quebec",
+        "riding": "Saint-Hyacinthe—Bagot—Acton",
         "party": "Bloc Québécois",
         "surname": [
-            "Savard-Tremblay","Savard","Tremblay"
+            "Savard-Tremblay", "Savard", "Tremblay"
         ],
         "given": "Simon-Pierre",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Saint-Jean",
         "party": "Bloc Québécois",
         "surname": [
@@ -3106,9 +3170,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Saint-Laurent",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Lambropoulos"
         ],
@@ -3116,9 +3180,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Saint-Léonard—Saint-Michel",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Lattanzio"
         ],
@@ -3126,9 +3190,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Saint-Maurice—Champlain",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Champagne"
         ],
@@ -3136,17 +3200,7 @@
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Salaberry—Suroît",
-        "party": "Bloc Québécois",
-        "surname": [
-            "DeBellefeuille"
-        ],
-        "given": "Claude",
-        "g": true
-    },
-    {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Shefford",
         "party": "Bloc Québécois",
         "surname": [
@@ -3156,9 +3210,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Sherbrooke",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Brière"
         ],
@@ -3166,39 +3220,39 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Terrebonne",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Sinclair-Desgagné", "Sinclair", "Desgagné"
+            "Auguste"
         ],
-        "given": "Nathalie",
+        "given": "Tatiana",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Thérèse-De Blainville",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Chabot"
+            "Chenette"
         ],
-        "given": "Louise",
+        "given": "Madeleine",
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Trois-Rivières",
-        "party": "Bloc Québécois",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Villemure"
+            "Desrochers"
         ],
-        "given": "René",
+        "given": "Caroline",
         "g": true
     },
     {
-        "province": "QC",
-        "riding": "Vaudreuil—Soulanges",
-        "party": "Liberal",
+        "province": "Quebec",
+        "riding": "Vaudreuil",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Schiefke"
         ],
@@ -3206,9 +3260,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Miller"
         ],
@@ -3216,9 +3270,9 @@
         "g": true
     },
     {
-        "province": "QC",
+        "province": "Quebec",
         "riding": "Vimy",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Koutrakis"
         ],
@@ -3226,9 +3280,9 @@
         "g": true
     },
     {
-        "province": "SK",
-        "riding": "Battlefords—Lloydminster",
-        "party": "Conservative",
+        "province": "Saskatchewan",
+        "riding": "Battlefords—Lloydminster—Meadow Lake",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Falk"
         ],
@@ -3236,9 +3290,9 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Carlton Trail—Eagle Creek",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Block"
         ],
@@ -3246,29 +3300,19 @@
         "g": true
     },
     {
-        "province": "SK",
-        "riding": "Cypress Hills—Grasslands",
-        "party": "Conservative",
-        "surname": [
-            "Patzer"
-        ],
-        "given": "Jeremy",
-        "g": true
-    },
-    {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Desnethé—Missinippi—Churchill River",
-        "party": "Conservative",
+        "party": "Liberal Party of Canada",
         "surname": [
-            "Vidal"
+            "Belanger"
         ],
-        "given": "Gary",
+        "given": "Buckley",
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Moose Jaw—Lake Centre—Lanigan",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Tolmie"
         ],
@@ -3276,9 +3320,9 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Prince Albert",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Hoback"
         ],
@@ -3286,9 +3330,9 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Regina—Lewvan",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Steinley"
         ],
@@ -3296,9 +3340,9 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Regina—Qu'Appelle",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Scheer"
         ],
@@ -3306,9 +3350,9 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Regina—Wascana",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Kram"
         ],
@@ -3316,19 +3360,9 @@
         "g": true
     },
     {
-        "province": "SK",
-        "riding": "Saskatoon West",
-        "party": "Conservative",
-        "surname": [
-            "Redekopp"
-        ],
-        "given": "Brad",
-        "g": true
-    },
-    {
-        "province": "SK",
-        "riding": "Saskatoon—Grasswood",
-        "party": "Conservative",
+        "province": "Saskatchewan",
+        "riding": "Saskatoon South",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Waugh"
         ],
@@ -3336,9 +3370,19 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
+        "riding": "Saskatoon West",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Redekopp"
+        ],
+        "given": "Brad",
+        "g": true
+    },
+    {
+        "province": "Saskatchewan",
         "riding": "Saskatoon—University",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Tochor"
         ],
@@ -3346,19 +3390,29 @@
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
         "riding": "Souris—Moose Mountain",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
-            "Kitchen"
+            "Bonk"
         ],
-        "given": "Robert Gordon",
+        "given": "Steven",
         "g": true
     },
     {
-        "province": "SK",
+        "province": "Saskatchewan",
+        "riding": "Swift Current—Grasslands—Kindersley",
+        "party": "Conservative Party of Canada",
+        "surname": [
+            "Patzer"
+        ],
+        "given": "Jeremy",
+        "g": true
+    },
+    {
+        "province": "Saskatchewan",
         "riding": "Yorkton—Melville",
-        "party": "Conservative",
+        "party": "Conservative Party of Canada",
         "surname": [
             "Wagantall"
         ],
@@ -3366,9 +3420,9 @@
         "g": true
     },
     {
-        "province": "YT",
+        "province": "Yukon",
         "riding": "Yukon",
-        "party": "Liberal",
+        "party": "Liberal Party of Canada",
         "surname": [
             "Hanley"
         ],

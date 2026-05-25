@@ -28,9 +28,9 @@ const provinces = {BC: "British Columbia",
 
 const progress = {
     0:"type a surname to get started",
-    1:"that's more than the People's Party caucus",
+    1:"you'll need a few more to form government",
     2:"that's as many MPs as the Conservative caucus in 1993",
-    3:"that's more than the Green Party caucus",
+    3:"that's as many MPs as Saskatoon",
     4:"that's as many MPs as Prince Edward Island",
     5:"that's as many MPs as Hamilton or Quebec City",
     6:"that's as many MPs as Mississauga",
@@ -44,30 +44,30 @@ const progress = {
     15:"that's more MPs than Saskatchewan",
     17:"that's more than there are Punjabi MPs",
     19:"that's more MPs than the Island of Montreal",
-    25:"that's as many MPs as Toronto",
-    26:"that's more than the NDP caucus",
+    22:"that's more than the Bloc caucus",
+    24:"that's as many MPs as Toronto",
     32:"that's as many MPs as Atlantic Canada",
-    33:"that's more than the Bloc caucus",
-    34:"that's as many MPs as Alberta",
     35:"that's more than the Liberal caucus in 2011",
-    43:"that's more MPs than British Columbia",
-    44:"that's more than the NDP caucus in 1988",
+    38:"that's more MPs than Alberta",
+    44:"that's more MPs than British Columbia",
+    //44:"that's more than the NDP caucus in 1988",
     53:"that's more than the Reform caucus in 1993",
-    63:"that's more MPs than the Prairie Provinces",
+    66:"that's more MPs than the Prairie Provinces",
     79:"that's more MPs than Quebec",
     104:"that's more than there are female MPs",
-    120:"that's more than the Conservative caucus",
-    122:"that's more MPs than Ontario",
+    123:"that's more MPs than Ontario",
+    141:"that's more than the Conservative caucus",
     156:"that's more than Trudeau Sr.'s 1968 majority",
     161:"that's more than the Liberal caucus",
     166:"that's more than Harper's 2011 majority",
     170:"that's a majority government",
+    175:"that''s more than the Liberal caucus",
     209:"that's more than Diefenbaker's 1958 landslide",
     212:"that's more than Mulroney's 1984 landslide",
     232:"that's more MPs than Eastern Canada",
     236:"that's more than there are male MPs",
     300:"nearly there",
-    338:"well done"
+    343:"well done"
 }
 
 const regex = /[A-Z]/g;
@@ -80,14 +80,16 @@ function stringNormalize(unMot) {
 
 function caucusList(members) {
     let guessedMembers = members.filter(x => !x.g);
+    console.log(guessedMembers);
     let guessedArray = [];
-    for (let province of Object.keys(provinces)) {
+    for (let province of Object.values(provinces)) {
         let provinceMembers = guessedMembers.filter(x => x.province === province);
         if (provinceMembers.length > 0) {
             let provinceObject = {[province]: provinceMembers};
             guessedArray.push(provinceObject);
         }
     }
+    console.log(guessedArray);
     return(guessedArray);
 }
 
@@ -135,7 +137,7 @@ function Game() {
     }
 
     function Progress() {
-        let n = members.filter(x => !x.g).length + houseSize - 338;
+        let n = members.filter(x => !x.g).length;
         let completions = Object.keys(progress);
         let closest = completions.reduce(function (i, j) { return j <= n ? Math.max(i, j) : i }, 0);
         return(
@@ -145,32 +147,34 @@ function Game() {
 
     function Map() {
         return(
-            <svg id="nameMap" viewBox="0 0 450 210">
+            <svg id="nameMap" viewBox="0 0 450 220">
                 {members.map(member => 
-                    <g>
-                        <rect id={member.riding} className={member.g ? member.party : member.party + " correct"} x={10 * cartogram[member.riding].x} y={10 * cartogram[member.riding].y }/>
+                    <g key={member?.riding}>
+                        <rect id={member?.riding} className={member.g ? member.party : member.party + " correct"} x={10 * cartogram[member.riding]?.x} y={10 * cartogram[member.riding]?.y }/>
                         {!member.g && <text x={10 * cartogram[member.riding].x + 5} y={10 * cartogram[member.riding].y + 7.4}>{member.surname ? member.given[0] + member.surname[0][0] : "--"}</text>}
                     </g>)}
-                <path className="cityBorder" d="M 20 70 v 10 h 10 v 20" />
-                <path className="cityBorder" d="M 90 50 h 20 v 30 h -10 v 10 h -20 v -30 h 10 z" />
-                <path className="cityBorder" d="M 160 170 v -40 h 70 v 10 h 10 v 10" />
-                <path className="cityBorder" d="M 290 110 v -20 h 10 v -30 h 10 v -10 h 20 v 50 h -10 v 10 z" />
-                <path className="cityBorder" d="M 240 100 v 30 h 20 v -10 h 10 v -20" />
-                <path className="provBorder" d="M 60 20 v 50 h 10 v 10 h 10 v 20 h -50 v 10 h -20 v -40 h 10 v -10 h -10 v -20 h 10 v -10 h 20 v -10 z" />
-                <path className="provBorder" d="M 60 20 h 40 v 10 h 10 v 70 h -30 v -20 h -10 v -10 h -10 z" />
-                <path className="provBorder" d="M 110 110 v -50 h 20 v 10 h 10 v 40 z" />
-                <path className="provBorder" d="M 140 110 v -40 h 10 v -10 h 20 v 50 z" />
-                <path className="provBorder" d="M 170 80 h 20 v 10 h 10 v 10 h 80 v 40 h -10 v 10 h -50 v 10 h -20 v 10 h -40 v 10 h 20 v 20 h -80 v -10 h -20 v -30 h 30 v -10 h 20 v -20 h 10 v -10 h 10 v -10 h 20 z" />
-                <path className="provBorder" d="M 260 100 v -30 h 10 v -20 h 20 v -10 h 40 v -10 h 40 v 10 h 20 v 20 h -20 v 20 h -10 v 10 h -10 v 10 h -10 v 20 h -60 v -20 z" />
-                <path className="provBorder" d="M 370 60 h 30 v 10 h 10 v 10 h -10 v 10 h -30 z" />
-                <path className="provBorder" d="M 400 50 h 20 v 20 h -20 z" />
-                <path className="provBorder" d="M 420 50 h 20 v 20 h -10 v 20 h -10 v 10 h -20 v -20 h 10 v -10 h 10 z" />
-                <path className="provBorder" d="M 400 10 h 10 v 10 h 10 v 10 h 10 v 10 h -30 z" />
-                <path className="provBorder" d="M 370 20 h 10 v 10 h -10 z" />
-                <path className="provBorder" d="M 50 10 h 10 v 10 h -10 z" />
+                
+                <path className="cityBorder" d="M 20 80 v 10 h 10 v 20" />
+                {/* <path id="edmonton" className="cityBorder" d="M 60 30 h 30 v 30 h -30 z" /> */}
+                <path id="calgary" className="cityBorder" d="M 90 60 h 20 v 40 h -30 v -30 h 10 z" />
+                <path id="toronto" className="cityBorder" d="M 160 180 v -40 h 70 v 20" />
+                <path id="montreal" className="cityBorder" d="M 290 120 v -20 h 10 v -30 h 10 v -10 h 20 v 50 h -10 v 10 z" />
+                <path id="ottawa" className="cityBorder" d="M 240 110 v 30 h 20 v -10 h 10 v -20" />
+                <path id="bc" className="provBorder" d="M 60 30 v 40 h 10 v 20 h 10 v 20 h -50 v 10 h -20 v -40 h 10 v -10 h -10 v -20 h 10 v -10 h 20 v -10 z" />
+                <path id="ab" className="provBorder" d="M 60 20 h 30 v 10 h 20 v 80 h -30 v -20 h -10 v -20 h -10 z" />
+                <path id="sk" className="provBorder" d="M 110 120 v -50 h 20 v 10 h 10 v 40 z" />
+                <path id="mb" className="provBorder" d="M 140 120 v -40 h 10 v -10 h 20 v 50 z" />
+                <path id="on" className="provBorder" d="M 170 90 h 10 v 10 h 20 v 10 h 80 v 40 h -10 v 10 h -50 v 10 h -20 v 10 h -40 v 10 h 20 v 20 h -80 v -10 h -20 v -30 h 30 v -10 h 10 v -10 h 10 v -20 h 20 v -10 h 20 z" />
+                <path id="qc" className="provBorder" d="M 260 110 v -30 h 10 v -30 h 10 v 10 h 10 v -10 h 40 v -10 h 40 v 10 h 20 v 10 h -10 v 10 h -10 v 20 h -10 v 10 h -10 v 10 h -10 v 20 h -60 v -20 z" />
+                <path id="nb" className="provBorder" d="M 370 70 h 30 v 10 h 10 v 10 h -10 v 10 h -30 z" />
+                <path id="pe" className="provBorder" d="M 400 60 h 20 v 20 h -20 z" />
+                <path id="ns" className="provBorder" d="M 420 60 h 20 v 20 h -10 v 20 h -10 v 10 h -20 v -20 h 10 v -10 h 10 z" />
+                <path id="newfoundland" className="provBorder" d="M 400 20 h 10 v 10 h 10 v 10 h 10 v 10 h -30 z" />
+                <path id="labrador" className="provBorder" d="M 360 30 h 10 v 10 h -10 z" />
                 <path className="provBorder" d="M 60 10 h 10 v 10 h -10 z" />
                 <path className="provBorder" d="M 70 10 h 10 v 10 h -10 z" />
-                <g className="pollingCanada" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke="black" transform="scale(1) translate(312 -12)">
+                <path className="provBorder" d="M 80 10 h 10 v 10 h -10 z" />
+                <g className="pollingCanada" strokeWidth="0.6" strokeLinecap="round" strokeLinejoin="round" stroke="black" transform="scale(1) translate(312 -2)">
         <path
            fill="#c94141"
            d="m 123.94611,189.49703 -5.45888,3.15168 v 6.30338 l 5.45888,3.15168 5.44675,-3.14468 -5.44675,-3.15868 z" />
@@ -225,7 +229,7 @@ function Game() {
         <div className="memberBox">
             {caucus.map(prov =>
             <div>
-                <h3>{provinces[Object.keys(prov)[0]]}</h3>
+                <h3>{Object.keys(prov)[0]}</h3>
                 {Object.values(prov)[0].map(x =>
                 <div className={"member " + x.party}>
                     {x.surname ? <p><span className="surname">{x.surname[0]}</span>, <span className="given">{x.given}</span></p> : <p>Vacant</p>}
