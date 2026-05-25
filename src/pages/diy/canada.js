@@ -2035,6 +2035,7 @@ function Diy({ ridings, size }) {
         setPalette={setPalette}
         deleteParty={deleteParty}
         jurisdiction="Canada"
+        scale={0.5}
       />
       <Map
         ridings={ridings}

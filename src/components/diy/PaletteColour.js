@@ -1,7 +1,7 @@
 import * as React from "react"
 import brandColours from "../../../content/brandColours"
 
-function PaletteColour({colour, pattern, thickness, id, paint, setPaint, jurisdiction}) {
+function PaletteColour({colour, pattern, thickness, id, paint, setPaint, jurisdiction, scale}) {
 
     const handlePalettePick = () => {
         if (id === paint) {
@@ -13,10 +13,12 @@ function PaletteColour({colour, pattern, thickness, id, paint, setPaint, jurisdi
 
     const patternAngle = {left: 45, right: -45, vert: 90, hor: 0};
 
+    console.log(scale && `scale(${scale})`);
+
     return(
         <svg className={id === paint ? "paletteColour selected" : "paletteColour"} viewBox="0 0 32 32" onClick={handlePalettePick}>
             {pattern === "spots" &&
-            <pattern id={id} viewBox="0 0 31.17691 18" width={31.17691/3} height={18/3} patternUnits="userSpaceOnUse" patternTransform={jurisdiction === "Canada" && "scale(0.5)"}>
+            <pattern id={id} viewBox="0 0 31.17691 18" width={31.17691/3} height={18/3} patternUnits="userSpaceOnUse" patternTransform={scale && `scale(${scale})`}>
                 <circle cx="0" cy="0" r={thickness} fill={brandColours[colour]} />
                 <circle cx="0" cy="18" r={thickness} fill={brandColours[colour]} />
                 <circle cx="31.17691" cy="0" r={thickness} fill={brandColours[colour]} />
@@ -24,11 +26,11 @@ function PaletteColour({colour, pattern, thickness, id, paint, setPaint, jurisdi
                 <circle cx="15.58846" cy="9" r={thickness} fill={brandColours[colour]} />
             </pattern>}
             {pattern === "solid" &&
-            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse">
+            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={scale && `scale(${scale})`}>
                 <rect height="12" width="12" x="-1" y="-1" fill={brandColours[colour] + (thickness * 32 - 33).toString(16)} />
             </pattern>}
             {["left", "right", "hor", "vert"].includes(pattern) &&
-            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={(jurisdiction === "Canada" ? `rotate(${patternAngle[pattern]}) scale(0.5)` : `rotate(${patternAngle[pattern]})`)}>
+            <pattern id={id} viewBox="0 0 10 10" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform={(scale ? `rotate(${patternAngle[pattern]}) scale(${scale})` : `rotate(${patternAngle[pattern]})`)}>
                 <path d="M -1,5 H 12" stroke={brandColours[colour]} strokeWidth={`${thickness}px`} />
             </pattern>}
 
