@@ -9,31 +9,54 @@ import Palette from "../../components/diy/Palette"
 import Hover from "../../components/diy/Hover"
 
 let ge2022 = {
-    1: "ndp2", 2: "pc4", 3: "pc4", 4: "pc4", 5: "pc3", 6: "pc4", 7: "pc1", 8: "pc4", 9: "pc4", 10: "pc4",
-    11: "ndp1", 12: "pc4", 13: "pc1", 14: "ndp2", 15: "ndp3", 16: "ndp2", 17: "ndp1", 18: "ndp4", 19: "ndp1", 20: "ndp4",
-    21: "ndp4", 22: "ndp2", 23: "ndp4", 24: "ndp1", 25: "ndp4", 26: "pc1", 27: "pc1", 28: "ndp1", 29: "ndp4", 30: "ndp4",
-    31: "ndp2", 32: "ndp2", 33: "ndp4", 34: "ndp4", 35: "ndp4", 36: "ndp4", 37: "ndp3", 38: "pc2", 39: "ndp1", 40: "ndp2",
-    41: "ndp1", 42: "ndp4", 43: "mlp3", 44: "ndp1", 45: "ndp4", 46: "ndp4", 47: "ndp3", 48: "pc3", 49: "pc3", 50: "pc4",
-    51: "pc4", 52: "pc1", 53: "pc1", 54: "pc2", 55: "ndp1", 56: "pc4", 57: "ndp4"
+    1: "pc1", 2: "ndp2", 3: "pc3", 4: "pc4", 5: "pc1", 6: "pc3", 7: "olp1", 8: "pc2", 9: "pc2", 10: "pc2",
+    11: "pc2", 12: "pc3", 13: "pc2", 14: "pc3", 15: "pc2", 16: "pc2", 17: "pc3", 18: "pc2", 19: "ndp4", 20: "olp2",
+    21: "pc2", 22: "olp1", 23: "pc4", 24: "pc3", 25: "pc1", 26: "pc4", 27: "pc3", 28: "pc2", 29: "pc1", 30: "pc4",
+    31: "pc3", 32: "pc1", 33: "gpo4", 34: "ind1", 35: "pc4", 36: "ndp4", 37: "pc1", 38: "ndp2", 39: "ndp1", 40: "pc3",
+    41: "ndp1", 42: "pc4", 43: "pc2", 44: "pc4", 45: "pc3", 46: "olp1", 47: "ndp2", 48: "pc2", 49: "pc2", 50: "pc4",
+    51: "pc3", 52: "pc4", 53: "ndp2", 54: "ndp1", 55: "ndp2", 56: "pc2", 57: "pc2", 58: "pc3", 59: "pc1", 60: "pc1",
+    61: "pc1", 62: "pc1", 63: "pc1", 64: "pc2", 65: "pc2", 66: "pc1", 67: "pc2", 68: "ndp1", 69: "ndp2", 70: "pc3",
+    71: "ndp3", 72: "pc3", 73: "pc3", 74: "pc1", 75: "pc2", 76: "olp2", 77: "ndp1", 78: "ndp4", 79: "olp3", 80: "olp2",
+    81: "ndp1", 82: "pc3", 83: "ndp4", 84: "pc1", 85: "pc3", 86: "pc1", 87: "pc2", 88: "pc4", 89: "pc3", 90: "ndp1",
+    91: "pc3", 92: "pc1", 93: "pc2", 94: "pc1", 95: "olp2", 96: "pc2", 97: "pc2", 98: "ndp3", 99: "pc3", 100: "pc4",
+    101: "ndp2", 102: "pc4", 103: "ndp2", 104: "pc3", 105: "pc1", 106: "ndp1", 107: "ndp1", 108: "pc4", 109: "ndp1", 110: "ndp4",
+    111: "ndp1", 112: "ndp2", 113: "pc2", 114: "ndp2", 115: "pc4", 116: "pc3", 117: "pc1", 118: "pc2", 119: "ndp1", 120: "pc2",
+    121: "pc4", 122: "pc1", 123: "ndp3", 124: "ndp2"
+};
+
+let ge2025 = {
+    1: "olp1", 2: "pc2", 3: "pc3", 4: "pc3", 5: "pc2", 6: "pc2", 7: "olp3", 8: "pc2", 9: "pc3", 10: "pc3",
+    11: "pc2", 12: "pc3", 13: "pc3", 14: "pc2", 15: "pc1", 16: "pc1", 17: "pc2", 18: "pc4", 19: "ndp4", 20: "olp3",
+    21: "olp1", 22: "olp3", 23: "pc3", 24: "pc3", 25: "pc1", 26: "pc4", 27: "pc4", 28: "pc1", 29: "olp1", 30: "pc4",
+    31: "pc2", 32: "pc2", 33: "gpo4", 34: "ind4", 35: "pc3", 36: "ndp2", 37: "pc2", 38: "pc1", 39: "ndp1", 40: "pc2",
+    41: "ndp1", 42: "pc3", 43: "olp1", 44: "pc4", 45: "pc4", 46: "olp4", 47: "gpo3", 48: "pc2", 49: "pc2", 50: "pc3",
+    51: "pc2", 52: "pc3", 53: "ndp2", 54: "ndp2", 55: "ndp2", 56: "pc1", 57: "pc2", 58: "pc4", 59: "pc1", 60: "pc1",
+    61: "pc1", 62: "pc1", 63: "pc1", 64: "pc2", 65: "pc1", 66: "olp2", 67: "pc1", 68: "ndp1", 69: "ndp3", 70: "pc3",
+    71: "ndp2", 72: "pc3", 73: "pc2", 74: "pc1", 75: "pc1", 76: "olp2", 77: "ndp1", 78: "ndp4", 79: "olp3", 80: "olp3",
+    81: "ndp3", 82: "pc4", 83: "ndp2", 84: "pc1", 85: "pc2", 86: "pc1", 87: "pc1", 88: "pc4", 89: "pc3", 90: "ndp1",
+    91: "pc4", 92: "pc1", 93: "pc1", 94: "pc1", 95: "olp2", 96: "pc2", 97: "pc1", 98: "ndp1", 99: "pc3", 100: "pc3",
+    101: "ndp2", 102: "pc4", 103: "ndp1", 104: "pc4", 105: "pc2", 106: "ndp1", 107: "ndp1", 108: "pc4", 109: "ndp1", 110: "ndp4",
+    111: "olp1", 112: "ndp2", 113: "pc4", 114: "ndp3", 115: "pc2", 116: "pc1", 117: "pc1", 118: "pc2", 119: "ndp2", 120: "pc2",
+    121: "pc4", 122: "pc1", 123: "ndp4", 124: "ndp1"
 };
 
 let ridingNames = {
-    1: "Ajax", 2: "Algoma--Manitoulin", 3: "Aurora--Oak Ridges--Richmond Hill", 4: "Barrie--Innisfil", 5: "Barrie--Springwater--Oro-Medonte", 6: "Bay of Quinte", 7: "Beaches--East York", 8: "Brampton Centre", 9: "Brampton East", 10: "Brampton North",
-    11: "Brampton South", 12: "Brampton West", 13: "Brantford--Brant", 14: "Bruce--Grey--Owen Sound", 15: "Burlington", 16: "Cambridge", 17: "Carleton", 18: "Chatham-Kent--Leamington", 19: "Davenport", 20: "Don Valley East",
-    21: "Don Valley North", 22: "Don Valley West", 23: "Dufferin--Caledon", 24: "Durham", 25: "Eglinton--Lawrence", 26: "Elgin--Middlesex--London", 27: "Essex", 28: "Etobicoke Centre", 29: "Etobicoke--Lakeshore", 30: "Etobicoke North",
-    31: "Flamborough--Glanbrook", 32: "Glengarry--Prescott--Russell", 33: "Guelph", 34: "Haldimand--Norfolk", 35: "Haliburton--Kawartha Lakes--Brock", 36: "Hamilton Centre", 37: "Hamilton East--Stoney Creek", 38: "Hamilton Mountain", 39: "Hamilton West--Ancaster--Dundas", 40: "Hastings--Lennox and Addington",
-    41: "Humber River--Black Creek", 42: "Huron--Bruce", 43: "Kanata--Carleton", 44: "Kenora--Rainy River", 45: "King--Vaughan", 46: "Kingston and the Islands", 47: "Kitchener Centre", 48: "Kitchener--Conestoga", 49: "Kitchener South--Hespeler", 50: "Lambton--Kent--Middlesex",
-    51: "Lanark--Frontenac--Kingston", 52: "Leeds--Grenville--Thousand Islands and Rideau Lakes", 53: "London--Fanshawe", 54: "London North Centre", 55: "London West", 56: "Markham--Stouffville", 57: "Markham--Thornhill", 58: "Markham--Unionville", 59: "Milton", 60: "Mississauga Centre",
-    61: "Mississauga East--Cooksville", 62: "Mississauga--Erin Mills", 63: "Mississauga--Lakeshore", 64: "Mississauga-Malton", 65: "Mississauga--Streetsville", 66: "Nepean", 67: "Newmarket--Aurora", 68: "Niagara Centre", 69: "Niagara Falls", 70: "Niagara West",
-    71: "Nickel Belt", 72: "Nipissing", 73: "Northumberland--Peterborough South", 74: "Oakville", 75: "Oakville North--Burlington", 76: "Orléans", 77: "Oshawa", 78: "Ottawa Centre", 79: "Ottawa South", 80: "Ottawa--Vanier",
-    81: "Ottawa West--Nepean", 82: "Oxford", 83: "Parkdale--High Park", 84: "Parry Sound--Muskoka", 85: "Perth--Wellington", 86: "Peterborough--Kawartha", 87: "Pickering--Uxbridge", 88: "Renfrew--Nipissing--Pembroke", 89: "Richmond Hill", 90: "St. Catharines",
-    91: "Sarnia--Lambton", 92: "Sault Ste. Marie", 93: "Scarborough--Agincourt", 94: "Scarborough Centre", 95: "Scarborough--Guildwood", 96: "Scarborough North", 97: "Scarborough--Rouge Park", 98: "Scarborough Southwest", 99: "Simcoe--Grey", 100: "Simcoe North",
-    101: "Spadina--Fort York", 102: "Stormont--Dundas--South Glengarry", 103: "Sudbury", 104: "Thornhill", 105: "Thunder Bay--Atikokan", 106: "Thunder Bay--Superior North", 107: "Timiskaming--Cochrane", 108: "Timmins", 109: "Toronto Centre", 110: "Toronto--Danforth",
-    111: "Toronto--St. Paul's", 112: "University--Rosedale", 113: "Vaughan--Woodbridge", 114: "Waterloo", 115: "Wellington--Halton Hills", 116: "Whitby", 117: "Willowdale", 118: "Windsor--Tecumseh", 119: "Windsor West", 120: "York Centre",
-    121: "York--Simcoe", 122: "York South--Weston", 123: "Kiiwetinoong", 124: "Mushkegowuk--James Bay"
+    1: "Ajax", 2: "Algoma—Manitoulin", 3: "Aurora—Oak Ridges—Richmond Hill", 4: "Barrie—Innisfil", 5: "Barrie—Springwater—Oro-Medonte", 6: "Bay of Quinte", 7: "Beaches—East York", 8: "Brampton Centre", 9: "Brampton East", 10: "Brampton North",
+    11: "Brampton South", 12: "Brampton West", 13: "Brantford—Brant", 14: "Bruce—Grey—Owen Sound", 15: "Burlington", 16: "Cambridge", 17: "Carleton", 18: "Chatham-Kent—Leamington", 19: "Davenport", 20: "Don Valley East",
+    21: "Don Valley North", 22: "Don Valley West", 23: "Dufferin—Caledon", 24: "Durham", 25: "Eglinton—Lawrence", 26: "Elgin—Middlesex—London", 27: "Essex", 28: "Etobicoke Centre", 29: "Etobicoke—Lakeshore", 30: "Etobicoke North",
+    31: "Flamborough—Glanbrook", 32: "Glengarry—Prescott—Russell", 33: "Guelph", 34: "Haldimand—Norfolk", 35: "Haliburton—Kawartha Lakes—Brock", 36: "Hamilton Centre", 37: "Hamilton East—Stoney Creek", 38: "Hamilton Mountain", 39: "Hamilton West—Ancaster—Dundas", 40: "Hastings—Lennox and Addington",
+    41: "Humber River—Black Creek", 42: "Huron—Bruce", 43: "Kanata—Carleton", 44: "Kenora—Rainy River", 45: "King—Vaughan", 46: "Kingston and the Islands", 47: "Kitchener Centre", 48: "Kitchener—Conestoga", 49: "Kitchener South—Hespeler", 50: "Lambton—Kent—Middlesex",
+    51: "Lanark—Frontenac—Kingston", 52: "Leeds—Grenville—Thousand Islands and Rideau Lakes", 53: "London—Fanshawe", 54: "London North Centre", 55: "London West", 56: "Markham—Stouffville", 57: "Markham—Thornhill", 58: "Markham—Unionville", 59: "Milton", 60: "Mississauga Centre",
+    61: "Mississauga East—Cooksville", 62: "Mississauga—Erin Mills", 63: "Mississauga—Lakeshore", 64: "Mississauga-Malton", 65: "Mississauga—Streetsville", 66: "Nepean", 67: "Newmarket—Aurora", 68: "Niagara Centre", 69: "Niagara Falls", 70: "Niagara West",
+    71: "Nickel Belt", 72: "Nipissing", 73: "Northumberland—Peterborough South", 74: "Oakville", 75: "Oakville North—Burlington", 76: "Orléans", 77: "Oshawa", 78: "Ottawa Centre", 79: "Ottawa South", 80: "Ottawa—Vanier",
+    81: "Ottawa West—Nepean", 82: "Oxford", 83: "Parkdale—High Park", 84: "Parry Sound—Muskoka", 85: "Perth—Wellington", 86: "Peterborough—Kawartha", 87: "Pickering—Uxbridge", 88: "Renfrew—Nipissing—Pembroke", 89: "Richmond Hill", 90: "St. Catharines",
+    91: "Sarnia—Lambton", 92: "Sault Ste. Marie", 93: "Scarborough—Agincourt", 94: "Scarborough Centre", 95: "Scarborough—Guildwood", 96: "Scarborough North", 97: "Scarborough—Rouge Park", 98: "Scarborough Southwest", 99: "Simcoe—Grey", 100: "Simcoe North",
+    101: "Spadina—Fort York", 102: "Stormont—Dundas—South Glengarry", 103: "Sudbury", 104: "Thornhill", 105: "Thunder Bay—Atikokan", 106: "Thunder Bay—Superior North", 107: "Timiskaming—Cochrane", 108: "Timmins", 109: "Toronto Centre", 110: "Toronto—Danforth",
+    111: "Toronto—St. Paul's", 112: "University—Rosedale", 113: "Vaughan—Woodbridge", 114: "Waterloo", 115: "Wellington—Halton Hills", 116: "Whitby", 117: "Willowdale", 118: "Windsor—Tecumseh", 119: "Windsor West", 120: "York Centre",
+    121: "York—Simcoe", 122: "York South—Weston", 123: "Kiiwetinoong", 124: "Mushkegowuk—James Bay"
 };
 
-let sortOrder = ["gpm", "ndp", "olp", "blank", "extra", "pc"];
+let sortOrder = ["gpo", "ndp", "olp", "blank", "extra", "ind", "pc"];
 
 function Diy({ size }) {
 
@@ -59,6 +82,11 @@ function Diy({ size }) {
 
     const setElection22 = () => {
         setColours(ge2022);
+        setPalette(paletteInfo);
+    }
+
+        const setElection25 = () => {
+        setColours(ge2025);
         setPalette(paletteInfo);
     }
 
@@ -102,7 +130,8 @@ function Diy({ size }) {
         "ndp": { name: "New Democrats", colour: "orange", pattern: "left" },
         "pc": { name: "Prog. Conservatives", colour: "blue", pattern: "right" },
         "olp": { name: "Liberal Party", colour: "red", pattern: "hor" },
-        "gpm": { name: "Green Party", colour: "green", pattern: "vert" },
+        "gpo": { name: "Green Party", colour: "green", pattern: "spots" },
+        "ind": { name: "Independent", colour: "gray", pattern: "vert" },
     }
 
     const [palette, setPalette] = useState(paletteInfo);
@@ -113,7 +142,8 @@ function Diy({ size }) {
             <Map colours={colours} handlePaintClick={handlePaintClick} handleHover={handleHover} />
             <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
             <div className="buttonBar">
-                {/* <Button electionFunction={setElection22} label={"2022 election"} /> */}
+                <Button electionFunction={setElection22} label={"2022 election"} />
+                <Button electionFunction={setElection25} label={"2025 election"} />
                 <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
