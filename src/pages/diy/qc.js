@@ -24,7 +24,7 @@ let ge2022 = {
     "Bertrand": "caq3",
     "Blainville": "caq4",
     "Bonaventure": "caq2",
-    "Borduas": "car4",
+    "Borduas": "caq4",
     "Bourassa-Sauvé": "plq2",
     "Brome-Missisquoi": "caq3",
     "Camille-Laurin": "pq1",
