@@ -86,7 +86,7 @@ let ge2022 = {
     "Maurice-Richard": "qs1",
     "Mégantic": "caq3",
     "Mercier": "qs4",
-    "Mille-Îles": "plq1",
+    "Mille-Îles": "caq1",
     "Mirabel": "caq4",
     "Mont-Royal—Outremont": "plq2",
     "Montarville": "caq3",
