@@ -591,7 +591,7 @@ const qc = () => (
     <Layout>
         <Seo title="DIY: Quebec" description="Colour a map of the Quebec provincial legislature" />
         <h1>PC DIY: Quebec</h1>
-        <Diy size={125} />
+        <Diy size={127} />
     </Layout>
 )
 
