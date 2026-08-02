@@ -253968,5 +253968,215 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1740,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 248,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 197,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 27
+            },
+            {
+                "party": "CPC",
+                "score": 60
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 120,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 677,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "CPC",
+                "score": 38
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 377,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "CPC",
+                "score": 20
+            },
+            {
+                "party": "NDP",
+                "score": 2
+            },
+            {
+                "party": "BQ",
+                "score": 28
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 121,
+        "company": "Abacus",
+        "date": "July 23-29, 2026",
+        "field": "2026-07-29",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "CPC",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            }
+        ]
     }
 ]
