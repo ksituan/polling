@@ -254617,5 +254617,40 @@
                 "score": 14
             }
         ]
+    },
+    {
+        "n": 3195,
+        "moe": 1.7,
+        "company": "EKOS",
+        "date": "July 21-Aug 4, 2026",
+        "field": "2026-08-04",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44.7
+            },
+            {
+                "party": "CPC",
+                "score": 27.1
+            },
+            {
+                "party": "NDP",
+                "score": 17.0
+            },
+            {
+                "party": "BQ",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
     }
 ]
