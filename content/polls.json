@@ -255468,5 +255468,61 @@
                 "score": 10.7
             }
         ]
+    },
+    {
+        "n": 896,
+        "company": "Fairview",
+        "date": "July 6-17, 2026",
+        "field": "2026-07-17",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43.5
+            },
+            {
+                "party": "GPBC",
+                "score": 11.7
+            },
+            {
+                "party": "CPBC",
+                "score": 40.0
+            },
+            {
+                "party": "Others",
+                "score": 4.7
+            }
+        ]
+    },
+    {
+        "n": 896,
+        "company": "Fairview",
+        "date": "July 6-17, 2026",
+        "field": "2026-07-17",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48.3
+            },
+            {
+                "party": "CPC",
+                "score": 33.0
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 4.4
+            },
+            {
+                "party": "Others",
+                "score": 3.3
+            }
+        ]
     }
 ]
