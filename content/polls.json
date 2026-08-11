@@ -255554,5 +255554,57 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 818,
+        "company": "Leger",
+        "date": "August 7-9, 2026",
+        "field": "2026-08-09",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 20
+            },
+            {
+                "party": "PLQ",
+                "score": 24
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "QS",
+                "score": 11
+            },
+            {
+                "party": "PCQ",
+                "score": 13
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 818,
+        "company": "Leger",
+        "date": "August 7-9, 2026",
+        "field": "2026-08-09",
+        "method": "Online",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 31
+            },
+            {
+                "party": "No",
+                "score": 69
+            }
+        ]
     }
 ]
