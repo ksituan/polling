@@ -255606,5 +255606,83 @@
                 "score": 69
             }
         ]
+    },
+    {
+        "n": 1040,
+        "company": "Synopsis",
+        "date": "August 10, 2026",
+        "field": "2026-08-10",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 20
+            },
+            {
+                "party": "PLQ",
+                "score": 26
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "QS",
+                "score": 9
+            },
+            {
+                "party": "PCQ",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "n": 1040,
+        "company": "Synopsis",
+        "date": "August 10, 2026",
+        "field": "2026-08-10",
+        "method": "Online",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 31
+            },
+            {
+                "party": "No",
+                "score": 69
+            }
+        ]
+    },
+    {
+        "n": 1040,
+        "company": "Synopsis",
+        "date": "August 10, 2026",
+        "field": "2026-08-10",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "CPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 27
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
     }
 ]
