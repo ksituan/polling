@@ -255684,5 +255684,37 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1030,
+        "moe": 2.9,
+        "company": "Pallas",
+        "date": "August 8-9 2026",
+        "field": "2026-08-09",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 36.9
+            },
+            {
+                "party": "OLP",
+                "score": 29.4
+            },
+            {
+                "party": "NDP",
+                "score": 25.7
+            },
+            {
+                "party": "Others",
+                "score": 4.8
+
+            },
+            {
+                "party": "GPO",
+                "score": 3.3
+            }
+        ]
     }
 ]
