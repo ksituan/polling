@@ -255716,5 +255716,35 @@
                 "score": 3.3
             }
         ]
+    },
+    {
+        "n": 412,
+        "company": "Abacus",
+        "date": "July 29-August 7, 2026",
+        "field": "2026-08-07",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 45
+            },
+            {
+                "party": "PCNB",
+                "score": 31
+            },
+            {
+                "party": "GPNB",
+                "score": 14
+            },
+            {
+                "party": "Others",
+                "score": 5
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            }
+        ]
     }
 ]
