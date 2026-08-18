@@ -256338,5 +256338,39 @@
                 "score": 6.3
             }
         ]
+    },
+    {
+        "n": 801,
+        "company": "Research Co",
+        "date": "August 12-14, 2026",
+        "field": "2026-08-14",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 44
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 39
+            },
+            {
+                "party": "Others",
+                "score": 1
+            },
+            {
+                "party": "CNBC",
+                "score": 5
+            },
+            {
+                "party": "ONE",
+                "score": 1
+            }
+        ]
     }
 ]
