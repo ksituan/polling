@@ -256819,5 +256819,36 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1500,
+        "moe": 2.5,
+        "company": "Liaison",
+        "date": "August 23-24, 2026",
+        "field": "2026-08-24",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
