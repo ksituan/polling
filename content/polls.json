@@ -256850,5 +256850,53 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1009,
+        "company": "Synopsis",
+        "date": "August 24-26, 2026",
+        "field": "2026-08-26",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 27
+            },
+            {
+                "party": "PLQ",
+                "score": 20
+            },
+            {
+                "party": "PQ",
+                "score": 28
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "n": 1009,
+        "company": "Synopsis",
+        "date": "August 24-26, 2026",
+        "field": "2026-08-26",
+        "method": "Online",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 31
+            },
+            {
+                "party": "No",
+                "score": 69
+            }
+        ]
     }
 ]
