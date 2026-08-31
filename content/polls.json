@@ -257773,5 +257773,27 @@
                 "score": 1.1
             }
         ]
+    },
+    {
+        "n": 829,
+        "company": "Leger",
+        "date": "August 21-23 2026",
+        "field": "2026-08-23",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "UCP",
+                "score": 51
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
     }
 ]
