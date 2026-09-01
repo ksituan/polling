@@ -257795,5 +257795,35 @@
                 "score": 9
             }
         ]
+    },
+     {
+        "n": 1008,
+        "company": "Leger",
+        "date": "August 28-31, 2026",
+        "field": "2026-08-31",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 24
+            },
+            {
+                "party": "PLQ",
+                "score": 22
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 15
+            }
+        ]
     }
 ]
