@@ -257825,5 +257825,35 @@
                 "score": 15
             }
         ]
+    },
+    {
+        "n": 6535,
+        "company": "Spark",
+        "date": "August 30, 2026",
+        "field": "2026-08-30",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 8
+            }
+        ]
     }
 ]
