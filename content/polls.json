@@ -257855,5 +257855,39 @@
                 "score": 8
             }
         ]
+    },
+    {
+        "n": 750,
+        "company": "Research Co",
+        "date": "August 24-26 2026",
+        "field": "2026-08-26",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "ABP",
+                "score": 5
+            },
+            {
+                "party": "RPA",
+                "score": 2
+            },
+            {
+                "party": "WLC",
+                "score": 2
+            }
+        ]
     }
 ]
