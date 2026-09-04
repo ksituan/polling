@@ -257889,5 +257889,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1518,
+        "company": "Abacus",
+        "date": "August 20-24, 2026",
+        "field": "2026-08-24",
+        "method": "Online",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 42
+            },
+            {
+                "party": "OLP",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 17
+            },
+            {
+                "party": "Others",
+                "score": 6
+            },
+            {
+                "party": "GPO",
+                "score": 4
+            }
+        ]
     }
 ]
