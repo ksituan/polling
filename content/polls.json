@@ -257919,5 +257919,263 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1493,
+        "moe": 2.5,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "CPC",
+                "score": 31
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 211,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 164,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31
+            },
+            {
+                "party": "CPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 97,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 37
+            },
+            {
+                "party": "CPC",
+                "score": 43
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 586,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 338,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "CPC",
+                "score": 18
+            },
+            {
+                "party": "NDP",
+                "score": 9
+            },
+            {
+                "party": "BQ",
+                "score": 26
+            },
+            {
+                "party": "GPC",
+                "score": 1
+            }  
+        ]
+    },
+    {
+        "n": 98,
+        "company": "Liaison",
+        "date": "Aug 23-Sep 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 52
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 1040,
+        "moe": 3.0,
+        "company": "Pallas",
+        "date": "September 5, 2026",
+        "field": "2026-09-05",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 23.6
+            },
+            {
+                "party": "PLQ",
+                "score": 20
+            },
+            {
+                "party": "PQ",
+                "score": 28.8
+            },
+            {
+                "party": "QS",
+                "score": 10.6
+            },
+            {
+                "party": "PCQ",
+                "score": 15.4
+            }
+        ]
     }
 ]
