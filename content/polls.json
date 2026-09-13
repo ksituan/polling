@@ -258580,5 +258580,433 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1301,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 199,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 59
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 140,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 64
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 74,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "CPC",
+                "score": 47
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 499,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53
+            },
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 304,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "CPC",
+                "score": 16
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 29
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 84,
+        "company": "Leger",
+        "date": "September 5-7, 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 57
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1336,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "CPC",
+                "score": 33
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "BQ",
+                "score": 7
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 188,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 147,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 24
+            },
+            {
+                "party": "CPC",
+                "score": 65
+            },
+            {
+                "party": "NDP",
+                "score": 10
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 91,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 38
+            },
+            {
+                "party": "CPC",
+                "score": 46
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 530,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 51
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 8
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 292,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "CPC",
+                "score": 14
+            },
+            {
+                "party": "NDP",
+                "score": 3
+            },
+            {
+                "party": "BQ",
+                "score": 30
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 89,
+        "company": "Abacus",
+        "date": "September 4-9, 2026",
+        "field": "2026-09-09",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 60
+            },
+            {
+                "party": "CPC",
+                "score": 27
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
