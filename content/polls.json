@@ -259487,7 +259487,7 @@
         ]
     },
     {
-        "n": 2145,
+        "n": 2034,
         "moe": 2.1,
         "company": "Mainstreet",
         "date": "September 11-13, 2026",
@@ -259497,27 +259497,27 @@
         "poll": [
             {
                 "party": "CAQ",
-                "score": 30
+                "score": 28.2
             },
             {
                 "party": "PLQ",
-                "score": 22
+                "score": 21.5
             },
             {
                 "party": "PQ",
-                "score": 25
+                "score": 24.4
             },
             {
                 "party": "QS",
-                "score": 6
+                "score": 7.7
             },
             {
                 "party": "PCQ",
-                "score": 16
+                "score": 16.6
             },
             {
                 "party": "Others",
-                "score": 1
+                "score": 1.7
             }
         ]
     },
