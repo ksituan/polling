@@ -259550,5 +259550,40 @@
                 "score": 16
             }
         ]
+    },
+    {
+        "n": 2145,
+        "moe": 2.1,
+        "company": "Mainstreet",
+        "date": "September 11-13, 2026",
+        "field": "2026-09-13",
+        "method": "IVR",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53.3
+            },
+            {
+                "party": "CPC",
+                "score": 16.0
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 22.2
+            },
+            {
+                "party": "GPC",
+                "score": 0.8
+            },
+            {
+                "party": "PPC",
+                "score": 1.3
+            }
+        ]
     }
 ]
