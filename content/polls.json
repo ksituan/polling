@@ -259494,7 +259494,6 @@
         "field": "2026-09-13",
         "method": "IVR",
         "jurisdiction": "QC",
-        "note": "CAQ Internal",
         "poll": [
             {
                 "party": "CAQ",
@@ -259515,6 +259514,10 @@
             {
                 "party": "PCQ",
                 "score": 16
+            },
+            {
+                "party": "Others",
+                "score": 1
             }
         ]
     },
