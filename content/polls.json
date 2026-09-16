@@ -259619,5 +259619,65 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 485,
+        "company": "Nanos",
+        "date": "September 12-14, 2026",
+        "field": "2026-09-14",
+        "method": "Telephone/Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 21.6
+            },
+            {
+                "party": "PLQ",
+                "score": 23.7
+            },
+            {
+                "party": "PQ",
+                "score": 27.9
+            },
+            {
+                "party": "QS",
+                "score": 8.7
+            },
+            {
+                "party": "PCQ",
+                "score": 16.4
+            }
+        ]
+    },
+    {
+        "n": 600,
+        "company": "Abacus",
+        "date": "Aug 28-Sept 5, 2026",
+        "field": "2026-09-05",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 40
+            },
+            {
+                "party": "NSL",
+                "score": 22
+            },
+            {
+                "party": "NDP",
+                "score": 33
+            },
+            {
+                "party": "GPNS",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
     }
 ]
