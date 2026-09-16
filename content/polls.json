@@ -259679,5 +259679,27 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Abacus",
+        "date": "September 4-7 2026",
+        "field": "2026-09-07",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "UCP",
+                "score": 52
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
     }
 ]
