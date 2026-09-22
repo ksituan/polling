@@ -260217,5 +260217,35 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 903,
+        "company": "Leger",
+        "date": "September 18-21, 2026",
+        "field": "2026-09-21",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 20
+            },
+            {
+                "party": "PLQ",
+                "score": 23
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 17
+            }
+        ]
     }
 ]
