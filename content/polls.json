@@ -260171,5 +260171,51 @@
                 "score": 1.4
             }
         ]
+    },
+     {
+        "n": 4780,
+        "moe": 3.0,
+        "company": "Segma",
+        "date": "September 8-17, 2026",
+        "field": "2026-09-17",
+        "method": "Online/Telephone",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 30
+            },
+            {
+                "party": "No",
+                "score": 70
+            }
+        ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Probe",
+        "date": "Aug 28-Sept 14, 2026",
+        "field": "2026-09-14",
+        "method": "Telephone/Online",
+        "jurisdiction": "MB",
+        "poll": [
+            {
+                "party": "PCPM",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 60
+            },
+            {
+                "party": "MLP",
+                "score": 7
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
