@@ -260308,5 +260308,35 @@
                 "score": 4
             }
         ]
-    }
+    },
+    {
+        "n": 886,
+        "company": "Liaison",
+        "date": "September 21-22 2026",
+        "field": "2026-09-22",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 1
+            }
+        ]
+    },
 ]
