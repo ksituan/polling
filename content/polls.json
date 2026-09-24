@@ -260338,5 +260338,36 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1510,
+        "moe": 2.5,
+        "company": "Liaison",
+        "date": "September 15-19, 2026",
+        "field": "2026-09-19",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 40
+            },
+            {
+                "party": "OLP",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 21
+            },
+            {
+                "party": "GPO",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
     }
 ]
