@@ -260369,5 +260369,39 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 682,
+        "company": "Angus Reid",
+        "date": "September 22-24, 2026",
+        "field": "2026-09-24",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 35
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 43
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "CNBC",
+                "score": 3
+            },
+            {
+                "party": "ONE",
+                "score": 4
+            }
+        ]
     }
 ]
