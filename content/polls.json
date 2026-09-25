@@ -260403,5 +260403,28 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1200,
+        "moe": 2.8,
+        "company": "Janet Brown",
+        "date": "September 8-21 2026",
+        "field": "2026-09-21",
+        "method": "Telephone/Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "UCP",
+                "score": 45
+            },
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 10
+            }
+        ]
     }
 ]
