@@ -260636,5 +260636,35 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Synopsis",
+        "date": "September 24-27, 2026",
+        "field": "2026-09-27",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 17
+            },
+            {
+                "party": "PLQ",
+                "score": 22
+            },
+            {
+                "party": "PQ",
+                "score": 30
+            },
+            {
+                "party": "QS",
+                "score": 13
+            },
+            {
+                "party": "PCQ",
+                "score": 17
+            }
+        ]
     }
 ]
