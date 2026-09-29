@@ -261105,5 +261105,40 @@
                 "score": 9.4
             }
         ]
+    },
+    {
+        "n": 850,
+        "moe": 3.1,
+        "company": "Liaison",
+        "date": "September 26-27, 2026",
+        "field": "2026-09-27",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 40
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "CNBC",
+                "score": 4
+            },
+            {
+                "party": "ONE",
+                "score": 3
+            }
+        ]
     }
 ]
