@@ -261174,5 +261174,39 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 411,
+        "company": "Innovative",
+        "date": "September 25-28, 2026",
+        "field": "2026-09-28",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 41
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 39
+            },
+            {
+                "party": "Others",
+                "score": 3
+            },
+            {
+                "party": "CNBC",
+                "score": 3
+            },
+            {
+                "party": "ONE",
+                "score": 4
+            }
+        ]
     }
 ]

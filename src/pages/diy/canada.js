@@ -444,7 +444,7 @@ let ridingNames = {
   24055: "Pierre-Boucher—Les Patriotes—Verchères",
   24056: "Pierrefonds—Dollard",
   24057: "Pontiac—Kitigan Zibi",
-  24058: "Portneuf—Jacques-Cartier",
+  24058: "Saint-Augustin—Portneuf—Jacques-Cartier",
   24059: "Québec Centre",
   24060: "Repentigny",
   24061: "Richmond—Arthabaska—des-Sources",
