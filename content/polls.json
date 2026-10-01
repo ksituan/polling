@@ -261238,5 +261238,35 @@
                 "score": 17
             }
         ]
+    },
+    {
+        "n": 1012,
+        "company": "Pollara",
+        "date": "September 12-17, 2026",
+        "field": "2026-09-17",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "CPC",
+                "score": 15
+            },
+            {
+                "party": "NDP",
+                "score": 5
+            },
+            {
+                "party": "BQ",
+                "score": 28
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
