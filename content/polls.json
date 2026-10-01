@@ -261208,5 +261208,35 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1012,
+        "company": "Pollara",
+        "date": "September 12-17, 2026",
+        "field": "2026-09-17",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 21
+            },
+            {
+                "party": "PLQ",
+                "score": 22
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 17
+            }
+        ]
     }
 ]
