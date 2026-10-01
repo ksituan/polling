@@ -261268,5 +261268,39 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 730,
+        "company": "Ipsos",
+        "date": "September 25-29, 2026",
+        "field": "2026-09-29",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 42
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "CNBC",
+                "score": 3
+            },
+            {
+                "party": "ONE",
+                "score": 3
+            }
+        ]
     }
 ]
