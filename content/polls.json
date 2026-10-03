@@ -261302,5 +261302,35 @@
                 "score": 3
             }
         ]
+    },
+    {
+        "n": 1001,
+        "company": "Leger",
+        "date": "October 1-2, 2026",
+        "field": "2026-10-02",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 14
+            },
+            {
+                "party": "PLQ",
+                "score": 25
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 11
+            },
+            {
+                "party": "PCQ",
+                "score": 20
+            }
+        ]
     }
 ]
