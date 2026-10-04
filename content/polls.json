@@ -261436,5 +261436,73 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 658,
+        "company": "Research Co",
+        "date": "October 2-4, 2026",
+        "field": "2026-10-04",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 13
+            },
+            {
+                "party": "PLQ",
+                "score": 25
+            },
+            {
+                "party": "PQ",
+                "score": 31
+            },
+            {
+                "party": "QS",
+                "score": 10
+            },
+            {
+                "party": "PCQ",
+                "score": 20
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 3000,
+        "company": "Pollara",
+        "date": "September 23-30, 2026",
+        "field": "2026-09-30",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 38
+            },
+            {
+                "party": "Others",
+                "score": 2
+            },
+            {
+                "party": "CNBC",
+                "score": 4
+            },
+            {
+                "party": "ONE",
+                "score": 5
+            }
+        ]
     }
 ]
