@@ -261366,5 +261366,40 @@
                 "score": 1.6
             }
         ]
+    },
+    {
+        "n": 1114,
+        "moe": 2.9,
+        "company": "Pallas",
+        "date": "October 3, 2026",
+        "field": "2026-10-03",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 14.6
+            },
+            {
+                "party": "PLQ",
+                "score": 24.4
+            },
+            {
+                "party": "PQ",
+                "score": 29
+            },
+            {
+                "party": "QS",
+                "score": 10.5
+            },
+            {
+                "party": "PCQ",
+                "score": 20.4
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            }
+        ]
     }
 ]
