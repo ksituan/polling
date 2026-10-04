@@ -261332,5 +261332,39 @@
                 "score": 20
             }
         ]
+    },
+    {
+        "n": 1843,
+        "company": "Mainstreet",
+        "date": "October 2-3, 2026",
+        "field": "2026-10-03",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 20.3
+            },
+            {
+                "party": "PLQ",
+                "score": 22.9
+            },
+            {
+                "party": "PQ",
+                "score": 27
+            },
+            {
+                "party": "QS",
+                "score": 8.9
+            },
+            {
+                "party": "PCQ",
+                "score": 19.3
+            },
+            {
+                "party": "Others",
+                "score": 1.6
+            }
+        ]
     }
 ]
