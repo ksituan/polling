@@ -261504,5 +261504,40 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1183,
+        "moe": 2.8,
+        "company": "Forum",
+        "date": "October 3-4, 2026",
+        "field": "2026-10-04",
+        "method": "IVR",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 13
+            },
+            {
+                "party": "PLQ",
+                "score": 25
+            },
+            {
+                "party": "PQ",
+                "score": 26
+            },
+            {
+                "party": "QS",
+                "score": 13
+            },
+            {
+                "party": "PCQ",
+                "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
