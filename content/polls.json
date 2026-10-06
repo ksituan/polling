@@ -262021,5 +262021,35 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 827,
+        "company": "Mainstreet",
+        "date": "Sept 30-Oct 1, 2026",
+        "field": "2026-10-01",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37.2
+            },
+            {
+                "party": "GPBC",
+                "score": 11.2
+            },
+            {
+                "party": "CPBC",
+                "score": 44.7
+            },
+            {
+                "party": "ONE",
+                "score": 5.7
+            },
+            {
+                "party": "CNBC",
+                "score": 1.1
+            }
+        ]
     }
 ]
