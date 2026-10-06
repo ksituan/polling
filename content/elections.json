@@ -2394,6 +2394,36 @@
         "jurisdiction": "QC"
     },
     {
+        "date": "2026-10-05",
+        "results": [
+            {
+                "party": "QS",
+                "score": 12.4
+            },
+            {
+                "party": "CAQ",
+                "score": 13.4
+            },
+            {
+                "party": "PLQ",
+                "score": 24.2
+            },
+            {
+                "party": "PCQ",
+                "score": 20.7
+            },
+            {
+                "party": "PQ",
+                "score": 28.0
+            },
+            {
+                "party": "Others",
+                "score": 1.3
+            }
+        ],
+        "jurisdiction": "QC"
+    },
+    {
         "date": "2010-09-27",
         "nextWrit": "2014-08-21",
         "results": [
