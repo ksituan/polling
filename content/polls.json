@@ -262024,6 +262024,7 @@
     },
     {
         "n": 827,
+        "moe": 3.4,
         "company": "Mainstreet",
         "date": "Sept 30-Oct 1, 2026",
         "field": "2026-10-01",
@@ -262049,6 +262050,55 @@
             {
                 "party": "CNBC",
                 "score": 1.1
+            }
+        ]
+    },
+    {
+        "n": 500,
+        "company": "Research Co",
+        "date": "October 4-5, 2026",
+        "field": "2026-10-05",
+        "method": "Online",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 32
+            },
+            {
+                "party": "No",
+                "score": 68
+            }
+        ]
+    },
+    {
+        "n": 827,
+        "moe": 3.4,
+        "company": "Mainstreet",
+        "date": "Sept 30-Oct 1, 2026",
+        "field": "2026-10-01",
+        "method": "IVR",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 41.6
+            },
+            {
+                "party": "CPC",
+                "score": 32.1
+            },
+            {
+                "party": "NDP",
+                "score": 14.2
+            },
+            {
+                "party": "GPC",
+                "score": 3.1
+            },
+            {
+                "party": "Others",
+                "score": 4.1
             }
         ]
     }
