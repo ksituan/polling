@@ -257,7 +257,7 @@ let ge2026 = {
     "Terrebonne": "pq3",
     "Trois-Rivières": "pq1",
     "Ungava": "pq3",
-    "Vachon": "pq1",
+    "Vachon": "plq1",
     "Vanier—Les Rivières": "pcq3",
     "Vaudreuil": "plq4",
     "Verchères": "pq4",
