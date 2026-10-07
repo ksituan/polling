@@ -697,7 +697,7 @@ let ge2025 = {
   60001: "lpc3",
   61001: "lpc4",
   62001: "ndp1",
-}
+};
 
 let ridingNames = {
   10001: "Avalon",
