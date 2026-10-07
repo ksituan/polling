@@ -262136,5 +262136,109 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 150,
+        "company": "Narrative",
+        "date": "Sepember 16-28, 2026",
+        "field": "2026-09-28",
+        "method": "Online",
+        "jurisdiction": "PE",
+        "poll": [
+            {
+                "party": "PEIPC",
+                "score": 20.2
+            },
+            {
+                "party": "LPPEI",
+                "score": 24.3
+            },
+            {
+                "party": "GPPEI",
+                "score": 45.9
+            },
+            {
+                "party": "NDP",
+                "score": 9.4
+            }
+        ]
+    },
+    {
+        "n": 238,
+        "company": "Narrative",
+        "date": "Sepember 16-28, 2026",
+        "field": "2026-09-28",
+        "method": "Online",
+        "jurisdiction": "NL",
+        "poll": [
+            {
+                "party": "LPNL",
+                "score": 42.2
+            },
+            {
+                "party": "PCNL",
+                "score": 29.7
+            },
+            {
+                "party": "NDP",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "n": 741,
+        "company": "Narrative",
+        "date": "Sepember 16-28, 2026",
+        "field": "2026-09-28",
+        "method": "Online",
+        "jurisdiction": "NS",
+        "poll": [
+            {
+                "party": "PCNS",
+                "score": 30.6
+            },
+            {
+                "party": "NSL",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 36
+            },
+            {
+                "party": "GPNS",
+                "score": 1.3
+            }
+        ]
+    },
+    {
+        "n": 506,
+        "company": "Narrative",
+        "date": "Sepember 16-28, 2026",
+        "field": "2026-09-28",
+        "method": "Online",
+        "jurisdiction": "NB",
+        "poll": [
+            {
+                "party": "NBLA",
+                "score": 45.7
+            },
+            {
+                "party": "PCNB",
+                "score": 30
+            },
+            {
+                "party": "GPNB",
+                "score": 12.8
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            }
+        ]
     }
 ]
