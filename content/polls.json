@@ -262101,5 +262101,40 @@
                 "score": 4.1
             }
         ]
+    },
+    {
+        "n": 2020,
+        "moe": 2.2,
+        "company": "EKOS",
+        "date": "Sept 23-Oct 2, 2026",
+        "field": "2026-10-02",
+        "method": "IVR",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47.2
+            },
+            {
+                "party": "CPC",
+                "score": 26.4
+            },
+            {
+                "party": "NDP",
+                "score": 15.3
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            }
+        ]
     }
 ]
