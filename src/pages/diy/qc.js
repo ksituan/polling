@@ -189,7 +189,7 @@ let ge2026 = {
     "Jean-Lesage": "qs3",
     "Jean-Talon": "plq1",
     "Jeanne-Mance-Viger": "plq4",
-    "Joliette": "caq2",
+    "Joliette": "pq4",
     "Jonquière": "pq1",
     "L'Assomption": "pq4",
     "La Peltrie": "pcq4",
