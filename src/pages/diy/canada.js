@@ -2399,6 +2399,7 @@ function Diy({ ridings, size }) {
       <PartyCount sortOrder={sortOrder} colours={colours} size={size} />
       <div className="buttonBar">
         <Button electionFunction={setElection21} label={"2021 election"} />
+        <Button electionFunction={setElection25} label={"2025 election"} />
         <Button electionFunction={addParty} label={"Extra party"} />
         <Button electionFunction={setBlank} label={"Reset map"} />
         <Button electionFunction={toggleSquares} label="Toggle squares" />
