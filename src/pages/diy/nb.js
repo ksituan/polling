@@ -55,6 +55,11 @@ function Diy({size}) {
         setPalette(paletteInfo);
     } 
 
+    const setElection24 = () => {
+        setColours(ge2024);
+        setPalette(paletteInfo);
+    } 
+
     const setBlank = () => {
         setColours(blank);
         setPalette(paletteInfo);
