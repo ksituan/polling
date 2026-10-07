@@ -353,6 +353,7 @@ let ge2021 = {
   61001: "lpc1",
   62001: "ndp2",
 };
+
 let ge2025 = {
   10001: "lpc4",
   10002: "lpc4",
@@ -2317,7 +2318,7 @@ function Diy({ ridings, size }) {
     setPalette(paletteInfo)
   }
 
-    const setElection25 = () => {
+  const setElection25 = () => {
     setColours(ge2025)
     setPalette(paletteInfo)
   }
