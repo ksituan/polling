@@ -262240,5 +262240,62 @@
                 "score": 7
             }
         ]
+    },
+    {
+        "n": 860,
+        "company": "Leger",
+        "date": "October 2-4 2026",
+        "field": "2026-10-04",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 45
+            },
+            {
+                "party": "UCP",
+                "score": 47
+            },
+            {
+                "party": "Others",
+                "score": 9
+            }
+        ]
+    },
+    {
+        "n": 882,
+        "moe": 3.1,
+        "company": "Liaison",
+        "date": "October 7-8, 2026",
+        "field": "2026-10-08",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "GPBC",
+                "score": 10
+            },
+            {
+                "party": "CPBC",
+                "score": 43
+            },
+            {
+                "party": "Others",
+                "score": 4
+            },
+            {
+                "party": "CNBC",
+                "score": 3
+            },
+            {
+                "party": "ONE",
+                "score": 4
+            }
+        ]
     }
 ]
