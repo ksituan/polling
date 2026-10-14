@@ -262921,5 +262921,40 @@
                 "score": 2.7
             }
         ]
+    },
+    {
+        "n": 494,
+        "moe": 4.3,
+        "company": "Pallas",
+        "date": "October 10-11, 2026",
+        "field": "2026-10-11",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38.1
+            },
+            {
+                "party": "GPBC",
+                "score": 11.2
+            },
+            {
+                "party": "CPBC",
+                "score": 43.4
+            },
+            {
+                "party": "Others",
+                "score": 1.1
+            },
+            {
+                "party": "CNBC",
+                "score": 4.7
+            },
+            {
+                "party": "ONE",
+                "score": 1.5
+            }
+        ]
     }
 ]
