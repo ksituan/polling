@@ -263498,5 +263498,27 @@
                 "score": 3.0
             }
         ]
+    },
+     {
+        "n": 1347,
+        "company": "Pollara",
+        "date": "October 2-15 2026",
+        "field": "2026-10-15",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 50
+            },
+            {
+                "party": "UCP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
