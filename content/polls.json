@@ -263789,5 +263789,31 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 793,
+        "company": "Angus Reid",
+        "date": "October 15-19, 2026",
+        "field": "2026-10-19",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 43
+            },
+            {
+                "party": "GPBC",
+                "score": 8
+            },
+            {
+                "party": "CPBC",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
