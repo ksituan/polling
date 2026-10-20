@@ -264230,5 +264230,31 @@
                 "score": 2.8
             }
         ]
+    },
+    {
+        "n": 908,
+        "company": "Innovative",
+        "date": "October 15-19, 2026",
+        "field": "2026-10-19",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 43
+            },
+            {
+                "party": "Others",
+                "score": 7
+            }
+        ]
     }
 ]
