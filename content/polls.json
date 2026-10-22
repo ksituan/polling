@@ -264309,5 +264309,39 @@
                 "score": 6
             }
         ]
+    },
+    {
+        "n": 916,
+        "company": "Leger",
+        "date": "October 20-22, 2026",
+        "field": "2026-10-22",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 44
+            },
+            {
+                "party": "ONE",
+                "score": 2
+            },
+            {
+                "party": "CNBC",
+                "score": 1
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
