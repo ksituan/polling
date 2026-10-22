@@ -264287,5 +264287,27 @@
                 "score": 2.6
             }
         ]
+    },
+    {
+        "n": 673,
+        "company": "Abacus",
+        "date": "October 5-13, 2026",
+        "field": "2026-10-13",
+        "method": "Online",
+        "jurisdiction": "SK",
+        "poll": [
+            {
+                "party": "SKP",
+                "score": 48
+            },
+            {
+                "party": "NDP",
+                "score": 46
+            },
+            {
+                "party": "Others",
+                "score": 6
+            }
+        ]
     }
 ]
