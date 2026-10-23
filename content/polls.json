@@ -264373,5 +264373,39 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1950,
+        "company": "Pollara",
+        "date": "October 15-21, 2026",
+        "field": "2026-10-21",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37
+            },
+            {
+                "party": "GPBC",
+                "score": 13
+            },
+            {
+                "party": "CPBC",
+                "score": 42
+            },
+            {
+                "party": "ONE",
+                "score": 4
+            },
+            {
+                "party": "CNBC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
