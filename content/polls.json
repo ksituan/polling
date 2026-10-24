@@ -264441,5 +264441,32 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 702,
+        "moe": 3.7,
+        "company": "Pallas",
+        "date": "October 22, 2026",
+        "field": "2026-10-22",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 45
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
