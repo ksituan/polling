@@ -264499,5 +264499,32 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 731,
+        "moe": 4.0,
+        "company": "Forum",
+        "date": "October 23, 2026",
+        "field": "2026-10-23",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 39.5
+            },
+            {
+                "party": "GPBC",
+                "score": 12
+            },
+            {
+                "party": "CPBC",
+                "score": 44.5
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
