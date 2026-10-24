@@ -264407,5 +264407,39 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 722,
+        "company": "Research Co",
+        "date": "October 21-23, 2026",
+        "field": "2026-10-23",
+        "method": "Online",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 40
+            },
+            {
+                "party": "GPBC",
+                "score": 11
+            },
+            {
+                "party": "CPBC",
+                "score": 44
+            },
+            {
+                "party": "ONE",
+                "score": 2
+            },
+            {
+                "party": "CNBC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
