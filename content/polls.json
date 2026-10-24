@@ -264468,5 +264468,36 @@
                 "score": 4
             }
         ]
+    },
+    {
+        "n": 1043,
+        "moe": 3.0,
+        "company": "Mainstreet",
+        "date": "October 21-23, 2026",
+        "field": "2026-10-23",
+        "method": "IVR",
+        "jurisdiction": "BC",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 37.2
+            },
+            {
+                "party": "GPBC",
+                "score": 17
+            },
+            {
+                "party": "CPBC",
+                "score": 42.9
+            },
+            {
+                "party": "CNBC",
+                "score": 1
+            },
+            {
+                "party": "ONE",
+                "score": 2
+            }
+        ]
     }
 ]
