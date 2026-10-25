@@ -1417,6 +1417,28 @@
         "jurisdiction": "BC"
     },
     {
+        "date": "2026-10-25",
+        "results": [
+            {
+                "party": "NDP",
+                "score": 37.4
+            },
+            {
+                "party": "GPBC",
+                "score": 11.1
+            },
+            {
+                "party": "CPBC",
+                "score": 48.1
+            },
+            {
+                "party": "Others",
+                "score": 3.4
+            }
+        ],
+        "jurisdiction": "BC"
+    },
+    {
         "date": "2008-03-03",
         "nextWrit": "2012-03-26",
         "results": [
