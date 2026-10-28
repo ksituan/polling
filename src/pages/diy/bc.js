@@ -149,8 +149,9 @@ function Diy({size}) {
         "cpbc" : {name: "Conservative Party", colour: "blue", pattern: "right"},
     };
 
-    const palette2024 = {
+    const palette2026 = {
         "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "cnbc" : {name: "CentreBC", colour: "red", pattern: "hor"},
         "gpbc" : {name: "Green Party", colour: "green", pattern: "vert"},
         "cpbc" : {name: "Conservative Party", colour: "blue", pattern: "right"},
     };
