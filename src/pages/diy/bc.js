@@ -33,7 +33,7 @@ let ge2024 = {1: "cpbc1", 2: "cpbc3", 3: "cpbc3", 4: "cpbc1", 5: "ndp2", 6: "ndp
 let ge2026 = {1: "cpbc4", 2: "cpbc4", 3: "cpbc4", 4: "cpbc3", 5: "cpbc2", 6: "ndp3", 7: "ndp1", 8: "cpbc2", 9: "cpbc4", 10: "cpbc4",
     11: "cpbc4", 12: "cpbc4", 13: "cpbc3", 14: "cpbc3", 15: "cpbc2", 16: "ndp1", 17: "cpbc1", 18: "cpbc3", 19: "cpbc4", 20: "ndp3",
     21: "cpbc4", 22: "cpbc4", 23: "cpbc4", 24: "cpbc3", 25: "cpbc4", 26: "cpbc4", 27: "cpbc4", 28: "ndp3", 29: "cpbc1", 30: "cpbc3",
-    31: "cpbc4", 32: "cpbc3", 33: "cpbc1", 34: "ndp2", 35: "ndp3", 36: "cpbc1", 37: "cpbc4", 38: "ndp1", 39: "ndp3", 40: "ndp4",
+    31: "cpbc4", 32: "cpbc3", 33: "cpbc1", 34: "ndp2", 35: "ndp3", 36: "ndp1", 37: "cpbc4", 38: "ndp1", 39: "ndp3", 40: "ndp4",
     41: "cpbc2", 42: "ndp2", 43: "cpbc2", 44: "ndp2", 45: "ndp1", 46: "cpbc4", 47: "cpbc4", 48: "cpbc1", 49: "ndp1", 50: "cpbc1",
     51: "ndp3", 52: "cpbc4", 53: "cpbc4", 54: "cpbc4", 55: "cpbc4", 56: "cpbc4", 57: "cpbc3", 58: "gpbc3", 59: "cpbc2", 60: "cpbc4",
     61: "cpbc3", 62: "cpbc2", 63: "cpbc4", 64: "cpbc3", 65: "cpbc1", 66: "cpbc2", 67: "cpbc3", 68: "cpbc4", 69: "cpbc4", 70: "cpbc4",
