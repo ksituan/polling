@@ -29,6 +29,17 @@ let ge2024 = {1: "cpbc1", 2: "cpbc3", 3: "cpbc3", 4: "cpbc1", 5: "ndp2", 6: "ndp
     71: "cpbc1", 72: "ndp4", 73: "ndp1", 74: "ndp3", 75: "ndp4", 76: "ndp3", 77: "ndp4", 78: "ndp1", 79: "ndp4", 80: "ndp3",
     81: "cpbc2", 82: "ndp4", 83: "ndp1", 84: "ndp2", 85: "ndp4", 86: "cpbc2", 87: "gpbc1", 88: "ndp2", 89: "cpbc1", 90: "cpbc1",
     91: "cpbc1", 92: "ndp1", 93: "ndp4"};
+    
+let ge2026 = {1: "cpbc4", 2: "cpbc4", 3: "cpbc4", 4: "cpbc3", 5: "cpbc2", 6: "ndp3", 7: "ndp1", 8: "cpbc2", 9: "cpbc4", 10: "cpbc4",
+    11: "cpbc4", 12: "cpbc4", 13: "cpbc3", 14: "cpbc3", 15: "cpbc2", 16: "ndp1", 17: "cpbc1", 18: "cpbc3", 19: "cpbc4", 20: "ndp3",
+    21: "cpbc4", 22: "cpbc4", 23: "cpbc4", 24: "cpbc3", 25: "cpbc4", 26: "cpbc4", 27: "cpbc4", 28: "ndp3", 29: "cpbc1", 30: "cpbc3",
+    31: "cpbc4", 32: "cpbc3", 33: "cpbc1", 34: "ndp2", 35: "ndp3", 36: "cpbc1", 37: "cpbc4", 38: "ndp1", 39: "ndp3", 40: "ndp4",
+    41: "cpbc2", 42: "ndp2", 43: "cpbc2", 44: "ndp2", 45: "ndp1", 46: "cpbc4", 47: "cpbc4", 48: "cpbc1", 49: "ndp1", 50: "cpbc1",
+    51: "ndp3", 52: "cpbc4", 53: "cpbc4", 54: "cpbc4", 55: "cpbc4", 56: "cpbc4", 57: "cpbc3", 58: "gpbc3", 59: "cpbc2", 60: "cpbc4",
+    61: "cpbc3", 62: "cpbc2", 63: "cpbc4", 64: "cpbc3", 65: "cpbc1", 66: "cpbc2", 67: "cpbc3", 68: "cpbc4", 69: "cpbc4", 70: "cpbc4",
+    71: "cpbc4", 72: "ndp3", 73: "cpbc2", 74: "cpbc1", 75: "ndp4", 76: "ndp3", 77: "ndp4", 78: "cpbc3", 79: "ndp4", 80: "ndp1",
+    81: "cpbc4", 82: "ndp4", 83: "cpbc3", 84: "ndp2", 85: "ndp2", 86: "cpbc4", 87: "gpbc2", 88: "ndp2", 89: "cpbc1", 90: "cpbc4",
+    91: "cpbc4", 92: "ndp1", 93: "ndp4"};
 
 let ridingNames = {1: "Abbotsford-Mission", 2: "Abbotsford South", 3: "Abbotsford West", 4: "Boundary-Similkameen", 5: "Burnaby Centre", 6: "Burnaby-New Westminster", 7: "Burnaby East", 8: "Burnaby North", 9: "Cariboo-Chilcotin", 10: "Prince George-North Cariboo",
 11: "Chilliwack North", 12: "Chilliwack-Cultus Lake", 13: "Columbia River-Revelstoke", 14: "Coquitlam-Burke Mountain", 15: "Coquitlam-Maillardville", 16: "Courtenay-Comox", 17: "Cowichan Valley", 18: "Delta North", 19: "Delta South", 20: "Esquimalt-Colwood",
@@ -73,6 +84,11 @@ function Diy({size}) {
     const setElection24 = () => {
         setColours(ge2024);
         setPalette(palette2024);
+    } 
+
+    const setElection26 = () => {
+        setColours(ge2026);
+        setPalette(palette2026);
     } 
 
     const setBlank = () => {
@@ -133,6 +149,12 @@ function Diy({size}) {
         "cpbc" : {name: "Conservative Party", colour: "blue", pattern: "right"},
     };
 
+    const palette2024 = {
+        "ndp" : {name: "New Democrats", colour: "orange", pattern: "left"},
+        "gpbc" : {name: "Green Party", colour: "green", pattern: "vert"},
+        "cpbc" : {name: "Conservative Party", colour: "blue", pattern: "right"},
+    };
+
     const [palette, setPalette] = useState(palette2024);
 
     return(
@@ -143,6 +165,7 @@ function Diy({size}) {
             <div className="buttonBar">
                 <Button electionFunction={setElection20} label={"2020 election"} />
                 <Button electionFunction={setElection24} label={"2024 election"} />
+                <Button electionFunction={setElection26} label={"2026 election"} />
                 <Button electionFunction={addParty} label={"Extra party"} />
                 <Button electionFunction={setBlank} label={"Reset map"} />
             </div>
