@@ -265395,5 +265395,187 @@
                 "score": 2
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "October 30, 2026",
+        "field": "2026-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45.4
+            },
+            {
+                "party": "CPC",
+                "score": 28.9
+            },
+            {
+                "party": "NDP",
+                "score": 13.6
+            },
+            {
+                "party": "BQ",
+                "score": 7.4
+            },
+            {
+                "party": "GPC",
+                "score": 2.7
+            },
+            {
+                "party": "PPC",
+                "score": 1.9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 30, 2026",
+        "field": "2026-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.4
+            },
+            {
+                "party": "CPC",
+                "score": 26.0
+            },
+            {
+                "party": "NDP",
+                "score": 20.5
+            },
+            {
+                "party": "GPC",
+                "score": 4.7
+            },
+            {
+                "party": "PPC",
+                "score": 2.4
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 30, 2026",
+        "field": "2026-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 50.2
+            },
+            {
+                "party": "CPC",
+                "score": 32.8
+            },
+            {
+                "party": "NDP",
+                "score": 13.5
+            },
+            {
+                "party": "GPC",
+                "score": 2.3
+            },
+            {
+                "party": "PPC",
+                "score": 1.2
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 30, 2026",
+        "field": "2026-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44.8
+            },
+            {
+                "party": "CPC",
+                "score": 15.5
+            },
+            {
+                "party": "NDP",
+                "score": 6.6
+            },
+            {
+                "party": "BQ",
+                "score": 27.7
+            },
+            {
+                "party": "GPC",
+                "score": 2.4
+            },
+            {
+                "party": "PPC",
+                "score": 2.9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "October 30, 2026",
+        "field": "2026-10-30",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 59
+            },
+            {
+                "party": "CPC",
+                "score": 23.8
+            },
+            {
+                "party": "NDP",
+                "score": 11.2
+            },
+            {
+                "party": "GPC",
+                "score": 4.6
+            }
+        ]
+    },
+    {
+        "n": 960,
+        "moe": 3.1,
+        "company": "Liaison",
+        "date": "October 30-31, 2026",
+        "field": "2026-10-31",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 39
+            },
+            {
+                "party": "OLP",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 22
+            },
+            {
+                "party": "GPO",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 4
+            }
+        ]
     }
 ]
