@@ -39,7 +39,7 @@ let ge2026 = {1: "cpbc4", 2: "cpbc4", 3: "cpbc4", 4: "cpbc3", 5: "cpbc2", 6: "nd
     61: "cpbc3", 62: "cpbc2", 63: "cpbc4", 64: "cpbc3", 65: "cpbc1", 66: "cpbc2", 67: "cpbc3", 68: "cpbc4", 69: "cpbc4", 70: "cpbc4",
     71: "cpbc4", 72: "ndp3", 73: "cpbc2", 74: "cpbc1", 75: "ndp4", 76: "ndp3", 77: "ndp4", 78: "cpbc3", 79: "ndp4", 80: "ndp1",
     81: "cpbc4", 82: "ndp4", 83: "cpbc3", 84: "ndp2", 85: "ndp2", 86: "cpbc4", 87: "gpbc2", 88: "ndp2", 89: "cpbc1", 90: "cpbc4",
-    91: "cpbc4", 92: "con1", 93: "ndp4"};
+    91: "cpbc4", 92: "cpbc1", 93: "ndp4"};
 
 let ridingNames = {1: "Abbotsford-Mission", 2: "Abbotsford South", 3: "Abbotsford West", 4: "Boundary-Similkameen", 5: "Burnaby Centre", 6: "Burnaby-New Westminster", 7: "Burnaby East", 8: "Burnaby North", 9: "Cariboo-Chilcotin", 10: "Prince George-North Cariboo",
 11: "Chilliwack North", 12: "Chilliwack-Cultus Lake", 13: "Columbia River-Revelstoke", 14: "Coquitlam-Burke Mountain", 15: "Coquitlam-Maillardville", 16: "Courtenay-Comox", 17: "Cowichan Valley", 18: "Delta North", 19: "Delta South", 20: "Esquimalt-Colwood",
