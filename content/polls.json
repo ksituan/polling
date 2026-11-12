@@ -266243,5 +266243,237 @@
                 "score": 67.4
             }
         ]
+    },
+    {
+        "n": 1002,
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "BQ",
+                "score": 6
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 47
+            },
+            {
+                "party": "CPC",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 36
+            },
+            {
+                "party": "CPC",
+                "score": 42
+            },
+            {
+                "party": "NDP",
+                "score": 15
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 49
+            },
+            {
+                "party": "CPC",
+                "score": 32
+            },
+            {
+                "party": "NDP",
+                "score": 16
+            },
+            {
+                "party": "PPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "CPC",
+                "score": 36
+            },
+            {
+                "party": "NDP",
+                "score": 11
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53
+            },
+            {
+                "party": "CPC",
+                "score": 12
+            },
+            {
+                "party": "NDP",
+                "score": 6
+            },
+            {
+                "party": "BQ",
+                "score": 22
+            },
+            {
+                "party": "PPC",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "company": "Research Co",
+        "date": "November 2-4, 2026",
+        "field": "2026-11-04",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 54
+            },
+            {
+                "party": "CPC",
+                "score": 28
+            },
+            {
+                "party": "NDP",
+                "score": 13
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
