@@ -264081,6 +264081,10 @@
             {
                 "party": "PCQ",
                 "score": 22
+            }, 
+            {
+                "party": "Others",
+                "score": 2
             }
         ]
     },
@@ -266214,6 +266218,29 @@
             {
                 "party": "PCQ",
                 "score": 21
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "n": 1094,
+        "moe": 2.9,
+        "company": "Pallas",
+        "date": "November 7, 2026",
+        "field": "2026-11-07",
+        "method": "IVR",
+        "jurisdiction": "Sovereignty",
+        "poll": [
+            {
+                "party": "Yes",
+                "score": 32.6
+            },
+            {
+                "party": "No",
+                "score": 67.4
             }
         ]
     }
