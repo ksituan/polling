@@ -266475,5 +266475,219 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1452,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 43
+            },
+            {
+                "party": "CPC",
+                "score": 34
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "BQ",
+                "score": 5
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 181,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 41
+            },
+            {
+                "party": "CPC",
+                "score": 37
+            },
+            {
+                "party": "NDP",
+                "score": 18
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "n": 148,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_AB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 32
+            },
+            {
+                "party": "CPC",
+                "score": 50
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 3
+            }
+        ]
+    },
+    {
+        "n": 223,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_SKMB",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 31.5
+            },
+            {
+                "party": "CPC",
+                "score": 49.5
+            },
+            {
+                "party": "NDP",
+                "score": 15.5
+            },
+            {
+                "party": "GPC",
+                "score": 1.5
+            },
+            {
+                "party": "Others",
+                "score": 1.5
+            }
+        ]
+    },
+    {
+        "n": 428,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45
+            },
+            {
+                "party": "CPC",
+                "score": 35
+            },
+            {
+                "party": "NDP",
+                "score": 12
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "n": 355,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44
+            },
+            {
+                "party": "CPC",
+                "score": 23
+            },
+            {
+                "party": "NDP",
+                "score": 7
+            },
+            {
+                "party": "BQ",
+                "score": 23
+            },
+            {
+                "party": "GPC",
+                "score": 2
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "n": 110,
+        "company": "Angus Reid",
+        "date": "November 3-6, 2026",
+        "field": "2026-11-06",
+        "method": "Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 59
+            },
+            {
+                "party": "CPC",
+                "score": 24
+            },
+            {
+                "party": "NDP",
+                "score": 14
+            },
+            {
+                "party": "GPC",
+                "score": 3
+            },
+            {
+                "party": "Others",
+                "score": 1
+            }
+        ]
     }
 ]
