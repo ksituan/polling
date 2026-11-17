@@ -267174,5 +267174,160 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "moe": 3.1,
+        "company": "Nanos",
+        "date": "November 13, 2026",
+        "field": "2026-11-13",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 45.4
+            },
+            {
+                "party": "CPC",
+                "score": 28.6
+            },
+            {
+                "party": "NDP",
+                "score": 10.3
+            },
+            {
+                "party": "BQ",
+                "score": 6.1
+            },
+            {
+                "party": "GPC",
+                "score": 6.5
+            },
+            {
+                "party": "PPC",
+                "score": 3.0
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "November 13, 2026",
+        "field": "2026-11-13",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_BC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 35.4
+            },
+            {
+                "party": "CPC",
+                "score": 22.3
+            },
+            {
+                "party": "NDP",
+                "score": 18.3
+            },
+            {
+                "party": "GPC",
+                "score": 23
+            },
+            {
+                "party": "PPC",
+                "score": 1.0
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "November 13, 2026",
+        "field": "2026-11-13",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_ON",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 53.4
+            },
+            {
+                "party": "CPC",
+                "score": 29.6
+            },
+            {
+                "party": "NDP",
+                "score": 8.1
+            },
+            {
+                "party": "GPC",
+                "score": 6
+            },
+            {
+                "party": "PPC",
+                "score": 2.9
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "November 13, 2026",
+        "field": "2026-11-13",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_QC",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 48.9
+            },
+            {
+                "party": "CPC",
+                "score": 18.4
+            },
+            {
+                "party": "NDP",
+                "score": 3.8
+            },
+            {
+                "party": "BQ",
+                "score": 23.6
+            },
+            {
+                "party": "GPC",
+                "score": 1.3
+            },
+            {
+                "party": "PPC",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "company": "Nanos",
+        "date": "November 13, 2026",
+        "field": "2026-11-13",
+        "method": "Telephone/Online",
+        "jurisdiction": "Canada_ATL",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 46.2
+            },
+            {
+                "party": "CPC",
+                "score": 30
+            },
+            {
+                "party": "NDP",
+                "score": 16.8
+            },
+            {
+                "party": "GPC",
+                "score": 5
+            },
+            {
+                "party": "PPC",
+                "score": 1.3
+            }
+        ]
     }
 ]
