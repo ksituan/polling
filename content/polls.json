@@ -267836,5 +267836,40 @@
                 "score": 5
             }
         ]
+    },
+    {
+        "n": 1504,
+        "moe": 2.5,
+        "company": "EKOS",
+        "date": "November 13-18, 2026",
+        "field": "2026-11-18",
+        "method": "Online",
+        "jurisdiction": "Canada",
+        "poll": [
+            {
+                "party": "LPC",
+                "score": 44.2
+            },
+            {
+                "party": "CPC",
+                "score": 25.2
+            },
+            {
+                "party": "NDP",
+                "score": 18.3
+            },
+            {
+                "party": "BQ",
+                "score": 2
+            },
+            {
+                "party": "GPC",
+                "score": 4
+            },
+            {
+                "party": "PPC",
+                "score": 5
+            }
+        ]
     }
 ]
