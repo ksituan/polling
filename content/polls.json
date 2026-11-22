@@ -268089,5 +268089,39 @@
                 "score": 1
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Synopsis",
+        "date": "November 13-16, 2026",
+        "field": "2026-11-16",
+        "method": "Online",
+        "jurisdiction": "QC",
+        "poll": [
+            {
+                "party": "CAQ",
+                "score": 5
+            },
+            {
+                "party": "PLQ",
+                "score": 31
+            },
+            {
+                "party": "PQ",
+                "score": 31
+            },
+            {
+                "party": "QS",
+                "score": 12
+            },
+            {
+                "party": "PCQ",
+                "score": 19
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
