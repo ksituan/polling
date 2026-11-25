@@ -268535,5 +268535,27 @@
                 "score": 1.4
             }
         ]
+    },
+    {
+        "n": 1000,
+        "company": "Leger",
+        "date": "November 13-16, 2026",
+        "field": "2026-11-16",
+        "method": "Online",
+        "jurisdiction": "AB",
+        "poll": [
+            {
+                "party": "NDP",
+                "score": 38
+            },
+            {
+                "party": "UCP",
+                "score": 48
+            },
+            {
+                "party": "Others",
+                "score": 14
+            }
+        ]
     }
 ]
