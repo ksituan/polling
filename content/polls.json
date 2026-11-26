@@ -268557,5 +268557,36 @@
                 "score": 14
             }
         ]
+    },
+    {
+        "n": 960,
+        "moe": 3.1,
+        "company": "Liaison",
+        "date": "November 23-24, 2026",
+        "field": "2026-11-24",
+        "method": "IVR",
+        "jurisdiction": "ON",
+        "poll": [
+            {
+                "party": "PCPO",
+                "score": 41
+            },
+            {
+                "party": "OLP",
+                "score": 29
+            },
+            {
+                "party": "NDP",
+                "score": 24
+            },
+            {
+                "party": "GPO",
+                "score": 4
+            },
+            {
+                "party": "Others",
+                "score": 2
+            }
+        ]
     }
 ]
